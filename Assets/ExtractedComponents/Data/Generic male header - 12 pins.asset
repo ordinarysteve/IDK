@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Generic male header - 12 pins
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Generic male header - 12 pins
+  icon: {fileID: 0}
+  realWorldWidth: 120.00001
+  realWorldHeight: 10
+  pins:
+  - name: pin1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.041672453
+    cy: 0.5000695
+  - name: pin2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.12500578
+    cy: 0.5000695
+  - name: pin3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.20833914
+    cy: 0.5000695
+  - name: pin4
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.29167247
+    cy: 0.5000695
+  - name: pin5
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.37500578
+    cy: 0.5000695
+  - name: pin6
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.45833912
+    cy: 0.5000695
+  - name: pin7
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.54167247
+    cy: 0.5000695
+  - name: pin8
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.6250058
+    cy: 0.5000695
+  - name: pin9
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.70833915
+    cy: 0.5000695
+  - name: pin10
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.7916724
+    cy: 0.5000695
+  - name: pin11
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.87500584
+    cy: 0.5000695
+  - name: pin12
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.95833915
+    cy: 0.5000695

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: XPORT-DIRECT 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: XPORT-DIRECT
+  icon: {fileID: 0}
+  realWorldWidth: 146.001
+  realWorldHeight: 180
+  pins:
+  - name: 3.3V
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.2602756
+    cy: 0.9722222
+  - name: CP1
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.19178294
+    cy: 0.027777778
+  - name: CP2
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.32876828
+    cy: 0.027777778
+  - name: CTS
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.7397244
+    cy: 0.027777778
+  - name: DTR
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.87670976
+    cy: 0.027777778
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.12329024
+    cy: 0.9722222
+  - name: GND
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.19178294
+    cy: 0.9722222
+  - name: GND
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.12329024
+    cy: 0.027777778
+  - name: RST
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.39726096
+    cy: 0.9722222
+  - name: RTS
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.80821705
+    cy: 0.9722222
+  - name: RX
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.6712317
+    cy: 0.9722222
+  - name: TX
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.5342463
+    cy: 0.9722222

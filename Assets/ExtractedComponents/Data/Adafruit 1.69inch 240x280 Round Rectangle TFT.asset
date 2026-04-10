@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit 1.69inch 240x280 Round Rectangle TFT
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit 1.69inch 240x280 Round Rectangle TFT
+  icon: {fileID: 0}
+  realWorldWidth: 145
+  realWorldHeight: 180
+  pins:
+  - name: VIN
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.15517242
+    cy: 0.95833325
+  - name: +3V3
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.22413792
+    cy: 0.95833325
+  - name: SCK
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.36206895
+    cy: 0.95833325
+  - name: MISO
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.43103448
+    cy: 0.95833325
+  - name: MOSI
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.5
+    cy: 0.95833325
+  - name: TFTCS
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.5689655
+    cy: 0.95833325
+  - name: TFTRST
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.637931
+    cy: 0.95833325
+  - name: TFTDC
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.70689654
+    cy: 0.95833325
+  - name: CARDCS
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.77586204
+    cy: 0.95833325
+  - name: LITE
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.84482753
+    cy: 0.95833325
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.29310346
+    cy: 0.95833325

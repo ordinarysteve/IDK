@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.33170998in" viewBox="0 0 23.883118 89.1915" height="1.2387708in" y="0in" id="svg37" version="1.2"  gorn="0" x="0in">
+    <desc >
+        <referenceFile >14303_alligator_clip_to_pin-yellow.svg</referenceFile>
+    </desc>
+    <metadata id="metadata43" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs41" />
+    <g  transform="rotate(-90,50.119466,41.524663)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g id="g35"  partID="854835010" gorn="0.3.0.0.0.0.0.0.0">
+                                    <g id="breadboard"  gorn="0.3.0.0.0.0.0.0.0.0">
+                                        <path d="M 2.4526283,3.6053241 H 18.099249" id="path975"  style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="2.38585329" fill="none" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.0.0.0" stroke="#fff200"/>
+                                        <path d="m 73.150709,7.0100561 c 0,0 15.465074,-0.9798959 16.865894,-1.778977 C 91.415994,4.4323146 91.4519,2.6103613 90.35471,2.0279023 88.638565,1.1173628 73.280319,-0.33084562 73.280319,-0.33084562 Z" fill-opacity="1" id="path288"  style="fill-rule:nonzero;" stroke-width="1.03451645" fill="#a7a29e" gorn="0.3.0.0.0.0.0.0.0.0.1" stroke="none"/>
+                                        <path d="m 73.150709,7.0100561 c 0,0 15.465074,-0.9798959 16.865894,-1.778977 C 91.415994,4.4323146 91.4519,2.6103613 90.35471,2.0279023 88.638565,1.1173628 73.280319,-0.33084562 73.280319,-0.33084562 Z" id="path292"  style="display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;" stroke-width="1.03451645" fill="none" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.0.0.2" stroke="#231f20"/>
+                                        <path d="m 78.741833,8.062341 c 0,0 -34.922151,7.442345 -40.740426,6.643998 C 30.961956,13.739645 28.963477,8.7841762 26.611599,8.0917506 24.258849,7.3987692 17.598537,7.1519937 17.598537,7.1519937 l -9.36e-4,-7.13213447 c 0,0 6.660323,-0.249996 9.012104,-0.94370648 2.351781,-0.69371045 4.347546,-6.11958425 11.387256,-7.08832365 5.817175,-0.8018592 40.743195,6.6272839 40.743195,6.6272839 z" fill-opacity="1" id="path296"  style="fill-rule:nonzero;" stroke-width="1.03451645" fill="#fff200" gorn="0.3.0.0.0.0.0.0.0.0.3" stroke="none"/>
+                                        <path d="m 78.74183,8.0623399 c 0,0 -34.922151,7.4423441 -40.740426,6.6439981 C 30.961953,13.739644 28.963474,8.784175 26.611596,8.0917494 24.258846,7.3987681 17.598534,7.1519925 17.598534,7.1519925 l -9.36e-4,-7.13213441 c 0,0 6.660323,-0.249996 9.012103,-0.94370648 2.351782,-0.69371041 4.347547,-6.11958421 11.387257,-7.08832361 5.817175,-0.8018592 40.743195,6.6272839 40.743195,6.6272839 z" id="path300"  style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;" stroke-width="1.03451645" fill="none" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.0.0.4" stroke="#231f20"/>
+                                        <rect width="2.7913799" height="2.7913799" y="2.2042999" id="connector0pin"  style="fill:none" gorn="0.3.0.0.0.0.0.0.0.0.5" x="2.4593091"/>
+                                        <g  transform="translate(0.25500917)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g width="2.1643" height="2.26231" y="2.46934"  style="fill:none" x="2.51834"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <rect width="2.7913799" height="2.7913799" y="2.2042999" id="connector1pin"  style="fill:none" gorn="0.3.0.0.0.0.0.0.0.0.7" x="88.852638"/>
+                                        <g  transform="translate(79.448354)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g width="2.1643" height="2.26231" y="2.46934"  style="fill:none" x="9.71834"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: LTC3105
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: LTC3105
+  icon: {fileID: 0}
+  realWorldWidth: 44.063
+  realWorldHeight: 43.2
+  pins:
+  - name: FB
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.08171255
+    cy: 0.9166781
+  - name: LDO
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.24509224
+    cy: 0.9166781
+  - name: FBLDO
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.40851742
+    cy: 0.9166781
+  - name: SHDN
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.57191974
+    cy: 0.9166781
+  - name: MPPC
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.7352996
+    cy: 0.9166781
+  - name: GND
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.89870226
+    cy: 0.9166781
+  - name: GND
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.89870226
+    cy: 0.08334491
+  - name: VIN
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.7352996
+    cy: 0.08334491
+  - name: SW
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.57191974
+    cy: 0.08334491
+  - name: PGOOD
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.40851742
+    cy: 0.08334491
+  - name: VOUT
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.24509224
+    cy: 0.08334491
+  - name: AUX
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.08171255
+    cy: 0.08334491

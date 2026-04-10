@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Monster Moto Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Monster Moto Shield
+  icon: {fileID: 0}
+  realWorldWidth: 209.99998
+  realWorldHeight: 234.99998
+  pins:
+  - name: OUTA1
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.2857143
+    cy: 0.04255319
+  - name: OUTB1
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.3809524
+    cy: 0.04255319
+  - name: OUTA2
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.61904764
+    cy: 0.04255319
+  - name: OUTB2
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.71428573
+    cy: 0.04255319
+  - name: VCC
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.45238099
+    cy: 0.9574468
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.5476191
+    cy: 0.9574468
+  - name: 3.3V
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0.04761905
+    cy: 0.44680852
+  - name: 5V
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0.04761905
+    cy: 0.48936173
+  - name: EN1 - A0
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0.04761905
+    cy: 0.7021277
+  - name: EN2 - A1
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0.04761905
+    cy: 0.7446809
+  - name: CS1 - A2
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0.04761905
+    cy: 0.78723407
+  - name: CS2 - A3
+    svgId: connector149pin
+    pinName: connector149pin
+    cx: 0.04761905
+    cy: 0.8297872
+  - name: A4
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0.04761905
+    cy: 0.8723405
+  - name: A5
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0.04761905
+    cy: 0.9148936
+  - name: AREF
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0.95238096
+    cy: 0.25531915
+  - name: D2
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0.95238096
+    cy: 0.8297872
+  - name: D3
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0.95238096
+    cy: 0.78723407
+  - name: INA2 - D4
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0.95238096
+    cy: 0.7446809
+  - name: PWM1 - D5
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0.95238096
+    cy: 0.7021277
+  - name: PWM2 - D6
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0.95238096
+    cy: 0.65957445
+  - name: INA1 - D7
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0.95238096
+    cy: 0.6170213
+  - name: INB1 - D8
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0.95238096
+    cy: 0.5531915
+  - name: INB2 - D9
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0.95238096
+    cy: 0.5106383
+  - name: D10
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0.95238096
+    cy: 0.4680851
+  - name: D11
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0.95238096
+    cy: 0.42553192
+  - name: D12
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0.95238096
+    cy: 0.38297874
+  - name: D13
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0.95238096
+    cy: 0.34042552
+  - name: GND - GND@0
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0.04761905
+    cy: 0.5319149
+  - name: GND - GND@1
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0.04761905
+    cy: 0.5744681
+  - name: GND - GND@2
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0.95238096
+    cy: 0.29787236
+  - name: RES
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0.04761905
+    cy: 0.40425533
+  - name: RX
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0.95238096
+    cy: 0.9148936
+  - name: TX
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.95238096
+    cy: 0.8723405
+  - name: VIN
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.04761905
+    cy: 0.6170213

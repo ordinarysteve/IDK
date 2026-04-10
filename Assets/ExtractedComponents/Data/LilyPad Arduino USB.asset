@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: LilyPad Arduino USB
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: LilyPad Arduino USB
+  icon: {fileID: 0}
+  realWorldWidth: 144
+  realWorldHeight: 146.703
+  pins:
+  - name: 3V3
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.5
+    cy: 0.93373007
+  - name: GND
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.28375694
+    cy: 0.8758376
+  - name: A2
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.28375694
+    cy: 0.1425874
+  - name: A3
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.12649305
+    cy: 0.2969605
+  - name: A4
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.06752083
+    cy: 0.5092125
+  - name: A5
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.12649305
+    cy: 0.72147125
+  - name: D2
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.716243
+    cy: 0.8758376
+  - name: D3
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.87350696
+    cy: 0.72147125
+  - name: D9
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.93247914
+    cy: 0.5092125
+  - name: D10
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.87350696
+    cy: 0.2969605
+  - name: D11
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.716243
+    cy: 0.1425874

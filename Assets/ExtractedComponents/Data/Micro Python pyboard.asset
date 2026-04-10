@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Micro Python pyboard
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Micro Python pyboard
+  icon: {fileID: 0}
+  realWorldWidth: 169.30316
+  realWorldHeight: 173
+  pins:
+  - name: Y1
+    svgId: y1pin
+    pinName: y1pin
+    cx: 0
+    cy: 0
+  - name: Y2
+    svgId: y2pin
+    pinName: y2pin
+    cx: 0
+    cy: 0
+  - name: Y3
+    svgId: y3pin
+    pinName: y3pin
+    cx: 0
+    cy: 0
+  - name: Y4
+    svgId: y4pin
+    pinName: y4pin
+    cx: 0
+    cy: 0
+  - name: Y5
+    svgId: y5pin
+    pinName: y5pin
+    cx: 0
+    cy: 0
+  - name: Y6
+    svgId: y6pin
+    pinName: y6pin
+    cx: 0
+    cy: 0
+  - name: Y7
+    svgId: y7pin
+    pinName: y7pin
+    cx: 0
+    cy: 0
+  - name: Y8
+    svgId: y8pin
+    pinName: y8pin
+    cx: 0
+    cy: 0
+  - name: Y9
+    svgId: y9pin
+    pinName: y9pin
+    cx: 0
+    cy: 0
+  - name: Y10
+    svgId: y10pin
+    pinName: y10pin
+    cx: 0
+    cy: 0
+  - name: Y11
+    svgId: y11pin
+    pinName: y11pin
+    cx: 0
+    cy: 0
+  - name: Y12
+    svgId: y12pin
+    pinName: y12pin
+    cx: 0
+    cy: 0
+  - name: Y13 RST
+    svgId: y13-rstpin
+    pinName: y13-rstpin
+    cx: 0
+    cy: 0
+  - name: Y14 GND
+    svgId: y14-gndpin
+    pinName: y14-gndpin
+    cx: 0
+    cy: 0
+  - name: Y15 3V3
+    svgId: y15-3v3pin
+    pinName: y15-3v3pin
+    cx: 0
+    cy: 0
+  - name: Y16 VIN
+    svgId: y16-vinpin
+    pinName: y16-vinpin
+    cx: 0
+    cy: 0
+  - name: X1
+    svgId: x1pin
+    pinName: x1pin
+    cx: 0
+    cy: 0
+  - name: X2
+    svgId: x2pin
+    pinName: x2pin
+    cx: 0
+    cy: 0
+  - name: X3
+    svgId: x3pin
+    pinName: x3pin
+    cx: 0
+    cy: 0
+  - name: X4
+    svgId: x4pin
+    pinName: x4pin
+    cx: 0
+    cy: 0
+  - name: X5
+    svgId: x5pin
+    pinName: x5pin
+    cx: 0
+    cy: 0
+  - name: X6
+    svgId: x6pin
+    pinName: x6pin
+    cx: 0
+    cy: 0
+  - name: X7
+    svgId: x7pin
+    pinName: x7pin
+    cx: 0
+    cy: 0
+  - name: X8
+    svgId: x8pin
+    pinName: x8pin
+    cx: 0
+    cy: 0
+  - name: X9
+    svgId: x9pin
+    pinName: x9pin
+    cx: 0
+    cy: 0
+  - name: X10
+    svgId: x10pin
+    pinName: x10pin
+    cx: 0
+    cy: 0
+  - name: X11
+    svgId: x11pin
+    pinName: x11pin
+    cx: 0
+    cy: 0
+  - name: X12
+    svgId: x12pin
+    pinName: x12pin
+    cx: 0
+    cy: 0
+  - name: X13 RST
+    svgId: x13-rstpin
+    pinName: x13-rstpin
+    cx: 0
+    cy: 0
+  - name: X14 GND
+    svgId: x14-gndpin
+    pinName: x14-gndpin
+    cx: 0
+    cy: 0
+  - name: X15 3V3
+    svgId: x15-3v3pin
+    pinName: x15-3v3pin
+    cx: 0
+    cy: 0
+  - name: X16 VIN
+    svgId: x-vinpin
+    pinName: x-vinpin
+    cx: 0
+    cy: 0
+  - name: X17 USR
+    svgId: x17-usrpin
+    pinName: x17-usrpin
+    cx: 0
+    cy: 0
+  - name: X18
+    svgId: x18pin
+    pinName: x18pin
+    cx: 0
+    cy: 0
+  - name: X19
+    svgId: x19pin
+    pinName: x19pin
+    cx: 0
+    cy: 0
+  - name: X20
+    svgId: x20pin
+    pinName: x20pin
+    cx: 0
+    cy: 0
+  - name: X21
+    svgId: x21pin
+    pinName: x21pin
+    cx: 0
+    cy: 0
+  - name: X22
+    svgId: x22pin
+    pinName: x22pin
+    cx: 0
+    cy: 0
+  - name: X23 A3V3
+    svgId: x23-a3v3pin
+    pinName: x23-a3v3pin
+    cx: 0
+    cy: 0
+  - name: X24 AGND
+    svgId: x24-agndpin
+    pinName: x24-agndpin
+    cx: 0
+    cy: 0
+  - name: P1 BOOT0
+    svgId: p1-boot0pin
+    pinName: p1-boot0pin
+    cx: 0
+    cy: 0
+  - name: P2 Blue LED
+    svgId: p2-blue-ledpin
+    pinName: p2-blue-ledpin
+    cx: 0
+    cy: 0
+  - name: P3 Yellow LED
+    svgId: p3-yellow-ledpin
+    pinName: p3-yellow-ledpin
+    cx: 0
+    cy: 0
+  - name: P4 Green LED
+    svgId: p4-green-ledpin
+    pinName: p4-green-ledpin
+    cx: 0
+    cy: 0
+  - name: P5 Red LED
+    svgId: p5-red-ledpin
+    pinName: p5-red-ledpin
+    cx: 0
+    cy: 0
+  - name: P6 VBAT
+    svgId: p6-vbatpin
+    pinName: p6-vbatpin
+    cx: 0
+    cy: 0
+  - name: P7 VIN
+    svgId: p7-vinpin
+    pinName: p7-vinpin
+    cx: 0
+    cy: 0
+  - name: P8 GND
+    svgId: p8-gndpin
+    pinName: p8-gndpin
+    cx: 0
+    cy: 0
+  - name: P9A GND
+    svgId: p9a-gndpin
+    pinName: p9a-gndpin
+    cx: 0
+    cy: 0
+  - name: P10A VIN
+    svgId: p10a-vinpin
+    pinName: p10a-vinpin
+    cx: 0
+    cy: 0
+  - name: P9B GND
+    svgId: p9b-gndpin
+    pinName: p9b-gndpin
+    cx: 0
+    cy: 0
+  - name: P10B VIN
+    svgId: p10b-vinpin
+    pinName: p10b-vinpin
+    cx: 0
+    cy: 0
+  - name: P9C GND
+    svgId: p9c-gndpin
+    pinName: p9c-gndpin
+    cx: 0
+    cy: 0
+  - name: P10C VIN
+    svgId: p10c-vinpin
+    pinName: p10c-vinpin
+    cx: 0
+    cy: 0
+  - name: P9D GND
+    svgId: p9d-gndpin
+    pinName: p9d-gndpin
+    cx: 0
+    cy: 0
+  - name: P10D VIN
+    svgId: p10d-vinpin
+    pinName: p10d-vinpin
+    cx: 0
+    cy: 0

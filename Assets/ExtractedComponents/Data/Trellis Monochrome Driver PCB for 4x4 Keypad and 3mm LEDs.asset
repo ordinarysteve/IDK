@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Trellis Monochrome Driver PCB for 4x4 Keypad and 3mm LEDs
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Trellis Monochrome Driver PCB for 4x4 Keypad and 3mm LEDs
+  icon: {fileID: 0}
+  realWorldWidth: 241.49
+  realWorldHeight: 241.49
+  pins:
+  - name: VCC
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.45814115
+    cy: 0.98912984
+  - name: VCC
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.45814115
+    cy: 0.0109104505
+  - name: VCC
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.0109104505
+    cy: 0.5377294
+  - name: VCC
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.98912984
+    cy: 0.54187036
+  - name: INT
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.4167309
+    cy: 0.98912984
+  - name: INT
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.98912984
+    cy: 0.58330935
+  - name: INT
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.4167309
+    cy: 0.0109104505
+  - name: INT
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.0109104505
+    cy: 0.5791683
+  - name: SDA
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.0109104505
+    cy: 0.41349858
+  - name: SDA
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.98912984
+    cy: 0.4176396
+  - name: SDA
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.5823892
+    cy: 0.98912984
+  - name: SDA
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.5823892
+    cy: 0.0109104505
+  - name: SCL
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.98912984
+    cy: 0.45904988
+  - name: SCL
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.0109104505
+    cy: 0.45490885
+  - name: SCL
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.5409616
+    cy: 0.0109104505
+  - name: SCL
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.5409616
+    cy: 0.98912984
+  - name: GND
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.49955142
+    cy: 0.98912984
+  - name: GND
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.49955142
+    cy: 0.0109104505
+  - name: GND
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.0109104505
+    cy: 0.4963191
+  - name: GND
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.98912984
+    cy: 0.50046015

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: IMU Analog Combo Board - 5 Degrees of Freedom
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: IMU Analog Combo Board - 5 Degrees of Freedom
+  icon: {fileID: 0}
+  realWorldWidth: 90
+  realWorldHeight: 75
+  pins:
+  - name: XOUT
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.9444444
+    cy: 0.93333334
+  - name: YOUT
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.8333333
+    cy: 0.93333334
+  - name: ZOUT
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.72222215
+    cy: 0.93333334
+  - name: ST
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.61111104
+    cy: 0.93333334
+  - name: VREF
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.5
+    cy: 0.93333334
+  - name: YRATE
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.3888889
+    cy: 0.93333334
+  - name: XRATE
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.27777776
+    cy: 0.93333334
+  - name: GND
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.16666666
+    cy: 0.93333334
+  - name: 3.3V
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.055555552
+    cy: 0.93333334
+  - name: AZ
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.3333333
+    cy: 0.06666666
+  - name: PTATS
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.44444442
+    cy: 0.06666666
+  - name: Y4.5OUT
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.5555555
+    cy: 0.06666666
+  - name: X4.5OUT
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.6666666
+    cy: 0.06666666

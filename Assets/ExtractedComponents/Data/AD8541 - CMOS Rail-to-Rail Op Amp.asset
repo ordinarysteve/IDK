@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: AD8541 - CMOS Rail-to-Rail Op Amp
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: AD8541 - CMOS Rail-to-Rail Op Amp
+  icon: {fileID: 0}
+  realWorldWidth: 40
+  realWorldHeight: 41.3694
+  pins:
+  - name: NC
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.12506945
+    cy: 0.8625529
+  - name: -INA
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.3751042
+    cy: 0.86262006
+  - name: +INA
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.62503475
+    cy: 0.86262006
+  - name: -V
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.8748959
+    cy: 0.8625529
+  - name: NC
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.87496525
+    cy: 0.13744712
+  - name: OUTA
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.625
+    cy: 0.13744712
+  - name: V+
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.3751042
+    cy: 0.13737997
+  - name: NC
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.12510417
+    cy: 0.13734642

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit MPRLS Sensor Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit MPRLS Sensor Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 70
+  realWorldHeight: 65.007
+  pins:
+  - name: VIN
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.07142857
+    cy: 0.84610623
+  - name: 3.3V
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.21428572
+    cy: 0.84610623
+  - name: EOC
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.7857142
+    cy: 0.84610623
+  - name: RESET
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.9285714
+    cy: 0.84610623
+  - name: SDA
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.64285713
+    cy: 0.84610623
+  - name: SCL
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.5
+    cy: 0.84610623
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.35714284
+    cy: 0.84610623

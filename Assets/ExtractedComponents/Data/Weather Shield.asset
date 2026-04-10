@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Weather Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Weather Shield
+  icon: {fileID: 0}
+  realWorldWidth: 210.01001
+  realWorldHeight: 234.829
+  pins:
+  - name: RX
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.058214895
+    cy: 0.08641329
+  - name: TX
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.058214895
+    cy: 0.12897378
+  - name: D2
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.058214895
+    cy: 0.17151654
+  - name: D3
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.058214895
+    cy: 0.21407998
+  - name: D4
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.058214895
+    cy: 0.25662863
+  - name: D5
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.058214895
+    cy: 0.29918027
+  - name: D6
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.058214895
+    cy: 0.34173483
+  - name: D7
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.058214895
+    cy: 0.3842835
+  - name: D8
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: -0.389109
+    cy: 0.42721957
+  - name: D9
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: -0.389109
+    cy: 0.46980962
+  - name: D10
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: -0.389109
+    cy: 0.51240265
+  - name: D11
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: -0.389109
+    cy: 0.55498385
+  - name: D12
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: -0.389109
+    cy: 0.5975532
+  - name: D13
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: -0.389109
+    cy: 0.6401433
+  - name: GND
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: -0.389109
+    cy: 0.6827215
+  - name: AREF
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: -0.389109
+    cy: 0.72531754
+  - name: SDA
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: -0.389109
+    cy: 0.7678898
+  - name: SCL
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: -0.389109
+    cy: 0.8104858
+  - name: A5
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.9617577
+    cy: 0.086723804
+  - name: A4
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.9617577
+    cy: 0.12927543
+  - name: A3
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.9617577
+    cy: 0.17183
+  - name: A2
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.9617577
+    cy: 0.21438459
+  - name: A1
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.9617577
+    cy: 0.25693026
+  - name: A0
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.9617577
+    cy: 0.29949078
+  - name: VIN
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.34875038
+    cy: -0.44753575
+  - name: GND
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.34875038
+    cy: -0.4049457
+  - name: GND
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.34875038
+    cy: -0.36236155
+  - name: 5V
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.34875038
+    cy: -0.3197833
+  - name: 3.3V
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.34875038
+    cy: -0.2771962
+  - name: RST
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.34875038
+    cy: -0.234615
+  - name: IOREF
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.34875038
+    cy: -0.19202791
+  - name: BATT BKUP -
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.9520326
+    cy: 0.72365254
+  - name: BATT BKUP +
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.9520326
+    cy: 0.7662012
+  - name: RAIN PIN 1
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.25168806
+    cy: 0.19106089
+  - name: RAIN PIN 2
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.29930493
+    cy: 0.19106089
+  - name: RAIN PIN 3
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.34692177
+    cy: 0.19106089
+  - name: RAIN PIN 4
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.2754965
+    cy: 0.23364504
+  - name: RAIN PIN 5
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.32311332
+    cy: 0.23364504
+  - name: 'RAIN PIN 6 '
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.3707302
+    cy: 0.23364504
+  - name: WIND PIN 1
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.63262284
+    cy: 0.19106089
+  - name: WIND PIN 2
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.6802397
+    cy: 0.19106089
+  - name: WIND PIN 3
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.7278565
+    cy: 0.19106089
+  - name: WIND PIN 4
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.65643126
+    cy: 0.23364504
+  - name: WIND PIN 5
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.7040481
+    cy: 0.23364504
+  - name: WIND PIN 6
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.75166494
+    cy: 0.23364504
+  - name: GPS CONNECTOR PIN 1
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: GPS CONNECTOR PIN 2
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0
+  - name: GPS CONNECTOR PIN 3
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0
+    cy: 0
+  - name: GPS CONNECTOR PIN 4
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0
+    cy: 0
+  - name: GPS CONNECTOR PIN 5
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0
+    cy: 0
+  - name: GPS CONNECTOR PIN 6
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun AST-CAN485 Wifi Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun AST-CAN485 Wifi Shield
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: 485B
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0
+    cy: 0
+  - name: 485A
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0
+    cy: 0
+  - name: CANHI
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0
+    cy: 0
+  - name: CANLO
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0
+    cy: 0
+  - name: DTR
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0
+    cy: 0
+  - name: ESP_TX
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0
+    cy: 0
+  - name: ESP_RX
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0
+    cy: 0
+  - name: ESP_CTS
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0
+    cy: 0
+  - name: TXO1
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0
+    cy: 0
+  - name: RXI1
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0
+    cy: 0
+  - name: GPIO16
+    svgId: connector138pin
+    pinName: connector138pin
+    cx: 0
+    cy: 0
+  - name: ESP_RST
+    svgId: connector139pin
+    pinName: connector139pin
+    cx: 0
+    cy: 0
+  - name: 2
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0
+    cy: 0
+  - name: 3
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0
+    cy: 0
+  - name: ARD_CS
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0
+    cy: 0
+  - name: TXO1
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0
+    cy: 0
+  - name: ARD_ESP_RST
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0
+    cy: 0
+  - name: 7
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0
+    cy: 0
+  - name: 8
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0
+    cy: 0
+  - name: RXI1
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0
+    cy: 0
+  - name: 10
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0
+    cy: 0
+  - name: ARD_MOSI
+    svgId: connector149pin
+    pinName: connector149pin
+    cx: 0
+    cy: 0
+  - name: ARD_MISO
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0
+    cy: 0
+  - name: ARD_SCK
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0
+    cy: 0
+  - name: 485A
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0
+    cy: 0
+  - name: 485B
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0
+    cy: 0
+  - name: A0
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0
+    cy: 0
+  - name: A1
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0
+    cy: 0
+  - name: A2
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0
+    cy: 0
+  - name: A3
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0
+    cy: 0
+  - name: CANHI
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0
+    cy: 0
+  - name: CANLO
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0
+    cy: 0
+  - name: CTS
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0
+    cy: 0
+  - name: DTR
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0
+    cy: 0
+  - name: RAW
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0
+    cy: 0
+  - name: RST
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0
+    cy: 0
+  - name: RST1
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0
+    cy: 0
+  - name: ARD_RX
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0
+    cy: 0
+  - name: RXI1
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0
+    cy: 0
+  - name: ARD_TX
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0
+    cy: 0
+  - name: TXO1
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0
+    cy: 0
+  - name: VCC1
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0
+    cy: 0

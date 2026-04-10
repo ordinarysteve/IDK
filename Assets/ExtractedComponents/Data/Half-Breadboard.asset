@@ -1,0 +1,2019 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Half-Breadboard
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Half-Breadboard
+  icon: {fileID: 0}
+  realWorldWidth: 292.41
+  realWorldHeight: 189
+  pins:
+  - name: pin1A
+    svgId: pin1Apin
+    pinName: pin1Apin
+    cx: 0
+    cy: 0
+  - name: pin1B
+    svgId: pin1Bpin
+    pinName: pin1Bpin
+    cx: 0
+    cy: 0
+  - name: pin1C
+    svgId: pin1Cpin
+    pinName: pin1Cpin
+    cx: 0
+    cy: 0
+  - name: pin1D
+    svgId: pin1Dpin
+    pinName: pin1Dpin
+    cx: 0
+    cy: 0
+  - name: pin1E
+    svgId: pin1Epin
+    pinName: pin1Epin
+    cx: 0
+    cy: 0
+  - name: pin1F
+    svgId: pin1Fpin
+    pinName: pin1Fpin
+    cx: 0
+    cy: 0
+  - name: pin1G
+    svgId: pin1Gpin
+    pinName: pin1Gpin
+    cx: 0
+    cy: 0
+  - name: pin1H
+    svgId: pin1Hpin
+    pinName: pin1Hpin
+    cx: 0
+    cy: 0
+  - name: pin1I
+    svgId: pin1Ipin
+    pinName: pin1Ipin
+    cx: 0
+    cy: 0
+  - name: pin1J
+    svgId: pin1Jpin
+    pinName: pin1Jpin
+    cx: 0
+    cy: 0
+  - name: pin2A
+    svgId: pin2Apin
+    pinName: pin2Apin
+    cx: 0
+    cy: 0
+  - name: pin2B
+    svgId: pin2Bpin
+    pinName: pin2Bpin
+    cx: 0
+    cy: 0
+  - name: pin2C
+    svgId: pin2Cpin
+    pinName: pin2Cpin
+    cx: 0
+    cy: 0
+  - name: pin2D
+    svgId: pin2Dpin
+    pinName: pin2Dpin
+    cx: 0
+    cy: 0
+  - name: pin2E
+    svgId: pin2Epin
+    pinName: pin2Epin
+    cx: 0
+    cy: 0
+  - name: pin2F
+    svgId: pin2Fpin
+    pinName: pin2Fpin
+    cx: 0
+    cy: 0
+  - name: pin2G
+    svgId: pin2Gpin
+    pinName: pin2Gpin
+    cx: 0
+    cy: 0
+  - name: pin2H
+    svgId: pin2Hpin
+    pinName: pin2Hpin
+    cx: 0
+    cy: 0
+  - name: pin2I
+    svgId: pin2Ipin
+    pinName: pin2Ipin
+    cx: 0
+    cy: 0
+  - name: pin2J
+    svgId: pin2Jpin
+    pinName: pin2Jpin
+    cx: 0
+    cy: 0
+  - name: pin3A
+    svgId: pin3Apin
+    pinName: pin3Apin
+    cx: 0
+    cy: 0
+  - name: pin3B
+    svgId: pin3Bpin
+    pinName: pin3Bpin
+    cx: 0
+    cy: 0
+  - name: pin3C
+    svgId: pin3Cpin
+    pinName: pin3Cpin
+    cx: 0
+    cy: 0
+  - name: pin3D
+    svgId: pin3Dpin
+    pinName: pin3Dpin
+    cx: 0
+    cy: 0
+  - name: pin3E
+    svgId: pin3Epin
+    pinName: pin3Epin
+    cx: 0
+    cy: 0
+  - name: pin3F
+    svgId: pin3Fpin
+    pinName: pin3Fpin
+    cx: 0
+    cy: 0
+  - name: pin3G
+    svgId: pin3Gpin
+    pinName: pin3Gpin
+    cx: 0
+    cy: 0
+  - name: pin3H
+    svgId: pin3Hpin
+    pinName: pin3Hpin
+    cx: 0
+    cy: 0
+  - name: pin3I
+    svgId: pin3Ipin
+    pinName: pin3Ipin
+    cx: 0
+    cy: 0
+  - name: pin3J
+    svgId: pin3Jpin
+    pinName: pin3Jpin
+    cx: 0
+    cy: 0
+  - name: pin4A
+    svgId: pin4Apin
+    pinName: pin4Apin
+    cx: 0
+    cy: 0
+  - name: pin4B
+    svgId: pin4Bpin
+    pinName: pin4Bpin
+    cx: 0
+    cy: 0
+  - name: pin4C
+    svgId: pin4Cpin
+    pinName: pin4Cpin
+    cx: 0
+    cy: 0
+  - name: pin4D
+    svgId: pin4Dpin
+    pinName: pin4Dpin
+    cx: 0
+    cy: 0
+  - name: pin4E
+    svgId: pin4Epin
+    pinName: pin4Epin
+    cx: 0
+    cy: 0
+  - name: pin4F
+    svgId: pin4Fpin
+    pinName: pin4Fpin
+    cx: 0
+    cy: 0
+  - name: pin4G
+    svgId: pin4Gpin
+    pinName: pin4Gpin
+    cx: 0
+    cy: 0
+  - name: pin4H
+    svgId: pin4Hpin
+    pinName: pin4Hpin
+    cx: 0
+    cy: 0
+  - name: pin4I
+    svgId: pin4Ipin
+    pinName: pin4Ipin
+    cx: 0
+    cy: 0
+  - name: pin4J
+    svgId: pin4Jpin
+    pinName: pin4Jpin
+    cx: 0
+    cy: 0
+  - name: pin5A
+    svgId: pin5Apin
+    pinName: pin5Apin
+    cx: 0
+    cy: 0
+  - name: pin5B
+    svgId: pin5Bpin
+    pinName: pin5Bpin
+    cx: 0
+    cy: 0
+  - name: pin5C
+    svgId: pin5Cpin
+    pinName: pin5Cpin
+    cx: 0
+    cy: 0
+  - name: pin5D
+    svgId: pin5Dpin
+    pinName: pin5Dpin
+    cx: 0
+    cy: 0
+  - name: pin5E
+    svgId: pin5Epin
+    pinName: pin5Epin
+    cx: 0
+    cy: 0
+  - name: pin5F
+    svgId: pin5Fpin
+    pinName: pin5Fpin
+    cx: 0
+    cy: 0
+  - name: pin5G
+    svgId: pin5Gpin
+    pinName: pin5Gpin
+    cx: 0
+    cy: 0
+  - name: pin5H
+    svgId: pin5Hpin
+    pinName: pin5Hpin
+    cx: 0
+    cy: 0
+  - name: pin5I
+    svgId: pin5Ipin
+    pinName: pin5Ipin
+    cx: 0
+    cy: 0
+  - name: pin5J
+    svgId: pin5Jpin
+    pinName: pin5Jpin
+    cx: 0
+    cy: 0
+  - name: pin6A
+    svgId: pin6Apin
+    pinName: pin6Apin
+    cx: 0
+    cy: 0
+  - name: pin6B
+    svgId: pin6Bpin
+    pinName: pin6Bpin
+    cx: 0
+    cy: 0
+  - name: pin6C
+    svgId: pin6Cpin
+    pinName: pin6Cpin
+    cx: 0
+    cy: 0
+  - name: pin6D
+    svgId: pin6Dpin
+    pinName: pin6Dpin
+    cx: 0
+    cy: 0
+  - name: pin6E
+    svgId: pin6Epin
+    pinName: pin6Epin
+    cx: 0
+    cy: 0
+  - name: pin6F
+    svgId: pin6Fpin
+    pinName: pin6Fpin
+    cx: 0
+    cy: 0
+  - name: pin6G
+    svgId: pin6Gpin
+    pinName: pin6Gpin
+    cx: 0
+    cy: 0
+  - name: pin6H
+    svgId: pin6Hpin
+    pinName: pin6Hpin
+    cx: 0
+    cy: 0
+  - name: pin6I
+    svgId: pin6Ipin
+    pinName: pin6Ipin
+    cx: 0
+    cy: 0
+  - name: pin6J
+    svgId: pin6Jpin
+    pinName: pin6Jpin
+    cx: 0
+    cy: 0
+  - name: pin7A
+    svgId: pin7Apin
+    pinName: pin7Apin
+    cx: 0
+    cy: 0
+  - name: pin7B
+    svgId: pin7Bpin
+    pinName: pin7Bpin
+    cx: 0
+    cy: 0
+  - name: pin7C
+    svgId: pin7Cpin
+    pinName: pin7Cpin
+    cx: 0
+    cy: 0
+  - name: pin7D
+    svgId: pin7Dpin
+    pinName: pin7Dpin
+    cx: 0
+    cy: 0
+  - name: pin7E
+    svgId: pin7Epin
+    pinName: pin7Epin
+    cx: 0
+    cy: 0
+  - name: pin7F
+    svgId: pin7Fpin
+    pinName: pin7Fpin
+    cx: 0
+    cy: 0
+  - name: pin7G
+    svgId: pin7Gpin
+    pinName: pin7Gpin
+    cx: 0
+    cy: 0
+  - name: pin7H
+    svgId: pin7Hpin
+    pinName: pin7Hpin
+    cx: 0
+    cy: 0
+  - name: pin7I
+    svgId: pin7Ipin
+    pinName: pin7Ipin
+    cx: 0
+    cy: 0
+  - name: pin7J
+    svgId: pin7Jpin
+    pinName: pin7Jpin
+    cx: 0
+    cy: 0
+  - name: pin8A
+    svgId: pin8Apin
+    pinName: pin8Apin
+    cx: 0
+    cy: 0
+  - name: pin8B
+    svgId: pin8Bpin
+    pinName: pin8Bpin
+    cx: 0
+    cy: 0
+  - name: pin8C
+    svgId: pin8Cpin
+    pinName: pin8Cpin
+    cx: 0
+    cy: 0
+  - name: pin8D
+    svgId: pin8Dpin
+    pinName: pin8Dpin
+    cx: 0
+    cy: 0
+  - name: pin8E
+    svgId: pin8Epin
+    pinName: pin8Epin
+    cx: 0
+    cy: 0
+  - name: pin8F
+    svgId: pin8Fpin
+    pinName: pin8Fpin
+    cx: 0
+    cy: 0
+  - name: pin8G
+    svgId: pin8Gpin
+    pinName: pin8Gpin
+    cx: 0
+    cy: 0
+  - name: pin8H
+    svgId: pin8Hpin
+    pinName: pin8Hpin
+    cx: 0
+    cy: 0
+  - name: pin8I
+    svgId: pin8Ipin
+    pinName: pin8Ipin
+    cx: 0
+    cy: 0
+  - name: pin8J
+    svgId: pin8Jpin
+    pinName: pin8Jpin
+    cx: 0
+    cy: 0
+  - name: pin9A
+    svgId: pin9Apin
+    pinName: pin9Apin
+    cx: 0
+    cy: 0
+  - name: pin9B
+    svgId: pin9Bpin
+    pinName: pin9Bpin
+    cx: 0
+    cy: 0
+  - name: pin9C
+    svgId: pin9Cpin
+    pinName: pin9Cpin
+    cx: 0
+    cy: 0
+  - name: pin9D
+    svgId: pin9Dpin
+    pinName: pin9Dpin
+    cx: 0
+    cy: 0
+  - name: pin9E
+    svgId: pin9Epin
+    pinName: pin9Epin
+    cx: 0
+    cy: 0
+  - name: pin9F
+    svgId: pin9Fpin
+    pinName: pin9Fpin
+    cx: 0
+    cy: 0
+  - name: pin9G
+    svgId: pin9Gpin
+    pinName: pin9Gpin
+    cx: 0
+    cy: 0
+  - name: pin9H
+    svgId: pin9Hpin
+    pinName: pin9Hpin
+    cx: 0
+    cy: 0
+  - name: pin9I
+    svgId: pin9Ipin
+    pinName: pin9Ipin
+    cx: 0
+    cy: 0
+  - name: pin9J
+    svgId: pin9Jpin
+    pinName: pin9Jpin
+    cx: 0
+    cy: 0
+  - name: pin10A
+    svgId: pin10Apin
+    pinName: pin10Apin
+    cx: 0
+    cy: 0
+  - name: pin10B
+    svgId: pin10Bpin
+    pinName: pin10Bpin
+    cx: 0
+    cy: 0
+  - name: pin10C
+    svgId: pin10Cpin
+    pinName: pin10Cpin
+    cx: 0
+    cy: 0
+  - name: pin10D
+    svgId: pin10Dpin
+    pinName: pin10Dpin
+    cx: 0
+    cy: 0
+  - name: pin10E
+    svgId: pin10Epin
+    pinName: pin10Epin
+    cx: 0
+    cy: 0
+  - name: pin10F
+    svgId: pin10Fpin
+    pinName: pin10Fpin
+    cx: 0
+    cy: 0
+  - name: pin10G
+    svgId: pin10Gpin
+    pinName: pin10Gpin
+    cx: 0
+    cy: 0
+  - name: pin10H
+    svgId: pin10Hpin
+    pinName: pin10Hpin
+    cx: 0
+    cy: 0
+  - name: pin10I
+    svgId: pin10Ipin
+    pinName: pin10Ipin
+    cx: 0
+    cy: 0
+  - name: pin10J
+    svgId: pin10Jpin
+    pinName: pin10Jpin
+    cx: 0
+    cy: 0
+  - name: pin11A
+    svgId: pin11Apin
+    pinName: pin11Apin
+    cx: 0
+    cy: 0
+  - name: pin11B
+    svgId: pin11Bpin
+    pinName: pin11Bpin
+    cx: 0
+    cy: 0
+  - name: pin11C
+    svgId: pin11Cpin
+    pinName: pin11Cpin
+    cx: 0
+    cy: 0
+  - name: pin11D
+    svgId: pin11Dpin
+    pinName: pin11Dpin
+    cx: 0
+    cy: 0
+  - name: pin11E
+    svgId: pin11Epin
+    pinName: pin11Epin
+    cx: 0
+    cy: 0
+  - name: pin11F
+    svgId: pin11Fpin
+    pinName: pin11Fpin
+    cx: 0
+    cy: 0
+  - name: pin11G
+    svgId: pin11Gpin
+    pinName: pin11Gpin
+    cx: 0
+    cy: 0
+  - name: pin11H
+    svgId: pin11Hpin
+    pinName: pin11Hpin
+    cx: 0
+    cy: 0
+  - name: pin11I
+    svgId: pin11Ipin
+    pinName: pin11Ipin
+    cx: 0
+    cy: 0
+  - name: pin11J
+    svgId: pin11Jpin
+    pinName: pin11Jpin
+    cx: 0
+    cy: 0
+  - name: pin12A
+    svgId: pin12Apin
+    pinName: pin12Apin
+    cx: 0
+    cy: 0
+  - name: pin12B
+    svgId: pin12Bpin
+    pinName: pin12Bpin
+    cx: 0
+    cy: 0
+  - name: pin12C
+    svgId: pin12Cpin
+    pinName: pin12Cpin
+    cx: 0
+    cy: 0
+  - name: pin12D
+    svgId: pin12Dpin
+    pinName: pin12Dpin
+    cx: 0
+    cy: 0
+  - name: pin12E
+    svgId: pin12Epin
+    pinName: pin12Epin
+    cx: 0
+    cy: 0
+  - name: pin12F
+    svgId: pin12Fpin
+    pinName: pin12Fpin
+    cx: 0
+    cy: 0
+  - name: pin12G
+    svgId: pin12Gpin
+    pinName: pin12Gpin
+    cx: 0
+    cy: 0
+  - name: pin12H
+    svgId: pin12Hpin
+    pinName: pin12Hpin
+    cx: 0
+    cy: 0
+  - name: pin12I
+    svgId: pin12Ipin
+    pinName: pin12Ipin
+    cx: 0
+    cy: 0
+  - name: pin12J
+    svgId: pin12Jpin
+    pinName: pin12Jpin
+    cx: 0
+    cy: 0
+  - name: pin13A
+    svgId: pin13Apin
+    pinName: pin13Apin
+    cx: 0
+    cy: 0
+  - name: pin13B
+    svgId: pin13Bpin
+    pinName: pin13Bpin
+    cx: 0
+    cy: 0
+  - name: pin13C
+    svgId: pin13Cpin
+    pinName: pin13Cpin
+    cx: 0
+    cy: 0
+  - name: pin13D
+    svgId: pin13Dpin
+    pinName: pin13Dpin
+    cx: 0
+    cy: 0
+  - name: pin13E
+    svgId: pin13Epin
+    pinName: pin13Epin
+    cx: 0
+    cy: 0
+  - name: pin13F
+    svgId: pin13Fpin
+    pinName: pin13Fpin
+    cx: 0
+    cy: 0
+  - name: pin13G
+    svgId: pin13Gpin
+    pinName: pin13Gpin
+    cx: 0
+    cy: 0
+  - name: pin13H
+    svgId: pin13Hpin
+    pinName: pin13Hpin
+    cx: 0
+    cy: 0
+  - name: pin13I
+    svgId: pin13Ipin
+    pinName: pin13Ipin
+    cx: 0
+    cy: 0
+  - name: pin13J
+    svgId: pin13Jpin
+    pinName: pin13Jpin
+    cx: 0
+    cy: 0
+  - name: pin14A
+    svgId: pin14Apin
+    pinName: pin14Apin
+    cx: 0
+    cy: 0
+  - name: pin14B
+    svgId: pin14Bpin
+    pinName: pin14Bpin
+    cx: 0
+    cy: 0
+  - name: pin14C
+    svgId: pin14Cpin
+    pinName: pin14Cpin
+    cx: 0
+    cy: 0
+  - name: pin14D
+    svgId: pin14Dpin
+    pinName: pin14Dpin
+    cx: 0
+    cy: 0
+  - name: pin14E
+    svgId: pin14Epin
+    pinName: pin14Epin
+    cx: 0
+    cy: 0
+  - name: pin14F
+    svgId: pin14Fpin
+    pinName: pin14Fpin
+    cx: 0
+    cy: 0
+  - name: pin14G
+    svgId: pin14Gpin
+    pinName: pin14Gpin
+    cx: 0
+    cy: 0
+  - name: pin14H
+    svgId: pin14Hpin
+    pinName: pin14Hpin
+    cx: 0
+    cy: 0
+  - name: pin14I
+    svgId: pin14Ipin
+    pinName: pin14Ipin
+    cx: 0
+    cy: 0
+  - name: pin14J
+    svgId: pin14Jpin
+    pinName: pin14Jpin
+    cx: 0
+    cy: 0
+  - name: pin15A
+    svgId: pin15Apin
+    pinName: pin15Apin
+    cx: 0
+    cy: 0
+  - name: pin15B
+    svgId: pin15Bpin
+    pinName: pin15Bpin
+    cx: 0
+    cy: 0
+  - name: pin15C
+    svgId: pin15Cpin
+    pinName: pin15Cpin
+    cx: 0
+    cy: 0
+  - name: pin15D
+    svgId: pin15Dpin
+    pinName: pin15Dpin
+    cx: 0
+    cy: 0
+  - name: pin15E
+    svgId: pin15Epin
+    pinName: pin15Epin
+    cx: 0
+    cy: 0
+  - name: pin15F
+    svgId: pin15Fpin
+    pinName: pin15Fpin
+    cx: 0
+    cy: 0
+  - name: pin15G
+    svgId: pin15Gpin
+    pinName: pin15Gpin
+    cx: 0
+    cy: 0
+  - name: pin15H
+    svgId: pin15Hpin
+    pinName: pin15Hpin
+    cx: 0
+    cy: 0
+  - name: pin15I
+    svgId: pin15Ipin
+    pinName: pin15Ipin
+    cx: 0
+    cy: 0
+  - name: pin15J
+    svgId: pin15Jpin
+    pinName: pin15Jpin
+    cx: 0
+    cy: 0
+  - name: pin16A
+    svgId: pin16Apin
+    pinName: pin16Apin
+    cx: 0
+    cy: 0
+  - name: pin16B
+    svgId: pin16Bpin
+    pinName: pin16Bpin
+    cx: 0
+    cy: 0
+  - name: pin16C
+    svgId: pin16Cpin
+    pinName: pin16Cpin
+    cx: 0
+    cy: 0
+  - name: pin16D
+    svgId: pin16Dpin
+    pinName: pin16Dpin
+    cx: 0
+    cy: 0
+  - name: pin16E
+    svgId: pin16Epin
+    pinName: pin16Epin
+    cx: 0
+    cy: 0
+  - name: pin16F
+    svgId: pin16Fpin
+    pinName: pin16Fpin
+    cx: 0
+    cy: 0
+  - name: pin16G
+    svgId: pin16Gpin
+    pinName: pin16Gpin
+    cx: 0
+    cy: 0
+  - name: pin16H
+    svgId: pin16Hpin
+    pinName: pin16Hpin
+    cx: 0
+    cy: 0
+  - name: pin16I
+    svgId: pin16Ipin
+    pinName: pin16Ipin
+    cx: 0
+    cy: 0
+  - name: pin16J
+    svgId: pin16Jpin
+    pinName: pin16Jpin
+    cx: 0
+    cy: 0
+  - name: pin17A
+    svgId: pin17Apin
+    pinName: pin17Apin
+    cx: 0
+    cy: 0
+  - name: pin17B
+    svgId: pin17Bpin
+    pinName: pin17Bpin
+    cx: 0
+    cy: 0
+  - name: pin17C
+    svgId: pin17Cpin
+    pinName: pin17Cpin
+    cx: 0
+    cy: 0
+  - name: pin17D
+    svgId: pin17Dpin
+    pinName: pin17Dpin
+    cx: 0
+    cy: 0
+  - name: pin17E
+    svgId: pin17Epin
+    pinName: pin17Epin
+    cx: 0
+    cy: 0
+  - name: pin17F
+    svgId: pin17Fpin
+    pinName: pin17Fpin
+    cx: 0
+    cy: 0
+  - name: pin17G
+    svgId: pin17Gpin
+    pinName: pin17Gpin
+    cx: 0
+    cy: 0
+  - name: pin17H
+    svgId: pin17Hpin
+    pinName: pin17Hpin
+    cx: 0
+    cy: 0
+  - name: pin17I
+    svgId: pin17Ipin
+    pinName: pin17Ipin
+    cx: 0
+    cy: 0
+  - name: pin17J
+    svgId: pin17Jpin
+    pinName: pin17Jpin
+    cx: 0
+    cy: 0
+  - name: pin18A
+    svgId: pin18Apin
+    pinName: pin18Apin
+    cx: 0
+    cy: 0
+  - name: pin18B
+    svgId: pin18Bpin
+    pinName: pin18Bpin
+    cx: 0
+    cy: 0
+  - name: pin18C
+    svgId: pin18Cpin
+    pinName: pin18Cpin
+    cx: 0
+    cy: 0
+  - name: pin18D
+    svgId: pin18Dpin
+    pinName: pin18Dpin
+    cx: 0
+    cy: 0
+  - name: pin18E
+    svgId: pin18Epin
+    pinName: pin18Epin
+    cx: 0
+    cy: 0
+  - name: pin18F
+    svgId: pin18Fpin
+    pinName: pin18Fpin
+    cx: 0
+    cy: 0
+  - name: pin18G
+    svgId: pin18Gpin
+    pinName: pin18Gpin
+    cx: 0
+    cy: 0
+  - name: pin18H
+    svgId: pin18Hpin
+    pinName: pin18Hpin
+    cx: 0
+    cy: 0
+  - name: pin18I
+    svgId: pin18Ipin
+    pinName: pin18Ipin
+    cx: 0
+    cy: 0
+  - name: pin18J
+    svgId: pin18Jpin
+    pinName: pin18Jpin
+    cx: 0
+    cy: 0
+  - name: pin19A
+    svgId: pin19Apin
+    pinName: pin19Apin
+    cx: 0
+    cy: 0
+  - name: pin19B
+    svgId: pin19Bpin
+    pinName: pin19Bpin
+    cx: 0
+    cy: 0
+  - name: pin19C
+    svgId: pin19Cpin
+    pinName: pin19Cpin
+    cx: 0
+    cy: 0
+  - name: pin19D
+    svgId: pin19Dpin
+    pinName: pin19Dpin
+    cx: 0
+    cy: 0
+  - name: pin19E
+    svgId: pin19Epin
+    pinName: pin19Epin
+    cx: 0
+    cy: 0
+  - name: pin19F
+    svgId: pin19Fpin
+    pinName: pin19Fpin
+    cx: 0
+    cy: 0
+  - name: pin19G
+    svgId: pin19Gpin
+    pinName: pin19Gpin
+    cx: 0
+    cy: 0
+  - name: pin19H
+    svgId: pin19Hpin
+    pinName: pin19Hpin
+    cx: 0
+    cy: 0
+  - name: pin19I
+    svgId: pin19Ipin
+    pinName: pin19Ipin
+    cx: 0
+    cy: 0
+  - name: pin19J
+    svgId: pin19Jpin
+    pinName: pin19Jpin
+    cx: 0
+    cy: 0
+  - name: pin20A
+    svgId: pin20Apin
+    pinName: pin20Apin
+    cx: 0
+    cy: 0
+  - name: pin20B
+    svgId: pin20Bpin
+    pinName: pin20Bpin
+    cx: 0
+    cy: 0
+  - name: pin20C
+    svgId: pin20Cpin
+    pinName: pin20Cpin
+    cx: 0
+    cy: 0
+  - name: pin20D
+    svgId: pin20Dpin
+    pinName: pin20Dpin
+    cx: 0
+    cy: 0
+  - name: pin20E
+    svgId: pin20Epin
+    pinName: pin20Epin
+    cx: 0
+    cy: 0
+  - name: pin20F
+    svgId: pin20Fpin
+    pinName: pin20Fpin
+    cx: 0
+    cy: 0
+  - name: pin20G
+    svgId: pin20Gpin
+    pinName: pin20Gpin
+    cx: 0
+    cy: 0
+  - name: pin20H
+    svgId: pin20Hpin
+    pinName: pin20Hpin
+    cx: 0
+    cy: 0
+  - name: pin20I
+    svgId: pin20Ipin
+    pinName: pin20Ipin
+    cx: 0
+    cy: 0
+  - name: pin20J
+    svgId: pin20Jpin
+    pinName: pin20Jpin
+    cx: 0
+    cy: 0
+  - name: pin21A
+    svgId: pin21Apin
+    pinName: pin21Apin
+    cx: 0
+    cy: 0
+  - name: pin21B
+    svgId: pin21Bpin
+    pinName: pin21Bpin
+    cx: 0
+    cy: 0
+  - name: pin21C
+    svgId: pin21Cpin
+    pinName: pin21Cpin
+    cx: 0
+    cy: 0
+  - name: pin21D
+    svgId: pin21Dpin
+    pinName: pin21Dpin
+    cx: 0
+    cy: 0
+  - name: pin21E
+    svgId: pin21Epin
+    pinName: pin21Epin
+    cx: 0
+    cy: 0
+  - name: pin21F
+    svgId: pin21Fpin
+    pinName: pin21Fpin
+    cx: 0
+    cy: 0
+  - name: pin21G
+    svgId: pin21Gpin
+    pinName: pin21Gpin
+    cx: 0
+    cy: 0
+  - name: pin21H
+    svgId: pin21Hpin
+    pinName: pin21Hpin
+    cx: 0
+    cy: 0
+  - name: pin21I
+    svgId: pin21Ipin
+    pinName: pin21Ipin
+    cx: 0
+    cy: 0
+  - name: pin21J
+    svgId: pin21Jpin
+    pinName: pin21Jpin
+    cx: 0
+    cy: 0
+  - name: pin22A
+    svgId: pin22Apin
+    pinName: pin22Apin
+    cx: 0
+    cy: 0
+  - name: pin22B
+    svgId: pin22Bpin
+    pinName: pin22Bpin
+    cx: 0
+    cy: 0
+  - name: pin22C
+    svgId: pin22Cpin
+    pinName: pin22Cpin
+    cx: 0
+    cy: 0
+  - name: pin22D
+    svgId: pin22Dpin
+    pinName: pin22Dpin
+    cx: 0
+    cy: 0
+  - name: pin22E
+    svgId: pin22Epin
+    pinName: pin22Epin
+    cx: 0
+    cy: 0
+  - name: pin22F
+    svgId: pin22Fpin
+    pinName: pin22Fpin
+    cx: 0
+    cy: 0
+  - name: pin22G
+    svgId: pin22Gpin
+    pinName: pin22Gpin
+    cx: 0
+    cy: 0
+  - name: pin22H
+    svgId: pin22Hpin
+    pinName: pin22Hpin
+    cx: 0
+    cy: 0
+  - name: pin22I
+    svgId: pin22Ipin
+    pinName: pin22Ipin
+    cx: 0
+    cy: 0
+  - name: pin22J
+    svgId: pin22Jpin
+    pinName: pin22Jpin
+    cx: 0
+    cy: 0
+  - name: pin23A
+    svgId: pin23Apin
+    pinName: pin23Apin
+    cx: 0
+    cy: 0
+  - name: pin23B
+    svgId: pin23Bpin
+    pinName: pin23Bpin
+    cx: 0
+    cy: 0
+  - name: pin23C
+    svgId: pin23Cpin
+    pinName: pin23Cpin
+    cx: 0
+    cy: 0
+  - name: pin23D
+    svgId: pin23Dpin
+    pinName: pin23Dpin
+    cx: 0
+    cy: 0
+  - name: pin23E
+    svgId: pin23Epin
+    pinName: pin23Epin
+    cx: 0
+    cy: 0
+  - name: pin23F
+    svgId: pin23Fpin
+    pinName: pin23Fpin
+    cx: 0
+    cy: 0
+  - name: pin23G
+    svgId: pin23Gpin
+    pinName: pin23Gpin
+    cx: 0
+    cy: 0
+  - name: pin23H
+    svgId: pin23Hpin
+    pinName: pin23Hpin
+    cx: 0
+    cy: 0
+  - name: pin23I
+    svgId: pin23Ipin
+    pinName: pin23Ipin
+    cx: 0
+    cy: 0
+  - name: pin23J
+    svgId: pin23Jpin
+    pinName: pin23Jpin
+    cx: 0
+    cy: 0
+  - name: pin24A
+    svgId: pin24Apin
+    pinName: pin24Apin
+    cx: 0
+    cy: 0
+  - name: pin24B
+    svgId: pin24Bpin
+    pinName: pin24Bpin
+    cx: 0
+    cy: 0
+  - name: pin24C
+    svgId: pin24Cpin
+    pinName: pin24Cpin
+    cx: 0
+    cy: 0
+  - name: pin24D
+    svgId: pin24Dpin
+    pinName: pin24Dpin
+    cx: 0
+    cy: 0
+  - name: pin24E
+    svgId: pin24Epin
+    pinName: pin24Epin
+    cx: 0
+    cy: 0
+  - name: pin24F
+    svgId: pin24Fpin
+    pinName: pin24Fpin
+    cx: 0
+    cy: 0
+  - name: pin24G
+    svgId: pin24Gpin
+    pinName: pin24Gpin
+    cx: 0
+    cy: 0
+  - name: pin24H
+    svgId: pin24Hpin
+    pinName: pin24Hpin
+    cx: 0
+    cy: 0
+  - name: pin24I
+    svgId: pin24Ipin
+    pinName: pin24Ipin
+    cx: 0
+    cy: 0
+  - name: pin24J
+    svgId: pin24Jpin
+    pinName: pin24Jpin
+    cx: 0
+    cy: 0
+  - name: pin25A
+    svgId: pin25Apin
+    pinName: pin25Apin
+    cx: 0
+    cy: 0
+  - name: pin25B
+    svgId: pin25Bpin
+    pinName: pin25Bpin
+    cx: 0
+    cy: 0
+  - name: pin25C
+    svgId: pin25Cpin
+    pinName: pin25Cpin
+    cx: 0
+    cy: 0
+  - name: pin25D
+    svgId: pin25Dpin
+    pinName: pin25Dpin
+    cx: 0
+    cy: 0
+  - name: pin25E
+    svgId: pin25Epin
+    pinName: pin25Epin
+    cx: 0
+    cy: 0
+  - name: pin25F
+    svgId: pin25Fpin
+    pinName: pin25Fpin
+    cx: 0
+    cy: 0
+  - name: pin25G
+    svgId: pin25Gpin
+    pinName: pin25Gpin
+    cx: 0
+    cy: 0
+  - name: pin25H
+    svgId: pin25Hpin
+    pinName: pin25Hpin
+    cx: 0
+    cy: 0
+  - name: pin25I
+    svgId: pin25Ipin
+    pinName: pin25Ipin
+    cx: 0
+    cy: 0
+  - name: pin25J
+    svgId: pin25Jpin
+    pinName: pin25Jpin
+    cx: 0
+    cy: 0
+  - name: pin26A
+    svgId: pin26Apin
+    pinName: pin26Apin
+    cx: 0
+    cy: 0
+  - name: pin26B
+    svgId: pin26Bpin
+    pinName: pin26Bpin
+    cx: 0
+    cy: 0
+  - name: pin26C
+    svgId: pin26Cpin
+    pinName: pin26Cpin
+    cx: 0
+    cy: 0
+  - name: pin26D
+    svgId: pin26Dpin
+    pinName: pin26Dpin
+    cx: 0
+    cy: 0
+  - name: pin26E
+    svgId: pin26Epin
+    pinName: pin26Epin
+    cx: 0
+    cy: 0
+  - name: pin26F
+    svgId: pin26Fpin
+    pinName: pin26Fpin
+    cx: 0
+    cy: 0
+  - name: pin26G
+    svgId: pin26Gpin
+    pinName: pin26Gpin
+    cx: 0
+    cy: 0
+  - name: pin26H
+    svgId: pin26Hpin
+    pinName: pin26Hpin
+    cx: 0
+    cy: 0
+  - name: pin26I
+    svgId: pin26Ipin
+    pinName: pin26Ipin
+    cx: 0
+    cy: 0
+  - name: pin26J
+    svgId: pin26Jpin
+    pinName: pin26Jpin
+    cx: 0
+    cy: 0
+  - name: pin27A
+    svgId: pin27Apin
+    pinName: pin27Apin
+    cx: 0
+    cy: 0
+  - name: pin27B
+    svgId: pin27Bpin
+    pinName: pin27Bpin
+    cx: 0
+    cy: 0
+  - name: pin27C
+    svgId: pin27Cpin
+    pinName: pin27Cpin
+    cx: 0
+    cy: 0
+  - name: pin27D
+    svgId: pin27Dpin
+    pinName: pin27Dpin
+    cx: 0
+    cy: 0
+  - name: pin27E
+    svgId: pin27Epin
+    pinName: pin27Epin
+    cx: 0
+    cy: 0
+  - name: pin27F
+    svgId: pin27Fpin
+    pinName: pin27Fpin
+    cx: 0
+    cy: 0
+  - name: pin27G
+    svgId: pin27Gpin
+    pinName: pin27Gpin
+    cx: 0
+    cy: 0
+  - name: pin27H
+    svgId: pin27Hpin
+    pinName: pin27Hpin
+    cx: 0
+    cy: 0
+  - name: pin27I
+    svgId: pin27Ipin
+    pinName: pin27Ipin
+    cx: 0
+    cy: 0
+  - name: pin27J
+    svgId: pin27Jpin
+    pinName: pin27Jpin
+    cx: 0
+    cy: 0
+  - name: pin28A
+    svgId: pin28Apin
+    pinName: pin28Apin
+    cx: 0
+    cy: 0
+  - name: pin28B
+    svgId: pin28Bpin
+    pinName: pin28Bpin
+    cx: 0
+    cy: 0
+  - name: pin28C
+    svgId: pin28Cpin
+    pinName: pin28Cpin
+    cx: 0
+    cy: 0
+  - name: pin28D
+    svgId: pin28Dpin
+    pinName: pin28Dpin
+    cx: 0
+    cy: 0
+  - name: pin28E
+    svgId: pin28Epin
+    pinName: pin28Epin
+    cx: 0
+    cy: 0
+  - name: pin28F
+    svgId: pin28Fpin
+    pinName: pin28Fpin
+    cx: 0
+    cy: 0
+  - name: pin28G
+    svgId: pin28Gpin
+    pinName: pin28Gpin
+    cx: 0
+    cy: 0
+  - name: pin28H
+    svgId: pin28Hpin
+    pinName: pin28Hpin
+    cx: 0
+    cy: 0
+  - name: pin28I
+    svgId: pin28Ipin
+    pinName: pin28Ipin
+    cx: 0
+    cy: 0
+  - name: pin28J
+    svgId: pin28Jpin
+    pinName: pin28Jpin
+    cx: 0
+    cy: 0
+  - name: pin29A
+    svgId: pin29Apin
+    pinName: pin29Apin
+    cx: 0
+    cy: 0
+  - name: pin29B
+    svgId: pin29Bpin
+    pinName: pin29Bpin
+    cx: 0
+    cy: 0
+  - name: pin29C
+    svgId: pin29Cpin
+    pinName: pin29Cpin
+    cx: 0
+    cy: 0
+  - name: pin29D
+    svgId: pin29Dpin
+    pinName: pin29Dpin
+    cx: 0
+    cy: 0
+  - name: pin29E
+    svgId: pin29Epin
+    pinName: pin29Epin
+    cx: 0
+    cy: 0
+  - name: pin29F
+    svgId: pin29Fpin
+    pinName: pin29Fpin
+    cx: 0
+    cy: 0
+  - name: pin29G
+    svgId: pin29Gpin
+    pinName: pin29Gpin
+    cx: 0
+    cy: 0
+  - name: pin29H
+    svgId: pin29Hpin
+    pinName: pin29Hpin
+    cx: 0
+    cy: 0
+  - name: pin29I
+    svgId: pin29Ipin
+    pinName: pin29Ipin
+    cx: 0
+    cy: 0
+  - name: pin29J
+    svgId: pin29Jpin
+    pinName: pin29Jpin
+    cx: 0
+    cy: 0
+  - name: pin30A
+    svgId: pin30Apin
+    pinName: pin30Apin
+    cx: 0
+    cy: 0
+  - name: pin30B
+    svgId: pin30Bpin
+    pinName: pin30Bpin
+    cx: 0
+    cy: 0
+  - name: pin30C
+    svgId: pin30Cpin
+    pinName: pin30Cpin
+    cx: 0
+    cy: 0
+  - name: pin30D
+    svgId: pin30Dpin
+    pinName: pin30Dpin
+    cx: 0
+    cy: 0
+  - name: pin30E
+    svgId: pin30Epin
+    pinName: pin30Epin
+    cx: 0
+    cy: 0
+  - name: pin30F
+    svgId: pin30Fpin
+    pinName: pin30Fpin
+    cx: 0
+    cy: 0
+  - name: pin30G
+    svgId: pin30Gpin
+    pinName: pin30Gpin
+    cx: 0
+    cy: 0
+  - name: pin30H
+    svgId: pin30Hpin
+    pinName: pin30Hpin
+    cx: 0
+    cy: 0
+  - name: pin30I
+    svgId: pin30Ipin
+    pinName: pin30Ipin
+    cx: 0
+    cy: 0
+  - name: pin30J
+    svgId: pin30Jpin
+    pinName: pin30Jpin
+    cx: 0
+    cy: 0
+  - name: pin3W
+    svgId: pin3Wpin
+    pinName: pin3Wpin
+    cx: 0
+    cy: 0
+  - name: pin3X
+    svgId: pin3Xpin
+    pinName: pin3Xpin
+    cx: 0
+    cy: 0
+  - name: pin3Y
+    svgId: pin3Ypin
+    pinName: pin3Ypin
+    cx: 0
+    cy: 0
+  - name: pin3Z
+    svgId: pin3Zpin
+    pinName: pin3Zpin
+    cx: 0
+    cy: 0
+  - name: pin4W
+    svgId: pin4Wpin
+    pinName: pin4Wpin
+    cx: 0
+    cy: 0
+  - name: pin4X
+    svgId: pin4Xpin
+    pinName: pin4Xpin
+    cx: 0
+    cy: 0
+  - name: pin4Y
+    svgId: pin4Ypin
+    pinName: pin4Ypin
+    cx: 0
+    cy: 0
+  - name: pin4Z
+    svgId: pin4Zpin
+    pinName: pin4Zpin
+    cx: 0
+    cy: 0
+  - name: pin5W
+    svgId: pin5Wpin
+    pinName: pin5Wpin
+    cx: 0
+    cy: 0
+  - name: pin5X
+    svgId: pin5Xpin
+    pinName: pin5Xpin
+    cx: 0
+    cy: 0
+  - name: pin5Y
+    svgId: pin5Ypin
+    pinName: pin5Ypin
+    cx: 0
+    cy: 0
+  - name: pin5Z
+    svgId: pin5Zpin
+    pinName: pin5Zpin
+    cx: 0
+    cy: 0
+  - name: pin6W
+    svgId: pin6Wpin
+    pinName: pin6Wpin
+    cx: 0
+    cy: 0
+  - name: pin6X
+    svgId: pin6Xpin
+    pinName: pin6Xpin
+    cx: 0
+    cy: 0
+  - name: pin6Y
+    svgId: pin6Ypin
+    pinName: pin6Ypin
+    cx: 0
+    cy: 0
+  - name: pin6Z
+    svgId: pin6Zpin
+    pinName: pin6Zpin
+    cx: 0
+    cy: 0
+  - name: pin7W
+    svgId: pin7Wpin
+    pinName: pin7Wpin
+    cx: 0
+    cy: 0
+  - name: pin7X
+    svgId: pin7Xpin
+    pinName: pin7Xpin
+    cx: 0
+    cy: 0
+  - name: pin7Y
+    svgId: pin7Ypin
+    pinName: pin7Ypin
+    cx: 0
+    cy: 0
+  - name: pin7Z
+    svgId: pin7Zpin
+    pinName: pin7Zpin
+    cx: 0
+    cy: 0
+  - name: pin9W
+    svgId: pin9Wpin
+    pinName: pin9Wpin
+    cx: 0
+    cy: 0
+  - name: pin9X
+    svgId: pin9Xpin
+    pinName: pin9Xpin
+    cx: 0
+    cy: 0
+  - name: pin9Y
+    svgId: pin9Ypin
+    pinName: pin9Ypin
+    cx: 0
+    cy: 0
+  - name: pin9Z
+    svgId: pin9Zpin
+    pinName: pin9Zpin
+    cx: 0
+    cy: 0
+  - name: pin10W
+    svgId: pin10Wpin
+    pinName: pin10Wpin
+    cx: 0
+    cy: 0
+  - name: pin10X
+    svgId: pin10Xpin
+    pinName: pin10Xpin
+    cx: 0
+    cy: 0
+  - name: pin10Y
+    svgId: pin10Ypin
+    pinName: pin10Ypin
+    cx: 0
+    cy: 0
+  - name: pin10Z
+    svgId: pin10Zpin
+    pinName: pin10Zpin
+    cx: 0
+    cy: 0
+  - name: pin11W
+    svgId: pin11Wpin
+    pinName: pin11Wpin
+    cx: 0
+    cy: 0
+  - name: pin11X
+    svgId: pin11Xpin
+    pinName: pin11Xpin
+    cx: 0
+    cy: 0
+  - name: pin11Y
+    svgId: pin11Ypin
+    pinName: pin11Ypin
+    cx: 0
+    cy: 0
+  - name: pin11Z
+    svgId: pin11Zpin
+    pinName: pin11Zpin
+    cx: 0
+    cy: 0
+  - name: pin12W
+    svgId: pin12Wpin
+    pinName: pin12Wpin
+    cx: 0
+    cy: 0
+  - name: pin12X
+    svgId: pin12Xpin
+    pinName: pin12Xpin
+    cx: 0
+    cy: 0
+  - name: pin12Y
+    svgId: pin12Ypin
+    pinName: pin12Ypin
+    cx: 0
+    cy: 0
+  - name: pin12Z
+    svgId: pin12Zpin
+    pinName: pin12Zpin
+    cx: 0
+    cy: 0
+  - name: pin13W
+    svgId: pin13Wpin
+    pinName: pin13Wpin
+    cx: 0
+    cy: 0
+  - name: pin13X
+    svgId: pin13Xpin
+    pinName: pin13Xpin
+    cx: 0
+    cy: 0
+  - name: pin13Y
+    svgId: pin13Ypin
+    pinName: pin13Ypin
+    cx: 0
+    cy: 0
+  - name: pin13Z
+    svgId: pin13Zpin
+    pinName: pin13Zpin
+    cx: 0
+    cy: 0
+  - name: pin15W
+    svgId: pin15Wpin
+    pinName: pin15Wpin
+    cx: 0
+    cy: 0
+  - name: pin15X
+    svgId: pin15Xpin
+    pinName: pin15Xpin
+    cx: 0
+    cy: 0
+  - name: pin15Y
+    svgId: pin15Ypin
+    pinName: pin15Ypin
+    cx: 0
+    cy: 0
+  - name: pin15Z
+    svgId: pin15Zpin
+    pinName: pin15Zpin
+    cx: 0
+    cy: 0
+  - name: pin16W
+    svgId: pin16Wpin
+    pinName: pin16Wpin
+    cx: 0
+    cy: 0
+  - name: pin16X
+    svgId: pin16Xpin
+    pinName: pin16Xpin
+    cx: 0
+    cy: 0
+  - name: pin16Y
+    svgId: pin16Ypin
+    pinName: pin16Ypin
+    cx: 0
+    cy: 0
+  - name: pin16Z
+    svgId: pin16Zpin
+    pinName: pin16Zpin
+    cx: 0
+    cy: 0
+  - name: pin17W
+    svgId: pin17Wpin
+    pinName: pin17Wpin
+    cx: 0
+    cy: 0
+  - name: pin17X
+    svgId: pin17Xpin
+    pinName: pin17Xpin
+    cx: 0
+    cy: 0
+  - name: pin17Y
+    svgId: pin17Ypin
+    pinName: pin17Ypin
+    cx: 0
+    cy: 0
+  - name: pin17Z
+    svgId: pin17Zpin
+    pinName: pin17Zpin
+    cx: 0
+    cy: 0
+  - name: pin18W
+    svgId: pin18Wpin
+    pinName: pin18Wpin
+    cx: 0
+    cy: 0
+  - name: pin18X
+    svgId: pin18Xpin
+    pinName: pin18Xpin
+    cx: 0
+    cy: 0
+  - name: pin18Y
+    svgId: pin18Ypin
+    pinName: pin18Ypin
+    cx: 0
+    cy: 0
+  - name: pin18Z
+    svgId: pin18Zpin
+    pinName: pin18Zpin
+    cx: 0
+    cy: 0
+  - name: pin19W
+    svgId: pin19Wpin
+    pinName: pin19Wpin
+    cx: 0
+    cy: 0
+  - name: pin19X
+    svgId: pin19Xpin
+    pinName: pin19Xpin
+    cx: 0
+    cy: 0
+  - name: pin19Y
+    svgId: pin19Ypin
+    pinName: pin19Ypin
+    cx: 0
+    cy: 0
+  - name: pin19Z
+    svgId: pin19Zpin
+    pinName: pin19Zpin
+    cx: 0
+    cy: 0
+  - name: pin21W
+    svgId: pin21Wpin
+    pinName: pin21Wpin
+    cx: 0
+    cy: 0
+  - name: pin21X
+    svgId: pin21Xpin
+    pinName: pin21Xpin
+    cx: 0
+    cy: 0
+  - name: pin21Y
+    svgId: pin21Ypin
+    pinName: pin21Ypin
+    cx: 0
+    cy: 0
+  - name: pin21Z
+    svgId: pin21Zpin
+    pinName: pin21Zpin
+    cx: 0
+    cy: 0
+  - name: pin22W
+    svgId: pin22Wpin
+    pinName: pin22Wpin
+    cx: 0
+    cy: 0
+  - name: pin22X
+    svgId: pin22Xpin
+    pinName: pin22Xpin
+    cx: 0
+    cy: 0
+  - name: pin22Y
+    svgId: pin22Ypin
+    pinName: pin22Ypin
+    cx: 0
+    cy: 0
+  - name: pin22Z
+    svgId: pin22Zpin
+    pinName: pin22Zpin
+    cx: 0
+    cy: 0
+  - name: pin23W
+    svgId: pin23Wpin
+    pinName: pin23Wpin
+    cx: 0
+    cy: 0
+  - name: pin23X
+    svgId: pin23Xpin
+    pinName: pin23Xpin
+    cx: 0
+    cy: 0
+  - name: pin23Y
+    svgId: pin23Ypin
+    pinName: pin23Ypin
+    cx: 0
+    cy: 0
+  - name: pin23Z
+    svgId: pin23Zpin
+    pinName: pin23Zpin
+    cx: 0
+    cy: 0
+  - name: pin24W
+    svgId: pin24Wpin
+    pinName: pin24Wpin
+    cx: 0
+    cy: 0
+  - name: pin24X
+    svgId: pin24Xpin
+    pinName: pin24Xpin
+    cx: 0
+    cy: 0
+  - name: pin24Y
+    svgId: pin24Ypin
+    pinName: pin24Ypin
+    cx: 0
+    cy: 0
+  - name: pin24Z
+    svgId: pin24Zpin
+    pinName: pin24Zpin
+    cx: 0
+    cy: 0
+  - name: pin25W
+    svgId: pin25Wpin
+    pinName: pin25Wpin
+    cx: 0
+    cy: 0
+  - name: pin25X
+    svgId: pin25Xpin
+    pinName: pin25Xpin
+    cx: 0
+    cy: 0
+  - name: pin25Y
+    svgId: pin25Ypin
+    pinName: pin25Ypin
+    cx: 0
+    cy: 0
+  - name: pin25Z
+    svgId: pin25Zpin
+    pinName: pin25Zpin
+    cx: 0
+    cy: 0
+  - name: pin27W
+    svgId: pin27Wpin
+    pinName: pin27Wpin
+    cx: 0
+    cy: 0
+  - name: pin27X
+    svgId: pin27Xpin
+    pinName: pin27Xpin
+    cx: 0
+    cy: 0
+  - name: pin27Y
+    svgId: pin27Ypin
+    pinName: pin27Ypin
+    cx: 0
+    cy: 0
+  - name: pin27Z
+    svgId: pin27Zpin
+    pinName: pin27Zpin
+    cx: 0
+    cy: 0
+  - name: pin28W
+    svgId: pin28Wpin
+    pinName: pin28Wpin
+    cx: 0
+    cy: 0
+  - name: pin28X
+    svgId: pin28Xpin
+    pinName: pin28Xpin
+    cx: 0
+    cy: 0
+  - name: pin28Y
+    svgId: pin28Ypin
+    pinName: pin28Ypin
+    cx: 0
+    cy: 0
+  - name: pin28Z
+    svgId: pin28Zpin
+    pinName: pin28Zpin
+    cx: 0
+    cy: 0
+  - name: pin29W
+    svgId: pin29Wpin
+    pinName: pin29Wpin
+    cx: 0
+    cy: 0
+  - name: pin29X
+    svgId: pin29Xpin
+    pinName: pin29Xpin
+    cx: 0
+    cy: 0
+  - name: pin29Y
+    svgId: pin29Ypin
+    pinName: pin29Ypin
+    cx: 0
+    cy: 0
+  - name: pin29Z
+    svgId: pin29Zpin
+    pinName: pin29Zpin
+    cx: 0
+    cy: 0
+  - name: pin30W
+    svgId: pin30Wpin
+    pinName: pin30Wpin
+    cx: 0
+    cy: 0
+  - name: pin30X
+    svgId: pin30Xpin
+    pinName: pin30Xpin
+    cx: 0
+    cy: 0
+  - name: pin30Y
+    svgId: pin30Ypin
+    pinName: pin30Ypin
+    cx: 0
+    cy: 0
+  - name: pin30Z
+    svgId: pin30Zpin
+    pinName: pin30Zpin
+    cx: 0
+    cy: 0
+  - name: pin31W
+    svgId: pin31Wpin
+    pinName: pin31Wpin
+    cx: 0
+    cy: 0
+  - name: pin31X
+    svgId: pin31Xpin
+    pinName: pin31Xpin
+    cx: 0
+    cy: 0
+  - name: pin31Y
+    svgId: pin31Ypin
+    pinName: pin31Ypin
+    cx: 0
+    cy: 0
+  - name: pin31Z
+    svgId: pin31Zpin
+    pinName: pin31Zpin
+    cx: 0
+    cy: 0

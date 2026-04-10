@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: 12-Channel 16-bit PWM LED Driver - SPI
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: 12-Channel 16-bit PWM LED Driver - SPI
+  icon: {fileID: 0}
+  realWorldWidth: 110
+  realWorldHeight: 90
+  pins:
+  - name: V+
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.9545455
+    cy: 0.5
+  - name: V+
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.22727273
+    cy: 0.9444444
+  - name: V+
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.31818184
+    cy: 0.9444444
+  - name: V+
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.40909094
+    cy: 0.9444444
+  - name: V+
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.5909091
+    cy: 0.9444444
+  - name: V+
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.6818182
+    cy: 0.9444444
+  - name: V+
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.7727273
+    cy: 0.9444444
+  - name: V+
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.045454547
+    cy: 0.5
+  - name: V+
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.22727273
+    cy: 0.055555552
+  - name: V+
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.31818184
+    cy: 0.055555552
+  - name: V+
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.40909094
+    cy: 0.055555552
+  - name: V+
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.5909091
+    cy: 0.055555552
+  - name: V+
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.6818182
+    cy: 0.055555552
+  - name: V+
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.7727273
+    cy: 0.055555552
+  - name: VCC
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.9545455
+    cy: 0.3888889
+  - name: VCC
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.045454547
+    cy: 0.3888889
+  - name: DI
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.045454547
+    cy: 0.72222215
+  - name: CI
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.045454547
+    cy: 0.61111104
+  - name: R0
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.22727273
+    cy: 0.8333333
+  - name: G0
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.31818184
+    cy: 0.8333333
+  - name: B0
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.40909094
+    cy: 0.8333333
+  - name: R1
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.5909091
+    cy: 0.8333333
+  - name: G1
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.6818182
+    cy: 0.8333333
+  - name: B1
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.7727273
+    cy: 0.8333333
+  - name: DO
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.9545455
+    cy: 0.72222215
+  - name: CO
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.9545455
+    cy: 0.61111104
+  - name: R2
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.7727273
+    cy: 0.16666666
+  - name: G2
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.6818182
+    cy: 0.16666666
+  - name: B2
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.5909091
+    cy: 0.16666666
+  - name: R3
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.40909094
+    cy: 0.16666666
+  - name: G3
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.31818184
+    cy: 0.16666666
+  - name: B3
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.22727273
+    cy: 0.16666666
+  - name: GND
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.9545455
+    cy: 0.27777776
+  - name: GND
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.045454547
+    cy: 0.27777776

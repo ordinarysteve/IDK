@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: PIC32MX440F512H
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: PIC32MX440F512H
+  icon: {fileID: 0}
+  realWorldWidth: 320
+  realWorldHeight: 60.000004
+  pins:
+  - name: AVDD
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.57812655
+    cy: 0.9166667
+  - name: AVSS
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.60937655
+    cy: 0.9166667
+  - name: D+_RG2
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.85937345
+    cy: 0.083333336
+  - name: D-_RG3
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.89062345
+    cy: 0.083333336
+  - name: ENVREG
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.234375
+    cy: 0.083333336
+  - name: RB0_AN0_PGED1_EMUD1_PMA6_VREF+_CVREF+_CN2
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.48437655
+    cy: 0.9166667
+  - name: RB1_AN1_PGEC1_VREF-_CVREF-_CN3
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.45312655
+    cy: 0.9166667
+  - name: RB10_AN10_TMS_CVREFOUT_PMA13
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.70312345
+    cy: 0.9166667
+  - name: RB11_AN11_TDO_PMA12
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.73437345
+    cy: 0.9166667
+  - name: RB12_AN12_TCK_PMA11
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.82812345
+    cy: 0.9166667
+  - name: RB13_AN13_TDI_PMA10
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.85937345
+    cy: 0.9166667
+  - name: RB14_AN14_PMALH_PMA1_~U2RTS_BCLK2
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.89062345
+    cy: 0.9166667
+  - name: RB15_AN15_PMALL_PMA0_OCFB_CN12
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.92187345
+    cy: 0.9166667
+  - name: RB2_AN2_C2IN-_CN4
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.42187655
+    cy: 0.9166667
+  - name: RB3_AN3_C2IN+_CN5
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.39062655
+    cy: 0.9166667
+  - name: RB4_AN4_C1IN-_CN6
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.35937655
+    cy: 0.9166667
+  - name: RB5_AN5_VBUSON_C1IN+_CN7
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.32812655
+    cy: 0.9166667
+  - name: RB6_AN6_PGEC2_OCFA
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.51562655
+    cy: 0.9166667
+  - name: RB7_AN7_PGED2
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.54687655
+    cy: 0.9166667
+  - name: RB8_AN8_~U2CTS_C1OUT
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.6406266
+    cy: 0.9166667
+  - name: RB9_AN9_PMA7_C2OUT
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.67187345
+    cy: 0.9166667
+  - name: RC12_OSC1_CLKI
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.79687345
+    cy: 0.083333336
+  - name: RC13_SOSCI_CN1
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.54687655
+    cy: 0.083333336
+  - name: RC14_SOSCO_T1CK_CN0
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.51562655
+    cy: 0.083333336
+  - name: RC15_OSC2_CLKO
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.76562345
+    cy: 0.083333336
+  - name: RD0_OC1_INT0
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.57812655
+    cy: 0.083333336
+  - name: RD1_OC2_~U1RTS_BCLK1
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.48437655
+    cy: 0.083333336
+  - name: RD10_IC3_PMCS2_PMA15_INT3_SCL1
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.6406266
+    cy: 0.083333336
+  - name: RD11_IC4_PMCS1_PMA14_INT4
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.60937655
+    cy: 0.083333336
+  - name: RD2_OC3_U1RX
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.45312655
+    cy: 0.083333336
+  - name: RD3_OC4_U1TX
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.42187655
+    cy: 0.083333336
+  - name: RD4_PMWR_OC5_IC5_CN13
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.39062655
+    cy: 0.083333336
+  - name: RD5_PMRD_CN14
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.35937655
+    cy: 0.083333336
+  - name: RD6_CN15
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.32812655
+    cy: 0.083333336
+  - name: RD7_CN16
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.296875
+    cy: 0.083333336
+  - name: RD8_IC1_RTCC_INT1
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.70312345
+    cy: 0.083333336
+  - name: RD9_IC2_~U1CTS__INT2_SDA1
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.67187345
+    cy: 0.083333336
+  - name: RE0_PMD0
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.140625
+    cy: 0.083333336
+  - name: RE1_PMD1
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.109375
+    cy: 0.083333336
+  - name: RE2_PMD2
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.078125
+    cy: 0.083333336
+  - name: RE3_PMD3
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.046875
+    cy: 0.083333336
+  - name: RE4_PMD4
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.015625
+    cy: 0.083333336
+  - name: RE5_PMD5
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.015625
+    cy: 0.9166667
+  - name: RE6_PMD6
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.046875
+    cy: 0.9166667
+  - name: RE7_PMD7
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.078125
+    cy: 0.9166667
+  - name: RF0
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.203125
+    cy: 0.083333336
+  - name: RF1
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.171875
+    cy: 0.083333336
+  - name: RF3_USBID
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.98437345
+    cy: 0.083333336
+  - name: RF4_PMA9_U2RX_SDA2_CN17
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.95312345
+    cy: 0.9166667
+  - name: RF5_PMA8_U2TX_SCL2_CN18
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.98437345
+    cy: 0.9166667
+  - name: RG6_PMA5_SCK2_CN8
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.109375
+    cy: 0.9166667
+  - name: RG7_PMA4_SDI2_CN9
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.140625
+    cy: 0.9166667
+  - name: RG8_PMA3_SDO2_CN10
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.171875
+    cy: 0.9166667
+  - name: RG9_PMA2_~SS2_CN11
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.234375
+    cy: 0.9166667
+  - name: VBUS
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.95312345
+    cy: 0.083333336
+  - name: VCAP_VDDCORE
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.265625
+    cy: 0.083333336
+  - name: VDD
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.296875
+    cy: 0.9166667
+  - name: VDD
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.79687345
+    cy: 0.9166667
+  - name: VDD
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.82812345
+    cy: 0.083333336
+  - name: VSS
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.76562345
+    cy: 0.9166667
+  - name: VSS
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.73437345
+    cy: 0.083333336
+  - name: VSS
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.265625
+    cy: 0.9166667
+  - name: VUSB
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.92187345
+    cy: 0.083333336
+  - name: ~MCLR
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.203125
+    cy: 0.9166667

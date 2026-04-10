@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: G3VM-61E1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: G3VM-61E1
+  icon: {fileID: 0}
+  realWorldWidth: 50
+  realWorldHeight: 80
+  pins:
+  - name: P$1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.3
+    cy: 0.9375
+  - name: P$2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.5
+    cy: 0.9375
+  - name: P$3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.7
+    cy: 0.9375
+  - name: P$4
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.7
+    cy: 0.0625
+  - name: P$5
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.5
+    cy: 0.0625
+  - name: P$6
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.3
+    cy: 0.0625

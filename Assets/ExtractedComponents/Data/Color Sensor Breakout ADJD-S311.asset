@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Color Sensor Breakout ADJD-S311
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Color Sensor Breakout ADJD-S311
+  icon: {fileID: 0}
+  realWorldWidth: 91.8097
+  realWorldHeight: 51.180603
+  pins:
+  - name: SCL
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.06455078
+    cy: 0.6953867
+  - name: SDA
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.06455078
+    cy: 0.8908006
+  - name: CLK
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.93581235
+    cy: 0.6953867
+  - name: SLP
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.93581235
+    cy: 0.5000272
+  - name: GND
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.93581235
+    cy: 0.30461332
+  - name: LED
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.06455078
+    cy: 0.109253734
+  - name: VCC
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.06455078
+    cy: 0.30464044
+  - name: GND
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.06455078
+    cy: 0.5000272

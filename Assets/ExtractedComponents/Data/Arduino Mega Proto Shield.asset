@@ -1,0 +1,2719 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino Mega Proto Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino Mega Proto Shield
+  icon: {fileID: 0}
+  realWorldWidth: 400
+  realWorldHeight: 209.99998
+  pins:
+  - name: D8
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.41250002
+    cy: 0.05
+  - name: D9
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.3875
+    cy: 0.045238096
+  - name: D10
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.3625
+    cy: 0.05
+  - name: D11
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.33749998
+    cy: 0.045238096
+  - name: D12
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.3125
+    cy: 0.05
+  - name: D13
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.28750002
+    cy: 0.045238096
+  - name: GND
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.2625
+    cy: 0.05
+  - name: AREF
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.23750001
+    cy: 0.045238096
+  - name: RX0
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.625
+    cy: 0.05
+  - name: TX1
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.6
+    cy: 0.045238096
+  - name: D2
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.57500005
+    cy: 0.05
+  - name: D3
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.54999995
+    cy: 0.045238096
+  - name: D4
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.525
+    cy: 0.05
+  - name: D5
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.5
+    cy: 0.045238096
+  - name: D6
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.47500002
+    cy: 0.05
+  - name: D7
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.45000002
+    cy: 0.045238096
+  - name: D14
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.67499995
+    cy: 0.045238096
+  - name: D15
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.70000005
+    cy: 0.05
+  - name: D16
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.725
+    cy: 0.045238096
+  - name: D17
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.75
+    cy: 0.05
+  - name: D18
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.775
+    cy: 0.045238096
+  - name: D19
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.79999995
+    cy: 0.05
+  - name: SDA
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.82500005
+    cy: 0.045238096
+  - name: SCL
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.85
+    cy: 0.05
+  - name: A8
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.725
+    cy: 0.95
+  - name: A9
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.75
+    cy: 0.9547619
+  - name: A10
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.775
+    cy: 0.95
+  - name: A11
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.79999995
+    cy: 0.9547619
+  - name: A12
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.82500005
+    cy: 0.95
+  - name: A13
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.85
+    cy: 0.9547619
+  - name: A14
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.875
+    cy: 0.95
+  - name: A15
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.90000004
+    cy: 0.9547619
+  - name: A0
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.5
+    cy: 0.95
+  - name: A1
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.525
+    cy: 0.9547619
+  - name: A2
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.54999995
+    cy: 0.95
+  - name: A3
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.57500005
+    cy: 0.9547619
+  - name: A4
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.6
+    cy: 0.95
+  - name: A5
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.625
+    cy: 0.9547619
+  - name: A6
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.65
+    cy: 0.95
+  - name: A7
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.67499995
+    cy: 0.9547619
+  - name: D53
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.94874996
+    cy: 0.8095238
+  - name: D51
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.95124996
+    cy: 0.7619048
+  - name: D49
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.94874996
+    cy: 0.71428573
+  - name: D47
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.95124996
+    cy: 0.6666667
+  - name: D45
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.94874996
+    cy: 0.61904764
+  - name: D43
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.95124996
+    cy: 0.5714286
+  - name: D41
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.94874996
+    cy: 0.5238095
+  - name: D39
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.95124996
+    cy: 0.47619048
+  - name: D37
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.94874996
+    cy: 0.42857146
+  - name: D35
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.95124996
+    cy: 0.3809524
+  - name: D33
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.94874996
+    cy: 0.33333334
+  - name: D31
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.95124996
+    cy: 0.2857143
+  - name: D29
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.94874996
+    cy: 0.23809524
+  - name: D27
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.95124996
+    cy: 0.1904762
+  - name: D25
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.94874996
+    cy: 0.14285715
+  - name: D23
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.95124996
+    cy: 0.0952381
+  - name: D22
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.92375004
+    cy: 0.8095238
+  - name: D24
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.92625004
+    cy: 0.7619048
+  - name: D26
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.92375004
+    cy: 0.71428573
+  - name: D28
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.92625004
+    cy: 0.6666667
+  - name: D30
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.92375004
+    cy: 0.61904764
+  - name: D32
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.92625004
+    cy: 0.5714286
+  - name: D34
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.92375004
+    cy: 0.5238095
+  - name: D36
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.92625004
+    cy: 0.47619048
+  - name: D38
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.92375004
+    cy: 0.42857146
+  - name: D40
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.92625004
+    cy: 0.3809524
+  - name: D42
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.92375004
+    cy: 0.33333334
+  - name: D44
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.92625004
+    cy: 0.2857143
+  - name: D46
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.92375004
+    cy: 0.23809524
+  - name: D48
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.92625004
+    cy: 0.1904762
+  - name: D50
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.92375004
+    cy: 0.14285715
+  - name: D52
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.92625004
+    cy: 0.0952381
+  - name: RES
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.325
+    cy: 0.95238096
+  - name: 3.3
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.35000002
+    cy: 0.9571429
+  - name: 5V
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.375
+    cy: 0.95238096
+  - name: GND
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.39999998
+    cy: 0.9571429
+  - name: GND
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.425
+    cy: 0.95238096
+  - name: VIN
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.45000002
+    cy: 0.9571429
+  - name: GND
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.92324996
+    cy: 0.8571429
+  - name: GND
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.95175004
+    cy: 0.8571429
+  - name: 5V@1
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.92324996
+    cy: 0.04761905
+  - name: 5V@1
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.95175004
+    cy: 0.04761905
+  - name: 5V@1
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.024999999
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.049999997
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0.075
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.099999994
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.125
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.15
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0.17500001
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0.19999999
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0.22500001
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0.25
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector106pin
+    pinName: connector106pin
+    cx: 0.27499998
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector107pin
+    pinName: connector107pin
+    cx: 0.3
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0.325
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0.35000002
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0.375
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector111pin
+    pinName: connector111pin
+    cx: 0.39999998
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector112pin
+    pinName: connector112pin
+    cx: 0.425
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector113pin
+    pinName: connector113pin
+    cx: 0.45000002
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector114pin
+    pinName: connector114pin
+    cx: 0.47500002
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector115pin
+    pinName: connector115pin
+    cx: 0.5
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector116pin
+    pinName: connector116pin
+    cx: 0.525
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector117pin
+    pinName: connector117pin
+    cx: 0.54999995
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector118pin
+    pinName: connector118pin
+    cx: 0.57500005
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0.6
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0.625
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0.65
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0.67499995
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector123pin
+    pinName: connector123pin
+    cx: 0.70000005
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector124pin
+    pinName: connector124pin
+    cx: 0.725
+    cy: 0.2857143
+  - name: 5V@1
+    svgId: connector125pin
+    pinName: connector125pin
+    cx: 0.75
+    cy: 0.2857143
+  - name: GND
+    svgId: connector126pin
+    pinName: connector126pin
+    cx: 0.75
+    cy: 0.8095238
+  - name: GND
+    svgId: connector127pin
+    pinName: connector127pin
+    cx: 0.725
+    cy: 0.8095238
+  - name: GND
+    svgId: connector128pin
+    pinName: connector128pin
+    cx: 0.70000005
+    cy: 0.8095238
+  - name: GND
+    svgId: connector129pin
+    pinName: connector129pin
+    cx: 0.67499995
+    cy: 0.8095238
+  - name: GND
+    svgId: connector130pin
+    pinName: connector130pin
+    cx: 0.65
+    cy: 0.8095238
+  - name: GND
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0.625
+    cy: 0.8095238
+  - name: GND
+    svgId: connector132pin
+    pinName: connector132pin
+    cx: 0.6
+    cy: 0.8095238
+  - name: GND
+    svgId: connector133pin
+    pinName: connector133pin
+    cx: 0.57500005
+    cy: 0.8095238
+  - name: GND
+    svgId: connector134pin
+    pinName: connector134pin
+    cx: 0.54999995
+    cy: 0.8095238
+  - name: GND
+    svgId: connector135pin
+    pinName: connector135pin
+    cx: 0.525
+    cy: 0.8095238
+  - name: GND
+    svgId: connector136pin
+    pinName: connector136pin
+    cx: 0.5
+    cy: 0.8095238
+  - name: GND
+    svgId: connector137pin
+    pinName: connector137pin
+    cx: 0.47500002
+    cy: 0.8095238
+  - name: GND
+    svgId: connector138pin
+    pinName: connector138pin
+    cx: 0.45000002
+    cy: 0.8095238
+  - name: GND
+    svgId: connector139pin
+    pinName: connector139pin
+    cx: 0.425
+    cy: 0.8095238
+  - name: GND
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0.39999998
+    cy: 0.8095238
+  - name: GND
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0.375
+    cy: 0.8095238
+  - name: GND
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0.35000002
+    cy: 0.8095238
+  - name: GND
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0.325
+    cy: 0.8095238
+  - name: GND
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0.25
+    cy: 0.8095238
+  - name: GND
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0.27499998
+    cy: 0.8095238
+  - name: GND
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0.3
+    cy: 0.8095238
+  - name: N$1
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0.27499998
+    cy: 0.7619048
+  - name: N$2
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0.85
+    cy: 0.33333334
+  - name: N$3
+    svgId: connector149pin
+    pinName: connector149pin
+    cx: 0.85
+    cy: 0.3809524
+  - name: N$4
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0.85
+    cy: 0.42857146
+  - name: N$5
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0.85
+    cy: 0.47619048
+  - name: N$6
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0.85
+    cy: 0.5238095
+  - name: N$7
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0.85
+    cy: 0.5714286
+  - name: N$8
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0.85
+    cy: 0.61904764
+  - name: N$9
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0.85
+    cy: 0.6666667
+  - name: N$10
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0.85
+    cy: 0.71428573
+  - name: N$11
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0.85
+    cy: 0.7619048
+  - name: N$12
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0.3
+    cy: 0.7619048
+  - name: N$13
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0.024999999
+    cy: 0.8095238
+  - name: N$14
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0.82500005
+    cy: 0.33333334
+  - name: N$15
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0.82500005
+    cy: 0.3809524
+  - name: N$16
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0.82500005
+    cy: 0.42857146
+  - name: N$17
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0.82500005
+    cy: 0.47619048
+  - name: N$18
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0.82500005
+    cy: 0.5238095
+  - name: N$19
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0.82500005
+    cy: 0.5714286
+  - name: N$20
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0.82500005
+    cy: 0.61904764
+  - name: N$21
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0.82500005
+    cy: 0.6666667
+  - name: N$22
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0.82500005
+    cy: 0.71428573
+  - name: N$23
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0.82500005
+    cy: 0.7619048
+  - name: N$24
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.049999997
+    cy: 0.8095238
+  - name: N$25
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.075
+    cy: 0.8095238
+  - name: N$26
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0.79999995
+    cy: 0.7619048
+  - name: N$27
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0.79999995
+    cy: 0.71428573
+  - name: N$28
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0.79999995
+    cy: 0.6666667
+  - name: N$29
+    svgId: connector175pin
+    pinName: connector175pin
+    cx: 0.79999995
+    cy: 0.61904764
+  - name: N$30
+    svgId: connector176pin
+    pinName: connector176pin
+    cx: 0.79999995
+    cy: 0.5714286
+  - name: N$31
+    svgId: connector177pin
+    pinName: connector177pin
+    cx: 0.79999995
+    cy: 0.5238095
+  - name: N$32
+    svgId: connector178pin
+    pinName: connector178pin
+    cx: 0.79999995
+    cy: 0.47619048
+  - name: N$33
+    svgId: connector179pin
+    pinName: connector179pin
+    cx: 0.79999995
+    cy: 0.42857146
+  - name: N$34
+    svgId: connector180pin
+    pinName: connector180pin
+    cx: 0.79999995
+    cy: 0.3809524
+  - name: N$35
+    svgId: connector181pin
+    pinName: connector181pin
+    cx: 0.79999995
+    cy: 0.33333334
+  - name: N$36
+    svgId: connector182pin
+    pinName: connector182pin
+    cx: 0.099999994
+    cy: 0.8095238
+  - name: N$37
+    svgId: connector183pin
+    pinName: connector183pin
+    cx: 0.125
+    cy: 0.8095238
+  - name: N$38
+    svgId: connector184pin
+    pinName: connector184pin
+    cx: 0.775
+    cy: 0.33333334
+  - name: N$39
+    svgId: connector185pin
+    pinName: connector185pin
+    cx: 0.775
+    cy: 0.3809524
+  - name: N$40
+    svgId: connector186pin
+    pinName: connector186pin
+    cx: 0.775
+    cy: 0.42857146
+  - name: N$41
+    svgId: connector187pin
+    pinName: connector187pin
+    cx: 0.775
+    cy: 0.47619048
+  - name: N$42
+    svgId: connector188pin
+    pinName: connector188pin
+    cx: 0.775
+    cy: 0.5238095
+  - name: N$43
+    svgId: connector189pin
+    pinName: connector189pin
+    cx: 0.775
+    cy: 0.5714286
+  - name: N$44
+    svgId: connector190pin
+    pinName: connector190pin
+    cx: 0.775
+    cy: 0.61904764
+  - name: N$45
+    svgId: connector191pin
+    pinName: connector191pin
+    cx: 0.775
+    cy: 0.6666667
+  - name: N$46
+    svgId: connector192pin
+    pinName: connector192pin
+    cx: 0.775
+    cy: 0.71428573
+  - name: N$47
+    svgId: connector193pin
+    pinName: connector193pin
+    cx: 0.775
+    cy: 0.7619048
+  - name: N$50
+    svgId: connector194pin
+    pinName: connector194pin
+    cx: 0.75
+    cy: 0.7619048
+  - name: N$51
+    svgId: connector195pin
+    pinName: connector195pin
+    cx: 0.75
+    cy: 0.71428573
+  - name: N$52
+    svgId: connector196pin
+    pinName: connector196pin
+    cx: 0.75
+    cy: 0.6666667
+  - name: N$53
+    svgId: connector197pin
+    pinName: connector197pin
+    cx: 0.75
+    cy: 0.61904764
+  - name: N$54
+    svgId: connector198pin
+    pinName: connector198pin
+    cx: 0.75
+    cy: 0.5714286
+  - name: N$55
+    svgId: connector199pin
+    pinName: connector199pin
+    cx: 0.75
+    cy: 0.5238095
+  - name: N$56
+    svgId: connector200pin
+    pinName: connector200pin
+    cx: 0.75
+    cy: 0.47619048
+  - name: N$57
+    svgId: connector201pin
+    pinName: connector201pin
+    cx: 0.75
+    cy: 0.42857146
+  - name: N$58
+    svgId: connector202pin
+    pinName: connector202pin
+    cx: 0.75
+    cy: 0.3809524
+  - name: N$59
+    svgId: connector203pin
+    pinName: connector203pin
+    cx: 0.75
+    cy: 0.33333334
+  - name: N$62
+    svgId: connector204pin
+    pinName: connector204pin
+    cx: 0.725
+    cy: 0.33333334
+  - name: N$63
+    svgId: connector205pin
+    pinName: connector205pin
+    cx: 0.725
+    cy: 0.3809524
+  - name: N$64
+    svgId: connector206pin
+    pinName: connector206pin
+    cx: 0.725
+    cy: 0.42857146
+  - name: N$65
+    svgId: connector207pin
+    pinName: connector207pin
+    cx: 0.725
+    cy: 0.47619048
+  - name: N$66
+    svgId: connector208pin
+    pinName: connector208pin
+    cx: 0.725
+    cy: 0.5238095
+  - name: N$67
+    svgId: connector209pin
+    pinName: connector209pin
+    cx: 0.725
+    cy: 0.5714286
+  - name: N$68
+    svgId: connector210pin
+    pinName: connector210pin
+    cx: 0.725
+    cy: 0.61904764
+  - name: N$69
+    svgId: connector211pin
+    pinName: connector211pin
+    cx: 0.725
+    cy: 0.6666667
+  - name: N$70
+    svgId: connector212pin
+    pinName: connector212pin
+    cx: 0.725
+    cy: 0.71428573
+  - name: N$71
+    svgId: connector213pin
+    pinName: connector213pin
+    cx: 0.725
+    cy: 0.7619048
+  - name: N$74
+    svgId: connector214pin
+    pinName: connector214pin
+    cx: 0.70000005
+    cy: 0.7619048
+  - name: N$75
+    svgId: connector215pin
+    pinName: connector215pin
+    cx: 0.70000005
+    cy: 0.71428573
+  - name: N$76
+    svgId: connector216pin
+    pinName: connector216pin
+    cx: 0.70000005
+    cy: 0.6666667
+  - name: N$77
+    svgId: connector217pin
+    pinName: connector217pin
+    cx: 0.70000005
+    cy: 0.61904764
+  - name: N$78
+    svgId: connector218pin
+    pinName: connector218pin
+    cx: 0.70000005
+    cy: 0.5714286
+  - name: N$79
+    svgId: connector219pin
+    pinName: connector219pin
+    cx: 0.70000005
+    cy: 0.5238095
+  - name: N$80
+    svgId: connector220pin
+    pinName: connector220pin
+    cx: 0.70000005
+    cy: 0.47619048
+  - name: N$81
+    svgId: connector221pin
+    pinName: connector221pin
+    cx: 0.70000005
+    cy: 0.42857146
+  - name: N$82
+    svgId: connector222pin
+    pinName: connector222pin
+    cx: 0.70000005
+    cy: 0.3809524
+  - name: N$83
+    svgId: connector223pin
+    pinName: connector223pin
+    cx: 0.70000005
+    cy: 0.33333334
+  - name: N$86
+    svgId: connector224pin
+    pinName: connector224pin
+    cx: 0.67499995
+    cy: 0.33333334
+  - name: N$87
+    svgId: connector225pin
+    pinName: connector225pin
+    cx: 0.67499995
+    cy: 0.3809524
+  - name: N$88
+    svgId: connector226pin
+    pinName: connector226pin
+    cx: 0.67499995
+    cy: 0.42857146
+  - name: N$89
+    svgId: connector227pin
+    pinName: connector227pin
+    cx: 0.67499995
+    cy: 0.47619048
+  - name: N$90
+    svgId: connector228pin
+    pinName: connector228pin
+    cx: 0.67499995
+    cy: 0.5238095
+  - name: N$91
+    svgId: connector229pin
+    pinName: connector229pin
+    cx: 0.67499995
+    cy: 0.5714286
+  - name: N$92
+    svgId: connector230pin
+    pinName: connector230pin
+    cx: 0.67499995
+    cy: 0.61904764
+  - name: N$93
+    svgId: connector231pin
+    pinName: connector231pin
+    cx: 0.67499995
+    cy: 0.6666667
+  - name: N$94
+    svgId: connector232pin
+    pinName: connector232pin
+    cx: 0.67499995
+    cy: 0.71428573
+  - name: N$95
+    svgId: connector233pin
+    pinName: connector233pin
+    cx: 0.67499995
+    cy: 0.7619048
+  - name: N$98
+    svgId: connector234pin
+    pinName: connector234pin
+    cx: 0.65
+    cy: 0.7619048
+  - name: N$99
+    svgId: connector235pin
+    pinName: connector235pin
+    cx: 0.65
+    cy: 0.71428573
+  - name: N$100
+    svgId: connector236pin
+    pinName: connector236pin
+    cx: 0.65
+    cy: 0.6666667
+  - name: N$101
+    svgId: connector237pin
+    pinName: connector237pin
+    cx: 0.65
+    cy: 0.61904764
+  - name: N$102
+    svgId: connector238pin
+    pinName: connector238pin
+    cx: 0.65
+    cy: 0.5714286
+  - name: N$103
+    svgId: connector239pin
+    pinName: connector239pin
+    cx: 0.65
+    cy: 0.5238095
+  - name: N$104
+    svgId: connector240pin
+    pinName: connector240pin
+    cx: 0.65
+    cy: 0.47619048
+  - name: N$105
+    svgId: connector241pin
+    pinName: connector241pin
+    cx: 0.65
+    cy: 0.42857146
+  - name: N$106
+    svgId: connector242pin
+    pinName: connector242pin
+    cx: 0.65
+    cy: 0.3809524
+  - name: N$107
+    svgId: connector243pin
+    pinName: connector243pin
+    cx: 0.65
+    cy: 0.33333334
+  - name: N$110
+    svgId: connector244pin
+    pinName: connector244pin
+    cx: 0.625
+    cy: 0.33333334
+  - name: N$111
+    svgId: connector245pin
+    pinName: connector245pin
+    cx: 0.625
+    cy: 0.3809524
+  - name: N$112
+    svgId: connector246pin
+    pinName: connector246pin
+    cx: 0.625
+    cy: 0.42857146
+  - name: N$113
+    svgId: connector247pin
+    pinName: connector247pin
+    cx: 0.625
+    cy: 0.47619048
+  - name: N$114
+    svgId: connector248pin
+    pinName: connector248pin
+    cx: 0.625
+    cy: 0.5238095
+  - name: N$115
+    svgId: connector249pin
+    pinName: connector249pin
+    cx: 0.625
+    cy: 0.5714286
+  - name: N$116
+    svgId: connector250pin
+    pinName: connector250pin
+    cx: 0.625
+    cy: 0.61904764
+  - name: N$117
+    svgId: connector251pin
+    pinName: connector251pin
+    cx: 0.625
+    cy: 0.6666667
+  - name: N$118
+    svgId: connector252pin
+    pinName: connector252pin
+    cx: 0.625
+    cy: 0.71428573
+  - name: N$119
+    svgId: connector253pin
+    pinName: connector253pin
+    cx: 0.625
+    cy: 0.7619048
+  - name: N$122
+    svgId: connector254pin
+    pinName: connector254pin
+    cx: 0.6
+    cy: 0.7619048
+  - name: N$123
+    svgId: connector255pin
+    pinName: connector255pin
+    cx: 0.6
+    cy: 0.71428573
+  - name: N$124
+    svgId: connector256pin
+    pinName: connector256pin
+    cx: 0.6
+    cy: 0.6666667
+  - name: N$128
+    svgId: connector257pin
+    pinName: connector257pin
+    cx: 0.6
+    cy: 0.61904764
+  - name: N$129
+    svgId: connector258pin
+    pinName: connector258pin
+    cx: 0.6
+    cy: 0.5714286
+  - name: N$130
+    svgId: connector259pin
+    pinName: connector259pin
+    cx: 0.6
+    cy: 0.5238095
+  - name: N$131
+    svgId: connector260pin
+    pinName: connector260pin
+    cx: 0.6
+    cy: 0.47619048
+  - name: N$132
+    svgId: connector261pin
+    pinName: connector261pin
+    cx: 0.6
+    cy: 0.42857146
+  - name: N$133
+    svgId: connector262pin
+    pinName: connector262pin
+    cx: 0.6
+    cy: 0.3809524
+  - name: N$134
+    svgId: connector263pin
+    pinName: connector263pin
+    cx: 0.6
+    cy: 0.33333334
+  - name: N$136
+    svgId: connector264pin
+    pinName: connector264pin
+    cx: 0.57500005
+    cy: 0.1904762
+  - name: N$137
+    svgId: connector265pin
+    pinName: connector265pin
+    cx: 0.57500005
+    cy: 0.23809524
+  - name: N$139
+    svgId: connector266pin
+    pinName: connector266pin
+    cx: 0.57500005
+    cy: 0.33333334
+  - name: N$140
+    svgId: connector267pin
+    pinName: connector267pin
+    cx: 0.57500005
+    cy: 0.3809524
+  - name: N$141
+    svgId: connector268pin
+    pinName: connector268pin
+    cx: 0.57500005
+    cy: 0.42857146
+  - name: N$142
+    svgId: connector269pin
+    pinName: connector269pin
+    cx: 0.57500005
+    cy: 0.47619048
+  - name: N$143
+    svgId: connector270pin
+    pinName: connector270pin
+    cx: 0.57500005
+    cy: 0.5238095
+  - name: N$144
+    svgId: connector271pin
+    pinName: connector271pin
+    cx: 0.57500005
+    cy: 0.5714286
+  - name: N$145
+    svgId: connector272pin
+    pinName: connector272pin
+    cx: 0.57500005
+    cy: 0.61904764
+  - name: N$146
+    svgId: connector273pin
+    pinName: connector273pin
+    cx: 0.57500005
+    cy: 0.6666667
+  - name: N$147
+    svgId: connector274pin
+    pinName: connector274pin
+    cx: 0.57500005
+    cy: 0.71428573
+  - name: N$148
+    svgId: connector275pin
+    pinName: connector275pin
+    cx: 0.57500005
+    cy: 0.7619048
+  - name: N$151
+    svgId: connector276pin
+    pinName: connector276pin
+    cx: 0.54999995
+    cy: 0.7619048
+  - name: N$152
+    svgId: connector277pin
+    pinName: connector277pin
+    cx: 0.54999995
+    cy: 0.71428573
+  - name: N$153
+    svgId: connector278pin
+    pinName: connector278pin
+    cx: 0.54999995
+    cy: 0.6666667
+  - name: N$154
+    svgId: connector279pin
+    pinName: connector279pin
+    cx: 0.54999995
+    cy: 0.61904764
+  - name: N$155
+    svgId: connector280pin
+    pinName: connector280pin
+    cx: 0.54999995
+    cy: 0.5714286
+  - name: N$156
+    svgId: connector281pin
+    pinName: connector281pin
+    cx: 0.54999995
+    cy: 0.5238095
+  - name: N$157
+    svgId: connector282pin
+    pinName: connector282pin
+    cx: 0.54999995
+    cy: 0.47619048
+  - name: N$158
+    svgId: connector283pin
+    pinName: connector283pin
+    cx: 0.54999995
+    cy: 0.42857146
+  - name: N$159
+    svgId: connector284pin
+    pinName: connector284pin
+    cx: 0.54999995
+    cy: 0.3809524
+  - name: N$160
+    svgId: connector285pin
+    pinName: connector285pin
+    cx: 0.54999995
+    cy: 0.33333334
+  - name: N$162
+    svgId: connector286pin
+    pinName: connector286pin
+    cx: 0.54999995
+    cy: 0.23809524
+  - name: N$163
+    svgId: connector287pin
+    pinName: connector287pin
+    cx: 0.54999995
+    cy: 0.1904762
+  - name: N$164
+    svgId: connector288pin
+    pinName: connector288pin
+    cx: 0.525
+    cy: 0.1904762
+  - name: N$165
+    svgId: connector289pin
+    pinName: connector289pin
+    cx: 0.525
+    cy: 0.23809524
+  - name: N$167
+    svgId: connector290pin
+    pinName: connector290pin
+    cx: 0.525
+    cy: 0.33333334
+  - name: N$168
+    svgId: connector291pin
+    pinName: connector291pin
+    cx: 0.525
+    cy: 0.3809524
+  - name: N$169
+    svgId: connector292pin
+    pinName: connector292pin
+    cx: 0.525
+    cy: 0.42857146
+  - name: N$170
+    svgId: connector293pin
+    pinName: connector293pin
+    cx: 0.525
+    cy: 0.47619048
+  - name: N$171
+    svgId: connector294pin
+    pinName: connector294pin
+    cx: 0.525
+    cy: 0.5238095
+  - name: N$172
+    svgId: connector295pin
+    pinName: connector295pin
+    cx: 0.525
+    cy: 0.5714286
+  - name: N$173
+    svgId: connector296pin
+    pinName: connector296pin
+    cx: 0.525
+    cy: 0.61904764
+  - name: N$174
+    svgId: connector297pin
+    pinName: connector297pin
+    cx: 0.525
+    cy: 0.6666667
+  - name: N$175
+    svgId: connector298pin
+    pinName: connector298pin
+    cx: 0.525
+    cy: 0.71428573
+  - name: N$176
+    svgId: connector299pin
+    pinName: connector299pin
+    cx: 0.525
+    cy: 0.7619048
+  - name: N$179
+    svgId: connector300pin
+    pinName: connector300pin
+    cx: 0.5
+    cy: 0.7619048
+  - name: N$180
+    svgId: connector301pin
+    pinName: connector301pin
+    cx: 0.5
+    cy: 0.71428573
+  - name: N$181
+    svgId: connector302pin
+    pinName: connector302pin
+    cx: 0.5
+    cy: 0.6666667
+  - name: N$182
+    svgId: connector303pin
+    pinName: connector303pin
+    cx: 0.5
+    cy: 0.61904764
+  - name: N$183
+    svgId: connector304pin
+    pinName: connector304pin
+    cx: 0.5
+    cy: 0.5714286
+  - name: N$184
+    svgId: connector305pin
+    pinName: connector305pin
+    cx: 0.5
+    cy: 0.5238095
+  - name: N$185
+    svgId: connector306pin
+    pinName: connector306pin
+    cx: 0.5
+    cy: 0.47619048
+  - name: N$186
+    svgId: connector307pin
+    pinName: connector307pin
+    cx: 0.5
+    cy: 0.42857146
+  - name: N$187
+    svgId: connector308pin
+    pinName: connector308pin
+    cx: 0.5
+    cy: 0.3809524
+  - name: N$188
+    svgId: connector309pin
+    pinName: connector309pin
+    cx: 0.5
+    cy: 0.33333334
+  - name: N$190
+    svgId: connector310pin
+    pinName: connector310pin
+    cx: 0.5
+    cy: 0.23809524
+  - name: N$191
+    svgId: connector311pin
+    pinName: connector311pin
+    cx: 0.5
+    cy: 0.1904762
+  - name: N$192
+    svgId: connector312pin
+    pinName: connector312pin
+    cx: 0.47500002
+    cy: 0.1904762
+  - name: N$193
+    svgId: connector313pin
+    pinName: connector313pin
+    cx: 0.47500002
+    cy: 0.23809524
+  - name: N$195
+    svgId: connector314pin
+    pinName: connector314pin
+    cx: 0.47500002
+    cy: 0.33333334
+  - name: N$196
+    svgId: connector315pin
+    pinName: connector315pin
+    cx: 0.47500002
+    cy: 0.3809524
+  - name: N$197
+    svgId: connector316pin
+    pinName: connector316pin
+    cx: 0.47500002
+    cy: 0.42857146
+  - name: N$198
+    svgId: connector317pin
+    pinName: connector317pin
+    cx: 0.47500002
+    cy: 0.47619048
+  - name: N$199
+    svgId: connector318pin
+    pinName: connector318pin
+    cx: 0.47500002
+    cy: 0.5238095
+  - name: N$200
+    svgId: connector319pin
+    pinName: connector319pin
+    cx: 0.47500002
+    cy: 0.5714286
+  - name: N$201
+    svgId: connector320pin
+    pinName: connector320pin
+    cx: 0.47500002
+    cy: 0.61904764
+  - name: N$202
+    svgId: connector321pin
+    pinName: connector321pin
+    cx: 0.47500002
+    cy: 0.6666667
+  - name: N$203
+    svgId: connector322pin
+    pinName: connector322pin
+    cx: 0.47500002
+    cy: 0.71428573
+  - name: N$204
+    svgId: connector323pin
+    pinName: connector323pin
+    cx: 0.47500002
+    cy: 0.7619048
+  - name: N$207
+    svgId: connector324pin
+    pinName: connector324pin
+    cx: 0.45000002
+    cy: 0.7619048
+  - name: N$208
+    svgId: connector325pin
+    pinName: connector325pin
+    cx: 0.45000002
+    cy: 0.71428573
+  - name: N$209
+    svgId: connector326pin
+    pinName: connector326pin
+    cx: 0.45000002
+    cy: 0.6666667
+  - name: N$210
+    svgId: connector327pin
+    pinName: connector327pin
+    cx: 0.45000002
+    cy: 0.61904764
+  - name: N$211
+    svgId: connector328pin
+    pinName: connector328pin
+    cx: 0.45000002
+    cy: 0.5714286
+  - name: N$212
+    svgId: connector329pin
+    pinName: connector329pin
+    cx: 0.45000002
+    cy: 0.5238095
+  - name: N$213
+    svgId: connector330pin
+    pinName: connector330pin
+    cx: 0.45000002
+    cy: 0.47619048
+  - name: N$214
+    svgId: connector331pin
+    pinName: connector331pin
+    cx: 0.45000002
+    cy: 0.42857146
+  - name: N$215
+    svgId: connector332pin
+    pinName: connector332pin
+    cx: 0.45000002
+    cy: 0.3809524
+  - name: N$216
+    svgId: connector333pin
+    pinName: connector333pin
+    cx: 0.45000002
+    cy: 0.33333334
+  - name: N$218
+    svgId: connector334pin
+    pinName: connector334pin
+    cx: 0.45000002
+    cy: 0.23809524
+  - name: N$219
+    svgId: connector335pin
+    pinName: connector335pin
+    cx: 0.45000002
+    cy: 0.1904762
+  - name: N$220
+    svgId: connector336pin
+    pinName: connector336pin
+    cx: 0.425
+    cy: 0.1904762
+  - name: N$221
+    svgId: connector337pin
+    pinName: connector337pin
+    cx: 0.425
+    cy: 0.23809524
+  - name: N$223
+    svgId: connector338pin
+    pinName: connector338pin
+    cx: 0.425
+    cy: 0.33333334
+  - name: N$224
+    svgId: connector339pin
+    pinName: connector339pin
+    cx: 0.425
+    cy: 0.3809524
+  - name: N$225
+    svgId: connector340pin
+    pinName: connector340pin
+    cx: 0.425
+    cy: 0.42857146
+  - name: N$226
+    svgId: connector341pin
+    pinName: connector341pin
+    cx: 0.425
+    cy: 0.47619048
+  - name: N$227
+    svgId: connector342pin
+    pinName: connector342pin
+    cx: 0.425
+    cy: 0.5238095
+  - name: N$228
+    svgId: connector343pin
+    pinName: connector343pin
+    cx: 0.425
+    cy: 0.5714286
+  - name: N$229
+    svgId: connector344pin
+    pinName: connector344pin
+    cx: 0.425
+    cy: 0.61904764
+  - name: N$230
+    svgId: connector345pin
+    pinName: connector345pin
+    cx: 0.425
+    cy: 0.6666667
+  - name: N$231
+    svgId: connector346pin
+    pinName: connector346pin
+    cx: 0.425
+    cy: 0.71428573
+  - name: N$232
+    svgId: connector347pin
+    pinName: connector347pin
+    cx: 0.425
+    cy: 0.7619048
+  - name: N$235
+    svgId: connector348pin
+    pinName: connector348pin
+    cx: 0.39999998
+    cy: 0.7619048
+  - name: N$236
+    svgId: connector349pin
+    pinName: connector349pin
+    cx: 0.39999998
+    cy: 0.71428573
+  - name: N$237
+    svgId: connector350pin
+    pinName: connector350pin
+    cx: 0.39999998
+    cy: 0.6666667
+  - name: N$238
+    svgId: connector351pin
+    pinName: connector351pin
+    cx: 0.39999998
+    cy: 0.61904764
+  - name: N$239
+    svgId: connector352pin
+    pinName: connector352pin
+    cx: 0.39999998
+    cy: 0.5714286
+  - name: N$240
+    svgId: connector353pin
+    pinName: connector353pin
+    cx: 0.39999998
+    cy: 0.5238095
+  - name: N$241
+    svgId: connector354pin
+    pinName: connector354pin
+    cx: 0.39999998
+    cy: 0.47619048
+  - name: N$242
+    svgId: connector355pin
+    pinName: connector355pin
+    cx: 0.39999998
+    cy: 0.42857146
+  - name: N$243
+    svgId: connector356pin
+    pinName: connector356pin
+    cx: 0.39999998
+    cy: 0.3809524
+  - name: N$244
+    svgId: connector357pin
+    pinName: connector357pin
+    cx: 0.39999998
+    cy: 0.33333334
+  - name: N$246
+    svgId: connector358pin
+    pinName: connector358pin
+    cx: 0.39999998
+    cy: 0.23809524
+  - name: N$247
+    svgId: connector359pin
+    pinName: connector359pin
+    cx: 0.39999998
+    cy: 0.1904762
+  - name: N$248
+    svgId: connector360pin
+    pinName: connector360pin
+    cx: 0.375
+    cy: 0.1904762
+  - name: N$249
+    svgId: connector361pin
+    pinName: connector361pin
+    cx: 0.375
+    cy: 0.23809524
+  - name: N$251
+    svgId: connector362pin
+    pinName: connector362pin
+    cx: 0.375
+    cy: 0.33333334
+  - name: N$252
+    svgId: connector363pin
+    pinName: connector363pin
+    cx: 0.375
+    cy: 0.3809524
+  - name: N$253
+    svgId: connector364pin
+    pinName: connector364pin
+    cx: 0.375
+    cy: 0.42857146
+  - name: N$254
+    svgId: connector365pin
+    pinName: connector365pin
+    cx: 0.375
+    cy: 0.47619048
+  - name: N$255
+    svgId: connector366pin
+    pinName: connector366pin
+    cx: 0.375
+    cy: 0.5238095
+  - name: N$256
+    svgId: connector367pin
+    pinName: connector367pin
+    cx: 0.375
+    cy: 0.5714286
+  - name: N$257
+    svgId: connector368pin
+    pinName: connector368pin
+    cx: 0.375
+    cy: 0.61904764
+  - name: N$258
+    svgId: connector369pin
+    pinName: connector369pin
+    cx: 0.375
+    cy: 0.6666667
+  - name: N$259
+    svgId: connector370pin
+    pinName: connector370pin
+    cx: 0.375
+    cy: 0.71428573
+  - name: N$260
+    svgId: connector371pin
+    pinName: connector371pin
+    cx: 0.375
+    cy: 0.7619048
+  - name: N$263
+    svgId: connector372pin
+    pinName: connector372pin
+    cx: 0.35000002
+    cy: 0.7619048
+  - name: N$264
+    svgId: connector373pin
+    pinName: connector373pin
+    cx: 0.35000002
+    cy: 0.71428573
+  - name: N$265
+    svgId: connector374pin
+    pinName: connector374pin
+    cx: 0.35000002
+    cy: 0.6666667
+  - name: N$266
+    svgId: connector375pin
+    pinName: connector375pin
+    cx: 0.35000002
+    cy: 0.61904764
+  - name: N$267
+    svgId: connector376pin
+    pinName: connector376pin
+    cx: 0.35000002
+    cy: 0.5714286
+  - name: N$268
+    svgId: connector377pin
+    pinName: connector377pin
+    cx: 0.35000002
+    cy: 0.5238095
+  - name: N$269
+    svgId: connector378pin
+    pinName: connector378pin
+    cx: 0.35000002
+    cy: 0.47619048
+  - name: N$270
+    svgId: connector379pin
+    pinName: connector379pin
+    cx: 0.35000002
+    cy: 0.42857146
+  - name: N$271
+    svgId: connector380pin
+    pinName: connector380pin
+    cx: 0.35000002
+    cy: 0.3809524
+  - name: N$272
+    svgId: connector381pin
+    pinName: connector381pin
+    cx: 0.35000002
+    cy: 0.33333334
+  - name: N$274
+    svgId: connector382pin
+    pinName: connector382pin
+    cx: 0.35000002
+    cy: 0.23809524
+  - name: N$275
+    svgId: connector383pin
+    pinName: connector383pin
+    cx: 0.35000002
+    cy: 0.1904762
+  - name: N$276
+    svgId: connector384pin
+    pinName: connector384pin
+    cx: 0.325
+    cy: 0.1904762
+  - name: N$277
+    svgId: connector385pin
+    pinName: connector385pin
+    cx: 0.325
+    cy: 0.23809524
+  - name: N$279
+    svgId: connector386pin
+    pinName: connector386pin
+    cx: 0.325
+    cy: 0.33333334
+  - name: N$280
+    svgId: connector387pin
+    pinName: connector387pin
+    cx: 0.325
+    cy: 0.3809524
+  - name: N$281
+    svgId: connector388pin
+    pinName: connector388pin
+    cx: 0.325
+    cy: 0.42857146
+  - name: N$282
+    svgId: connector389pin
+    pinName: connector389pin
+    cx: 0.325
+    cy: 0.47619048
+  - name: N$283
+    svgId: connector390pin
+    pinName: connector390pin
+    cx: 0.325
+    cy: 0.5714286
+  - name: N$284
+    svgId: connector391pin
+    pinName: connector391pin
+    cx: 0.325
+    cy: 0.5238095
+  - name: N$285
+    svgId: connector392pin
+    pinName: connector392pin
+    cx: 0.325
+    cy: 0.61904764
+  - name: N$286
+    svgId: connector393pin
+    pinName: connector393pin
+    cx: 0.325
+    cy: 0.6666667
+  - name: N$287
+    svgId: connector394pin
+    pinName: connector394pin
+    cx: 0.325
+    cy: 0.71428573
+  - name: N$288
+    svgId: connector395pin
+    pinName: connector395pin
+    cx: 0.325
+    cy: 0.7619048
+  - name: N$292
+    svgId: connector396pin
+    pinName: connector396pin
+    cx: 0.3
+    cy: 0.71428573
+  - name: N$293
+    svgId: connector397pin
+    pinName: connector397pin
+    cx: 0.3
+    cy: 0.6666667
+  - name: N$294
+    svgId: connector398pin
+    pinName: connector398pin
+    cx: 0.3
+    cy: 0.61904764
+  - name: N$295
+    svgId: connector399pin
+    pinName: connector399pin
+    cx: 0.3
+    cy: 0.5714286
+  - name: N$296
+    svgId: connector400pin
+    pinName: connector400pin
+    cx: 0.3
+    cy: 0.5238095
+  - name: N$297
+    svgId: connector401pin
+    pinName: connector401pin
+    cx: 0.3
+    cy: 0.47619048
+  - name: N$298
+    svgId: connector402pin
+    pinName: connector402pin
+    cx: 0.3
+    cy: 0.42857146
+  - name: N$299
+    svgId: connector403pin
+    pinName: connector403pin
+    cx: 0.3
+    cy: 0.3809524
+  - name: N$300
+    svgId: connector404pin
+    pinName: connector404pin
+    cx: 0.3
+    cy: 0.33333334
+  - name: N$302
+    svgId: connector405pin
+    pinName: connector405pin
+    cx: 0.3
+    cy: 0.23809524
+  - name: N$303
+    svgId: connector406pin
+    pinName: connector406pin
+    cx: 0.3
+    cy: 0.1904762
+  - name: N$304
+    svgId: connector407pin
+    pinName: connector407pin
+    cx: 0.27499998
+    cy: 0.1904762
+  - name: N$305
+    svgId: connector408pin
+    pinName: connector408pin
+    cx: 0.27499998
+    cy: 0.23809524
+  - name: N$307
+    svgId: connector409pin
+    pinName: connector409pin
+    cx: 0.27499998
+    cy: 0.33333334
+  - name: N$308
+    svgId: connector410pin
+    pinName: connector410pin
+    cx: 0.27499998
+    cy: 0.3809524
+  - name: N$309
+    svgId: connector411pin
+    pinName: connector411pin
+    cx: 0.27499998
+    cy: 0.42857146
+  - name: N$310
+    svgId: connector412pin
+    pinName: connector412pin
+    cx: 0.27499998
+    cy: 0.47619048
+  - name: N$311
+    svgId: connector413pin
+    pinName: connector413pin
+    cx: 0.27499998
+    cy: 0.5238095
+  - name: N$312
+    svgId: connector414pin
+    pinName: connector414pin
+    cx: 0.27499998
+    cy: 0.61904764
+  - name: N$313
+    svgId: connector415pin
+    pinName: connector415pin
+    cx: 0.27499998
+    cy: 0.71428573
+  - name: N$319
+    svgId: connector416pin
+    pinName: connector416pin
+    cx: 0.375
+    cy: 0.8571429
+  - name: N$320
+    svgId: connector417pin
+    pinName: connector417pin
+    cx: 0.39999998
+    cy: 0.8571429
+  - name: N$321
+    svgId: connector418pin
+    pinName: connector418pin
+    cx: 0.425
+    cy: 0.8571429
+  - name: N$322
+    svgId: connector419pin
+    pinName: connector419pin
+    cx: 0.47500002
+    cy: 0.8571429
+  - name: N$323
+    svgId: connector420pin
+    pinName: connector420pin
+    cx: 0.45000002
+    cy: 0.8571429
+  - name: N$324
+    svgId: connector421pin
+    pinName: connector421pin
+    cx: 0.27499998
+    cy: 0.6666667
+  - name: N$325
+    svgId: connector422pin
+    pinName: connector422pin
+    cx: 0.27499998
+    cy: 0.5714286
+  - name: N$326
+    svgId: connector423pin
+    pinName: connector423pin
+    cx: 0.25
+    cy: 0.1904762
+  - name: N$327
+    svgId: connector424pin
+    pinName: connector424pin
+    cx: 0.25
+    cy: 0.23809524
+  - name: N$329
+    svgId: connector425pin
+    pinName: connector425pin
+    cx: 0.25
+    cy: 0.33333334
+  - name: N$330
+    svgId: connector426pin
+    pinName: connector426pin
+    cx: 0.25
+    cy: 0.3809524
+  - name: N$331
+    svgId: connector427pin
+    pinName: connector427pin
+    cx: 0.25
+    cy: 0.42857146
+  - name: N$332
+    svgId: connector428pin
+    pinName: connector428pin
+    cx: 0.25
+    cy: 0.47619048
+  - name: N$333
+    svgId: connector429pin
+    pinName: connector429pin
+    cx: 0.25
+    cy: 0.5238095
+  - name: N$334
+    svgId: connector430pin
+    pinName: connector430pin
+    cx: 0.25
+    cy: 0.5714286
+  - name: N$335
+    svgId: connector431pin
+    pinName: connector431pin
+    cx: 0.25
+    cy: 0.61904764
+  - name: N$336
+    svgId: connector432pin
+    pinName: connector432pin
+    cx: 0.25
+    cy: 0.6666667
+  - name: N$337
+    svgId: connector433pin
+    pinName: connector433pin
+    cx: 0.25
+    cy: 0.71428573
+  - name: N$338
+    svgId: connector434pin
+    pinName: connector434pin
+    cx: 0.25
+    cy: 0.7619048
+  - name: N$343
+    svgId: connector435pin
+    pinName: connector435pin
+    cx: 0.22500001
+    cy: 0.7619048
+  - name: N$344
+    svgId: connector436pin
+    pinName: connector436pin
+    cx: 0.22500001
+    cy: 0.71428573
+  - name: N$345
+    svgId: connector437pin
+    pinName: connector437pin
+    cx: 0.22500001
+    cy: 0.6666667
+  - name: N$346
+    svgId: connector438pin
+    pinName: connector438pin
+    cx: 0.22500001
+    cy: 0.61904764
+  - name: N$347
+    svgId: connector439pin
+    pinName: connector439pin
+    cx: 0.22500001
+    cy: 0.5714286
+  - name: N$348
+    svgId: connector440pin
+    pinName: connector440pin
+    cx: 0.22500001
+    cy: 0.5238095
+  - name: N$349
+    svgId: connector441pin
+    pinName: connector441pin
+    cx: 0.22500001
+    cy: 0.47619048
+  - name: N$350
+    svgId: connector442pin
+    pinName: connector442pin
+    cx: 0.22500001
+    cy: 0.42857146
+  - name: N$351
+    svgId: connector443pin
+    pinName: connector443pin
+    cx: 0.22500001
+    cy: 0.3809524
+  - name: N$352
+    svgId: connector444pin
+    pinName: connector444pin
+    cx: 0.22500001
+    cy: 0.33333334
+  - name: N$354
+    svgId: connector445pin
+    pinName: connector445pin
+    cx: 0.22500001
+    cy: 0.23809524
+  - name: N$355
+    svgId: connector446pin
+    pinName: connector446pin
+    cx: 0.22500001
+    cy: 0.1904762
+  - name: N$356
+    svgId: connector447pin
+    pinName: connector447pin
+    cx: 0.19999999
+    cy: 0.14285715
+  - name: N$357
+    svgId: connector448pin
+    pinName: connector448pin
+    cx: 0.19999999
+    cy: 0.0952381
+  - name: N$358
+    svgId: connector449pin
+    pinName: connector449pin
+    cx: 0.19999999
+    cy: 0.04761905
+  - name: N$359
+    svgId: connector450pin
+    pinName: connector450pin
+    cx: 0.19999999
+    cy: 0.1904762
+  - name: N$360
+    svgId: connector451pin
+    pinName: connector451pin
+    cx: 0.19999999
+    cy: 0.23809524
+  - name: N$362
+    svgId: connector452pin
+    pinName: connector452pin
+    cx: 0.19999999
+    cy: 0.33333334
+  - name: N$363
+    svgId: connector453pin
+    pinName: connector453pin
+    cx: 0.19999999
+    cy: 0.3809524
+  - name: N$364
+    svgId: connector454pin
+    pinName: connector454pin
+    cx: 0.19999999
+    cy: 0.42857146
+  - name: N$365
+    svgId: connector455pin
+    pinName: connector455pin
+    cx: 0.19999999
+    cy: 0.47619048
+  - name: N$366
+    svgId: connector456pin
+    pinName: connector456pin
+    cx: 0.19999999
+    cy: 0.5714286
+  - name: N$367
+    svgId: connector457pin
+    pinName: connector457pin
+    cx: 0.19999999
+    cy: 0.5238095
+  - name: N$368
+    svgId: connector458pin
+    pinName: connector458pin
+    cx: 0.19999999
+    cy: 0.61904764
+  - name: N$369
+    svgId: connector459pin
+    pinName: connector459pin
+    cx: 0.19999999
+    cy: 0.6666667
+  - name: N$370
+    svgId: connector460pin
+    pinName: connector460pin
+    cx: 0.19999999
+    cy: 0.71428573
+  - name: N$371
+    svgId: connector461pin
+    pinName: connector461pin
+    cx: 0.19999999
+    cy: 0.7619048
+  - name: N$376
+    svgId: connector462pin
+    pinName: connector462pin
+    cx: 0.17500001
+    cy: 0.7619048
+  - name: N$377
+    svgId: connector463pin
+    pinName: connector463pin
+    cx: 0.17500001
+    cy: 0.71428573
+  - name: N$378
+    svgId: connector464pin
+    pinName: connector464pin
+    cx: 0.17500001
+    cy: 0.6666667
+  - name: N$379
+    svgId: connector465pin
+    pinName: connector465pin
+    cx: 0.17500001
+    cy: 0.61904764
+  - name: N$380
+    svgId: connector466pin
+    pinName: connector466pin
+    cx: 0.17500001
+    cy: 0.5714286
+  - name: N$381
+    svgId: connector467pin
+    pinName: connector467pin
+    cx: 0.17500001
+    cy: 0.5238095
+  - name: N$382
+    svgId: connector468pin
+    pinName: connector468pin
+    cx: 0.17500001
+    cy: 0.47619048
+  - name: N$383
+    svgId: connector469pin
+    pinName: connector469pin
+    cx: 0.17500001
+    cy: 0.42857146
+  - name: N$384
+    svgId: connector470pin
+    pinName: connector470pin
+    cx: 0.17500001
+    cy: 0.3809524
+  - name: N$385
+    svgId: connector471pin
+    pinName: connector471pin
+    cx: 0.17500001
+    cy: 0.33333334
+  - name: N$387
+    svgId: connector472pin
+    pinName: connector472pin
+    cx: 0.17500001
+    cy: 0.23809524
+  - name: N$388
+    svgId: connector473pin
+    pinName: connector473pin
+    cx: 0.17500001
+    cy: 0.1904762
+  - name: N$389
+    svgId: connector474pin
+    pinName: connector474pin
+    cx: 0.17500001
+    cy: 0.14285715
+  - name: N$390
+    svgId: connector475pin
+    pinName: connector475pin
+    cx: 0.15
+    cy: 0.14285715
+  - name: N$391
+    svgId: connector476pin
+    pinName: connector476pin
+    cx: 0.125
+    cy: 0.14285715
+  - name: N$392
+    svgId: connector477pin
+    pinName: connector477pin
+    cx: 0.099999994
+    cy: 0.14285715
+  - name: N$393
+    svgId: connector478pin
+    pinName: connector478pin
+    cx: 0.075
+    cy: 0.14285715
+  - name: N$394
+    svgId: connector479pin
+    pinName: connector479pin
+    cx: 0.049999997
+    cy: 0.14285715
+  - name: N$395
+    svgId: connector480pin
+    pinName: connector480pin
+    cx: 0.049999997
+    cy: 0.1904762
+  - name: N$397
+    svgId: connector481pin
+    pinName: connector481pin
+    cx: 0.049999997
+    cy: 0.23809524
+  - name: N$398
+    svgId: connector482pin
+    pinName: connector482pin
+    cx: 0.049999997
+    cy: 0.33333334
+  - name: N$399
+    svgId: connector483pin
+    pinName: connector483pin
+    cx: 0.049999997
+    cy: 0.3809524
+  - name: N$400
+    svgId: connector484pin
+    pinName: connector484pin
+    cx: 0.049999997
+    cy: 0.42857146
+  - name: N$401
+    svgId: connector485pin
+    pinName: connector485pin
+    cx: 0.075
+    cy: 0.42857146
+  - name: N$402
+    svgId: connector486pin
+    pinName: connector486pin
+    cx: 0.075
+    cy: 0.3809524
+  - name: N$403
+    svgId: connector487pin
+    pinName: connector487pin
+    cx: 0.075
+    cy: 0.33333334
+  - name: N$405
+    svgId: connector488pin
+    pinName: connector488pin
+    cx: 0.075
+    cy: 0.23809524
+  - name: N$406
+    svgId: connector489pin
+    pinName: connector489pin
+    cx: 0.075
+    cy: 0.1904762
+  - name: N$407
+    svgId: connector490pin
+    pinName: connector490pin
+    cx: 0.099999994
+    cy: 0.1904762
+  - name: N$408
+    svgId: connector491pin
+    pinName: connector491pin
+    cx: 0.099999994
+    cy: 0.23809524
+  - name: N$410
+    svgId: connector492pin
+    pinName: connector492pin
+    cx: 0.099999994
+    cy: 0.33333334
+  - name: N$411
+    svgId: connector493pin
+    pinName: connector493pin
+    cx: 0.099999994
+    cy: 0.3809524
+  - name: N$412
+    svgId: connector494pin
+    pinName: connector494pin
+    cx: 0.099999994
+    cy: 0.42857146
+  - name: N$413
+    svgId: connector495pin
+    pinName: connector495pin
+    cx: 0.125
+    cy: 0.42857146
+  - name: N$414
+    svgId: connector496pin
+    pinName: connector496pin
+    cx: 0.125
+    cy: 0.3809524
+  - name: N$415
+    svgId: connector497pin
+    pinName: connector497pin
+    cx: 0.125
+    cy: 0.33333334
+  - name: N$417
+    svgId: connector498pin
+    pinName: connector498pin
+    cx: 0.125
+    cy: 0.23809524
+  - name: N$418
+    svgId: connector499pin
+    pinName: connector499pin
+    cx: 0.125
+    cy: 0.1904762
+  - name: N$419
+    svgId: connector500pin
+    pinName: connector500pin
+    cx: 0.15
+    cy: 0.1904762
+  - name: N$420
+    svgId: connector501pin
+    pinName: connector501pin
+    cx: 0.15
+    cy: 0.23809524
+  - name: N$422
+    svgId: connector502pin
+    pinName: connector502pin
+    cx: 0.15
+    cy: 0.33333334
+  - name: N$423
+    svgId: connector503pin
+    pinName: connector503pin
+    cx: 0.15
+    cy: 0.3809524
+  - name: N$424
+    svgId: connector504pin
+    pinName: connector504pin
+    cx: 0.15
+    cy: 0.42857146
+  - name: N$425
+    svgId: connector505pin
+    pinName: connector505pin
+    cx: 0.15
+    cy: 0.47619048
+  - name: N$426
+    svgId: connector506pin
+    pinName: connector506pin
+    cx: 0.15
+    cy: 0.5238095
+  - name: N$427
+    svgId: connector507pin
+    pinName: connector507pin
+    cx: 0.15
+    cy: 0.5714286
+  - name: N$428
+    svgId: connector508pin
+    pinName: connector508pin
+    cx: 0.15
+    cy: 0.61904764
+  - name: N$429
+    svgId: connector509pin
+    pinName: connector509pin
+    cx: 0.15
+    cy: 0.6666667
+  - name: N$430
+    svgId: connector510pin
+    pinName: connector510pin
+    cx: 0.15
+    cy: 0.7619048
+  - name: N$431
+    svgId: connector511pin
+    pinName: connector511pin
+    cx: 0.15
+    cy: 0.71428573
+  - name: N$436
+    svgId: connector512pin
+    pinName: connector512pin
+    cx: 0.125
+    cy: 0.7619048
+  - name: N$437
+    svgId: connector513pin
+    pinName: connector513pin
+    cx: 0.125
+    cy: 0.71428573
+  - name: N$438
+    svgId: connector514pin
+    pinName: connector514pin
+    cx: 0.125
+    cy: 0.61904764
+  - name: N$439
+    svgId: connector515pin
+    pinName: connector515pin
+    cx: 0.125
+    cy: 0.6666667
+  - name: N$440
+    svgId: connector516pin
+    pinName: connector516pin
+    cx: 0.125
+    cy: 0.5714286
+  - name: N$441
+    svgId: connector517pin
+    pinName: connector517pin
+    cx: 0.125
+    cy: 0.5238095
+  - name: N$442
+    svgId: connector518pin
+    pinName: connector518pin
+    cx: 0.125
+    cy: 0.47619048
+  - name: N$443
+    svgId: connector519pin
+    pinName: connector519pin
+    cx: 0.099999994
+    cy: 0.47619048
+  - name: N$444
+    svgId: connector520pin
+    pinName: connector520pin
+    cx: 0.075
+    cy: 0.5238095
+  - name: N$445
+    svgId: connector521pin
+    pinName: connector521pin
+    cx: 0.099999994
+    cy: 0.5238095
+  - name: N$446
+    svgId: connector522pin
+    pinName: connector522pin
+    cx: 0.099999994
+    cy: 0.5714286
+  - name: N$447
+    svgId: connector523pin
+    pinName: connector523pin
+    cx: 0.075
+    cy: 0.5714286
+  - name: N$448
+    svgId: connector524pin
+    pinName: connector524pin
+    cx: 0.049999997
+    cy: 0.5714286
+  - name: N$449
+    svgId: connector525pin
+    pinName: connector525pin
+    cx: 0.049999997
+    cy: 0.61904764
+  - name: N$450
+    svgId: connector526pin
+    pinName: connector526pin
+    cx: 0.049999997
+    cy: 0.6666667
+  - name: N$451
+    svgId: connector527pin
+    pinName: connector527pin
+    cx: 0.049999997
+    cy: 0.71428573
+  - name: N$452
+    svgId: connector528pin
+    pinName: connector528pin
+    cx: 0.049999997
+    cy: 0.7619048
+  - name: N$460
+    svgId: connector529pin
+    pinName: connector529pin
+    cx: 0.099999994
+    cy: 0.7619048
+  - name: N$461
+    svgId: connector530pin
+    pinName: connector530pin
+    cx: 0.099999994
+    cy: 0.71428573
+  - name: N$462
+    svgId: connector531pin
+    pinName: connector531pin
+    cx: 0.099999994
+    cy: 0.6666667
+  - name: N$463
+    svgId: connector532pin
+    pinName: connector532pin
+    cx: 0.099999994
+    cy: 0.61904764
+  - name: N$464
+    svgId: connector533pin
+    pinName: connector533pin
+    cx: 0.075
+    cy: 0.61904764
+  - name: N$465
+    svgId: connector534pin
+    pinName: connector534pin
+    cx: 0.075
+    cy: 0.6666667
+  - name: N$466
+    svgId: connector535pin
+    pinName: connector535pin
+    cx: 0.075
+    cy: 0.7619048
+  - name: N$467
+    svgId: connector536pin
+    pinName: connector536pin
+    cx: 0.075
+    cy: 0.71428573
+  - name: N$477
+    svgId: connector537pin
+    pinName: connector537pin
+    cx: 0.125
+    cy: 0.0952381
+  - name: N$478
+    svgId: connector538pin
+    pinName: connector538pin
+    cx: 0.099999994
+    cy: 0.0952381
+  - name: N$479
+    svgId: connector539pin
+    pinName: connector539pin
+    cx: 0.075
+    cy: 0.0952381
+  - name: N$480
+    svgId: connector540pin
+    pinName: connector540pin
+    cx: 0.049999997
+    cy: 0.0952381
+  - name: N$481
+    svgId: connector541pin
+    pinName: connector541pin
+    cx: 0.049999997
+    cy: 0.04761905
+  - name: N$482
+    svgId: connector542pin
+    pinName: connector542pin
+    cx: 0.075
+    cy: 0.04761905
+  - name: N$483
+    svgId: connector543pin
+    pinName: connector543pin
+    cx: 0.099999994
+    cy: 0.04761905
+  - name: N$484
+    svgId: connector544pin
+    pinName: connector544pin
+    cx: 0.17500001
+    cy: 0.0952381
+  - name: N$492
+    svgId: connector545pin
+    pinName: connector545pin
+    cx: 0.024999999
+    cy: 0.7619048
+  - name: N$493
+    svgId: connector546pin
+    pinName: connector546pin
+    cx: 0.024999999
+    cy: 0.71428573
+  - name: N$495
+    svgId: connector547pin
+    pinName: connector547pin
+    cx: 0.024999999
+    cy: 0.1904762
+  - name: N$496
+    svgId: connector548pin
+    pinName: connector548pin
+    cx: 0.024999999
+    cy: 0.23809524
+  - name: N$497
+    svgId: connector549pin
+    pinName: connector549pin
+    cx: 0.024999999
+    cy: 0.14285715
+  - name: N$498
+    svgId: connector550pin
+    pinName: connector550pin
+    cx: 0.024999999
+    cy: 0.0952381
+  - name: N$499
+    svgId: connector551pin
+    pinName: connector551pin
+    cx: 0.024999999
+    cy: 0.04761905
+  - name: N$500
+    svgId: connector552pin
+    pinName: connector552pin
+    cx: 0.075
+    cy: 0.47619048
+  - name: N$501
+    svgId: connector553pin
+    pinName: connector553pin
+    cx: 0.049999997
+    cy: 0.5238095

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: ID-12_20 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: ID-12_20
+  icon: {fileID: 0}
+  realWorldWidth: 99.4347
+  realWorldHeight: 120.00001
+  pins:
+  - name: +_-
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.75142086
+    cy: 0.041666668
+  - name: 5V
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.34914672
+    cy: 0.041666668
+  - name: ANT1
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.44971526
+    cy: 0.9583333
+  - name: ANT2
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.5502838
+    cy: 0.9583333
+  - name: CP
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.6508523
+    cy: 0.9583333
+  - name: D0
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.5502838
+    cy: 0.041666668
+  - name: D1
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.6508523
+    cy: 0.041666668
+  - name: FUTURE
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.75142086
+    cy: 0.9583333
+  - name: GNDT
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.2485782
+    cy: 0.9583333
+  - name: LED
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.44971526
+    cy: 0.041666668
+  - name: RES
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.34914672
+    cy: 0.9583333

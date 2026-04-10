@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun_Roshamglo
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun_Roshamglo
+  icon: {fileID: 0}
+  realWorldWidth: 144.024
+  realWorldHeight: 285
+  pins:
+  - name: N$14
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.0626537
+    cy: 0.22807017
+  - name: 3.3V
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.11173901
+    cy: 0.25288013
+  - name: 0
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.0626537
+    cy: 0.736847
+  - name: 1
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.0626537
+    cy: 0.7017544
+  - name: 2
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.0626537
+    cy: 0.6666715
+  - name: 3
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.0626537
+    cy: 0.6315838
+  - name: 3.3V
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.0626537
+    cy: 0.5964961
+  - name: VIN
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.0626537
+    cy: 0.5614084
+  - name: GND
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.96527386
+    cy: 0.736847
+  - name: 4
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.96527386
+    cy: 0.7017544
+  - name: 5
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.96527386
+    cy: 0.6666715
+  - name: 6
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.96527386
+    cy: 0.6315838
+  - name: 7
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.96527386
+    cy: 0.5964961
+  - name: 8
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.96527386
+    cy: 0.5614084
+  - name: '!RESET'
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.96527386
+    cy: 0.5263158

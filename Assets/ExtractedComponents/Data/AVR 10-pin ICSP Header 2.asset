@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: AVR 10-pin ICSP Header 2
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: AVR 10-pin ICSP Header
+  icon: {fileID: 0}
+  realWorldWidth: 57.6
+  realWorldHeight: 36.918
+  pins:
+  - name: 1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.2497743
+    cy: 0.7388537
+  - name: 2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.2497743
+    cy: 0.5437998
+  - name: 3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.3747743
+    cy: 0.7388537
+  - name: 4
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.3747743
+    cy: 0.5437998
+  - name: 5
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.49977434
+    cy: 0.7388537
+  - name: 6
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.49977434
+    cy: 0.5438269
+  - name: 7
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.624809
+    cy: 0.7388537
+  - name: 8
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.624809
+    cy: 0.5437998
+  - name: 9
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.7497917
+    cy: 0.7388537
+  - name: 10
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.7497917
+    cy: 0.5437998

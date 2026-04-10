@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: MAGJACK-2
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: MAGJACK-2
+  icon: {fileID: 0}
+  realWorldWidth: 84.1236
+  realWorldHeight: 100
+  pins:
+  - name: GLED+
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.3811273
+    cy: 0.05
+  - name: GLED-
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.5
+    cy: 0.05
+  - name: RCT
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.5
+    cy: 0.95
+  - name: RD+
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.14338188
+    cy: 0.95
+  - name: RD-
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.61887276
+    cy: 0.95
+  - name: SHIELD
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.61887276
+    cy: 0.05
+  - name: TCT
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.85661817
+    cy: 0.95
+  - name: TD+
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.73774546
+    cy: 0.95
+  - name: TD-
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.85661817
+    cy: 0.05
+  - name: YLED+
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.14338188
+    cy: 0.05
+  - name: YLED-
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.26225457
+    cy: 0.05

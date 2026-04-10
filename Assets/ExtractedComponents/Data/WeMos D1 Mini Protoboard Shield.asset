@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: WeMos D1 Mini Protoboard Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: WeMos D1 Mini Protoboard Shield
+  icon: {fileID: 0}
+  realWorldWidth: 100.7874
+  realWorldHeight: 111.41732
+  pins:
+  - name: RST
+    svgId: rstpin
+    pinName: rstpin
+    cx: 0
+    cy: 0
+  - name: A0
+    svgId: a0pin
+    pinName: a0pin
+    cx: 0
+    cy: 0
+  - name: D0
+    svgId: d0pin
+    pinName: d0pin
+    cx: 0
+    cy: 0
+  - name: D5
+    svgId: d5pin
+    pinName: d5pin
+    cx: 0
+    cy: 0
+  - name: D6
+    svgId: d6pin
+    pinName: d6pin
+    cx: 0
+    cy: 0
+  - name: D7
+    svgId: d7pin
+    pinName: d7pin
+    cx: 0
+    cy: 0
+  - name: D8
+    svgId: d8pin
+    pinName: d8pin
+    cx: 0
+    cy: 0
+  - name: 3V3
+    svgId: 3v3pin
+    pinName: 3v3pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: 5vpin
+    pinName: 5vpin
+    cx: 0
+    cy: 0
+  - name: G
+    svgId: gpin
+    pinName: gpin
+    cx: 0
+    cy: 0
+  - name: D4
+    svgId: d4pin
+    pinName: d4pin
+    cx: 0
+    cy: 0
+  - name: D3
+    svgId: d3pin
+    pinName: d3pin
+    cx: 0
+    cy: 0
+  - name: D2
+    svgId: d2pin
+    pinName: d2pin
+    cx: 0
+    cy: 0
+  - name: D1
+    svgId: d1pin
+    pinName: d1pin
+    cx: 0
+    cy: 0
+  - name: RX
+    svgId: rxpin
+    pinName: rxpin
+    cx: 0
+    cy: 0
+  - name: TX
+    svgId: txpin
+    pinName: txpin
+    cx: 0
+    cy: 0
+  - name: X1-Y10
+    svgId: x1-y10pin
+    pinName: x1-y10pin
+    cx: 0
+    cy: 0
+  - name: X1-Y11
+    svgId: x1-y11pin
+    pinName: x1-y11pin
+    cx: 0
+    cy: 0
+  - name: X2-Y1
+    svgId: x2-y1pin
+    pinName: x2-y1pin
+    cx: 0
+    cy: 0
+  - name: X2-Y2
+    svgId: x2-y2pin
+    pinName: x2-y2pin
+    cx: 0
+    cy: 0
+  - name: X2-Y3
+    svgId: x2-y3pin
+    pinName: x2-y3pin
+    cx: 0
+    cy: 0
+  - name: X2-Y4
+    svgId: x2-y4pin
+    pinName: x2-y4pin
+    cx: 0
+    cy: 0
+  - name: X2-Y5
+    svgId: x2-y5pin
+    pinName: x2-y5pin
+    cx: 0
+    cy: 0
+  - name: X2-Y6
+    svgId: x2-y6pin
+    pinName: x2-y6pin
+    cx: 0
+    cy: 0
+  - name: X2-Y7
+    svgId: x2-y7pin
+    pinName: x2-y7pin
+    cx: 0
+    cy: 0
+  - name: X2-Y8
+    svgId: x2-y8pin
+    pinName: x2-y8pin
+    cx: 0
+    cy: 0
+  - name: X2-Y9
+    svgId: x2-y9pin
+    pinName: x2-y9pin
+    cx: 0
+    cy: 0
+  - name: X2-Y10
+    svgId: x2-y10pin
+    pinName: x2-y10pin
+    cx: 0
+    cy: 0
+  - name: X2-Y11
+    svgId: x2-y11pin
+    pinName: x2-y11pin
+    cx: 0
+    cy: 0
+  - name: X3-Y1
+    svgId: x3-y1pin
+    pinName: x3-y1pin
+    cx: 0
+    cy: 0
+  - name: X3-Y2
+    svgId: x3-y2pin
+    pinName: x3-y2pin
+    cx: 0
+    cy: 0
+  - name: X3-Y3
+    svgId: x3-y3pin
+    pinName: x3-y3pin
+    cx: 0
+    cy: 0
+  - name: X3-Y4
+    svgId: x3-y4pin
+    pinName: x3-y4pin
+    cx: 0
+    cy: 0
+  - name: X3-Y5
+    svgId: x3-y5pin
+    pinName: x3-y5pin
+    cx: 0
+    cy: 0
+  - name: X3-Y6
+    svgId: x3-y6pin
+    pinName: x3-y6pin
+    cx: 0
+    cy: 0
+  - name: X3-Y7
+    svgId: x3-y7pin
+    pinName: x3-y7pin
+    cx: 0
+    cy: 0
+  - name: X3-Y8
+    svgId: x3-y8pin
+    pinName: x3-y8pin
+    cx: 0
+    cy: 0
+  - name: X3-Y9
+    svgId: x3-y9pin
+    pinName: x3-y9pin
+    cx: 0
+    cy: 0
+  - name: X3-Y10
+    svgId: x3-y10pin
+    pinName: x3-y10pin
+    cx: 0
+    cy: 0
+  - name: X3-Y11
+    svgId: x3-y11pin
+    pinName: x3-y11pin
+    cx: 0
+    cy: 0
+  - name: X4-Y1
+    svgId: x4-y1pin
+    pinName: x4-y1pin
+    cx: 0
+    cy: 0
+  - name: X4-Y2
+    svgId: x4-y2pin
+    pinName: x4-y2pin
+    cx: 0
+    cy: 0
+  - name: X4-Y3
+    svgId: x4-y3pin
+    pinName: x4-y3pin
+    cx: 0
+    cy: 0
+  - name: X4-Y4
+    svgId: x4-y4pin
+    pinName: x4-y4pin
+    cx: 0
+    cy: 0
+  - name: X4-Y5
+    svgId: x4-y5pin
+    pinName: x4-y5pin
+    cx: 0
+    cy: 0
+  - name: X4-Y6
+    svgId: x4-y6pin
+    pinName: x4-y6pin
+    cx: 0
+    cy: 0
+  - name: X4-Y7
+    svgId: x4-y7pin
+    pinName: x4-y7pin
+    cx: 0
+    cy: 0
+  - name: X4-Y8
+    svgId: x4-y8pin
+    pinName: x4-y8pin
+    cx: 0
+    cy: 0
+  - name: X4-Y9
+    svgId: x4-y9pin
+    pinName: x4-y9pin
+    cx: 0
+    cy: 0
+  - name: X4-Y10
+    svgId: x4-y10pin
+    pinName: x4-y10pin
+    cx: 0
+    cy: 0
+  - name: X4-Y11
+    svgId: x4-y11pin
+    pinName: x4-y11pin
+    cx: 0
+    cy: 0
+  - name: X5-Y1
+    svgId: x5-y1pin
+    pinName: x5-y1pin
+    cx: 0
+    cy: 0
+  - name: X5-Y2
+    svgId: x5-y2pin
+    pinName: x5-y2pin
+    cx: 0
+    cy: 0
+  - name: X5-Y3
+    svgId: x5-y3pin
+    pinName: x5-y3pin
+    cx: 0
+    cy: 0
+  - name: X5-Y4
+    svgId: x5-y4pin
+    pinName: x5-y4pin
+    cx: 0
+    cy: 0
+  - name: X5-Y5
+    svgId: x5-y5pin
+    pinName: x5-y5pin
+    cx: 0
+    cy: 0
+  - name: X5-Y6
+    svgId: x5-y6pin
+    pinName: x5-y6pin
+    cx: 0
+    cy: 0
+  - name: X5-Y7
+    svgId: x5-y7pin
+    pinName: x5-y7pin
+    cx: 0
+    cy: 0
+  - name: X5-Y8
+    svgId: x5-y8pin
+    pinName: x5-y8pin
+    cx: 0
+    cy: 0
+  - name: X5-Y9
+    svgId: x5-y9pin
+    pinName: x5-y9pin
+    cx: 0
+    cy: 0
+  - name: X5-Y10
+    svgId: x5-y10pin
+    pinName: x5-y10pin
+    cx: 0
+    cy: 0
+  - name: X5-Y11
+    svgId: x5-y11pin
+    pinName: x5-y11pin
+    cx: 0
+    cy: 0
+  - name: X6-Y1
+    svgId: x6-y1pin
+    pinName: x6-y1pin
+    cx: 0
+    cy: 0
+  - name: X6-Y2
+    svgId: x6-y2pin
+    pinName: x6-y2pin
+    cx: 0
+    cy: 0
+  - name: X6-Y3
+    svgId: x6-y3pin
+    pinName: x6-y3pin
+    cx: 0
+    cy: 0
+  - name: X6-Y4
+    svgId: x6-y4pin
+    pinName: x6-y4pin
+    cx: 0
+    cy: 0
+  - name: X6-Y5
+    svgId: x6-y5pin
+    pinName: x6-y5pin
+    cx: 0
+    cy: 0
+  - name: X6-Y6
+    svgId: x6-y6pin
+    pinName: x6-y6pin
+    cx: 0
+    cy: 0
+  - name: X6-Y7
+    svgId: x6-y7pin
+    pinName: x6-y7pin
+    cx: 0
+    cy: 0
+  - name: X6-Y8
+    svgId: x6-y8pin
+    pinName: x6-y8pin
+    cx: 0
+    cy: 0
+  - name: X6-Y9
+    svgId: x6-y9pin
+    pinName: x6-y9pin
+    cx: 0
+    cy: 0
+  - name: X6-Y10
+    svgId: x6-y10pin
+    pinName: x6-y10pin
+    cx: 0
+    cy: 0
+  - name: X6-Y11
+    svgId: x6-y11pin
+    pinName: x6-y11pin
+    cx: 0
+    cy: 0
+  - name: X7-Y1
+    svgId: x7-y1pin
+    pinName: x7-y1pin
+    cx: 0
+    cy: 0
+  - name: X7-Y2
+    svgId: x7-y2pin
+    pinName: x7-y2pin
+    cx: 0
+    cy: 0
+  - name: X7-Y3
+    svgId: x7-y3pin
+    pinName: x7-y3pin
+    cx: 0
+    cy: 0
+  - name: X7-Y4
+    svgId: x7-y4pin
+    pinName: x7-y4pin
+    cx: 0
+    cy: 0
+  - name: X7-Y5
+    svgId: x7-y5pin
+    pinName: x7-y5pin
+    cx: 0
+    cy: 0
+  - name: X7-Y6
+    svgId: x7-y6pin
+    pinName: x7-y6pin
+    cx: 0
+    cy: 0
+  - name: X7-Y7
+    svgId: x7-y7pin
+    pinName: x7-y7pin
+    cx: 0
+    cy: 0
+  - name: X7-Y8
+    svgId: x7-y8pin
+    pinName: x7-y8pin
+    cx: 0
+    cy: 0
+  - name: X7-Y9
+    svgId: x7-y9pin
+    pinName: x7-y9pin
+    cx: 0
+    cy: 0
+  - name: X7-Y10
+    svgId: x7-y10pin
+    pinName: x7-y10pin
+    cx: 0
+    cy: 0
+  - name: X7-Y11
+    svgId: x7-y11pin
+    pinName: x7-y11pin
+    cx: 0
+    cy: 0
+  - name: X8-Y9
+    svgId: x8-y9pin
+    pinName: x8-y9pin
+    cx: 0
+    cy: 0
+  - name: X8-Y10
+    svgId: x8-y10pin
+    pinName: x8-y10pin
+    cx: 0
+    cy: 0
+  - name: X8-Y11
+    svgId: x8-y11pin
+    pinName: x8-y11pin
+    cx: 0
+    cy: 0
+  - name: X9-Y10
+    svgId: x9-y10pin
+    pinName: x9-y10pin
+    cx: 0
+    cy: 0
+  - name: X9-Y11
+    svgId: x9-y11pin
+    pinName: x9-y11pin
+    cx: 0
+    cy: 0

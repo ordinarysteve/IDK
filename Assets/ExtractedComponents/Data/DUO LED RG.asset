@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: DUO LED RG
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: DUO LED RG
+  icon: {fileID: 0}
+  realWorldWidth: 23.76
+  realWorldHeight: 32.551
+  pins:
+  - name: green anode
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.79848486
+    cy: 0.99777275
+  - name: red anode
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.19326599
+    cy: 0.9986176
+  - name: common cathode
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.49638045
+    cy: 0.99514616

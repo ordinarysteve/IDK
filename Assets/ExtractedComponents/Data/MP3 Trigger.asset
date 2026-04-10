@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: MP3 Trigger
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: MP3 Trigger
+  icon: {fileID: 0}
+  realWorldWidth: 230
+  realWorldHeight: 274.587
+  pins:
+  - name: NC1
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.91304344
+    cy: 0.5790352
+  - name: TX
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.91304344
+    cy: 0.54261696
+  - name: RX-I
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.91304344
+    cy: 0.5061987
+  - name: USBVCC
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.91304344
+    cy: 0.46978092
+  - name: NC2
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.91304344
+    cy: 0.43336266
+  - name: GND
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.91304344
+    cy: 0.39694437
+  - name: VBUS
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.5
+    cy: 0.41515353
+  - name: GND
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.54347825
+    cy: 0.41515353
+  - name: XRES
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.5869565
+    cy: 0.41515353
+  - name: TRIG18
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.63043475
+    cy: 0.41515353
+  - name: TRIG17
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.673913
+    cy: 0.41515353
+  - name: GND
+    svgId: connector265pin
+    pinName: connector265pin
+    cx: 0.021739129
+    cy: 0.19664447
+  - name: GND
+    svgId: connector266pin
+    pinName: connector266pin
+    cx: 0.021739129
+    cy: 0.23306273
+  - name: GND
+    svgId: connector267pin
+    pinName: connector267pin
+    cx: 0.021739129
+    cy: 0.26948097
+  - name: GND
+    svgId: connector268pin
+    pinName: connector268pin
+    cx: 0.021739129
+    cy: 0.30589923
+  - name: GND
+    svgId: connector269pin
+    pinName: connector269pin
+    cx: 0.021739129
+    cy: 0.34231752
+  - name: GND
+    svgId: connector270pin
+    pinName: connector270pin
+    cx: 0.021739129
+    cy: 0.37873527
+  - name: GND
+    svgId: connector271pin
+    pinName: connector271pin
+    cx: 0.021739129
+    cy: 0.41515353
+  - name: GND
+    svgId: connector272pin
+    pinName: connector272pin
+    cx: 0.021739129
+    cy: 0.4515718
+  - name: GND
+    svgId: connector273pin
+    pinName: connector273pin
+    cx: 0.021739129
+    cy: 0.48799005
+  - name: GND
+    svgId: connector274pin
+    pinName: connector274pin
+    cx: 0.021739129
+    cy: 0.5244078
+  - name: GND
+    svgId: connector275pin
+    pinName: connector275pin
+    cx: 0.021739129
+    cy: 0.56082606
+  - name: GND
+    svgId: connector276pin
+    pinName: connector276pin
+    cx: 0.021739129
+    cy: 0.5972444
+  - name: GND
+    svgId: connector277pin
+    pinName: connector277pin
+    cx: 0.021739129
+    cy: 0.6336626
+  - name: GND
+    svgId: connector278pin
+    pinName: connector278pin
+    cx: 0.021739129
+    cy: 0.6700809
+  - name: GND
+    svgId: connector279pin
+    pinName: connector279pin
+    cx: 0.021739129
+    cy: 0.70649916
+  - name: GND
+    svgId: connector280pin
+    pinName: connector280pin
+    cx: 0.021739129
+    cy: 0.7429174
+  - name: GND
+    svgId: connector281pin
+    pinName: connector281pin
+    cx: 0.021739129
+    cy: 0.7793356
+  - name: GND
+    svgId: connector282pin
+    pinName: connector282pin
+    cx: 0.021739129
+    cy: 0.8157539
+  - name: T18
+    svgId: connector283pin
+    pinName: connector283pin
+    cx: 0.06521739
+    cy: 0.19664447
+  - name: T17
+    svgId: connector284pin
+    pinName: connector284pin
+    cx: 0.06521739
+    cy: 0.23306273
+  - name: T16
+    svgId: connector285pin
+    pinName: connector285pin
+    cx: 0.06521739
+    cy: 0.26948097
+  - name: T15
+    svgId: connector286pin
+    pinName: connector286pin
+    cx: 0.06521739
+    cy: 0.30589923
+  - name: T14
+    svgId: connector287pin
+    pinName: connector287pin
+    cx: 0.06521739
+    cy: 0.34231752
+  - name: T13
+    svgId: connector288pin
+    pinName: connector288pin
+    cx: 0.06521739
+    cy: 0.37873527
+  - name: T12
+    svgId: connector289pin
+    pinName: connector289pin
+    cx: 0.06521739
+    cy: 0.41515353
+  - name: T11
+    svgId: connector290pin
+    pinName: connector290pin
+    cx: 0.06521739
+    cy: 0.4515718
+  - name: T10
+    svgId: connector291pin
+    pinName: connector291pin
+    cx: 0.06521739
+    cy: 0.48799005
+  - name: T9
+    svgId: connector292pin
+    pinName: connector292pin
+    cx: 0.06521739
+    cy: 0.5244078
+  - name: T8
+    svgId: connector293pin
+    pinName: connector293pin
+    cx: 0.06521739
+    cy: 0.56082606
+  - name: T7
+    svgId: connector294pin
+    pinName: connector294pin
+    cx: 0.06521739
+    cy: 0.5972444
+  - name: T6
+    svgId: connector295pin
+    pinName: connector295pin
+    cx: 0.06521739
+    cy: 0.6336626
+  - name: T5
+    svgId: connector296pin
+    pinName: connector296pin
+    cx: 0.06521739
+    cy: 0.6700809
+  - name: T4
+    svgId: connector297pin
+    pinName: connector297pin
+    cx: 0.06521739
+    cy: 0.70649916
+  - name: T3
+    svgId: connector298pin
+    pinName: connector298pin
+    cx: 0.06521739
+    cy: 0.7429174
+  - name: T2
+    svgId: connector299pin
+    pinName: connector299pin
+    cx: 0.06521739
+    cy: 0.7793356
+  - name: T1
+    svgId: connector300pin
+    pinName: connector300pin
+    cx: 0.06521739
+    cy: 0.8157539

@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: LED Charlieplexed Matrix - 9x16 5
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: LED Charlieplexed Matrix - 9x16
+  icon: {fileID: 0}
+  realWorldWidth: 175.5
+  realWorldHeight: 110
+  pins:
+  - name: VCC
+    svgId: connector315pin
+    pinName: connector315pin
+    cx: 0.03133903
+    cy: 0.77727276
+  - name: VCC
+    svgId: connector316pin
+    pinName: connector316pin
+    cx: 0.17378916
+    cy: 0.9545455
+  - name: SCL
+    svgId: connector313pin
+    pinName: connector313pin
+    cx: 0.03133903
+    cy: 0.5954546
+  - name: SCL
+    svgId: connector318pin
+    pinName: connector318pin
+    cx: 0.2877493
+    cy: 0.9545455
+  - name: SDA
+    svgId: connector312pin
+    pinName: connector312pin
+    cx: 0.03133903
+    cy: 0.50454545
+  - name: SDA
+    svgId: connector319pin
+    pinName: connector319pin
+    cx: 0.34472936
+    cy: 0.9545455
+  - name: B1
+    svgId: connector320pin
+    pinName: connector320pin
+    cx: 0.40170938
+    cy: 0.9545455
+  - name: B2
+    svgId: connector321pin
+    pinName: connector321pin
+    cx: 0.45868945
+    cy: 0.9545455
+  - name: B3
+    svgId: connector322pin
+    pinName: connector322pin
+    cx: 0.5156695
+    cy: 0.9545455
+  - name: B4
+    svgId: connector323pin
+    pinName: connector323pin
+    cx: 0.5726496
+    cy: 0.9545455
+  - name: B5
+    svgId: connector324pin
+    pinName: connector324pin
+    cx: 0.6296296
+    cy: 0.9545455
+  - name: B6
+    svgId: connector325pin
+    pinName: connector325pin
+    cx: 0.6866097
+    cy: 0.9545455
+  - name: B7
+    svgId: connector326pin
+    pinName: connector326pin
+    cx: 0.74358976
+    cy: 0.9545455
+  - name: B8
+    svgId: connector327pin
+    pinName: connector327pin
+    cx: 0.80056983
+    cy: 0.9545455
+  - name: B9
+    svgId: connector328pin
+    pinName: connector328pin
+    cx: 0.85754985
+    cy: 0.9545455
+  - name: A1
+    svgId: connector296pin
+    pinName: connector296pin
+    cx: 0.17094018
+    cy: 0.045454547
+  - name: A2
+    svgId: connector297pin
+    pinName: connector297pin
+    cx: 0.22792022
+    cy: 0.045454547
+  - name: A3
+    svgId: connector298pin
+    pinName: connector298pin
+    cx: 0.28490028
+    cy: 0.045454547
+  - name: A4
+    svgId: connector299pin
+    pinName: connector299pin
+    cx: 0.34188035
+    cy: 0.045454547
+  - name: A5
+    svgId: connector300pin
+    pinName: connector300pin
+    cx: 0.3988604
+    cy: 0.045454547
+  - name: A6
+    svgId: connector301pin
+    pinName: connector301pin
+    cx: 0.45584044
+    cy: 0.045454547
+  - name: A7
+    svgId: connector302pin
+    pinName: connector302pin
+    cx: 0.51282054
+    cy: 0.045454547
+  - name: A8
+    svgId: connector303pin
+    pinName: connector303pin
+    cx: 0.56980056
+    cy: 0.045454547
+  - name: A9
+    svgId: connector304pin
+    pinName: connector304pin
+    cx: 0.6267806
+    cy: 0.045454547
+  - name: SHUTD
+    svgId: connector309pin
+    pinName: connector309pin
+    cx: 0.03133903
+    cy: 0.2318182
+  - name: SHUTD
+    svgId: connector305pin
+    pinName: connector305pin
+    cx: 0.6837607
+    cy: 0.045454547
+  - name: INTB
+    svgId: connector310pin
+    pinName: connector310pin
+    cx: 0.03133903
+    cy: 0.3227273
+  - name: INTB
+    svgId: connector306pin
+    pinName: connector306pin
+    cx: 0.7407407
+    cy: 0.045454547
+  - name: ADDR
+    svgId: connector307pin
+    pinName: connector307pin
+    cx: 0.7977208
+    cy: 0.045454547
+  - name: AUDIO
+    svgId: connector308pin
+    pinName: connector308pin
+    cx: 0.85470086
+    cy: 0.045454547
+  - name: AUDIO
+    svgId: connector311pin
+    pinName: connector311pin
+    cx: 0.03133903
+    cy: 0.41363636
+  - name: GND
+    svgId: connector314pin
+    pinName: connector314pin
+    cx: 0.03133903
+    cy: 0.6863637
+  - name: GND
+    svgId: connector317pin
+    pinName: connector317pin
+    cx: 0.23076923
+    cy: 0.9545455

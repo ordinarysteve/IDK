@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun Load Sensor Combinator
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun Load Sensor Combinator
+  icon: {fileID: 0}
+  realWorldWidth: 79.2
+  realWorldHeight: 109.814
+  pins:
+  - name: 1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.7727273
+    cy: 0.6393993
+  - name: 2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.7727273
+    cy: 0.70495564
+  - name: E-
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.7727273
+    cy: 0.7705301
+  - name: N$1
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.5908965
+    cy: 0.6393993
+  - name: 2
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.5908965
+    cy: 0.70495564
+  - name: A-
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.5908965
+    cy: 0.7705301
+  - name: 1
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.40909094
+    cy: 0.6393993
+  - name: 2
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.40909094
+    cy: 0.70495564
+  - name: A+
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.40909094
+    cy: 0.7705301
+  - name: N$1
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.22727273
+    cy: 0.6393993
+  - name: 2
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.22727273
+    cy: 0.70495564
+  - name: E+
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.22727273
+    cy: 0.7705301
+  - name: E+
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.6818182
+    cy: 0.96721727
+  - name: E-
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.5908965
+    cy: 0.96721727
+  - name: A-
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.5
+    cy: 0.96721727
+  - name: A+
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.40909094
+    cy: 0.96721727
+  - name: 5
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.31818184
+    cy: 0.96721727
+  - name: GND
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.9545455
+    cy: 0.3771286
+  - name: TEMP_DAT
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.9545455
+    cy: 0.44270313
+  - name: 5V
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.9545455
+    cy: 0.5082594

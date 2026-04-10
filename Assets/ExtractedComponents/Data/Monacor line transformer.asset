@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Monacor line transformer
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Monacor line transformer
+  icon: {fileID: 0}
+  realWorldWidth: 73.701
+  realWorldHeight: 94.918
+  pins:
+  - name: 03
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.50000685
+    cy: 0.95527714
+  - name: 02
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.695418
+    cy: 0.95528775
+  - name: 01
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.6953773
+    cy: 0.037927475
+  - name: 08
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.5000475
+    cy: 0.037927475
+  - name: 05
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.10922512
+    cy: 0.95528775
+  - name: 07
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.3045956
+    cy: 0.037927475
+  - name: 04
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.3045956
+    cy: 0.95527714
+  - name: 06
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.10922512
+    cy: 0.037927475
+  - name: GND
+    svgId: connector130pin
+    pinName: connector130pin
+    cx: 0.8907885
+    cy: 0.95528775
+  - name: GND
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0.89074785
+    cy: 0.037927475

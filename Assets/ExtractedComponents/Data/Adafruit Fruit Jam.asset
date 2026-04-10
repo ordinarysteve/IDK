@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit Fruit Jam
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit Fruit Jam
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: 3.3V
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0
+    cy: 0
+  - name: 5.0V
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0
+    cy: 0
+  - name: 5.0V
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0
+    cy: 0
+  - name: 5.0V
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0
+    cy: 0
+  - name: 5.0V
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector301pin
+    pinName: connector301pin
+    cx: 0
+    cy: 0
+  - name: SPKP
+    svgId: connector617pin
+    pinName: connector617pin
+    cx: 0
+    cy: 0
+  - name: SPKN
+    svgId: connector616pin
+    pinName: connector616pin
+    cx: 0
+    cy: 0
+  - name: A0_JST1
+    svgId: connector302pin
+    pinName: connector302pin
+    cx: 0
+    cy: 0
+  - name: '!RESET'
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0
+    cy: 0
+  - name: PERIPH_RST
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0
+    cy: 0
+  - name: SCK
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0
+    cy: 0
+  - name: MISO
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0
+    cy: 0
+  - name: MOSI
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0
+    cy: 0
+  - name: D+3
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0
+    cy: 0
+  - name: D-3
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0
+    cy: 0
+  - name: USBBOOT/BUTTON1
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector149pin
+    pinName: connector149pin
+    cx: 0
+    cy: 0
+  - name: SWCLK
+    svgId: connector129pin
+    pinName: connector129pin
+    cx: 0
+    cy: 0
+  - name: SWDIO
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0
+    cy: 0
+  - name: I2S_ESP_IRQ
+    svgId: connector134pin
+    pinName: connector134pin
+    cx: 0
+    cy: 0
+  - name: A1
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0
+    cy: 0
+  - name: A2
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0
+    cy: 0
+  - name: A3
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0
+    cy: 0
+  - name: A4
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0
+    cy: 0
+  - name: A5
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0
+    cy: 0
+  - name: D6
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0
+    cy: 0
+  - name: D7
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0
+    cy: 0
+  - name: D8/TX1
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0
+    cy: 0
+  - name: D9/RX1
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0
+    cy: 0
+  - name: D10
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0
+    cy: 0
+  - name: USBH_D+
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0
+    cy: 0
+  - name: USBH_D-
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector130pin
+    pinName: connector130pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector300pin
+    pinName: connector300pin
+    cx: 0
+    cy: 0

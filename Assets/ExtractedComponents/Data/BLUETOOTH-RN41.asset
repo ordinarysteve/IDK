@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: BLUETOOTH-RN41
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: BLUETOOTH-RN41
+  icon: {fileID: 0}
+  realWorldWidth: 180
+  realWorldHeight: 60.000004
+  pins:
+  - name: AIO1
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.083333336
+    cy: 0.083333336
+  - name: AIO2
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.3611111
+    cy: 0.083333336
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.027777778
+    cy: 0.9166667
+  - name: GND1
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.6388917
+    cy: 0.9166667
+  - name: GND2
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.6388917
+    cy: 0.083333336
+  - name: GND3
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.5277778
+    cy: 0.083333336
+  - name: GND4
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.4722222
+    cy: 0.083333336
+  - name: GND5
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.41666666
+    cy: 0.083333336
+  - name: NC
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.5833361
+    cy: 0.083333336
+  - name: PCMCLK
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.3611111
+    cy: 0.9166667
+  - name: PCMIN
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.4722222
+    cy: 0.9166667
+  - name: PCMOUT
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.5277778
+    cy: 0.9166667
+  - name: PCMSYNC
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.41666666
+    cy: 0.9166667
+  - name: PIO10
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.19444445
+    cy: 0.083333336
+  - name: PIO11
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.1388889
+    cy: 0.083333336
+  - name: PIO2
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.972225
+    cy: 0.083333336
+  - name: PIO3
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.9166694
+    cy: 0.083333336
+  - name: PIO4
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.8055583
+    cy: 0.083333336
+  - name: PIO5
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.8611139
+    cy: 0.083333336
+  - name: PIO6
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.1388889
+    cy: 0.9166667
+  - name: PIO7
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.19444445
+    cy: 0.9166667
+  - name: PIO8
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.30555555
+    cy: 0.083333336
+  - name: PIO9
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.25
+    cy: 0.083333336
+  - name: RESET
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.25
+    cy: 0.9166667
+  - name: SPICLK
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.30555555
+    cy: 0.9166667
+  - name: SPICSB
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.7500028
+    cy: 0.083333336
+  - name: SPIMISO
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.6944472
+    cy: 0.083333336
+  - name: SPIMOSI
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.083333336
+    cy: 0.9166667
+  - name: UARTCTS
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.8611139
+    cy: 0.9166667
+  - name: UARTRTS
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.8055583
+    cy: 0.9166667
+  - name: UARTRX
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.6944472
+    cy: 0.9166667
+  - name: UARTTX
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.7500028
+    cy: 0.9166667
+  - name: USBD+
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.9166694
+    cy: 0.9166667
+  - name: USBD-
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.972225
+    cy: 0.9166667
+  - name: VDD
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.5833361
+    cy: 0.9166667

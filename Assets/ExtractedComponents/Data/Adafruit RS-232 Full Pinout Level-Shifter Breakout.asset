@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit RS-232 Full Pinout Level-Shifter Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit RS-232 Full Pinout Level-Shifter Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 125
+  realWorldHeight: 135.80708
+  pins:
+  - name: VCC
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.060000002
+    cy: 0.9226844
+  - name: DCD
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.22
+    cy: 0.9226844
+  - name: RXD
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.3
+    cy: 0.9226844
+  - name: TXD
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.38
+    cy: 0.9226844
+  - name: DTR
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.46
+    cy: 0.9226844
+  - name: DSR
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.53999996
+    cy: 0.9226844
+  - name: RTS
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.62
+    cy: 0.9226844
+  - name: CTS
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.7
+    cy: 0.9226844
+  - name: RI
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.78
+    cy: 0.9226844
+  - name: '!INVALID'
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.86
+    cy: 0.9226844
+  - name: '!FORCEOFF'
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.94
+    cy: 0.9226844
+  - name: GND
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.14
+    cy: 0.9226844

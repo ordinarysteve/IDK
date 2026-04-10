@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Audio Jack (TRS) 3.5mm 2
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Audio Jack (TRS) 3.5mm
+  icon: {fileID: 0}
+  realWorldWidth: 47.2444
+  realWorldHeight: 48.675
+  pins:
+  - name: Tip
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.71172386
+    cy: 0.15910518
+  - name: Tip
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.923389
+    cy: 0.15910518
+  - name: Sleeve
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.49914747
+    cy: 0.56962276
+  - name: Ring
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.076728605
+    cy: 0.15910518
+  - name: Ring
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.2884231
+    cy: 0.15910518

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: FRM010
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: FRM010
+  icon: {fileID: 0}
+  realWorldWidth: 90
+  realWorldHeight: 33
+  pins:
+  - name: LCD RS
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.055555556
+    cy: 0.95454544
+  - name: LCD E
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.16666667
+    cy: 0.95454544
+  - name: Serial In
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.2777778
+    cy: 0.95454544
+  - name: Reset
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.3888889
+    cy: 0.95454544
+  - name: 0V
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.5
+    cy: 0.95454544
+  - name: LCD D4
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.6111111
+    cy: 0.95454544
+  - name: LCD D5
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.7222222
+    cy: 0.95454544
+  - name: LCD D6
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.8333333
+    cy: 0.95454544
+  - name: LCD D7
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.9444444
+    cy: 0.95454544
+  - name: JP1 - Welcome Message selection
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.9444444
+    cy: 0.045454547
+  - name: JP2 - Baud Rate selection
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.8333333
+    cy: 0.045454547
+  - name: JP3 - Polarity selection
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.7222222
+    cy: 0.045454547
+  - name: JP4 - Number of Lines selection
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.6111111
+    cy: 0.045454547
+  - name: +V
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.5
+    cy: 0.045454547
+  - name: XTAL
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.3888889
+    cy: 0.045454547
+  - name: XTAL
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.2777778
+    cy: 0.045454547
+  - name: LED
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.16666667
+    cy: 0.045454547
+  - name: LCD PWR
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.055555556
+    cy: 0.045454547

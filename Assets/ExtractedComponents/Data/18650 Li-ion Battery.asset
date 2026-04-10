@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: 18650 Li-ion Battery
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: 18650 Li-ion Battery
+  icon: {fileID: 6192944022281365145, guid: 1aeab10fa4966c3d8885b2bbb257ac15, type: 3}
+  realWorldWidth: 256
+  realWorldHeight: 70.866104
+  pins:
+  - name: '-'
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.038103208
+    cy: 0.4954282
+    pinWidth: 20
+    pinHeight: 60
+  - name: +
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.960576
+    cy: 0.4954282
+    pinWidth: 20
+    pinHeight: 60

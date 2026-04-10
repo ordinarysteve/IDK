@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino Esplora (Rev4)
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino Esplora (Rev4)
+  icon: {fileID: 0}
+  realWorldWidth: 464.93
+  realWorldHeight: 199.055
+  pins:
+  - name: GND
+    svgId: connector130pin
+    pinName: connector130pin
+    cx: 0.040216807
+    cy: 0.15627591
+  - name: INA
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0.024737056
+    cy: 0.15627591
+  - name: 5V
+    svgId: connector132pin
+    pinName: connector132pin
+    cx: 0.009261609
+    cy: 0.15632614
+  - name: GND
+    svgId: connector133pin
+    pinName: connector133pin
+    cx: 0.040216807
+    cy: 0.15627591
+  - name: INB
+    svgId: connector134pin
+    pinName: connector134pin
+    cx: 0.024737056
+    cy: 0.15627591
+  - name: 5V
+    svgId: connector135pin
+    pinName: connector135pin
+    cx: 0.009262685
+    cy: 0.15632614
+  - name: 5V
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0.6629127
+    cy: 0.3561478
+  - name: MISO
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0.6629127
+    cy: 0.39231873
+  - name: SCK
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0.6629127
+    cy: 0.42848963
+  - name: MOSI
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0.6629127
+    cy: 0.46466053
+  - name: D7/LCD_CS
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0.6629127
+    cy: 0.5008365
+  - name: IO8/CARD_CS
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0.6629127
+    cy: 0.5370074
+  - name: IO11/DC_LCD
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0.6629127
+    cy: 0.5731733
+  - name: RST_LCD
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0.6629127
+    cy: 0.6093392
+  - name: 5V
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0.6629127
+    cy: 0.6455151
+  - name: GND
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.6629127
+    cy: 0.681681
+  - name: 11
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.33770245
+    cy: 0.3561478
+  - name: 12
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0.33770245
+    cy: 0.39231873
+  - name: 13
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0.33770245
+    cy: 0.42848963
+  - name: 14
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0.33770245
+    cy: 0.46466053
+  - name: 15
+    svgId: connector175pin
+    pinName: connector175pin
+    cx: 0.33770245
+    cy: 0.5008365
+  - name: 16
+    svgId: connector176pin
+    pinName: connector176pin
+    cx: 0.33770245
+    cy: 0.5370074
+  - name: 17
+    svgId: connector177pin
+    pinName: connector177pin
+    cx: 0.33770245
+    cy: 0.5731733
+  - name: 18
+    svgId: connector178pin
+    pinName: connector178pin
+    cx: 0.33770245
+    cy: 0.6093392
+  - name: 19
+    svgId: connector179pin
+    pinName: connector179pin
+    cx: 0.33770245
+    cy: 0.6455151
+  - name: 20
+    svgId: connector180pin
+    pinName: connector180pin
+    cx: 0.33770245
+    cy: 0.681681
+  - name: GND
+    svgId: connector196pin
+    pinName: connector196pin
+    cx: 0.04021896
+    cy: 0.15628093
+  - name: OUT2
+    svgId: connector197pin
+    pinName: connector197pin
+    cx: 0.024737056
+    cy: 0.15628093
+  - name: 5V
+    svgId: connector198pin
+    pinName: connector198pin
+    cx: 0.009261609
+    cy: 0.15633117
+  - name: GND
+    svgId: connector199pin
+    pinName: connector199pin
+    cx: 0.04021896
+    cy: 0.15628093
+  - name: OUT3
+    svgId: connector200pin
+    pinName: connector200pin
+    cx: 0.024735982
+    cy: 0.15628093
+  - name: 5V
+    svgId: connector201pin
+    pinName: connector201pin
+    cx: 0.009261609
+    cy: 0.15633117

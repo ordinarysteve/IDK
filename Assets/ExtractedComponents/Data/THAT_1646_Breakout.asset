@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: THAT_1646_Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: THAT_1646_Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 215.432
+  realWorldHeight: 80
+  pins:
+  - name: GND
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.023209186
+    cy: 0.6875
+  - name: VNEG
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.019347616
+    cy: 0.5625005
+  - name: VCC
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.023209186
+    cy: 0.43750003
+  - name: IN
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.023209186
+    cy: 0.3125
+  - name: SN
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.81232154
+    cy: 0.9375
+  - name: S
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.81232154
+    cy: 0.0625
+  - name: TN
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.53381133
+    cy: 0.9375
+  - name: RN
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.67306644
+    cy: 0.9375
+  - name: T
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.53381133
+    cy: 0.0625
+  - name: R
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.67306644
+    cy: 0.0625

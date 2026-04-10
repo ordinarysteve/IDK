@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: HDJD-S822-QR999 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: HDJD-S822-QR999
+  icon: {fileID: 0}
+  realWorldWidth: 90
+  realWorldHeight: 60.000004
+  pins:
+  - name: GND
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.16666667
+    cy: 0.9166667
+  - name: GSBLUE0
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.8333333
+    cy: 0.083333336
+  - name: GSBLUE1
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.6111111
+    cy: 0.083333336
+  - name: GSGRN0
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.2777778
+    cy: 0.9166667
+  - name: GSGRN1
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.8333333
+    cy: 0.9166667
+  - name: GSRED0
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.2777778
+    cy: 0.083333336
+  - name: GSRED1
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.6111111
+    cy: 0.9166667
+  - name: TEST_EN
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.5
+    cy: 0.9166667
+  - name: VBOUT
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.7222222
+    cy: 0.083333336
+  - name: VDD3
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.3888889
+    cy: 0.9166667
+  - name: VDD5
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.055555556
+    cy: 0.9166667
+  - name: VGOUT
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.9444444
+    cy: 0.083333336
+  - name: VROUT
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.9444444
+    cy: 0.9166667

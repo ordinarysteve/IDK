@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: LDH-45-350B
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: LDH-45-350B
+  icon: {fileID: 0}
+  realWorldWidth: 212.598
+  realWorldHeight: 179.22
+  pins:
+  - name: Vin+
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.09986924
+    cy: 0.11310122
+  - name: Vin-
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.09986924
+    cy: 0.4254659
+  - name: DIM-
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.09986924
+    cy: 0.520366
+  - name: Analog DIM
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.09986924
+    cy: 0.61526614
+  - name: PWM DIM
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.09986924
+    cy: 0.7101551
+  - name: Vout-
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.9066642
+    cy: 0.7101495
+  - name: Vout+
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.9066642
+    cy: 0.50849795

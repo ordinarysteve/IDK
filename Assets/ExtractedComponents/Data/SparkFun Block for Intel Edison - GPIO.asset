@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun Block for Intel Edison - GPIO
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun Block for Intel Edison - GPIO
+  icon: {fileID: 0}
+  realWorldWidth: 120.139
+  realWorldHeight: 279.583
+  pins:
+  - name: 3.3v
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.33294797
+    cy: 0.661699
+  - name: 1.8v
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.33294797
+    cy: 0.69746643
+  - name: GP131
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.33294797
+    cy: 0.733234
+  - name: GP130
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.33294797
+    cy: 0.7690014
+  - name: GP129
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.33294797
+    cy: 0.804769
+  - name: GP128
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.33294797
+    cy: 0.84053653
+  - name: GP183
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.33294797
+    cy: 0.876304
+  - name: GP182
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.33294797
+    cy: 0.9120715
+  - name: GP12
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.33294797
+    cy: 0.94783896
+  - name: GP13
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.33294797
+    cy: 0.9836065
+  - name: GP14
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.66589594
+    cy: 0.9836065
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.66589594
+    cy: 0.661699
+  - name: VSYS
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.66589594
+    cy: 0.69746643
+  - name: GP44
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.66589594
+    cy: 0.733234
+  - name: GP45
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.66589594
+    cy: 0.7690014
+  - name: GP46
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.66589594
+    cy: 0.804769
+  - name: GP47
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.66589594
+    cy: 0.84053653
+  - name: GP48
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.66589594
+    cy: 0.876304
+  - name: GP49
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.66589594
+    cy: 0.9120715
+  - name: GP15
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.66589594
+    cy: 0.94783896

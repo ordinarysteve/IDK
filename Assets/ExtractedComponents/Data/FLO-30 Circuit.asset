@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: FLO-30 Circuit
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: FLO-30 Circuit
+  icon: {fileID: 0}
+  realWorldWidth: 54.812504
+  realWorldHeight: 80.6083
+  pins:
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.31821868
+    cy: 0.05424033
+  - name: TX
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.5010009
+    cy: 0.054154176
+  - name: RX
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.6838465
+    cy: 0.054154176
+  - name: Vcc
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.31823134
+    cy: 0.9421414
+  - name: PRB
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.5008235
+    cy: 0.9421414
+  - name: GND
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.6838465
+    cy: 0.9420294

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="72" version="1.1" gorn="0"  height="72" id="svg2">
+    <desc >
+        <referenceFile >MicroViewPlain.svg</referenceFile>
+    </desc>
+    <defs  id="defs4"/>
+    <metadata  id="metadata7">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect width="141.30701" x="244.01678" y="-144.06895" fill="#e81e25" gorn="0.3"  height="98.418999" stroke="#45537d" style="stroke-linejoin:round;stroke-miterlimit:10;display:none" id="rect6308" stroke-width="0.53579998"/>
+    <rect width="44.254002" x="255.72079" y="-107.30592" fill="#ffffff" gorn="0.4"  height="31.719999" stroke="#ffffff" style="stroke-miterlimit:10;display:none" id="rect6311" stroke-width="2.14319992"/>
+    <rect width="11.359" x="291.72778" y="-119.95094" fill="#ffffff" gorn="0.5"  height="55.509998" stroke="#ffffff" style="stroke-miterlimit:10;display:none" id="rect6313" stroke-width="2.14319992"/>
+    <path fill="#ffffff" gorn="0.6"  stroke="#ffffff" style="stroke-miterlimit:10;display:none" id="path6315" stroke-width="2.14319992" d="m 376.70679,-64.47695 c 0,5.445 -4.414,9.859 -9.859,9.859 h -53.902 c -5.445,0 -9.859,-4.414 -9.859,-9.859 v -55.189 c 0,-5.445 4.414,-9.859 9.859,-9.859 h 53.903 c 5.445,0 9.859,4.414 9.859,9.859 v 55.189 z"/>
+    <g gorn="0.7"  id="breadboard">
+        <path fill="#141414" gorn="0.7.0"  stroke="none" fill-opacity="1" id="path6319" d="m 71.999023,62.52356 c 0,5.233658 -4.316812,9.47642 -9.641923,9.47642 H 9.641923 C 4.316812,71.99998 0,67.757218 0,62.52356 V 9.4763642 C 0,4.2426788 4.316812,-2.0581056e-5 9.641923,-2.0581056e-5 H 62.358078 C 67.683189,-2.0581056e-5 72,4.2426788 72,9.4763642 V 62.52356 z"/>
+        <g stroke-opacity="1" gorn="0.7.1"  stroke="#3c3c3c" id="g4002" stroke-width="1">
+            <rect width="0.79043078" x="4.0980673" y="67.122421" stroke-opacity="1" fill="none" gorn="0.7.1.0"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector0pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="13.112499" y="67.122421" stroke-opacity="1" fill="none" gorn="0.7.1.1"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector1pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="22.112499" y="67.102158" stroke-opacity="1" fill="none" gorn="0.7.1.2"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector2pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="31.112499" y="67.086044" stroke-opacity="1" fill="none" gorn="0.7.1.3"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector3pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="40.112499" y="67.122421" stroke-opacity="1" fill="none" gorn="0.7.1.4"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector4pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="49.143749" y="67.122421" stroke-opacity="1" fill="none" gorn="0.7.1.5"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector5pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="58.112499" y="67.122421" stroke-opacity="1" fill="none" gorn="0.7.1.6"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector6pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="67.112503" y="67.122421" stroke-opacity="1" fill="none" gorn="0.7.1.7"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector7pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="4.1125002" y="4.1224194" stroke-opacity="1" fill="none" gorn="0.7.1.8"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector15pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="13.12693" y="4.1224194" stroke-opacity="1" fill="none" gorn="0.7.1.9"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector14pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="22.12693" y="4.1021557" stroke-opacity="1" fill="none" gorn="0.7.1.10"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector13pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="40.12693" y="4.1224194" stroke-opacity="1" fill="none" gorn="0.7.1.11"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector11pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="49.158176" y="4.1224194" stroke-opacity="1" fill="none" gorn="0.7.1.12"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector10pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="58.126926" y="4.1224194" stroke-opacity="1" fill="none" gorn="0.7.1.13"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector9pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="67.126938" y="4.1224194" stroke-opacity="1" fill="none" gorn="0.7.1.14"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector8pin" stroke-width="0.08754112"/>
+            <rect width="0.79043078" x="31.112499" y="4.1021557" stroke-opacity="1" fill="none" gorn="0.7.1.15"  height="0.78531766" stroke="#3c3c3c" style="stroke-miterlimit:4;stroke-dasharray:none" id="connector12pin" stroke-width="0.08754112"/>
+        </g>
+        <rect width="50.272175" x="10.863426" y="13.12202" fill="#333333" gorn="0.7.2"  height="39.244488" stroke="none" fill-opacity="1" id="rect6711"/>
+    </g>
+</svg>

@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  id="svg2" gorn="0" version="1.2" y="0in" width="2.8870001in" height="0.25in" x="0in" viewBox="0 0 207.86405 18.000017">
+    <desc >
+        <referenceFile >10264_flexSensor_bb.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata77">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs75"/>
+    <g  id="g4514" gorn="0.3">
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect6" gorn="0.3.0.0.0.0.0" y="-14.256798" style="fill:#8c8c8c" width="22.004" height="1.3244965" x="0.071000002"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect8" gorn="0.3.1.0.0.0.0" y="-7.0720067" style="fill:#8c8c8c" width="22.004" height="1.3237667" x="0.071000002"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  ry="7.1999998" id="rect7-1" gorn="0.3.2.0.0.0.0" y="-18.000017" style="fill:#8d3a2a" width="10.931636" height="18.000017" rx="7.1999998" x="197.27435"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1,0,0,-0.72975014,0,17.269539)">
+            <g >
+                <g >
+                    <g >
+                        <g  y="13.527" style="fill:#8c8c8c" width="1.743" height="1.815" x="0.007"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1,0,0,-0.72975014,0,17.269539)">
+            <g >
+                <g >
+                    <g >
+                        <g  y="6.32999" style="fill:#8c8c8c" width="1.743" height="1.815" x="0.007"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect7" gorn="0.3.5.0.0.0.0" y="-18.000017" style="fill:#8d3a2a" width="188.81148" height="18.000017" x="13.797"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect55" gorn="0.3.6.0.0.0.0" y="-15.905334" style="fill:#dbd9c3" width="2.1374841" height="13.046269" x="202.97862"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect59" gorn="0.3.7.0.0.0.0" y="-12.407221" style="fill:#dbd9c3" width="6" height="9.7297592" x="47.395"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect9" gorn="0.3.8.0.0.0.0" y="-12.405762" style="fill:#292725" width="150.54659" height="9.4184551" x="52.723648"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53" gorn="0.3.9.0.0.0.0" y="-12.343243" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="60.823002"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path  d="m 203.42431,10.728065 0.75434,0.008 0.40704,-0.0088 -0.0178,0.893944 -1.52491,4.267572 -169.691899,1.441256 c 0,0 -1.034801,-1.231088 -1.284008,-1.478474 -0.438287,0.09414 -2.178382,-0.01387 -2.734152,0.03138 -0.01622,-0.769157 -0.02453,-5.313304 -0.02492,-5.144732 0.2409,-0.02992 3.024498,0.04525 3.024498,0.04525 0,0 1.053788,2.9803 1.053392,2.9803 l 169.210099,-0.01678 0.82832,-3.018976 z" id="path57" gorn="0.3.10" style="fill:#dbd9c3"/>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect63" gorn="0.3.11.0.0.0.0" y="-9.3532085" style="fill:#dbd9c3" width="19.030193" height="5.3359256" x="29.349001"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="connector0pin" gorn="0.3.12.0.0.0.0" y="-7.0720067" style="fill:#8c8c8c" width="7.8740001" height="1.3244965" x="0"/>
+                        <rect  stroke="none" stroke-width="0" id="connector0terminal" gorn="0.3.12.0.0.0.1" fill="none" y="-6.41108" width="0.015748" height="0.00264899" x="-0.007874"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="connector1pin" gorn="0.3.13.0.0.0.0" y="-14.250228" style="fill:#8c8c8c" width="7.8740001" height="1.3244965" x="0"/>
+                        <rect  stroke="none" stroke-width="0" id="connector1terminal" gorn="0.3.13.0.0.0.1" fill="none" y="-13.5893" width="0.015748" height="0.00264899" x="-0.007874"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1,0,0,-0.72975014,0,18.86954)">
+            <g >
+                <g >
+                    <g >
+                        <polygon  id="polygon23" gorn="0.3.14.0.0.0.0" style="fill:#8c8c8c" points="11.784,9.74999 10.277,8.13599 10.277,6.32199 11.784,4.71 30.146,4.71 30.146,9.74999 "/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1,0,0,-0.72975014,0,16.914603)">
+            <g >
+                <g >
+                    <g >
+                        <polygon  id="polygon25" gorn="0.3.15.0.0.0.0" style="fill:#8c8c8c" points="10.277,15.333 10.277,13.521 11.796,11.909 30.312,11.909 30.312,16.948 11.796,16.948 "/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9" gorn="0.3.16.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="69.803894"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-5" gorn="0.3.17.0.0.0.0" y="-12.343243" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="78.803902"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-4" gorn="0.3.18.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="87.78479"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-53" gorn="0.3.19.0.0.0.0" y="-12.343241" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="96.803925"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-2" gorn="0.3.20.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="105.78481"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-5-0" gorn="0.3.21.0.0.0.0" y="-12.343241" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="114.78482"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-4-3" gorn="0.3.22.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="123.76571"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-96" gorn="0.3.23.0.0.0.0" y="-12.343241" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="132.80396"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-9" gorn="0.3.24.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="141.78485"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-5-8" gorn="0.3.25.0.0.0.0" y="-12.343241" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="150.78485"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-4-4" gorn="0.3.26.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="159.76575"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-53-2" gorn="0.3.27.0.0.0.0" y="-12.343241" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="168.78488"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-2-4" gorn="0.3.28.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="177.76576"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-5-0-5" gorn="0.3.29.0.0.0.0" y="-12.343241" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="186.76578"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="scale(1,-1)">
+            <g >
+                <g >
+                    <g >
+                        <rect  id="rect53-9-4-3-7" gorn="0.3.30.0.0.0.0" y="-12.377012" style="fill:#dbd9c3" width="4.5000043" height="9.6599474" x="195.74666"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

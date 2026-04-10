@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun Stepoko
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun Stepoko
+  icon: {fileID: 0}
+  realWorldWidth: 434
+  realWorldHeight: 231.84
+  pins:
+  - name: MISO-D12-LIMIT-Z
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0.77972347
+    cy: 0.5590063
+  - name: 5V
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0.7963134
+    cy: 0.5590063
+  - name: SCK-D13-SPINDLE_DIR
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0.77972347
+    cy: 0.59006214
+  - name: MOSI-D11-SPINDLE_PWM
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0.7963134
+    cy: 0.59006214
+  - name: RESET
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0.77972347
+    cy: 0.621118
+  - name: GND
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0.7963134
+    cy: 0.621118
+  - name: Limit XYZ (shared)
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0.612788
+    cy: 0.8777605
+  - name: Limit X
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0.63797235
+    cy: 0.8777605
+  - name: VIN
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0.58064514
+    cy: 0.37889925
+  - name: 5V
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0.597235
+    cy: 0.37889925
+  - name: VIN
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0.58064514
+    cy: 0.40995082
+  - name: ESTOP-LOGIC
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0.597235
+    cy: 0.40995082
+  - name: VCC
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0.58064514
+    cy: 0.4409938
+  - name: A0-RESET/ABORT
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0.597235
+    cy: 0.4409938
+  - name: VCC
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0.58064514
+    cy: 0.4720497
+  - name: A1-FEED_HOLD
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0.597235
+    cy: 0.4720497
+  - name: GND
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0.58064514
+    cy: 0.5031056
+  - name: A2-CYCLE_START/RESUME
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0.597235
+    cy: 0.5031056
+  - name: GND
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0.58064514
+    cy: 0.5341615
+  - name: A3-COOLANT_ENABLE
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.597235
+    cy: 0.5341615
+  - name: GND
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.58064514
+    cy: 0.5652174
+  - name: A4
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0.597235
+    cy: 0.5652174
+  - name: GND
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0.58064514
+    cy: 0.5962733
+  - name: A5-PROBE
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0.597235
+    cy: 0.5962733
+  - name: GND
+    svgId: connector175pin
+    pinName: connector175pin
+    cx: 0.58064514
+    cy: 0.62732923
+  - name: RESET
+    svgId: connector176pin
+    pinName: connector176pin
+    cx: 0.597235
+    cy: 0.62732923
+  - name: AREF
+    svgId: connector177pin
+    pinName: connector177pin
+    cx: 0.58064514
+    cy: 0.6583851
+  - name: GND
+    svgId: connector178pin
+    pinName: connector178pin
+    cx: 0.597235
+    cy: 0.6583851
+  - name: RXI
+    svgId: connector179pin
+    pinName: connector179pin
+    cx: 0.58064514
+    cy: 0.68944097
+  - name: TXO
+    svgId: connector180pin
+    pinName: connector180pin
+    cx: 0.597235
+    cy: 0.68944097
+  - name: A7
+    svgId: connector181pin
+    pinName: connector181pin
+    cx: 0.58064514
+    cy: 0.7204969
+  - name: A6
+    svgId: connector182pin
+    pinName: connector182pin
+    cx: 0.597235
+    cy: 0.7204969
+  - name: SCK-D13-SPINDLE_DIR
+    svgId: connector183pin
+    pinName: connector183pin
+    cx: 0.58064514
+    cy: 0.7515528
+  - name: MOSI-D11-SPINDLE_PWM
+    svgId: connector184pin
+    pinName: connector184pin
+    cx: 0.597235
+    cy: 0.7515528
+  - name: Limit XYZ (shared)
+    svgId: connector185pin
+    pinName: connector185pin
+    cx: 0.6585253
+    cy: 0.8777605
+  - name: Limit Y
+    svgId: connector186pin
+    pinName: connector186pin
+    cx: 0.6837097
+    cy: 0.8777605
+  - name: Limit XYZ (shared)
+    svgId: connector187pin
+    pinName: connector187pin
+    cx: 0.70423967
+    cy: 0.8777605
+  - name: Limit Z
+    svgId: connector188pin
+    pinName: connector188pin
+    cx: 0.729424
+    cy: 0.8777605
+  - name: GND
+    svgId: connector198pin
+    pinName: connector198pin
+    cx: 0.79566824
+    cy: 0.8777605
+  - name: Probe (switch)
+    svgId: connector199pin
+    pinName: connector199pin
+    cx: 0.8208525
+    cy: 0.8777605
+  - name: GND
+    svgId: connector200pin
+    pinName: connector200pin
+    cx: 0.7499539
+    cy: 0.8777605
+  - name: E-Stop (switch)
+    svgId: connector201pin
+    pinName: connector201pin
+    cx: 0.77513826
+    cy: 0.8777605
+  - name: GND
+    svgId: connector202pin
+    pinName: connector202pin
+    cx: 0.6126728
+    cy: 0.22361974
+  - name: VCC
+    svgId: connector203pin
+    pinName: connector203pin
+    cx: 0.63783413
+    cy: 0.22361974
+  - name: GND
+    svgId: connector204pin
+    pinName: connector204pin
+    cx: 0.53087556
+    cy: 0.7204969
+  - name: GND
+    svgId: connector205pin
+    pinName: connector205pin
+    cx: 0.53087556
+    cy: 0.68944097
+  - name: 5V
+    svgId: connector206pin
+    pinName: connector206pin
+    cx: 0.53087556
+    cy: 0.6583851
+  - name: VIN
+    svgId: connector207pin
+    pinName: connector207pin
+    cx: 0.53087556
+    cy: 0.62732923
+  - name: VIN
+    svgId: connector208pin
+    pinName: connector208pin
+    cx: 0.53087556
+    cy: 0.5962733
+  - name: STEP_ENABLE
+    svgId: connector209pin
+    pinName: connector209pin
+    cx: 0.53087556
+    cy: 0.5652174
+  - name: D2-STEP-X
+    svgId: connector210pin
+    pinName: connector210pin
+    cx: 0.53087556
+    cy: 0.5341615
+  - name: D3-STEP-Y
+    svgId: connector211pin
+    pinName: connector211pin
+    cx: 0.53087556
+    cy: 0.5031056
+  - name: D4-STEP-Z
+    svgId: connector212pin
+    pinName: connector212pin
+    cx: 0.53087556
+    cy: 0.4720497
+  - name: D7-DIR-Z
+    svgId: connector213pin
+    pinName: connector213pin
+    cx: 0.53087556
+    cy: 0.4409938
+  - name: D6-DIR-Y
+    svgId: connector214pin
+    pinName: connector214pin
+    cx: 0.53087556
+    cy: 0.40995514
+  - name: D5-DIR-X
+    svgId: connector215pin
+    pinName: connector215pin
+    cx: 0.53087556
+    cy: 0.37889925
+  - name: GND
+    svgId: connector619pin
+    pinName: connector619pin
+    cx: 0.9568664
+    cy: 0.2685861
+  - name: VIN
+    svgId: connector620pin
+    pinName: connector620pin
+    cx: 0.9568664
+    cy: 0.22144152
+  - name: X A+
+    svgId: connector621pin
+    pinName: connector621pin
+    cx: 0.17518893
+    cy: 0.85938585
+  - name: X A-
+    svgId: connector622pin
+    pinName: connector622pin
+    cx: 0.20037097
+    cy: 0.85938585
+  - name: X B+
+    svgId: connector623pin
+    pinName: connector623pin
+    cx: 0.12946774
+    cy: 0.85938585
+  - name: X B-
+    svgId: connector624pin
+    pinName: connector624pin
+    cx: 0.15464976
+    cy: 0.85938585
+  - name: Y A+
+    svgId: connector625pin
+    pinName: connector625pin
+    cx: 0.26663595
+    cy: 0.85938585
+  - name: Y A-
+    svgId: connector626pin
+    pinName: connector626pin
+    cx: 0.2918203
+    cy: 0.85938585
+  - name: Y B+
+    svgId: connector627pin
+    pinName: connector627pin
+    cx: 0.22090784
+    cy: 0.85938585
+  - name: Y B-
+    svgId: connector628pin
+    pinName: connector628pin
+    cx: 0.24608296
+    cy: 0.85938585
+  - name: Z A+
+    svgId: connector629pin
+    pinName: connector629pin
+    cx: 0.3580645
+    cy: 0.85938585
+  - name: Z A-
+    svgId: connector630pin
+    pinName: connector630pin
+    cx: 0.38324887
+    cy: 0.85938585
+  - name: Z B+
+    svgId: connector631pin
+    pinName: connector631pin
+    cx: 0.3123502
+    cy: 0.85938585
+  - name: Z B-
+    svgId: connector632pin
+    pinName: connector632pin
+    cx: 0.33753458
+    cy: 0.85938585

@@ -1,0 +1,519 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: DSPIC33FJ256GP710
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: DSPIC33FJ256GP710
+  icon: {fileID: 0}
+  realWorldWidth: 500
+  realWorldHeight: 60.000004
+  pins:
+  - name: G1 AVDD
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.589999
+    cy: 0.9166667
+  - name: G1 AVSS
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.609999
+    cy: 0.9166667
+  - name: G1 RA10_VREF+
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.56999904
+    cy: 0.9166667
+  - name: G1 RA9_VREF-
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.549999
+    cy: 0.9166667
+  - name: G1 VCAP
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.31000102
+    cy: 0.083333336
+  - name: G1 VDD
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.31000102
+    cy: 0.9166667
+  - name: G1 VDD
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.03
+    cy: 0.9166667
+  - name: G1 VDD
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.729999
+    cy: 0.9166667
+  - name: G1 VDD
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.90999895
+    cy: 0.9166667
+  - name: G1 VDD
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.769999
+    cy: 0.083333336
+  - name: G1 VDD
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.290001
+    cy: 0.083333336
+  - name: G1 VSS
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.290001
+    cy: 0.9166667
+  - name: G1 VSS
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.709999
+    cy: 0.9166667
+  - name: G1 VSS
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.8899989
+    cy: 0.9166667
+  - name: G1 VSS
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.709999
+    cy: 0.083333336
+  - name: G1 VSS
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.50999904
+    cy: 0.083333336
+  - name: G2 RA6_AN22
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.19
+    cy: 0.083333336
+  - name: G2 RB0_AN0
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.48999903
+    cy: 0.9166667
+  - name: G2 RB1_AN1
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.46999902
+    cy: 0.9166667
+  - name: G2 RB10_AN10
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.669999
+    cy: 0.9166667
+  - name: G2 RB11_AN11
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.68999904
+    cy: 0.9166667
+  - name: G2 RB12_AN12
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.80999905
+    cy: 0.9166667
+  - name: G2 RB13_AN13
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.8299989
+    cy: 0.9166667
+  - name: G2 RB14_AN14
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.84999895
+    cy: 0.9166667
+  - name: G2 RB3_AN3
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.42999902
+    cy: 0.9166667
+  - name: G2 RB4_AN4
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.41000104
+    cy: 0.9166667
+  - name: G2 RB5_AN5
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.390001
+    cy: 0.9166667
+  - name: G2 RB6_AN6
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.50999904
+    cy: 0.9166667
+  - name: G2 RB7_AN7
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.529999
+    cy: 0.9166667
+  - name: G2 RB8_AN8
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.62999904
+    cy: 0.9166667
+  - name: G2 RB9_AN9
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.649999
+    cy: 0.9166667
+  - name: G2 RC4_AN19
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.17
+    cy: 0.9166667
+  - name: G2 RD0_OC1
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.56999904
+    cy: 0.083333336
+  - name: G2 RD1_OC2
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.48999903
+    cy: 0.083333336
+  - name: G2 RD10_IC3
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.609999
+    cy: 0.083333336
+  - name: G2 RD11_IC4
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.589999
+    cy: 0.083333336
+  - name: G2 RD12_IC5
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.42999902
+    cy: 0.083333336
+  - name: G2 RD13_IC6
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.41000104
+    cy: 0.083333336
+  - name: G2 RD14_U1CTS_IC7
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.92999893
+    cy: 0.9166667
+  - name: G2 RD15_U1RTS_IC8
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.9499989
+    cy: 0.9166667
+  - name: G2 RD2_OC3
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.46999902
+    cy: 0.083333336
+  - name: G2 RD3_OC4
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.44999903
+    cy: 0.083333336
+  - name: G2 RD4_OC5
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.390001
+    cy: 0.083333336
+  - name: G2 RD5_OC6
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.370001
+    cy: 0.083333336
+  - name: G2 RD6_OC7
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.350001
+    cy: 0.083333336
+  - name: G2 RD7_OC8
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.330001
+    cy: 0.083333336
+  - name: G2 RD8_IC1
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.649999
+    cy: 0.083333336
+  - name: G2 RD9_IC2
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.62999904
+    cy: 0.083333336
+  - name: G2 RE1_AN25
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.13
+    cy: 0.083333336
+  - name: G2 RE2
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.05
+    cy: 0.083333336
+  - name: G2 RE3
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0.03
+    cy: 0.083333336
+  - name: G2 RE4
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.01
+    cy: 0.083333336
+  - name: G2 RF2_U1RX
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.9699989
+    cy: 0.083333336
+  - name: G2 RF3_U1TX
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.98999894
+    cy: 0.083333336
+  - name: G2 RG2_SCL1
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.86999893
+    cy: 0.083333336
+  - name: G2 RG3_SDA1
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.8899989
+    cy: 0.083333336
+  - name: G3 MCLR
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.250001
+    cy: 0.9166667
+  - name: G3 RA1
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.74999905
+    cy: 0.9166667
+  - name: G3 RA12_INT1
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.350001
+    cy: 0.9166667
+  - name: G3 RA13_INT2
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.370001
+    cy: 0.9166667
+  - name: G3 RA14
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.68999904
+    cy: 0.083333336
+  - name: G3 RA2_SCL2
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.84999895
+    cy: 0.083333336
+  - name: G3 RA3_SDA2
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.8299989
+    cy: 0.083333336
+  - name: G3 RA4_TDI
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.80999905
+    cy: 0.083333336
+  - name: G3 RA5_TDO
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.789999
+    cy: 0.083333336
+  - name: G3 RA7_AN23
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.17
+    cy: 0.083333336
+  - name: G3 RB15_AN15
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.86999893
+    cy: 0.9166667
+  - name: G3 RB2_SS1
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.44999903
+    cy: 0.9166667
+  - name: G3 RC1_AN16
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.11
+    cy: 0.9166667
+  - name: G3 RC13_PGED2
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.549999
+    cy: 0.083333336
+  - name: G3 RC14_PGEC2
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.529999
+    cy: 0.083333336
+  - name: G3 RC2_AN17
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.13
+    cy: 0.9166667
+  - name: G3 RC3_AN18
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.15
+    cy: 0.9166667
+  - name: G3 RE0_AN24
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.15
+    cy: 0.083333336
+  - name: G3 RF0_C1RX1
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.270001
+    cy: 0.083333336
+  - name: G3 RF1_C1TX1
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.250001
+    cy: 0.083333336
+  - name: G3 RF12_U2CTS
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.789999
+    cy: 0.9166667
+  - name: G3 RF13_U2RTS
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.769999
+    cy: 0.9166667
+  - name: G3 RF4_U2RX
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.9699989
+    cy: 0.9166667
+  - name: G3 RF5_U2TX
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.98999894
+    cy: 0.9166667
+  - name: G3 RF6_SCK1
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.90999895
+    cy: 0.083333336
+  - name: G3 RF7_SDI1
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.92999893
+    cy: 0.083333336
+  - name: G3 RF8_SDO1
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.9499989
+    cy: 0.083333336
+  - name: G3 RG6_SCK2
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.19
+    cy: 0.9166667
+  - name: G3 RG7_SDI2
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.210001
+    cy: 0.9166667
+  - name: G3 RG8_SDO2
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.230001
+    cy: 0.9166667
+  - name: G3 RG9_SS2
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.270001
+    cy: 0.9166667
+  - name: G4 RA0_TMS
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.330001
+    cy: 0.9166667
+  - name: G4 RA15
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.669999
+    cy: 0.083333336
+  - name: G4 RC12_OSC1
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.74999905
+    cy: 0.083333336
+  - name: G4 RC15_OSC2
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.729999
+    cy: 0.083333336
+  - name: G4 RE5_AN29
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.05
+    cy: 0.9166667
+  - name: G4 RE6_AN30
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.07
+    cy: 0.9166667
+  - name: G4 RE7_AN31
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.09
+    cy: 0.9166667
+  - name: G4 RG0_C2RX
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.210001
+    cy: 0.083333336
+  - name: G4 RG1_C2TX
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.230001
+    cy: 0.083333336
+  - name: G4 RG12_CSDI
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.09
+    cy: 0.083333336
+  - name: G4 RG13_CSDO
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.07
+    cy: 0.083333336
+  - name: G4 RG14_CSCK
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.11
+    cy: 0.083333336
+  - name: G4 RG15_COFS
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.01
+    cy: 0.9166667

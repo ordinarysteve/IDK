@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Flora TCS34725 Color Sensor
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Flora TCS34725 Color Sensor
+  icon: {fileID: 0}
+  realWorldWidth: 60.000004
+  realWorldHeight: 60.000004
+  pins:
+  - name: 3.3V
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.5
+    cy: 0.9166666
+  - name: GND
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.5
+    cy: 0.08333333
+  - name: SDA
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.13333334
+    cy: 0.7083333
+  - name: SDA_3V
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.8666666
+    cy: 0.7083333
+  - name: SCL
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.13333334
+    cy: 0.29166666
+  - name: SCL_3V
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.8666666
+    cy: 0.29166666

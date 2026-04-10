@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: WiFi SMD Module - CC3000
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: WiFi SMD Module - CC3000
+  icon: {fileID: 0}
+  realWorldWidth: 64.4722
+  realWorldHeight: 53.9069
+  pins:
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.16985136
+    cy: 0.97222584
+  - name: 'Reserved_1 '
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.2455084
+    cy: 0.97222584
+  - name: NC
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.3185373
+    cy: 0.97222584
+  - name: Reserved_2
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.39208317
+    cy: 0.97222584
+  - name: WL_EN2
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.46511203
+    cy: 0.97222584
+  - name: WL_RS232_TX
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.5386364
+    cy: 0.97222584
+  - name: 'WL_EN1 '
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.61151445
+    cy: 0.97222584
+  - name: WL_RS232_RX
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.6850604
+    cy: 0.97222584
+  - name: 'GND '
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.75858474
+    cy: 0.97222584
+  - name: GND
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.83161354
+    cy: 0.97222584
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.98087037
+    cy: 0.8068302
+  - name: SPI_CS
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.98087037
+    cy: 0.71887
+  - name: SPI_DOUT
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.98087037
+    cy: 0.63170844
+  - name: SPI_IRQ
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.98087037
+    cy: 0.54377395
+  - name: 'SPI_DIN '
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.98087037
+    cy: 0.4558395
+  - name: GND
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.98087037
+    cy: 0.36847192
+  - name: SPI_CLK
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.98087037
+    cy: 0.28053746
+  - name: GND
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.98087037
+    cy: 0.19337595
+  - name: VBAT_IN
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.83161354
+    cy: 0.028341018
+  - name: GND
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.75858474
+    cy: 0.028341018
+  - name: EXT_32K
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.6850604
+    cy: 0.028341018
+  - name: GND
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.61151445
+    cy: 0.028341018
+  - name: VIO_HOST
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.5386579
+    cy: 0.028341018
+  - name: Reserved_3
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.46511203
+    cy: 0.028341018
+  - name: GND
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.39208317
+    cy: 0.028341018
+  - name: VBAT_SW_EN
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.31855884
+    cy: 0.028341018
+  - name: SDA_EEPROM
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.2455084
+    cy: 0.028341018
+  - name: SDA_CC3000
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.16985136
+    cy: 0.028341018
+  - name: SCL_EEPROM
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.021413185
+    cy: 0.19337595
+  - name: SCL_CC3000
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.021413185
+    cy: 0.28053746
+  - name: GND
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.021413185
+    cy: 0.36847192
+  - name: GND
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.021413185
+    cy: 0.4558395
+  - name: GND
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.021413185
+    cy: 0.54377395
+  - name: GND
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.021413185
+    cy: 0.63170844
+  - name: GND
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.021413185
+    cy: 0.71887
+  - name: RF_ANT
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.021413185
+    cy: 0.8068044
+  - name: GND
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.28218442
+    cy: 0.65691906
+  - name: GND
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.5017881
+    cy: 0.65691906
+  - name: GND
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.7217363
+    cy: 0.65691906
+  - name: GND
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.28218442
+    cy: 0.34248832
+  - name: GND
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.5017881
+    cy: 0.34248832
+  - name: GND
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.7217363
+    cy: 0.34248832
+  - name: GND
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.05817536
+    cy: 0.9282586
+  - name: GND
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.9441082
+    cy: 0.9282586
+  - name: GND
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.9441082
+    cy: 0.07230825
+  - name: GND
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.05817536
+    cy: 0.07230825

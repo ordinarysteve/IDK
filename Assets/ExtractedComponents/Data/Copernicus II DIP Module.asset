@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Copernicus II DIP Module
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Copernicus II DIP Module
+  icon: {fileID: 0}
+  realWorldWidth: 157.36
+  realWorldHeight: 102.169
+  pins:
+  - name: VBAT
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.5722734
+    cy: 0.060357247
+  - name: GND
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.12743272
+    cy: 0.060357247
+  - name: LNA
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.635822
+    cy: 0.060357247
+  - name: OPEN
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.5087247
+    cy: 0.060357247
+  - name: PPS
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.19098139
+    cy: 0.94124687
+  - name: R1
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.38162735
+    cy: 0.060357247
+  - name: R2
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.31807873
+    cy: 0.060357247
+  - name: R3
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.06388406
+    cy: 0.94124687
+  - name: R4
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.12743272
+    cy: 0.94124687
+  - name: R5
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.38162735
+    cy: 0.94124687
+  - name: R6
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.5722734
+    cy: 0.94124687
+  - name: R7
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.635822
+    cy: 0.94124687
+  - name: RX-A
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.31807873
+    cy: 0.94124687
+  - name: RX-B
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.25453004
+    cy: 0.94124687
+  - name: SHORT
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.44517606
+    cy: 0.060357247
+  - name: TX-A
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.44517606
+    cy: 0.94124687
+  - name: TX-B
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.5087247
+    cy: 0.94124687
+  - name: VCC
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.19098139
+    cy: 0.060357247
+  - name: XRESET
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.25453004
+    cy: 0.060357247
+  - name: XSTBY
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.06388406
+    cy: 0.060357247

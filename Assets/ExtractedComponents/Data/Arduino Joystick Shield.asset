@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino Joystick Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino Joystick Shield
+  icon: {fileID: 0}
+  realWorldWidth: 209.99998
+  realWorldHeight: 335
+  pins:
+  - name: 3.3V
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.95238096
+    cy: 0.6865672
+  - name: 5V
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.95238096
+    cy: 0.6567164
+  - name: VERTICAL
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.95238096
+    cy: 0.5074627
+  - name: HORIZONTAL
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.95238096
+    cy: 0.47761193
+  - name: A2
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.95238096
+    cy: 0.4477612
+  - name: A3
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.95238096
+    cy: 0.41791046
+  - name: A4
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.95238096
+    cy: 0.3880597
+  - name: A5
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.95238096
+    cy: 0.35820895
+  - name: AREF
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.04761905
+    cy: 0.82089555
+  - name: SEL
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.04761905
+    cy: 0.41791046
+  - name: D3
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.04761905
+    cy: 0.4477612
+  - name: D4
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.04761905
+    cy: 0.47761193
+  - name: D5
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.04761905
+    cy: 0.5074627
+  - name: D6
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.04761905
+    cy: 0.53731346
+  - name: D7
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.04761905
+    cy: 0.5671642
+  - name: D8
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.04761905
+    cy: 0.6119403
+  - name: D9
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.04761905
+    cy: 0.64179105
+  - name: D10
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.04761905
+    cy: 0.6716418
+  - name: D11
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.04761905
+    cy: 0.70149255
+  - name: D12
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.04761905
+    cy: 0.73134327
+  - name: D13
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.04761905
+    cy: 0.76119405
+  - name: RESET
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.95238096
+    cy: 0.7164179
+  - name: RX
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.04761905
+    cy: 0.35820895
+  - name: TX
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.04761905
+    cy: 0.3880597

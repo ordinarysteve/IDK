@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit LPS28 Pressure Sensor
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit LPS28 Pressure Sensor
+  icon: {fileID: 0}
+  realWorldWidth: 107.44095
+  realWorldHeight: 70
+  pins:
+  - name: VCC
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.26730612
+    cy: 0.85714287
+  - name: VCC
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.9741458
+    cy: 0.5416666
+  - name: VCC
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.025854155
+    cy: 0.4583333
+  - name: 3.3V
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.3603811
+    cy: 0.85714287
+  - name: SDA
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.639606
+    cy: 0.85714287
+  - name: SDA
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.025854155
+    cy: 0.54960316
+  - name: SDA
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.9741458
+    cy: 0.45039684
+  - name: SCL
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.9741458
+    cy: 0.3611111
+  - name: SCL
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.025854155
+    cy: 0.6388889
+  - name: SCL
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.546531
+    cy: 0.85714287
+  - name: INT
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.7326809
+    cy: 0.85714287
+  - name: GND
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.45345604
+    cy: 0.85714287
+  - name: GND
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.025854155
+    cy: 0.3690476
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.9741458
+    cy: 0.63095236

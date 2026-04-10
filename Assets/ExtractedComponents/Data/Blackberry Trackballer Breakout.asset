@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Blackberry Trackballer Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Blackberry Trackballer Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 110
+  realWorldHeight: 85
+  pins:
+  - name: VCC
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.9545455
+    cy: 0.9411764
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.86363643
+    cy: 0.9411764
+  - name: BTN
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.7727273
+    cy: 0.9411764
+  - name: BLU
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.045454547
+    cy: 0.9411764
+  - name: RED
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.13636364
+    cy: 0.9411764
+  - name: GRN
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.22727273
+    cy: 0.9411764
+  - name: WHT
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.31818184
+    cy: 0.9411764
+  - name: UP
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.40909094
+    cy: 0.9411764
+  - name: DWN
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.5
+    cy: 0.9411764
+  - name: LFT
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.5909091
+    cy: 0.9411764
+  - name: RHT
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.6818182
+    cy: 0.9411764

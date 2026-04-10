@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit PCM510x I2S DAC
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit PCM510x I2S DAC
+  icon: {fileID: 0}
+  realWorldWidth: 125.614174
+  realWorldHeight: 80
+  pins:
+  - name: 3.3V
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.6766618
+    cy: 0.125
+  - name: VIN
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.19901818
+    cy: 0.87500006
+  - name: WORDSEL_IN
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.35823274
+    cy: 0.87500006
+  - name: DATA_IN
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.43783998
+    cy: 0.87500006
+  - name: BITCLK_IN
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.51744723
+    cy: 0.87500006
+  - name: OUTL
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.59705454
+    cy: 0.87500006
+  - name: OUTR
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.7562691
+    cy: 0.87500006
+  - name: DEMPH
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.27862546
+    cy: 0.125
+  - name: FILTER
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.35823274
+    cy: 0.125
+  - name: SCK_IN
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.43783998
+    cy: 0.125
+  - name: MUTE
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.51744723
+    cy: 0.125
+  - name: FORMAT
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.59705454
+    cy: 0.125
+  - name: AGND
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.6766618
+    cy: 0.87500006
+  - name: AGND
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.27862546
+    cy: 0.87500006

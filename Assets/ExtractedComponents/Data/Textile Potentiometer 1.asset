@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Textile Potentiometer 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Textile Potentiometer
+  icon: {fileID: 0}
+  realWorldWidth: 402.08
+  realWorldHeight: 430.394
+  pins:
+  - name: leg1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0
+    cy: 0
+  - name: wiper
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.95263505
+    cy: 0.4958933
+  - name: leg2
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0
+    cy: 0

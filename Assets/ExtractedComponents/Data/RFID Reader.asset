@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: RFID Reader
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: RFID Reader
+  icon: {fileID: 0}
+  realWorldWidth: 79.4347
+  realWorldHeight: 92.6194
+  pins:
+  - name: +5V
+    svgId: connector2pin_10pin
+    pinName: connector2pin_10pin
+    cx: 0.7986612
+    cy: 0.017801326
+  - name: RES
+    svgId: connector2pin_1pin
+    pinName: connector2pin_1pin
+    cx: 0.5498302
+    cy: 0.97092336
+  - name: ANT0
+    svgId: connector2pin_2pin
+    pinName: connector2pin_2pin
+    cx: 0.4251951
+    cy: 0.97045845
+  - name: ANT1
+    svgId: connector2pin_3pin
+    pinName: connector2pin_3pin
+    cx: 0.30020252
+    cy: 0.97181785
+  - name: CP
+    svgId: connector2pin_4pin
+    pinName: connector2pin_4pin
+    cx: 0.1756327
+    cy: 0.97025365
+  - name: Future
+    svgId: connector2pin_5pin
+    pinName: connector2pin_5pin
+    cx: 0.17311911
+    cy: 0.018585015
+  - name: +/-
+    svgId: connector2pin_6pin
+    pinName: connector2pin_6pin
+    cx: 0.29905355
+    cy: 0.019879485
+  - name: D1
+    svgId: connector2pin_7pin
+    pinName: connector2pin_7pin
+    cx: 0.42548478
+    cy: 0.018256446
+  - name: D0
+    svgId: connector2pin_8pin
+    pinName: connector2pin_8pin
+    cx: 0.54801404
+    cy: 0.019154241
+  - name: LED
+    svgId: connector2pin_9pin
+    pinName: connector2pin_9pin
+    cx: 0.6741196
+    cy: 0.019294133
+  - name: GND
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.6751857
+    cy: 0.9723752

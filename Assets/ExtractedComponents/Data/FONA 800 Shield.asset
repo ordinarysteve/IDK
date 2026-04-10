@@ -1,0 +1,439 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: FONA 800 Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: FONA 800 Shield
+  icon: {fileID: 0}
+  realWorldWidth: 305.25
+  realWorldHeight: 209.99998
+  pins:
+  - name: SPKR-
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.6212121
+    cy: 0.49047622
+  - name: SPKR+
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.6212121
+    cy: 0.53809524
+  - name: MIC+
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.6212121
+    cy: 0.63521165
+  - name: MIC-
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0.6212121
+    cy: 0.5875926
+  - name: BUZZER-
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0.4954955
+    cy: 0.21904762
+  - name: BUZZER+
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0.4954955
+    cy: 0.26666668
+  - name: SCL
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0.3579034
+    cy: 0.11904762
+  - name: SDA
+    svgId: connector106pin
+    pinName: connector106pin
+    cx: 0.3906634
+    cy: 0.11904762
+  - name: AREF
+    svgId: connector107pin
+    pinName: connector107pin
+    cx: 0.4234234
+    cy: 0.11904762
+  - name: GND
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0.45618346
+    cy: 0.11904762
+  - name: D13
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0.4889435
+    cy: 0.11904762
+  - name: D12
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0.52170354
+    cy: 0.11904762
+  - name: D11
+    svgId: connector111pin
+    pinName: connector111pin
+    cx: 0.55446357
+    cy: 0.11904762
+  - name: D10
+    svgId: connector112pin
+    pinName: connector112pin
+    cx: 0.5872236
+    cy: 0.11904762
+  - name: D9
+    svgId: connector113pin
+    pinName: connector113pin
+    cx: 0.6199836
+    cy: 0.11904762
+  - name: D8
+    svgId: connector114pin
+    pinName: connector114pin
+    cx: 0.6527437
+    cy: 0.11904762
+  - name: D7
+    svgId: connector115pin
+    pinName: connector115pin
+    cx: 0.70515966
+    cy: 0.11904762
+  - name: D6
+    svgId: connector116pin
+    pinName: connector116pin
+    cx: 0.7379197
+    cy: 0.11904762
+  - name: D5
+    svgId: connector117pin
+    pinName: connector117pin
+    cx: 0.7706798
+    cy: 0.11904762
+  - name: D4
+    svgId: connector118pin
+    pinName: connector118pin
+    cx: 0.8034398
+    cy: 0.11904762
+  - name: D3
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0.8361998
+    cy: 0.11904762
+  - name: D2
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0.86895984
+    cy: 0.11904762
+  - name: D1
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0.90171987
+    cy: 0.11904762
+  - name: D0
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0.93447995
+    cy: 0.11904762
+  - name: VIN
+    svgId: connector123pin
+    pinName: connector123pin
+    cx: 0.70515966
+    cy: 0.88095236
+  - name: GND
+    svgId: connector124pin
+    pinName: connector124pin
+    cx: 0.6723997
+    cy: 0.88095236
+  - name: GND
+    svgId: connector125pin
+    pinName: connector125pin
+    cx: 0.6396397
+    cy: 0.88095236
+  - name: 5V
+    svgId: connector126pin
+    pinName: connector126pin
+    cx: 0.60687965
+    cy: 0.88095236
+  - name: 3V
+    svgId: connector127pin
+    pinName: connector127pin
+    cx: 0.57411957
+    cy: 0.88095236
+  - name: RST
+    svgId: connector128pin
+    pinName: connector128pin
+    cx: 0.54135954
+    cy: 0.88095236
+  - name: IOREF
+    svgId: connector129pin
+    pinName: connector129pin
+    cx: 0.5085995
+    cy: 0.88095236
+  - name: A5
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0.93447995
+    cy: 0.88095236
+  - name: A4
+    svgId: connector132pin
+    pinName: connector132pin
+    cx: 0.90171987
+    cy: 0.88095236
+  - name: A3
+    svgId: connector133pin
+    pinName: connector133pin
+    cx: 0.86895984
+    cy: 0.88095236
+  - name: A2
+    svgId: connector134pin
+    pinName: connector134pin
+    cx: 0.8361998
+    cy: 0.88095236
+  - name: A1
+    svgId: connector135pin
+    pinName: connector135pin
+    cx: 0.8034398
+    cy: 0.88095236
+  - name: A0
+    svgId: connector136pin
+    pinName: connector136pin
+    cx: 0.7706798
+    cy: 0.88095236
+  - name: GND
+    svgId: connector137pin
+    pinName: connector137pin
+    cx: 0.21539722
+    cy: 0.7952381
+  - name: VBAT
+    svgId: connector138pin
+    pinName: connector138pin
+    cx: 0.24815725
+    cy: 0.7952381
+  - name: RX
+    svgId: connector139pin
+    pinName: connector139pin
+    cx: 0.86895984
+    cy: 0.21904762
+  - name: TX
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0.8361998
+    cy: 0.21904762
+  - name: RST
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0.8034398
+    cy: 0.21904762
+  - name: RTS
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0.7706798
+    cy: 0.21904762
+  - name: RI
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0.7379197
+    cy: 0.21904762
+  - name: Net
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0.70515966
+    cy: 0.21904762
+  - name: Pwr
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0.6723997
+    cy: 0.21904762
+  - name: Key
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0.6396397
+    cy: 0.21904762
+  - name: 3V
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0.57411957
+    cy: 0.95238096
+  - name: 5V
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0.60687965
+    cy: 0.95238096
+  - name: A0
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0.7706798
+    cy: 0.95238096
+  - name: A1
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0.8034398
+    cy: 0.95238096
+  - name: A2
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0.8361998
+    cy: 0.95238096
+  - name: A3
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0.86895984
+    cy: 0.95238096
+  - name: A4
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0.90171987
+    cy: 0.95238096
+  - name: A5
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0.93447995
+    cy: 0.95238096
+  - name: AREF
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0.4234234
+    cy: 0.04761905
+  - name: D0
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0.93447995
+    cy: 0.04761905
+  - name: D1
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0.90171987
+    cy: 0.04761905
+  - name: D2
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0.86895984
+    cy: 0.04761905
+  - name: D3
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0.8361998
+    cy: 0.04761905
+  - name: D4
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0.8034398
+    cy: 0.04761905
+  - name: D5
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0.7706798
+    cy: 0.04761905
+  - name: D6
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0.7379197
+    cy: 0.04761905
+  - name: D7
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0.70515966
+    cy: 0.04761905
+  - name: D8
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0.6527437
+    cy: 0.04761905
+  - name: D9
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0.6199836
+    cy: 0.04761905
+  - name: D10
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0.5872236
+    cy: 0.04761905
+  - name: D11
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0.55446357
+    cy: 0.04761905
+  - name: D12
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0.52170354
+    cy: 0.04761905
+  - name: D13
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.4889435
+    cy: 0.04761905
+  - name: GND
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.45618346
+    cy: 0.04761905
+  - name: GND
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0.6723997
+    cy: 0.95238096
+  - name: GND
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0.968878
+    cy: 0.5238095
+  - name: IOREF
+    svgId: connector175pin
+    pinName: connector175pin
+    cx: 0.5085995
+    cy: 0.95238096
+  - name: MISO
+    svgId: connector176pin
+    pinName: connector176pin
+    cx: 0.93611795
+    cy: 0.42857146
+  - name: MOSI
+    svgId: connector177pin
+    pinName: connector177pin
+    cx: 0.968878
+    cy: 0.47619048
+  - name: NC
+    svgId: connector178pin
+    pinName: connector178pin
+    cx: 0.4758395
+    cy: 0.95238096
+  - name: RST
+    svgId: connector179pin
+    pinName: connector179pin
+    cx: 0.54135954
+    cy: 0.95238096
+  - name: RESET_ICSP
+    svgId: connector180pin
+    pinName: connector180pin
+    cx: 0.93611795
+    cy: 0.5238095
+  - name: SCK
+    svgId: connector181pin
+    pinName: connector181pin
+    cx: 0.93611795
+    cy: 0.47619048
+  - name: SCL
+    svgId: connector182pin
+    pinName: connector182pin
+    cx: 0.3579034
+    cy: 0.04761905
+  - name: SDA
+    svgId: connector183pin
+    pinName: connector183pin
+    cx: 0.3906634
+    cy: 0.04761905
+  - name: VIN
+    svgId: connector184pin
+    pinName: connector184pin
+    cx: 0.70515966
+    cy: 0.95238096
+  - name: PWM
+    svgId: connector187pin
+    pinName: connector187pin
+    cx: 0.2989353
+    cy: 0.21904762

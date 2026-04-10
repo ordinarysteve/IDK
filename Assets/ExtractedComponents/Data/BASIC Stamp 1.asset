@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: BASIC Stamp 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: BASIC Stamp 1
+  icon: {fileID: 0}
+  realWorldWidth: 45.3903
+  realWorldHeight: 139.778
+  pins:
+  - name: PCI
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.06257459
+    cy: 0.24964726
+  - name: VDD
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.06257459
+    cy: 0.32118443
+  - name: RES
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.06257459
+    cy: 0.39272657
+  - name: P0
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.06257459
+    cy: 0.46427864
+  - name: P1
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.06257459
+    cy: 0.5358208
+  - name: P2
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.06257459
+    cy: 0.607353
+  - name: P3
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.06257459
+    cy: 0.6788951
+  - name: P4
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.06257459
+    cy: 0.75044715
+  - name: P5
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.06257459
+    cy: 0.82197934
+  - name: P6
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.06257459
+    cy: 0.89353144
+  - name: VIN
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.06257459
+    cy: 0.0350159
+  - name: VSS
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.06257459
+    cy: 0.10656797
+  - name: P7
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.06257459
+    cy: 0.9650437
+  - name: PCO
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.06257459
+    cy: 0.1781101

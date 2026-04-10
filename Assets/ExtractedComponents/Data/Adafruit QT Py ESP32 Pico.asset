@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit QT Py ESP32 Pico
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit QT Py ESP32 Pico
+  icon: {fileID: 0}
+  realWorldWidth: 70.031
+  realWorldHeight: 88.904
+  pins:
+  - name: 3.3V
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.9286026
+    cy: 0.3835903
+  - name: 3.3V
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.58138114
+    cy: 0.96333444
+  - name: +5V
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.9286026
+    cy: 0.15862899
+  - name: A0
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.07184166
+    cy: 0.15862899
+  - name: A1
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.07184166
+    cy: 0.27110964
+  - name: A2
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.07184166
+    cy: 0.3835903
+  - name: A3
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.07184166
+    cy: 0.49607098
+  - name: SDA
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.07184166
+    cy: 0.6085516
+  - name: SCL
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.07184166
+    cy: 0.7210323
+  - name: TX
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.07184166
+    cy: 0.83351296
+  - name: MOSI
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.9286026
+    cy: 0.49607098
+  - name: MISO
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.9286026
+    cy: 0.6085516
+  - name: SCK
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.9286026
+    cy: 0.7210323
+  - name: RX
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.9286026
+    cy: 0.83351296
+  - name: SDA1
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.6726111
+    cy: 0.96333444
+  - name: SCL1
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.76184994
+    cy: 0.96333444
+  - name: GND
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.9286026
+    cy: 0.27110964
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.49213436
+    cy: 0.96333444

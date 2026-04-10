@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit eInk Breakout Friend
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit eInk Breakout Friend
+  icon: {fileID: 0}
+  realWorldWidth: 142.42001
+  realWorldHeight: 235.79
+  pins:
+  - name: VIN
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.13989273
+    cy: 0.9575897
+  - name: 3.3V
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.21010238
+    cy: 0.9575897
+  - name: SCLK
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.35052168
+    cy: 0.9575897
+  - name: MISO
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.42073134
+    cy: 0.9575897
+  - name: MOSI
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.490941
+    cy: 0.9575897
+  - name: DISPCS
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.56115067
+    cy: 0.9575897
+  - name: DC
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.6313603
+    cy: 0.9575897
+  - name: SRAMCS
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.7015699
+    cy: 0.9575897
+  - name: RESET
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.77177966
+    cy: 0.9575897
+  - name: BUSY
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.8419893
+    cy: 0.9575897
+  - name: ENABLE
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.9121989
+    cy: 0.9575897
+  - name: GND
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.28031203
+    cy: 0.9575897

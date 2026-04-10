@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit Simple Soil Moisture Sensor
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit Simple Soil Moisture Sensor
+  icon: {fileID: 0}
+  realWorldWidth: 103.51969
+  realWorldHeight: 204.34251
+  pins:
+  - name: V+
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: V+
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.03129042
+    cy: 0.19577923
+  - name: SIGNAL
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: SIGNAL
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.03129042
+    cy: 0.16703595
+  - name: GND
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.03129042
+    cy: 0.22512744

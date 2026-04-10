@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit Mini PiTFT - 135x240 Color TFT Add-on for Raspberry Pi
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit Mini PiTFT - 135x240 Color TFT Add-on for Raspberry Pi
+  icon: {fileID: 0}
+  realWorldWidth: 150
+  realWorldHeight: 96
+  pins:
+  - name: 3.3V
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.21968518
+    cy: 0.22572337
+  - name: 3.3V
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.7530185
+    cy: 0.22572337
+  - name: 5.0V
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.21968518
+    cy: 0.12155527
+  - name: 5.0V
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.28635186
+    cy: 0.12155527
+  - name: BUTTONA
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.68635184
+    cy: 0.12155527
+  - name: BUTTONB
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.7530185
+    cy: 0.12155527
+  - name: GPIO4
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.41968518
+    cy: 0.22572337
+  - name: GPIO17
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.5530185
+    cy: 0.22572337
+  - name: GPIO18
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.5530185
+    cy: 0.12155527
+  - name: GPIO22
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.68635184
+    cy: 0.22572337
+  - name: GPIO27
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.61968523
+    cy: 0.22572337
+  - name: TXD
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.41968518
+    cy: 0.12155527
+  - name: RXD
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.48635185
+    cy: 0.12155527
+  - name: SDA
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.28635186
+    cy: 0.22572337
+  - name: SCL
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.35301852
+    cy: 0.22572337
+  - name: TFT_DC
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.8863518
+    cy: 0.12155527
+  - name: TFT_CS
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.95305556
+    cy: 0.12155527
+  - name: SCLK
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.95305556
+    cy: 0.22572337
+  - name: MOSI
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.8196852
+    cy: 0.22572337
+  - name: MISO
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.8863518
+    cy: 0.22572337
+  - name: GND
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.35301852
+    cy: 0.12155527
+  - name: GND
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.48635185
+    cy: 0.22572337
+  - name: GND
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.61968523
+    cy: 0.12155527
+  - name: GND
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.8196852
+    cy: 0.12155527

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2.56in" height="0.708661in" id="Layer_1" data-name="Layer 1"  y="0in" viewBox="0 0 183.7588 50.5379" gorn="0" x="0in">
+    <desc >
+        <referenceFile >Kris18650.svg</referenceFile>
+    </desc>
+    <title >Kris18650</title>
+    <g id="breadboard"  gorn="0.2">
+        <ellipse ry="4.3254" rx="3.839" id="connector3pin"  stroke="#9a916c" gorn="0.2.0" fill="none" stroke-width="0.254" cx="36.9158" cy="25.0379"/>
+        <ellipse ry="4.3254" rx="3.839" id="connector1pin"  stroke="#9a916c" gorn="0.2.1" fill="none" stroke-width="0.254" cx="7.0018" cy="25.0379"/>
+        <ellipse ry="4.3254" rx="3.839" id="connector2pin"  stroke="#9a916c" gorn="0.2.2" fill="none" stroke-width="0.254" cx="146.6003" cy="25.0379"/>
+        <ellipse ry="4.3254" rx="3.839" id="connector0pin"  stroke="#9a916c" gorn="0.2.3" fill="none" stroke-width="0.254" cx="176.5143" cy="25.0379"/>
+        <g >
+            <g  transform="translate(-0.2412 -0.4621)">
+                <g >
+                    <g >
+                        <g >
+                            <path d="M180.4259,5.8661v39.63a5.3817,5.3817,0,0,1-5.3336,5.404H7.48a5.3907,5.3907,0,0,1-5.3337-5.404V5.8661A5.3908,5.3908,0,0,1,7.48.4621H175.0923a5.0064,5.0064,0,0,1,1.3333.1834A5.3985,5.3985,0,0,1,180.4259,5.8661Z"  fill="#130eff"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <ellipse ry="20.4512" rx="1.9055" id="_Path_" data-name="&lt;Path>"  gorn="0.2.4.1" fill="#b2b2b2" cx="1.9055" cy="24.8882"/>
+            <g  transform="translate(-0.2412 -0.4621)">
+                <g >
+                    <g >
+                        <g >
+                            <path d="M180.7834,5.95V45.596A5.3818,5.3818,0,0,1,175.45,51H129.11v-.1h45.9823a5.3817,5.3817,0,0,0,5.3336-5.404V5.8661a5.3985,5.3985,0,0,0-4-5.2206A5.393,5.393,0,0,1,180.7834,5.95Z"  fill="#0400ed"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(-0.2412 -0.4621)">
+                <g >
+                    <g >
+                        <g >
+                            <path d="M7.89,48.8354c-2.209,0-5.0285-2.07-5.0285-4.5267V32.9652c0,2.4585,2.82,6.31,5.0285,6.31H174.28c2.21,0,5.03-3.8529,5.03-6.31V44.31c0,2.4585-2.8194,4.5267-5.03,4.5267L7.89,48.8354Z"  opacity="0.35" style="isolation: isolate"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(-0.2412 -0.4621)">
+                <g >
+                    <g >
+                        <g >
+                            <path d="M180.28,25.3478c0,11.2985-.4261,20.4537-.95,20.4537s-.5251-40.9024,0-40.9024.95,9.1552.95,20.4487"  fill="#b2b2b2"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(-0.2412 -0.4621)">
+                <g >
+                    <g >
+                        <g >
+                            <path d="M175.2517,15.362c0,1.8013-1.9328,3.2624-4.3178,3.2624H11.0944c-2.3809,0-4.3165-1.3343-4.3165-3.1357V5.6564c0-1.8014,1.9328-3.3909,4.3165-3.3909H170.9325c2.3851,0,4.3206,1.4627,4.3206,3.2641V15.362Z"  fill="#fff" opacity="0.35" style="isolation: isolate"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(44.5688 30.9637) scale(0.8242 1)">
+                <g >
+                    <g >
+                        <g >
+                            <text font-size="20.015"  fill="#fff" font-family="Droid Sans">18650 Li-ion</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(-0.2412 -0.4621)">
+                <g >
+                    <g >
+                        <g >
+                            <path id="_Path_2" data-name="&lt;Path>" d="M179.3019,44.0462c-.4025,0-.4025-37.0462,0-37.0462l-.0126.0041c0,2.2852.8606,4.133,1.921,4.133h.87c1.0588,0,1.9195,1.8479,1.9195,4.1372V35.76c0,2.2771-.8607,4.1413-1.9195,4.1413h-.87c-1.06,0-1.921,1.8478-1.921,4.133l.0126.0123Z"  gorn="0.2.4.7.0.0.0.0" fill="#7c7c7c"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="translate(15.1748 28.9325) scale(0.8875 1)">
+            <g >
+                <g >
+                    <g >
+                        <text font-size="14.6053"  fill="#f8f8f8" style="isolation: isolate" font-family="OCRA">-</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="translate(164.1455 28.9325) scale(0.8875 1)">
+            <g >
+                <g >
+                    <g >
+                        <text font-size="14.6053"  fill="#f8f8f8" style="isolation: isolate" font-family="OCRA">+</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

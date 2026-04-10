@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: H-BRIDGE_KIT2GO
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: H-BRIDGE_KIT2GO
+  icon: {fileID: 0}
+  realWorldWidth: 117.6
+  realWorldHeight: 151.8
+  pins:
+  - name: SO
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.0045314627
+    cy: 0.0022272728
+  - name: SI
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.0045314627
+    cy: 0.006969697
+  - name: SCK
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.0045314627
+    cy: 0.01171278
+  - name: CSN
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.0045314627
+    cy: 0.016455863
+  - name: P0_14
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.0045314627
+    cy: 0.021198947
+  - name: P0_15
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.0045314627
+    cy: 0.02594203
+  - name: DIR
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.0045314627
+    cy: 0.030685114
+  - name: P2_6
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.0045314627
+    cy: 0.035428192
+  - name: P0_5
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.029217688
+    cy: 0.0022272728
+  - name: P0_0
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.029217688
+    cy: 0.006969697
+  - name: VSO
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.029217688
+    cy: 0.01171278
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.029217688
+    cy: 0.016455863
+  - name: PWM
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.029217688
+    cy: 0.021198947
+  - name: DIS
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.029217688
+    cy: 0.02594203
+  - name: P2_9
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.029217688
+    cy: 0.030685114
+  - name: P2_7
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.029217688
+    cy: 0.035428192
+  - name: OUT2
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.914966
+    cy: 0.09354414
+  - name: OUT2
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.914966
+    cy: 0.1594203
+  - name: OUT1
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.914966
+    cy: 0.22529644
+  - name: OUT1
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.914966
+    cy: 0.2911726
+  - name: VS
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.06588436
+    cy: 0.03994071
+  - name: VS
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.914966
+    cy: 0.6205534
+  - name: VBAT
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.914966
+    cy: 0.6864295
+  - name: VBAT
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.914966
+    cy: 0.7523057
+  - name: GND
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.914966
+    cy: 0.8181818
+  - name: GND
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.914966
+    cy: 0.884058
+  - name: V5V
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.914966
+    cy: 0.9499341
+  - name: GND
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.4687075
+    cy: 0.5978919
+  - name: DBG_RESET
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.4687075
+    cy: 0.63083005
+  - name: DBG_TMS
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.4687075
+    cy: 0.6640316
+  - name: DBG_TCK
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.033741497
+    cy: 0.050164692
+  - name: +3V3
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.033741497
+    cy: 0.05253623

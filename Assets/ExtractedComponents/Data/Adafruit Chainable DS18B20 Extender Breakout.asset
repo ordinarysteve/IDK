@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit Chainable DS18B20 Extender Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit Chainable DS18B20 Extender Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 114.444885
+  realWorldHeight: 70.10236
+  pins:
+  - name: VIN
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.5943586
+    cy: 0.023241138
+  - name: VIN
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.033393204
+    cy: 0.5000099
+  - name: VIN
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.9688107
+    cy: 0.4998514
+  - name: SIGNAL
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.5012518
+    cy: 0.023241138
+  - name: SIGNAL
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.9688107
+    cy: 0.6137143
+  - name: SIGNAL
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.033393204
+    cy: 0.38614705
+  - name: GND
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.40813288
+    cy: 0.023241138
+  - name: GND
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.9688107
+    cy: 0.38598856
+  - name: GND
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.033393204
+    cy: 0.61387277

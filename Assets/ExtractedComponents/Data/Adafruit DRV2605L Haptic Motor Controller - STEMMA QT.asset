@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit DRV2605L Haptic Motor Controller - STEMMA QT
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit DRV2605L Haptic Motor Controller - STEMMA QT
+  icon: {fileID: 0}
+  realWorldWidth: 107.799995
+  realWorldHeight: 70
+  pins:
+  - name: VCC
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.31338093
+    cy: 0.85714287
+  - name: VCC
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.78484374
+    cy: 0.7385714
+  - name: VCC
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.088659465
+    cy: 0.6304762
+  - name: SDA
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.59166694
+    cy: 0.85714287
+  - name: SDA
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.84410834
+    cy: 0.7385714
+  - name: SDA
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.14792408
+    cy: 0.6304762
+  - name: SCL
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.4989049
+    cy: 0.85714287
+  - name: SCL
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.9020846
+    cy: 0.7385714
+  - name: SCL
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.20590033
+    cy: 0.6304762
+  - name: IN/TRIG
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.68442893
+    cy: 0.85714287
+  - name: OUT+
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0
+  - name: OUT+
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.59166694
+    cy: 0.10714286
+  - name: OUT-
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.40614292
+    cy: 0.10714286
+  - name: OUT-
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.40614292
+    cy: 0.85714287
+  - name: GND
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.7268675
+    cy: 0.7385714
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.030683221
+    cy: 0.6304762
