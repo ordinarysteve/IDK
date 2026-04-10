@@ -1,0 +1,3 @@
+TextField {
+    --unity-cursor-color: white;
+}

@@ -1,0 +1,13 @@
+{
+  "sources": [
+    { "keyword": "18650", "voltage": 3.7 },
+    { "keyword": "LiPo", "voltage": 3.7 },
+    { "keyword": "4 AAA", "voltage": 6.0 },
+    { "keyword": "2 AA", "voltage": 3.0 },
+    { "keyword": "3V", "voltage": 3.0 },
+    { "keyword": "Coin", "voltage": 3.0 },
+    { "keyword": "1.5V", "voltage": 1.5 },
+    { "keyword": "9V", "voltage": 9.0 },
+    { "keyword": "Arduino", "voltage": 5.0 }
+  ]
+}

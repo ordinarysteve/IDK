@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEngine;
 
 public class Resistor
 {
@@ -375,6 +376,14 @@ public class CircuitEngine
             this.nodes.Add(n);
     }
 
+    public void setVoltageSource(int index, double newVoltage)
+    {
+        if (index >= 0 && index < vSources.Count)
+        {
+            vSources[index].voltage = newVoltage;
+        }
+    }
+
     public void addCurrentSource(int from, int to, double current)
     {
         this.iSources.Add((from, to, current));
@@ -410,6 +419,35 @@ public class CircuitEngine
             if (node != 0)
                 this.nodes.Add(node);
         }
+    }
+
+    // Paste this inside ElectricPhysicsEngine.cs
+    public void AddComponent(
+        FritzingComponentAsset asset,
+        UnityEngine.UIElements.VisualElement uiElement
+    )
+    {
+        int nextAvailableNode = this.nodes.Count + 1;
+
+        // Now using asset.Name!
+        if (asset.Name.Contains("Resistor"))
+        {
+            addResistor(nextAvailableNode, nextAvailableNode + 1, 1000);
+            Debug.Log(
+                $"Physics Engine: Registered 1k Resistor between Node {nextAvailableNode} and {nextAvailableNode + 1}"
+            );
+        }
+        else if (asset.Name.Contains("Capacitor"))
+        {
+            addCapacitor(nextAvailableNode, nextAvailableNode + 1, 0.00001); // 10uF
+            Debug.Log("Physics Engine: Registered Capacitor");
+        }
+        else if (asset.Name.Contains("Voltage"))
+        {
+            addVoltageSource(nextAvailableNode, 0, 5.0);
+            Debug.Log("Physics Engine: Registered 5V Source");
+        }
+        // ... add your other components here!
     }
 
     public CircuitResult stepTime(double dt)
