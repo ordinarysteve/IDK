@@ -1,0 +1,519 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: mega2560
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: mega2560
+  icon: {fileID: 0}
+  realWorldWidth: 500
+  realWorldHeight: 140
+  pins:
+  - name: (OC0B) PG5
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0
+    cy: 0
+  - name: (RXD0/PCINT8) PE0
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0
+    cy: 0
+  - name: (TXD0) PE1
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0
+    cy: 0
+  - name: (XCK0/AIN0) PE2
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0
+    cy: 0
+  - name: (OC3A/AIN1) PE3
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0
+    cy: 0
+  - name: (OC3B/INT4) PE4
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0
+    cy: 0
+  - name: (OC3C/INT5) PE5
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0
+    cy: 0
+  - name: (T3/INT6) PE6
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0
+    cy: 0
+  - name: (CLKO/ICP3/INT7) PE7
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0
+    cy: 0
+  - name: (RXD2) PH0
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0
+    cy: 0
+  - name: (TXD2) PH1
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0
+    cy: 0
+  - name: (XCK2) PH2
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: (OC4A) PH3
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: (OC4B) PH4
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: (OC4C) PH5
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: (OC2B) PH6
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: (SS/PCINT0) PB0
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: (SCK/PCINT1) PB1
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: (MOSI/PCINT2) PB2
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: (MISO/PCINT3) PB3
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: (OC2A/PCINT4) PB4
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: (OC1A/PCINT5) PB5
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0
+    cy: 0
+  - name: (OC1B/PCINT6) PB6
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0
+    cy: 0
+  - name: (OC0A/OC1C/PCINT7) PB7
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0
+    cy: 0
+  - name: (T4) PH7
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0
+    cy: 0
+  - name: (TOSC2) PG3
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0
+    cy: 0
+  - name: (TOSC1) PG4
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0
+    cy: 0
+  - name: RESET
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0
+    cy: 0
+  - name: XTAL2
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0
+    cy: 0
+  - name: XTAL1
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0
+    cy: 0
+  - name: (ICP4) PL0
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0
+    cy: 0
+  - name: (ICP5) PL1
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0
+    cy: 0
+  - name: (T5) PL2
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0
+    cy: 0
+  - name: (OC5A) PL3
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0
+  - name: (OC5B) PL4
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0
+    cy: 0
+  - name: (OC5C) PL5
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0
+    cy: 0
+  - name: PL6
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0
+    cy: 0
+  - name: PL7
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0
+    cy: 0
+  - name: (SCL/INT0) PD0
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0
+    cy: 0
+  - name: (SDA/INT1) PD1
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0
+    cy: 0
+  - name: (RXD1/INT2) PD2
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0
+    cy: 0
+  - name: (TXD1/INT3) PD3
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0
+    cy: 0
+  - name: (ICP1) PD4
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0
+    cy: 0
+  - name: (XCK1) PD5
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: (T1) PD6
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0
+    cy: 0
+  - name: (T0) PD7
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0
+    cy: 0
+  - name: PG0 (WR)
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0
+    cy: 0
+  - name: PG1 (RD)
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: PC0 (A8)
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0
+    cy: 0
+  - name: PC1 (A9)
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0
+  - name: PC2 (A10)
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0
+    cy: 0
+  - name: PC3 (A11)
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0
+    cy: 0
+  - name: PC4 (A12)
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0
+    cy: 0
+  - name: PC5 (A13)
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0
+    cy: 0
+  - name: PC6 (A14)
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0
+    cy: 0
+  - name: PC7 (A15)
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: PJ0 (RXD3/PCINT9)
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0
+    cy: 0
+  - name: PJ1 (TXD3/PCINT10)
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0
+    cy: 0
+  - name: PJ2 (XCK3/PCINT11)
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0
+    cy: 0
+  - name: PJ3 (PCINT12)
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0
+    cy: 0
+  - name: PJ4 (PCINT13)
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0
+    cy: 0
+  - name: PJ5 (PCINT14)
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0
+    cy: 0
+  - name: PJ6 (PCINT15)
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0
+    cy: 0
+  - name: PG2 (ALE)
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0
+    cy: 0
+  - name: PA7 (AD7)
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0
+    cy: 0
+  - name: PA6 (AD6)
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0
+    cy: 0
+  - name: PA5 (AD5)
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0
+    cy: 0
+  - name: PA4 (AD4)
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0
+    cy: 0
+  - name: PA3 (AD3)
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0
+    cy: 0
+  - name: PA2 (AD2)
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0
+    cy: 0
+  - name: PA1 (AD1)
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0
+    cy: 0
+  - name: PA0 (AD0)
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0
+    cy: 0
+  - name: PJ7
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0
+    cy: 0
+  - name: PK7 (ADC15/PCINT23)
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0
+    cy: 0
+  - name: PK6 (ADC14/PCINT22)
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0
+    cy: 0
+  - name: PK5 (ADC13/PCINT21)
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0
+    cy: 0
+  - name: PK4 (ADC12/PCINT20)
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0
+    cy: 0
+  - name: PK3 (ADC11/PCINT19)
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: PK2 (ADC10/PCINT18)
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: PK1 (ADC9/PCINT17)
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: PK0 (ADC8/PCINT16)
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0
+  - name: PF7 (ADC7/TDI)
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0
+    cy: 0
+  - name: PF6 (ADC6/TDO)
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0
+    cy: 0
+  - name: PF5 (ADC5/TMS)
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0
+    cy: 0
+  - name: PF4 (ADC4/TCK)
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0
+    cy: 0
+  - name: PF3 (ADC3)
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0
+    cy: 0
+  - name: PF2 (ADC2)
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0
+    cy: 0
+  - name: PF1 (ADC1)
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: PF0 (ADC0)
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0
+  - name: AREF
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0
+    cy: 0
+  - name: AVCC
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0
+    cy: 0

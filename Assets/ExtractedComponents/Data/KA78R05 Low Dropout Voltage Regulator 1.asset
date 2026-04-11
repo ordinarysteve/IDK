@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: KA78R05 Low Dropout Voltage Regulator 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: KA78R05 Low Dropout Voltage Regulator
+  icon: {fileID: 0}
+  realWorldWidth: 28.35
+  realWorldHeight: 48.756
+  pins:
+  - name: EN
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.87721336
+    cy: 0.9859299
+  - name: VIN
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.115414456
+    cy: 0.9859299
+  - name: VOUT
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.36931217
+    cy: 0.9859299
+  - name: GND
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.6232452
+    cy: 0.9859299

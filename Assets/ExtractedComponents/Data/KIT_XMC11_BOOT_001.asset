@@ -1,0 +1,354 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: KIT_XMC11_BOOT_001
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: KIT_XMC11_BOOT_001
+  icon: {fileID: 0}
+  realWorldWidth: 336.28
+  realWorldHeight: 212.57999
+  pins:
+  - name: P2.0
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.020742238
+    cy: 0.025783751
+  - name: P2.1
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.022883309
+    cy: 0.025783751
+  - name: P2.3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.025024384
+    cy: 0.025783751
+  - name: GND
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.027165456
+    cy: 0.025783751
+  - name: P0.7
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.029306531
+    cy: 0.025783751
+  - name: P1.0
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.0314476
+    cy: 0.025783751
+  - name: P1.1
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.033588674
+    cy: 0.025783751
+  - name: P0.9
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.035729747
+    cy: 0.025783751
+  - name: P0.8
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.037870824
+    cy: 0.025783751
+  - name: P0.12
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.040011894
+    cy: 0.025783751
+  - name: P0.4
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.04343761
+    cy: 0.025783751
+  - name: P0.3
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.045578685
+    cy: 0.025783751
+  - name: P0.2
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.047719758
+    cy: 0.025783751
+  - name: P0.1
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.049860828
+    cy: 0.025783751
+  - name: P0.0
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.0520019
+    cy: 0.025783751
+  - name: P1.4
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.054142978
+    cy: 0.025783751
+  - name: P1.3
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.056284048
+    cy: 0.025783751
+  - name: P1.2
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.05842512
+    cy: 0.025783751
+  - name: P0.5
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.04343761
+    cy: 0.046105467
+  - name: P0.6
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.045578685
+    cy: 0.046105467
+  - name: P0.10
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.047719758
+    cy: 0.046105467
+  - name: P0.11
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.049860828
+    cy: 0.046105467
+  - name: P0.13
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.0520019
+    cy: 0.046105467
+  - name: P1.0
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.05854407
+    cy: 0.05294618
+  - name: VDDP
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.060685143
+    cy: 0.05294618
+  - name: P0.7
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.05854407
+    cy: 0.056333147
+  - name: P1.1
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.060685143
+    cy: 0.056333147
+  - name: P2.4
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.05854407
+    cy: 0.059720106
+  - name: GND
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.060685143
+    cy: 0.059720106
+  - name: GND
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.047719758
+    cy: 0.069812305
+  - name: P2.5
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.049860828
+    cy: 0.069812305
+  - name: P2.7
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.0520019
+    cy: 0.069812305
+  - name: NC
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.0284501
+    cy: 0.09013407
+  - name: IOREF
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.030591171
+    cy: 0.09013407
+  - name: RESET
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.03273225
+    cy: 0.09013407
+  - name: 3V3
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.03487332
+    cy: 0.09013407
+  - name: 5V
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.03701439
+    cy: 0.09013407
+  - name: GND
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.039155465
+    cy: 0.09013407
+  - name: GND
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.041296538
+    cy: 0.09013407
+  - name: VIN
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.04343761
+    cy: 0.09013407
+  - name: P2.6
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.047719758
+    cy: 0.09013407
+  - name: P2.8
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.049860828
+    cy: 0.09013407
+  - name: P2.9
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.0520019
+    cy: 0.09013407
+  - name: P2.10
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.054142978
+    cy: 0.09013407
+  - name: P2.11
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.056284048
+    cy: 0.09013407
+  - name: P2.2
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.05842512
+    cy: 0.09013407
+  - name: GND
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.013997858
+    cy: 0.07235253
+  - name: P0.15
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.021491613
+    cy: 0.054572865
+  - name: P0.14
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.01935054
+    cy: 0.054572865
+  - name: VDDP
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.021491613
+    cy: 0.051185906
+  - name: GND
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.01935054
+    cy: 0.051185906
+  - name: GND
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.021491613
+    cy: 0.047798946
+  - name: VDDP
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.01935054
+    cy: 0.047798946
+  - name: PC_TXD_DEV
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.021491613
+    cy: 0.044411983
+  - name: PC_RXD_DEV
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.01935054
+    cy: 0.044411983
+  - name: SWD_DEV
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: -0.0058070654
+    cy: 0.0867471
+  - name: SWCLK_DEV
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: -0.0058070654
+    cy: 0.09013407
+  - name: GND
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: -0.0036659923
+    cy: 0.0867471
+  - name: VDD_DEV
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: -0.0036659923
+    cy: 0.09013407
+  - name: VDD_DEV
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: -0.0015249192
+    cy: 0.0867471
+  - name: GND
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: -0.0015249192
+    cy: 0.09013407
+  - name: PC_RXD_DEV
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.00061615335
+    cy: 0.0867471
+  - name: PC_TXD_DEV
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.00061615335
+    cy: 0.09013407
+  - name: GND
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.0096943015
+    cy: 0.082447544
+  - name: PWRIN
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.014747233
+    cy: 0.082447544
+  - name: GND
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.012220768
+    cy: 0.08911798
+  - name: RESET_DEV
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: -0.0063422145
+    cy: 0.062193524

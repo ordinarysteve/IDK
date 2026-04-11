@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino GSM Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino GSM Shield
+  icon: {fileID: 0}
+  realWorldWidth: 288
+  realWorldHeight: 151.2
+  pins:
+  - name: A5/SCL
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.185
+    cy: 0.04761905
+  - name: A4/SDA
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.21
+    cy: 0.04761905
+  - name: AREF
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.235
+    cy: 0.04761905
+  - name: AGND
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.26
+    cy: 0.04761905
+  - name: SCK/D13
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.285
+    cy: 0.04761905
+  - name: MISO/D12
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.31
+    cy: 0.04761905
+  - name: MOSI/PWM D11
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.335
+    cy: 0.04761905
+  - name: SS/PWM D10
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.36
+    cy: 0.04761905
+  - name: PWM D9
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.385
+    cy: 0.04761905
+  - name: D8
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.41
+    cy: 0.04761905
+  - name: N/C
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.27499998
+    cy: 0.95238096
+  - name: IOREF
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.3
+    cy: 0.95238096
+  - name: RST ARDUINO
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.325
+    cy: 0.95238096
+  - name: 3V3
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.35000002
+    cy: 0.95238096
+  - name: 5V
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.375
+    cy: 0.95238096
+  - name: AGND
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.39999998
+    cy: 0.95238096
+  - name: AGND
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.425
+    cy: 0.95238096
+  - name: VIN
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.45000002
+    cy: 0.95238096
+  - name: N/C D0
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.625
+    cy: 0.04761905
+  - name: N/C D1
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.6
+    cy: 0.04761905
+  - name: DSM RX D2
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.57500005
+    cy: 0.04761905
+  - name: DSM TX D3
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.54999995
+    cy: 0.04761905
+  - name: PWM D4
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.525
+    cy: 0.04761905
+  - name: PWM D5
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.5
+    cy: 0.04761905
+  - name: PWM D6
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.47500002
+    cy: 0.04761905
+  - name: RST MDM/D7
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.45000002
+    cy: 0.04761905
+  - name: A0
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.5
+    cy: 0.95238096
+  - name: A1
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.525
+    cy: 0.95238096
+  - name: A2
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.54999995
+    cy: 0.95238096
+  - name: A3
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.57500005
+    cy: 0.95238096
+  - name: A4/SDA
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.6
+    cy: 0.95238096
+  - name: A5/SCL
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.625
+    cy: 0.95238096

@@ -1,0 +1,1723 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 72 161.887" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="Layer_1" x="0px" viewBox="0 0 72 161.887" y="0px" version="1.1" gorn="0" width="1in" height="2.24843in" xml:space="preserve" >
+    <desc >
+        <referenceFile >LittleSoundieSVG (1).svg</referenceFile>
+    </desc>
+    <g >
+        <g >
+            <g id="breadboard" gorn="0.1.0.0" >
+                <g id="icon" gorn="0.1.0.0.0" >
+                    <path d="M72.424,158.205v-158.4h-72v158.4H72.424 M3.304,7.005c0-2.386,1.934-4.32,4.32-4.32c2.386,0,4.32,1.934,4.32,4.32c0,2.386-1.934,4.32-4.32,4.32C5.238,11.325,3.304,9.391,3.304,7.005L3.304,7.005z M60.904,7.005c0-2.386,1.934-4.32,4.318-4.32c2.383,0,4.319,1.934,4.319,4.32c0.001,2.386-1.935,4.321-4.317,4.322c-2.385,0.001-4.32-1.932-4.32-4.318C60.904,7.008,60.904,7.006,60.904,7.005z M52.489,144.684c-0.003-1.564,1.263-2.838,2.829-2.842c1.563-0.002,2.837,1.264,2.84,2.83c0,0.004,0,0.008,0,0.012c0.004,1.564-1.264,2.836-2.828,2.84c-1.566,0.004-2.838-1.264-2.841-2.828C52.489,144.691,52.489,144.688,52.489,144.684z M52.489,124.842c-0.003-1.566,1.263-2.838,2.829-2.842c1.563-0.002,2.837,1.264,2.84,2.83c0,0.004,0,0.008,0,0.012c0.004,1.564-1.264,2.836-2.828,2.84c-1.566,0.002-2.838-1.264-2.841-2.83C52.489,124.848,52.489,124.846,52.489,124.842z M12.499,151.971c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992c0,0.547-0.444,0.992-0.992,0.992C12.943,152.963,12.499,152.518,12.499,151.971L12.499,151.971z M12.499,152.439c0-0.547,0.444-0.992,0.992-0.992c0.548,0,0.992,0.445,0.992,0.992c0,0.549-0.444,0.992-0.992,0.992C12.943,153.432,12.499,152.988,12.499,152.439z M12.496,153.004c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992s-0.444,0.992-0.992,0.992C12.94,153.996,12.496,153.553,12.496,153.004L12.496,153.004z M12.496,153.473c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992c0,0.547-0.444,0.992-0.992,0.992C12.94,154.465,12.496,154.02,12.496,153.473z M13.501,143.594c0-0.518,0.419-0.936,0.936-0.936s0.935,0.418,0.935,0.936c0,0.516-0.418,0.938-0.935,0.938S13.501,144.109,13.501,143.594z M13.529,143.963c0-0.518,0.419-0.936,0.936-0.936c0.517,0,0.935,0.418,0.935,0.936c0,0.516-0.418,0.934-0.935,0.934C13.948,144.896,13.529,144.479,13.529,143.963z M13.501,144.387c0-0.516,0.419-0.936,0.936-0.936s0.935,0.42,0.935,0.936c0,0.52-0.418,0.938-0.935,0.938S13.501,144.904,13.501,144.387z M13.516,144.695c0-0.516,0.419-0.938,0.936-0.938c0.517,0,0.936,0.422,0.936,0.938c0,0.518-0.419,0.936-0.936,0.936C13.935,145.631,13.516,145.213,13.516,144.695z M27.221,143.594c0-0.518,0.419-0.936,0.936-0.936c0.517,0,0.935,0.418,0.935,0.936c0,0.516-0.418,0.938-0.935,0.938C27.64,144.53,27.221,144.109,27.221,143.594z M27.249,143.963c0-0.518,0.419-0.936,0.936-0.936s0.936,0.418,0.936,0.936c0,0.516-0.419,0.934-0.936,0.934S27.249,144.479,27.249,143.963z M27.221,144.387c0-0.516,0.419-0.936,0.936-0.936c0.517,0,0.935,0.42,0.935,0.936c0,0.52-0.418,0.938-0.935,0.938C27.64,145.323,27.221,144.904,27.221,144.387z M27.236,144.695c0-0.516,0.419-0.938,0.936-0.938s0.936,0.422,0.936,0.938c0,0.518-0.419,0.936-0.936,0.936S27.236,145.213,27.236,144.695z M27.979,151.971c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992c0,0.547-0.444,0.992-0.992,0.992C28.423,152.963,27.979,152.518,27.979,151.971L27.979,151.971z M27.977,152.449c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992c0,0.547-0.444,0.992-0.992,0.992C28.42,153.441,27.977,152.996,27.977,152.449z M27.974,152.996c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992c0,0.547-0.444,0.992-0.992,0.992C28.418,153.988,27.974,153.543,27.974,152.996z M27.974,153.473c0-0.549,0.444-0.992,0.992-0.992c0.548,0,0.992,0.443,0.992,0.992c0,0.547-0.444,0.992-0.992,0.992C28.418,154.465,27.974,154.02,27.974,153.473L27.974,153.473z M2.584,32.205c0-0.795,0.644-1.44,1.439-1.44s1.44,0.644,1.44,1.439c0,0,0,0,0,0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,33,2.584,32.205z M2.584,39.405c0-0.795,0.644-1.44,1.439-1.441c0.795,0,1.44,0.645,1.44,1.439v0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,40.201,2.584,39.405L2.584,39.405z M2.584,46.605c0-0.795,0.644-1.44,1.439-1.44s1.44,0.644,1.44,1.439v0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,47.4,2.584,46.605z M2.584,53.805c0-0.795,0.644-1.44,1.439-1.44s1.44,0.644,1.44,1.439c0,0,0,0,0,0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,54.601,2.584,53.805L2.584,53.805z M2.584,61.005c0-0.795,0.644-1.44,1.439-1.441c0.795,0,1.44,0.644,1.44,1.439v0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,61.8,2.584,61.005z M2.584,68.205c0-0.795,0.644-1.44,1.439-1.44s1.44,0.644,1.44,1.439c0,0,0,0,0,0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,69,2.584,68.205L2.584,68.205z M2.584,75.405c0-0.795,0.644-1.44,1.439-1.441c0.795,0,1.44,0.645,1.44,1.439v0.001c0,0.795-0.645,1.44-1.44,1.44S2.584,76.201,2.584,75.405L2.584,75.405z M2.584,82.605c0-0.795,0.644-1.44,1.439-1.441c0.795,0,1.44,0.645,1.44,1.439v0.002c0,0.795-0.645,1.438-1.44,1.438S2.584,83.4,2.584,82.605z M67.384,39.405c-0.001-0.795,0.644-1.441,1.438-1.442c0.794-0.001,1.438,0.643,1.441,1.438c0,0.001,0,0.003,0,0.004c0.002,0.795-0.645,1.441-1.438,1.442s-1.441-0.643-1.442-1.438C67.384,39.408,67.384,39.407,67.384,39.405z M67.384,46.605c-0.001-0.795,0.644-1.441,1.438-1.442c0.794-0.001,1.438,0.643,1.441,1.438c0,0.001,0,0.003,0,0.004c0.002,0.795-0.645,1.441-1.438,1.442s-1.441-0.643-1.442-1.438C67.384,46.608,67.384,46.606,67.384,46.605z M67.384,53.805c-0.001-0.795,0.644-1.441,1.438-1.442c0.795-0.001,1.438,0.643,1.441,1.438c0,0.001,0,0.002,0,0.004c0.002,0.795-0.645,1.441-1.438,1.442s-1.441-0.643-1.442-1.438C67.384,53.808,67.384,53.807,67.384,53.805z M67.384,61.005c-0.001-0.795,0.644-1.441,1.438-1.442c0.794-0.001,1.438,0.643,1.441,1.438c0,0.001,0,0.003,0,0.004c0.002,0.795-0.645,1.441-1.438,1.442c-0.795,0.001-1.441-0.643-1.442-1.438C67.384,61.008,67.384,61.006,67.384,61.005z M67.384,68.205c-0.001-0.795,0.644-1.441,1.438-1.442c0.794-0.001,1.438,0.643,1.441,1.438c0,0.001,0,0.002,0,0.004c0.002,0.795-0.645,1.441-1.438,1.442s-1.441-0.643-1.442-1.438C67.384,68.208,67.384,68.207,67.384,68.205z M67.384,75.405c-0.001-0.795,0.644-1.441,1.438-1.442c0.794-0.001,1.438,0.643,1.441,1.438c0,0.001,0,0.003,0,0.004c0.002,0.795-0.645,1.441-1.438,1.442s-1.441-0.643-1.442-1.438C67.384,75.408,67.384,75.407,67.384,75.405z" fill="#E6321E" />
+                    <g >
+                        <title >layer 21</title>
+                        <line x2="16.496" y2="32.432" stroke-width="0.576" x1="16.496" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="32.205" />
+                        <circle cy="109.604" stroke-width="1.152" r="0.45" stroke="#FFFFFF" cx="45.874" fill="none" />
+                        <g >
+                            <title >text:LITTLE SOUNDIE</title>
+                            <g transform="matrix(1 0 0 1 1.3237 110.0547)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="4.176">LITTLE </text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 1.3237 115.0664)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="4.176">SOUNDIE</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:RX</title>
+                            <g transform="matrix(1 0 0 1 59.7832 48.1465)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">RX</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 59.7832 48.1465)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">RX</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:04</title>
+                            <g transform="matrix(1 0 0 1 9.4238 77.2051)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">04</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 77.2051)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">04</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:03</title>
+                            <g transform="matrix(1 0 0 1 9.4238 70.0059)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">03</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 70.0059)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">03</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:02</title>
+                            <g transform="matrix(1 0 0 1 9.4238 62.8047)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">02</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 62.8047)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">02</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:01</title>
+                            <g transform="matrix(1 0 0 1 9.4238 55.6055)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">01</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 55.6055)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">01</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:00</title>
+                            <g transform="matrix(1 0 0 1 9.4238 48.4043)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">00</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 48.4043)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">00</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:VIN</title>
+                            <g transform="matrix(1 0 0 1 9.4238 34.0059)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">VIN</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 34.0059)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">VIN</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:POWER/PLAY</title>
+                            <g transform="matrix(1 0 0 1 21.8613 6.1953)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="4.176">POWER/PLAY</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 21.8613 6.1953)" >
+                                <g >
+                                    <text stroke-width="0.432" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="4.176">POWER/PLAY</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:TX</title>
+                            <g transform="matrix(1 0 0 1 60.1543 55.3457)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">TX</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 60.1543 55.3457)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">TX</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:PB</title>
+                            <g transform="matrix(1 0 0 1 59.9668 40.9453)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">PB</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 59.9668 40.9453)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">PB</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:05</title>
+                            <g transform="matrix(1 0 0 1 9.4238 84.4043)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">05</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 84.4043)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">05</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:GND</title>
+                            <g transform="matrix(1 0 0 1 57 62.5469)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">GND</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 57 62.5469)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:L_AC</title>
+                            <g transform="matrix(1 0 0 1 56.0664 69.7461)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">L_AC</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 56.0664 69.7461)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">L_AC</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:R_AC</title>
+                            <g transform="matrix(1 0 0 1 55.5117 76.9453)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">R_AC</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 55.5117 76.9453)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">R_AC</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >text:GND</title>
+                            <g transform="matrix(1 0 0 1 9.4238 41.2061)" >
+                                <g >
+                                    <text fill="#FFFFFF"  font-family="Droid Sans" font-size="3.3408">GND</text>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 9.4238 41.2061)" >
+                                <g >
+                                    <text stroke-width="0.3456" stroke="#FFFFFF" fill="none"  font-family="Droid Sans" font-size="3.3408">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C1</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="47.663" y2="81.165" stroke-width="1.08" x1="47.505" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="81.165" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C2</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="25.613" y2="83.234" stroke-width="1.08" x1="25.455" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="83.234" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C3</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="32.374" y2="25.534" stroke-width="1.08" x1="32.374" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="25.376" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C4</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="23.525" y2="25.633" stroke-width="1.08" x1="23.525" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="25.792" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C5</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="32.374" y2="29.134" stroke-width="1.08" x1="32.374" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="28.976" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C6</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="36.874" y2="33.026" stroke-width="1.08" x1="36.874" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="33.185" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C7</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="41.374" y2="25.376" stroke-width="1.08" x1="41.374" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="25.534" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C8</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="51.725" y2="33.185" stroke-width="1.08" x1="51.725" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="33.026" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C9</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="21.194" y2="68.923" stroke-width="1.08" x1="21.306" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="69.035" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C10</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="51.816" y2="25.938" stroke-width="1.08" x1="51.816" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="25.78" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C11</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="23.396" y2="29.543" stroke-width="1.08" x1="23.396" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="29.385" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C12</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                                <line x2="30.124" y2="110.584" stroke-width="1.08" x1="30.124" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="110.426" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C13</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C14</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C15</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C16</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C17</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:C19</title>
+                            <g >
+                                <title >package:0603-CAP</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:D1</title>
+                            <g >
+                                <title >package:SOD-323</title>
+                                <line x2="16.652" y2="11.888" stroke-width="0.576" x1="20.195" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="11.888" />
+                                <line x2="20.195" y2="19.457" stroke-width="0.576" x1="20.195" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="14.354" />
+                                <line x2="16.652" y2="19.457" stroke-width="0.576" x1="16.652" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="14.354" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:D2</title>
+                            <g >
+                                <title >package:SOD-323</title>
+                                <line x2="9.272" y2="118.447" stroke-width="0.576" x1="12.815" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="118.447" />
+                                <line x2="12.815" y2="126.016" stroke-width="0.576" x1="12.815" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="120.914" />
+                                <line x2="9.272" y2="126.016" stroke-width="0.576" x1="9.272" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="120.914" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:D3</title>
+                            <g >
+                                <title >package:LED-0603</title>
+                                <line x2="55.773" y2="10.695" stroke-width="0.36" x1="55.773" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="7.995" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:D4</title>
+                            <g >
+                                <title >package:SOT23-3</title>
+                                <line x2="19.855" y2="120.221" stroke-width="0.576" x1="21.556" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="120.221" />
+                                <line x2="19.855" y2="122.488" stroke-width="0.576" x1="19.855" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="120.221" />
+                                <line x2="27.792" y2="120.221" stroke-width="0.576" x1="26.091" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="120.221" />
+                                <line x2="27.792" y2="122.488" stroke-width="0.576" x1="27.792" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="120.221" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:FD1</title>
+                            <g >
+                                <title >package:FIDUCIAL-MICRO</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:FD2</title>
+                            <g >
+                                <title >package:FIDUCIAL-MICRO</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:FD3</title>
+                            <g >
+                                <title >package:FIDUCIAL-MICRO</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:FD4</title>
+                            <g >
+                                <title >package:FIDUCIAL-MICRO</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:H1</title>
+                            <g >
+                                <title >package:STAND-OFF-TIGHT</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:H4</title>
+                            <g >
+                                <title >package:STAND-OFF-TIGHT</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:J1</title>
+                            <g >
+                                <title >package:AUDIO-JACK-3.5MM-SMD</title>
+                                <line x2="63.828" y2="125.691" stroke-width="0.72" x1="63.828" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="143.551" />
+                                <line x2="63.828" y2="113.502" stroke-width="0.72" x1="57.124" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="113.502" />
+                                <line x2="63.828" y2="117.188" stroke-width="0.72" x1="63.828" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="113.502" />
+                                <line x2="46.82" y2="113.502" stroke-width="0.72" x1="49.061" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="113.502" />
+                                <line x2="46.82" y2="138.447" stroke-width="0.72" x1="46.82" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="113.502" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:J2</title>
+                            <g >
+                                <title >package:USB-MICROB-PTH</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:J3</title>
+                            <g >
+                                <title >package:1X08</title>
+                                <line x2="7.624" y2="77.205" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="73.605" />
+                                <line x2="5.824" y2="79.005" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="77.205" />
+                                <line x2="0.424" y2="77.205" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="79.005" />
+                                <line x2="7.624" y2="66.405" stroke-width="0.576" x1="5.824" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="64.605" />
+                                <line x2="7.624" y2="70.005" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="66.405" />
+                                <line x2="5.824" y2="71.805" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="70.005" />
+                                <line x2="0.424" y2="70.005" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="71.805" />
+                                <line x2="0.424" y2="66.405" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="70.005" />
+                                <line x2="2.224" y2="64.605" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="66.405" />
+                                <line x2="5.824" y2="71.805" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="73.605" />
+                                <line x2="0.424" y2="73.605" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="71.805" />
+                                <line x2="0.424" y2="73.605" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="77.205" />
+                                <line x2="7.624" y2="55.605" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="52.005" />
+                                <line x2="5.824" y2="57.405" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="55.605" />
+                                <line x2="0.424" y2="55.605" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="57.405" />
+                                <line x2="7.624" y2="59.205" stroke-width="0.576" x1="5.824" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="57.405" />
+                                <line x2="7.624" y2="62.805" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="59.205" />
+                                <line x2="5.824" y2="64.605" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="62.805" />
+                                <line x2="0.424" y2="62.805" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="64.605" />
+                                <line x2="0.424" y2="59.205" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="62.805" />
+                                <line x2="2.224" y2="57.405" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="59.205" />
+                                <line x2="7.624" y2="44.805" stroke-width="0.576" x1="5.824" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="43.005" />
+                                <line x2="7.624" y2="48.405" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="44.805" />
+                                <line x2="5.824" y2="50.205" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="48.405" />
+                                <line x2="0.424" y2="48.405" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="50.205" />
+                                <line x2="0.424" y2="44.805" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="48.405" />
+                                <line x2="2.224" y2="43.005" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="44.805" />
+                                <line x2="5.824" y2="50.205" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="52.005" />
+                                <line x2="0.424" y2="52.005" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="50.205" />
+                                <line x2="0.424" y2="52.005" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="55.605" />
+                                <line x2="7.624" y2="34.005" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="30.405" />
+                                <line x2="5.824" y2="35.805" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="34.005" />
+                                <line x2="0.424" y2="34.005" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="35.805" />
+                                <line x2="7.624" y2="37.605" stroke-width="0.576" x1="5.824" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="35.805" />
+                                <line x2="7.624" y2="41.205" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="37.605" />
+                                <line x2="5.824" y2="43.005" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="41.205" />
+                                <line x2="0.424" y2="41.205" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="43.005" />
+                                <line x2="0.424" y2="37.605" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="41.205" />
+                                <line x2="2.224" y2="35.805" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="37.605" />
+                                <line x2="2.224" y2="28.605" stroke-width="0.576" x1="5.824" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="28.605" />
+                                <line x2="5.824" y2="28.605" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="30.405" />
+                                <line x2="0.424" y2="30.405" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="28.605" />
+                                <line x2="0.424" y2="30.405" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="34.005" />
+                                <line x2="7.624" y2="84.404" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="80.805" />
+                                <line x2="5.824" y2="86.205" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="84.404" />
+                                <line x2="2.224" y2="86.205" stroke-width="0.576" x1="5.824" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="86.205" />
+                                <line x2="0.424" y2="84.404" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="86.205" />
+                                <line x2="5.824" y2="79.005" stroke-width="0.576" x1="7.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="80.805" />
+                                <line x2="0.424" y2="80.805" stroke-width="0.576" x1="2.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="79.005" />
+                                <line x2="0.424" y2="80.805" stroke-width="0.576" x1="0.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="84.404" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:J4</title>
+                            <g >
+                                <title >package:1X06</title>
+                                <line x2="72.424" y2="73.605" stroke-width="0.576" x1="70.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="71.805" />
+                                <line x2="72.424" y2="77.205" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="73.605" />
+                                <line x2="70.624" y2="79.005" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="77.205" />
+                                <line x2="65.225" y2="77.205" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="79.005" />
+                                <line x2="65.225" y2="73.605" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="77.205" />
+                                <line x2="67.023" y2="71.805" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="73.605" />
+                                <line x2="72.424" y2="62.805" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="59.205" />
+                                <line x2="70.624" y2="64.605" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="62.805" />
+                                <line x2="65.225" y2="62.805" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="64.605" />
+                                <line x2="72.424" y2="66.405" stroke-width="0.576" x1="70.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="64.605" />
+                                <line x2="72.424" y2="70.005" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="66.405" />
+                                <line x2="70.624" y2="71.805" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="70.005" />
+                                <line x2="65.225" y2="70.005" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="71.805" />
+                                <line x2="65.225" y2="66.405" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="70.005" />
+                                <line x2="67.023" y2="64.605" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="66.405" />
+                                <line x2="72.424" y2="52.005" stroke-width="0.576" x1="70.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="50.205" />
+                                <line x2="72.424" y2="55.605" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="52.005" />
+                                <line x2="70.624" y2="57.405" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="55.605" />
+                                <line x2="65.225" y2="55.605" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="57.405" />
+                                <line x2="65.225" y2="52.005" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="55.605" />
+                                <line x2="67.023" y2="50.205" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="52.005" />
+                                <line x2="70.624" y2="57.405" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="59.205" />
+                                <line x2="65.225" y2="59.205" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="57.405" />
+                                <line x2="65.225" y2="59.205" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="62.805" />
+                                <line x2="72.424" y2="41.205" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="37.605" />
+                                <line x2="70.624" y2="43.005" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="41.205" />
+                                <line x2="65.225" y2="41.205" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="43.005" />
+                                <line x2="72.424" y2="44.805" stroke-width="0.576" x1="70.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="43.005" />
+                                <line x2="72.424" y2="48.405" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="44.805" />
+                                <line x2="70.624" y2="50.205" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="48.405" />
+                                <line x2="65.225" y2="48.405" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="50.205" />
+                                <line x2="65.225" y2="44.805" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="48.405" />
+                                <line x2="67.023" y2="43.005" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="44.805" />
+                                <line x2="67.023" y2="35.805" stroke-width="0.576" x1="70.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="35.805" />
+                                <line x2="70.624" y2="35.805" stroke-width="0.576" x1="72.424" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="37.605" />
+                                <line x2="65.225" y2="37.605" stroke-width="0.576" x1="67.023" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="35.805" />
+                                <line x2="65.225" y2="37.605" stroke-width="0.576" x1="65.225" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="41.205" />
+                                <line x2="67.023" y2="79.005" stroke-width="0.576" x1="70.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="79.005" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:LOGO1</title>
+                            <g >
+                                <title >package:OSHW-LOGO-L</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:LOGO2</title>
+                            <g >
+                                <title >package:SFE_LOGO_NAME_.1</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R1</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                                <rect x="35.884" y="76.629" width="1.08" height="2.16" fill="#FFFFFF" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R2</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                                <rect x="14.734" y="124.086" width="1.08" height="2.158" fill="#FFFFFF" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R3</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                                <rect x="31.834" y="125.086" width="1.08" height="2.158" fill="#FFFFFF" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R4</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R5</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R6</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R7</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R8</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R10</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R12</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R13</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R14</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                                <rect x="49.145" y="16.275" width="1.08" height="2.16" fill="#FFFFFF" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R17</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                                <rect x="22.744" y="16.995" width="1.08" height="2.16" fill="#FFFFFF" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R18</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                                <rect x="49.834" y="68.835" width="1.08" height="2.16" fill="#FFFFFF" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R19</title>
+                            <g >
+                                <title >package:0603</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R20</title>
+                            <g >
+                                <title >package:0603</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R21</title>
+                            <g >
+                                <title >package:0603</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R22</title>
+                            <g >
+                                <title >package:0603</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R23</title>
+                            <g >
+                                <title >package:0603</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R24</title>
+                            <g >
+                                <title >package:0603</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R26</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:R27</title>
+                            <g >
+                                <title >package:0603-RES</title>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:S1</title>
+                            <g >
+                                <title >package:TACTILE-SWITCH-SMD</title>
+                                <line x2="29.224" y2="11.325" stroke-width="0.576" x1="29.224" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="18.44" />
+                                <line x2="40.789" y2="7.725" stroke-width="0.576" x1="32.059" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="7.725" />
+                                <line x2="43.624" y2="18.44" stroke-width="0.576" x1="43.624" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="11.41" />
+                                <line x2="32.059" y2="22.125" stroke-width="0.576" x1="40.789" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="22.125" />
+                                <circle cy="14.925" stroke-width="0.576" r="3.6" stroke="#FFFFFF" cx="36.424" fill="none" />
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:U$1</title>
+                            <g >
+                                <title >package:SFE_LOGO_FLAME_.1</title>
+                                <g >
+                                    <title >polygon</title>
+                                    <path stroke-width="0.216" stroke-linecap="round" stroke="#FFFFFF" d="M11.993,92.646v0.256 M11.993,92.902l-0.028,0.084 M11.964,92.986l-0.028,0.057 M11.936,93.043l-0.085,0.086 M11.851,93.129l-0.085,0.029 M11.766,93.158h-0.085 M11.681,93.158L11.454,93.1 M11.454,93.1l-0.113-0.057 M11.341,93.043l-0.085-0.057 M11.256,92.986l-0.113-0.084 M11.143,92.902l-0.17-0.17 M10.972,92.732l-0.113-0.17 M10.859,92.563l-0.028-0.113 M10.831,92.447v-0.17 M10.831,92.277l0.028-0.084 M10.859,92.193l0.028-0.059 M10.887,92.137l0.057-0.086 M10.944,92.051l0.113-0.084 M11.057,91.967l0.114-0.057 M11.171,91.91l0.142-0.029 M11.313,91.881l0.113-0.027 M11.426,91.854h0.17 M11.596,91.854l0.057,0.027 M11.653,91.881h0.028 M11.681,91.881l-0.028-0.027 M11.653,91.854l-0.114-0.086 M11.539,91.768l-0.396-0.197 M11.143,91.57l-0.255-0.057 M10.887,91.514h-0.284 M10.604,91.514l-0.312,0.057 M10.292,91.57L9.98,91.74 M9.98,91.74l-0.255,0.197 M9.725,91.938l-0.142,0.229 M9.583,92.166L9.498,92.42 M9.498,92.42v0.227 M9.498,92.646l0.057,0.256 M9.555,92.902l0.142,0.256 M9.697,93.158l0.198,0.225 M9.895,93.383l0.227,0.256 M10.122,93.639l0.198,0.199 M10.32,93.838l0.085,0.227 M10.405,94.064v0.195 M10.405,94.262l-0.057,0.17 M10.349,94.432l-0.113,0.145 M10.235,94.574l-0.17,0.113 M10.065,94.688l-0.227,0.059 M9.838,94.744H9.612 M9.612,94.744L9.47,94.717 M9.47,94.717l-0.142-0.059 M9.328,94.658l-0.17-0.168 M9.158,94.49l-0.057-0.086 M9.102,94.404L9.073,94.32 M9.073,94.32v-0.115 M9.073,94.205l0.028-0.084 M9.102,94.121l0.17-0.17 M9.271,93.951l0.085-0.029 M9.356,93.922l0.113-0.057 M9.47,93.865l0.028-0.027 M9.498,93.838l-0.113-0.057 M9.385,93.781h-0.34 M9.045,93.781l-0.17,0.027 M8.875,93.809l-0.142,0.029 M8.733,93.838l-0.142,0.057 M8.591,93.895l-0.114,0.084 M8.478,93.979l-0.142,0.113 M8.336,94.092l-0.17,0.283 M8.166,94.375l-0.057,0.199 M8.109,94.574l-0.028,0.227 M8.081,94.801v3.885 M8.081,98.686l0.142-0.143 M8.223,98.543L8.308,98.4 M8.308,98.4l0.142-0.143 M8.449,98.26l0.142-0.17 M8.591,98.09l0.34-0.342 M8.931,97.748l0.34-0.396 M9.271,97.352l0.283-0.283 M9.555,97.068l0.284-0.17 M9.838,96.898l0.17-0.027 M10.008,96.871h0.539 M10.547,96.871l0.34-0.059 M10.887,96.813l0.312-0.084 M11.199,96.729l0.283-0.111 M11.482,96.615l0.284-0.17 M11.766,96.445l0.227-0.199 M11.993,96.246l0.227-0.227 M12.22,96.02l0.198-0.254 M12.418,95.766l0.283-0.512 M12.701,95.254l0.142-0.537 M12.843,94.717l0.028-0.482 M12.872,94.234l-0.085-0.453 M12.787,93.781l-0.142-0.426 M12.645,93.355l-0.198-0.313 M12.446,93.043l-0.227-0.254 M12.22,92.789l-0.227-0.143 M8.081,98.625h0.06 M8.081,98.408h0.222 M8.081,98.193h0.424 M8.081,97.977h0.623 M8.081,97.762h0.838 M8.081,97.545h1.025 M8.081,97.328h1.214 M8.081,97.113h1.43 M8.081,96.896h1.768 M8.081,96.682h3.237 M8.081,96.465h3.652 M8.081,96.248h3.909 M8.081,96.033h4.125 M8.081,95.816h4.296 M8.081,95.602h4.428 M8.081,95.385h4.548 M8.081,95.17h4.643 M8.081,94.953h4.7 M8.089,94.736h1.486 M9.868,94.736h2.97 M8.125,94.521H9.19 M10.278,94.521h2.577 M8.208,94.305h0.865 M10.391,94.305h2.476 M8.34,94.09h0.793 M10.405,94.09h2.439 M8.644,93.873h0.812 M10.333,93.873h2.47 M10.14,93.656h2.605 M9.946,93.441h2.728 M9.756,93.225h2.805 M9.614,93.01h1.675 M11.953,93.01h0.462 M9.531,92.793h1.502 M11.993,92.793h0.231 M9.498,92.576h1.371 M9.518,92.361h1.313 M9.596,92.145h1.287 M9.737,91.93h1.396 M10.029,91.713h1.4" fill="none" />
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:U2</title>
+                            <g >
+                                <title >package:LQFP-48</title>
+                                <line x2="36.975" y2="40.827" stroke-width="0.72" x1="35.873" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="40.827" />
+                                <line x2="49.402" y2="53.254" stroke-width="0.72" x1="36.975" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="40.827" />
+                                <line x2="49.402" y2="54.356" stroke-width="0.72" x1="49.402" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="53.254" />
+                                <line x2="36.975" y2="66.784" stroke-width="0.72" x1="49.402" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="54.356" />
+                                <line x2="35.873" y2="66.784" stroke-width="0.72" x1="36.975" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="66.784" />
+                                <line x2="23.445" y2="54.356" stroke-width="0.72" x1="35.873" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="66.784" />
+                                <line x2="23.445" y2="53.254" stroke-width="0.72" x1="23.445" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="54.356" />
+                                <line x2="35.873" y2="40.827" stroke-width="0.72" x1="23.445" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="53.254" />
+                                <g >
+                                    <title >polygon</title>
+                                    <path stroke-width="0.0072" stroke-linecap="round" stroke="#FFFFFF" d="M21.787,54.441l0.125-0.157 M21.912,54.284L22,54.103 M22,54.103l0.044-0.197 M22.044,53.906v-0.201 M22.044,53.705L22,53.508 M22,53.508l-0.088-0.182 M21.912,53.326l-0.125-0.157 M21.787,53.169l-0.158-0.126 M21.629,53.043l-0.181-0.087 M21.448,52.956l-0.197-0.045 M21.251,52.911h-0.202 M21.049,52.911l-0.196,0.045 M20.853,52.956l-0.182,0.087 M20.671,53.043l-0.158,0.126 M20.514,53.169l-0.125,0.157 M20.388,53.326l-0.087,0.182 M20.301,53.508l-0.045,0.197 M20.256,53.705v0.201 M20.256,53.906l0.045,0.197 M20.301,54.103l0.087,0.182 M20.388,54.284l0.125,0.157 M20.514,54.441l0.158,0.126 M20.671,54.567l0.182,0.087 M20.853,54.655l0.196,0.045 M21.049,54.7h0.202 M21.251,54.7l0.197-0.045 M21.448,54.655l0.181-0.087 M21.629,54.567l0.158-0.126 M20.49,54.412l0.054,0.054 M20.45,54.361l0.145,0.145 M20.41,54.311l0.235,0.235 M20.384,54.275l0.297,0.297 M20.375,54.255l0.326,0.326 M20.365,54.235l0.355,0.355 M20.355,54.216L20.74,54.6 M20.346,54.196l0.413,0.413 M20.336,54.177l0.442,0.442 M20.327,54.157l0.471,0.472 M20.317,54.137l0.501,0.5 M20.308,54.118l0.53,0.53 M20.3,54.1l0.556,0.556 M20.297,54.086l0.572,0.572 M20.294,54.073l0.588,0.588 M20.291,54.06l0.604,0.604 M20.288,54.047l0.621,0.621 M20.285,54.034l0.637,0.637 M20.282,54.02l0.653,0.653 M20.279,54.007l0.669,0.669 M20.276,53.994l0.686,0.686 M20.273,53.98l0.702,0.702 M20.27,53.967l0.718,0.718 M20.267,53.954l0.734,0.734 M20.264,53.941l0.75,0.75 M20.261,53.928l0.766,0.766 M20.258,53.915l0.783,0.783 M20.256,53.902l0.797,0.797 M20.256,53.893l0.807,0.807 M20.256,53.882l0.817,0.817 M20.256,53.872l0.828,0.828 M20.256,53.862l0.838,0.838 M20.256,53.852l0.848,0.848 M20.256,53.841l0.858,0.858 M20.256,53.832l0.868,0.868 M20.256,53.821l0.879,0.879 M20.256,53.811l0.889,0.889 M20.256,53.801l0.899,0.899 M20.256,53.791l0.909,0.909 M20.256,53.78l0.919,0.919 M20.256,53.77l0.93,0.93 M20.256,53.76l0.939,0.94 M20.256,53.75l0.95,0.95 M20.256,53.74l0.96,0.96 M20.256,53.729l0.97,0.97 M20.256,53.719l0.98,0.98 M20.256,53.709l0.991,0.991 M20.257,53.7l0.999,0.999 M20.259,53.691l1.005,1.005 M20.261,53.683l1.012,1.012 M20.263,53.675l1.018,1.018 M20.265,53.667l1.024,1.024 M20.267,53.658l1.03,1.031 M20.269,53.65l1.037,1.037 M20.27,53.642l1.043,1.043 M20.272,53.633l1.05,1.05 M20.274,53.625l1.056,1.056 M20.276,53.617l1.063,1.063 M20.278,53.608l1.069,1.069 M20.28,53.601l1.075,1.075 M20.282,53.592l1.082,1.082 M20.284,53.584l1.088,1.088 M20.286,53.576l1.094,1.094 M20.287,53.567l1.101,1.101 M20.289,53.559l1.107,1.107 M20.291,53.551l1.114,1.114 M20.293,53.542l1.12,1.12 M20.295,53.534l1.126,1.126 M20.297,53.526l1.133,1.133 M20.299,53.518l1.139,1.139 M20.301,53.509l1.146,1.146 M20.304,53.502l1.15,1.15 M20.307,53.495l1.153,1.153 M20.311,53.488l1.157,1.157 M20.313,53.481l1.161,1.161 M20.317,53.475l1.164,1.164 M20.32,53.468l1.167,1.167 M20.323,53.461l1.171,1.171 M20.327,53.454l1.175,1.174 M20.33,53.447l1.178,1.178 M20.333,53.44l1.182,1.182 M20.337,53.433l1.185,1.186 M20.34,53.426l1.189,1.189 M20.343,53.419l1.193,1.193 M20.347,53.413l1.196,1.196 M20.35,53.406l1.2,1.2 M20.354,53.399l1.203,1.203 M20.356,53.392l1.207,1.207 M20.36,53.385l1.21,1.21 M20.363,53.378l1.214,1.214 M20.367,53.372l1.217,1.217 M20.37,53.365l1.221,1.221 M20.373,53.358l1.225,1.225 M20.376,53.351l1.228,1.228 M20.38,53.344l1.231,1.231 M20.383,53.337l1.235,1.235 M20.386,53.33l1.239,1.239 M20.39,53.324l1.242,1.242 M20.395,53.318l1.243,1.243 M20.399,53.313l1.244,1.244 M20.404,53.307l1.245,1.245 M20.408,53.301l1.246,1.246 M20.413,53.295l1.247,1.247 M20.417,53.29l1.248,1.248 M20.422,53.284l1.25,1.25 M20.426,53.279l1.25,1.25 M20.431,53.273l1.251,1.251 M20.436,53.267l1.253,1.253 M20.44,53.261l1.254,1.254 M20.444,53.256l1.255,1.255 M20.449,53.25l1.256,1.256 M20.454,53.245l1.257,1.257 M20.458,53.239l1.259,1.259 M20.462,53.233l1.26,1.26 M20.467,53.228l1.261,1.261 M20.472,53.222l1.262,1.262 M20.476,53.216l1.263,1.263 M20.48,53.21l1.265,1.265 M20.485,53.205l1.265,1.265 M20.49,53.199l1.267,1.267 M20.494,53.194l1.268,1.268 M20.499,53.188l1.269,1.269 M20.503,53.182l1.27,1.27 M20.508,53.177l1.271,1.271 M20.512,53.171l1.272,1.272 M20.518,53.166l1.272,1.272 M20.523,53.162l1.271,1.271 M20.529,53.157l1.27,1.27 M20.535,53.152l1.269,1.269 M20.54,53.148l1.268,1.268 M20.546,53.144l1.266,1.266 M20.552,53.139l1.265,1.265 M20.557,53.134l1.264,1.264 M20.563,53.13l1.263,1.263 M20.568,53.125l1.262,1.262 M20.574,53.121l1.261,1.261 M20.58,53.116l1.259,1.259 M20.585,53.112l1.258,1.258 M20.591,53.107l1.257,1.257 M20.597,53.103l1.256,1.256 M20.603,53.098l1.255,1.255 M20.608,53.094l1.254,1.253 M20.614,53.089l1.252,1.252 M20.62,53.084l1.251,1.251 M20.625,53.08l1.25,1.25 M20.631,53.076l1.249,1.249 M20.636,53.071l1.248,1.248 M20.642,53.066l1.247,1.247 M20.648,53.062l1.246,1.246 M20.653,53.058l1.245,1.245 M20.659,53.053l1.243,1.243 M20.665,53.048l1.242,1.242 M20.67,53.044l1.241,1.241 M20.677,53.041l1.238,1.238 M20.684,53.037l1.234,1.234 M20.691,53.034l1.231,1.231 M20.698,53.03l1.227,1.228 M20.705,53.027l1.224,1.224 M20.711,53.024l1.22,1.22 M20.718,53.021l1.217,1.216 M20.725,53.017l1.213,1.213 M20.732,53.014l1.209,1.209 M20.739,53.011l1.206,1.206 M20.746,53.007l1.202,1.202 M20.753,53.004l1.199,1.199 M20.76,53l1.195,1.195 M20.767,52.998l1.191,1.191 M20.773,52.994l1.188,1.188 M20.78,52.991l1.185,1.185 M20.787,52.987l1.181,1.181 M20.794,52.984l1.178,1.177 M20.801,52.981l1.174,1.174 M20.808,52.978l1.17,1.17 M20.814,52.974l1.167,1.167 M20.821,52.971l1.163,1.163 M20.829,52.968l1.159,1.159 M20.835,52.964l1.156,1.156 M20.842,52.961l1.152,1.152 M20.849,52.958l1.149,1.149 M20.856,52.955L22,54.099 M20.865,52.953l1.138,1.138 M20.873,52.951l1.131,1.131 M20.881,52.949l1.125,1.125 M20.89,52.947l1.119,1.119 M20.898,52.945l1.112,1.112 M20.906,52.944l1.104,1.105 M20.915,52.942l1.099,1.099 M20.923,52.94l1.093,1.093 M20.931,52.938l1.086,1.086 M20.939,52.936l1.08,1.08 M20.948,52.934l1.074,1.074 M20.956,52.932L22.023,54 M20.964,52.93l1.061,1.061 M20.973,52.928l1.054,1.055 M20.981,52.927l1.048,1.048 M20.989,52.924l1.042,1.042 M20.998,52.923l1.035,1.035 M21.006,52.921l1.029,1.029 M21.014,52.919l1.022,1.022 M21.022,52.917l1.016,1.016 M21.031,52.915l1.01,1.01 M21.039,52.913l1.003,1.003 M21.047,52.912l0.997,0.997 M21.057,52.911l0.988,0.988 M21.067,52.911l0.978,0.978 M21.077,52.911l0.967,0.968 M21.087,52.911l0.957,0.958 M21.098,52.911l0.947,0.947 M21.108,52.911l0.937,0.937 M21.118,52.911l0.926,0.927 M21.128,52.911l0.917,0.917 M21.138,52.911l0.906,0.907 M21.148,52.911l0.896,0.896 M21.159,52.911l0.886,0.886 M21.169,52.911l0.875,0.876 M21.179,52.911l0.865,0.866 M21.189,52.911l0.855,0.855 M21.199,52.911l0.845,0.846 M21.209,52.911l0.835,0.835 M21.22,52.911l0.825,0.825 M21.23,52.911l0.814,0.815 M21.24,52.911l0.804,0.805 M21.25,52.911l0.794,0.794 M21.263,52.914l0.779,0.779 M21.276,52.917l0.763,0.763 M21.29,52.919l0.746,0.746 M21.303,52.923l0.73,0.73 M21.316,52.926l0.714,0.714 M21.329,52.929l0.698,0.697 M21.343,52.932l0.681,0.681 M21.355,52.935l0.666,0.666 M21.369,52.938l0.648,0.649 M21.382,52.941l0.632,0.632 M21.395,52.944l0.617,0.616 M21.408,52.947l0.601,0.6 M21.422,52.95l0.584,0.584 M21.435,52.953l0.568,0.568 M21.448,52.956L22,53.507 M21.468,52.965l0.522,0.522 M21.488,52.975l0.493,0.493 M21.507,52.984l0.464,0.464 M21.527,52.994l0.435,0.435 M21.546,53.003l0.406,0.406 M21.566,53.013l0.376,0.376 M21.586,53.022l0.347,0.347 M21.605,53.032l0.318,0.318 M21.625,53.041l0.29,0.29 M21.669,53.075l0.211,0.212 M21.719,53.115l0.121,0.121 M21.77,53.155l0.031,0.031" fill="none" />
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:U3</title>
+                            <g >
+                                <title >package:SO08</title>
+                                <line x2="30.457" y2="104.078" stroke-width="0.576" x1="30.457" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="90.83" />
+                                <path stroke-width="0.576" stroke="#FFFFFF" d="M41.49,90.547c-0.078-0.518-0.561-0.875-1.079-0.797" fill="none" />
+                                <path stroke-width="0.576" stroke="#FFFFFF" d="M30.457,104.078c0.078,0.676,0.688,1.158,1.363,1.08l0,0" fill="none" />
+                                <path stroke-width="0.576" stroke="#FFFFFF" d="M31.537,89.75c-0.596,0-1.08,0.484-1.08,1.08l0,0" fill="none" />
+                                <path stroke-width="0.576" stroke="#FFFFFF" d="M40.693,105.158c0.52-0.078,0.875-0.561,0.798-1.078c0,0,0,0-0.001-0.002" fill="none" />
+                                <line x2="41.49" y2="90.547" stroke-width="0.576" x1="41.49" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="104.078" />
+                                <line x2="31.537" y2="89.75" stroke-width="0.576" x1="40.411" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="89.75" />
+                                <path stroke-width="0.576" stroke="#FFFFFF" d="M37.846,105.016c0-0.994-0.806-1.801-1.8-1.801s-1.8,0.807-1.8,1.801" fill="none" />
+                                <line x2="34.246" y2="105.158" stroke-width="0.576" x1="31.856" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="105.158" />
+                                <line x2="37.846" y2="105.158" stroke-width="0.576" x1="40.693" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="105.158" />
+                                <g >
+                                    <title >polygon</title>
+                                    <path stroke-width="0.0072" stroke-linecap="round" stroke="#FFFFFF" d="M42.725,105.105l-0.201,0.021 M42.523,105.127l-0.189,0.066 M42.334,105.193l-0.172,0.107 M42.162,105.303l-0.143,0.141 M42.02,105.443l-0.104,0.172 M41.913,105.615l-0.067,0.189 M41.846,105.805l-0.021,0.201 M41.824,106.006l0.021,0.199 M41.846,106.205l0.067,0.189 M41.913,106.395l0.106,0.172 M42.02,106.566l0.145,0.141 M42.162,106.707l0.172,0.109 M42.334,106.816l0.189,0.064 M42.523,106.883l0.199,0.021 M42.725,106.904l0.199-0.021 M42.924,106.883l0.19-0.066 M43.114,106.816l0.171-0.109 M43.285,106.707l0.143-0.141 M43.428,106.566l0.107-0.172 M43.535,106.395l0.066-0.188 M43.602,106.205l0.022-0.199 M43.624,106.006l-0.022-0.201 M43.602,105.805l-0.064-0.188 M43.535,105.615l-0.107-0.172 M43.428,105.443l-0.143-0.143 M43.285,105.303l-0.171-0.109 M43.114,105.193l-0.19-0.066 M42.924,105.127l-0.199-0.021 M43.622,106.02v-0.027 M43.615,106.084v-0.158 M43.607,106.148v-0.287 M43.602,106.207v-0.404 M43.594,106.229v-0.445 M43.586,106.248v-0.486 M43.579,106.27v-0.527 M43.572,106.289v-0.568 M43.564,106.311v-0.609 M43.557,106.33v-0.65 M43.551,106.352v-0.691 M43.543,106.371v-0.732 M43.535,106.393v-0.773 M43.527,106.404v-0.799 M43.521,106.416v-0.822 M43.514,106.428v-0.846 M43.507,106.439v-0.869 M43.5,106.451v-0.893 M43.492,106.463v-0.916 M43.484,106.475v-0.938 M43.479,106.486v-0.963 M43.471,106.496v-0.982 M43.464,106.508v-1.006 M43.457,106.52v-1.027 M43.449,106.531v-1.053 M43.441,106.543v-1.076 M43.436,106.555v-1.1 M43.428,106.566v-1.123 M43.42,106.572v-1.135 M43.413,106.58v-1.15 M43.406,106.588v-1.164 M43.398,106.596v-1.182 M43.393,106.602v-1.191 M43.385,106.609V105.4 M43.377,106.615v-1.221 M43.37,106.623v-1.236 M43.363,106.631v-1.252 M43.355,106.639v-1.268 M43.35,106.645v-1.277 M43.342,106.652v-1.295 M43.334,106.658v-1.307 M43.326,106.666v-1.322 M43.32,106.674v-1.338 M43.313,106.682v-1.354 M43.305,106.688v-1.363 M43.298,106.695v-1.381 M43.291,106.703v-1.396 M43.283,106.709v-1.408 M43.275,106.715v-1.418 M43.27,106.719v-1.428 M43.262,106.723v-1.436 M43.255,106.729v-1.445 M43.248,106.732v-1.455 M43.24,106.736v-1.463 M43.232,106.74v-1.471 M43.227,106.746v-1.482 M43.219,106.75v-1.49 M43.211,106.756v-1.5 M43.205,106.76v-1.51 M43.197,106.764v-1.518 M43.189,106.768v-1.523 M43.184,106.773v-1.537 M43.176,106.777v-1.545 M43.168,106.781v-1.553 M43.161,106.785v-1.561 M43.154,106.791v-1.572 M43.146,106.797v-1.582 M43.141,106.801v-1.59 M43.133,106.805v-1.6 M43.125,106.809v-1.605 M43.118,106.814v-1.619 M43.111,106.816v-1.623 M43.104,106.818v-1.627 M43.096,106.822v-1.635 M43.089,106.824v-1.639 M43.082,106.826v-1.643 M43.074,106.828v-1.646 M43.066,106.832v-1.654 M43.061,106.834v-1.658 M43.053,106.838v-1.664 M43.046,106.84v-1.668 M43.039,106.842v-1.674 M43.031,106.846v-1.682 M43.023,106.848v-1.686 M43.018,106.85v-1.688 M43.01,106.852v-1.691 M43.003,106.855v-1.701 M42.996,106.857v-1.705 M42.988,106.859v-1.709 M42.98,106.863v-1.717 M42.975,106.865v-1.721 M42.967,106.867v-1.725 M42.959,106.869v-1.729 M42.952,106.873v-1.736 M42.945,106.875v-1.74 M42.938,106.879v-1.746 M42.932,106.881v-1.75 M42.924,106.883v-1.756 M42.916,106.883v-1.756 M42.909,106.885v-1.76 M42.902,106.885v-1.76 M42.895,106.887v-1.764 M42.889,106.887v-1.764 M42.881,106.889v-1.768 M42.873,106.889v-1.768 M42.865,106.889v-1.768 M42.859,106.891v-1.771 M42.852,106.891v-1.771 M42.844,106.891v-1.771 M42.837,106.893v-1.773 M42.83,106.893v-1.773 M42.822,106.895v-1.777 M42.814,106.895v-1.777 M42.809,106.896v-1.783 M42.801,106.896v-1.783 M42.794,106.896v-1.783 M42.787,106.898v-1.787 M42.779,106.898v-1.787 M42.771,106.898v-1.787 M42.766,106.9v-1.791 M42.758,106.9v-1.791 M42.751,106.902v-1.795 M42.744,106.902v-1.795 M42.736,106.904v-1.799 M42.729,106.904v-1.799 M42.723,106.904v-1.799 M42.715,106.904v-1.799 M42.707,106.902v-1.795 M42.7,106.902v-1.795 M42.693,106.9v-1.791 M42.686,106.9v-1.791 M42.68,106.9v-1.791 M42.672,106.898v-1.787 M42.664,106.898v-1.787 M42.657,106.898v-1.787 M42.65,106.896v-1.783 M42.643,106.896v-1.783 M42.636,106.895v-1.777 M42.629,106.895v-1.777 M42.621,106.893v-1.773 M42.613,106.893v-1.773 M42.607,106.893v-1.773 M42.6,106.891v-1.771 M42.592,106.891v-1.771 M42.585,106.889v-1.768 M42.578,106.889v-1.768 M42.57,106.889v-1.768 M42.563,106.887v-1.764 M42.557,106.887v-1.764 M42.549,106.887v-1.764 M42.542,106.885v-1.76 M42.535,106.883v-1.756 M42.527,106.883v-1.756 M42.52,106.881v-1.752 M42.514,106.879v-1.748 M42.506,106.875v-1.74 M42.498,106.873v-1.736 M42.491,106.871v-1.732 M42.484,106.869v-1.729 M42.477,106.865v-1.721 M42.471,106.863v-1.717 M42.463,106.861v-1.713 M42.455,106.859v-1.709 M42.448,106.855v-1.701 M42.441,106.854v-1.695 M42.434,106.852v-1.691 M42.427,106.85v-1.688 M42.42,106.846v-1.682 M42.412,106.844v-1.678 M42.404,106.842v-1.672 M42.398,106.84v-1.668 M42.391,106.836v-1.662 M42.383,106.834v-1.658 M42.376,106.83v-1.65 M42.369,106.828v-1.646 M42.361,106.826v-1.643 M42.354,106.824v-1.639 M42.348,106.82v-1.631 M42.34,106.818v-1.627 M42.333,106.816v-1.623 M42.326,106.811v-1.609 M42.318,106.807v-1.604 M42.313,106.803v-1.596 M42.305,106.799v-1.586 M42.297,106.793v-1.576 M42.29,106.787v-1.564 M42.283,106.783v-1.557 M42.275,106.779v-1.549 M42.268,106.775v-1.541 M42.261,106.77v-1.527 M42.254,106.766v-1.521 M42.246,106.762v-1.514 M42.239,106.758v-1.504 M42.232,106.752v-1.494 M42.225,106.748v-1.486 M42.218,106.742v-1.475 M42.211,106.738v-1.467 M42.203,106.734v-1.459 M42.195,106.729v-1.447 M42.189,106.725v-1.438 M42.182,106.721v-1.432 M42.174,106.717v-1.422 M42.168,106.711v-1.412 M42.16,106.705v-1.4 M42.152,106.699v-1.389 M42.146,106.691v-1.373 M42.139,106.686v-1.359 M42.131,106.678v-1.346 M42.124,106.67v-1.33 M42.117,106.662v-1.314 M42.109,106.656v-1.303 M42.104,106.648v-1.287 M42.096,106.641v-1.271 M42.088,106.635v-1.26 M42.081,106.627v-1.244 M42.074,106.619v-1.229 M42.066,106.613v-1.217 M42.061,106.605v-1.201 M42.053,106.598v-1.186 M42.045,106.592v-1.172 M42.037,106.584v-1.158 M42.029,106.576v-1.143 M42.023,106.568v-1.127 M42.016,106.559v-1.105 M42.009,106.549v-1.086 M42.002,106.537v-1.064 M41.994,106.525v-1.041 M41.986,106.514v-1.018 M41.98,106.504v-0.996 M41.973,106.49v-0.971 M41.966,106.479v-0.945 M41.959,106.469v-0.928 M41.951,106.455v-0.9 M41.943,106.445v-0.881 M41.938,106.434v-0.855 M41.93,106.422v-0.834 M41.922,106.41V105.6 M41.915,106.4v-0.791 M41.908,106.383v-0.754 M41.9,106.361v-0.713 M41.895,106.342v-0.672 M41.887,106.32v-0.631 M41.879,106.299v-0.588 M41.872,106.279v-0.549 M41.865,106.258v-0.506 M41.857,106.238v-0.467 M41.852,106.217v-0.424 M41.844,106.178v-0.346 M41.836,106.113v-0.217 M41.828,106.051v-0.09" fill="none" />
+                                </g>
+                            </g>
+                        </g>
+                        <g >
+                            <title >element:Y1</title>
+                            <g >
+                                <title >package:CRYSTAL-SMD-5X3</title>
+                                <line x2="38.125" y2="78.43" stroke-width="0.576" x1="34.723" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="78.43" />
+                                <line x2="43.51" y2="83.814" stroke-width="0.576" x1="43.51" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="82.115" />
+                                <line x2="34.723" y2="87.5" stroke-width="0.576" x1="38.125" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="87.5" />
+                                <line x2="29.337" y2="83.814" stroke-width="0.576" x1="29.337" stroke-linecap="round" stroke="#FFFFFF" fill="none" y1="82.115" />
+                            </g>
+                        </g>
+                    </g>
+                    <polygon fill-opacity="0.15" fill="#FFFFFF"  points="21.194,68.979 21.25,69.035 21.306,68.979 21.25,68.923 "/>
+                    <rect x="16.652" y="11.888" width="3.543" height="7.569" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="9.272" y="118.447" width="3.543" height="7.568" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="19.855" y="120.221" width="7.937" height="2.27" fill="#333333" />
+                    <rect x="46.82" y="113.502" width="17.008" height="48.189" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="35.884" y="74.469" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="14.734" y="121.926" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="31.834" y="122.926" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="51.184" y="36.075" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="49.145" y="14.215" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="40.834" y="27.975" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="22.744" y="14.835" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="49.834" y="66.675" width="1.08" height="2.16" fill-opacity="0.15" fill="#FFFFFF" />
+                    <rect x="29.224" y="7.725" width="14.4" height="14.4" fill-opacity="0.15" fill="#FFFFFF" />
+                    <polygon fill="#333333"  points="23.156,53.908 36.518,66.273 49.684,53.702 36.323,41.337 "/>
+                    <rect x="30.457" y="89.74" width="13.167" height="17.164" fill="#333333" />
+                    <rect x="29.337" y="78.43" width="14.172" height="9.07" fill="#333333" />
+                    <circle cy="32.205" id="connector71pin" stroke-width="1.224" gorn="0.1.0.0.0.19" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="39.405" id="connector72pin" stroke-width="1.224" gorn="0.1.0.0.0.20" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="46.605" id="connector73pin" stroke-width="1.224" gorn="0.1.0.0.0.21" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="53.805" id="connector74pin" stroke-width="1.224" gorn="0.1.0.0.0.22" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="61.005" id="connector75pin" stroke-width="1.224" gorn="0.1.0.0.0.23" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="68.205" id="connector76pin" stroke-width="1.224" gorn="0.1.0.0.0.24" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="75.405" id="connector77pin" stroke-width="1.224" gorn="0.1.0.0.0.25" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="82.605" id="connector78pin" stroke-width="1.224" gorn="0.1.0.0.0.26" r="2.052" stroke="#9A916C" cx="4.024" fill="none" />
+                    <circle cy="39.405" id="connector79pin" stroke-width="1.224" gorn="0.1.0.0.0.27" r="2.052" stroke="#9A916C" cx="68.824" fill="none" />
+                    <circle cy="46.605" id="connector80pin" stroke-width="1.224" gorn="0.1.0.0.0.28" r="2.052" stroke="#9A916C" cx="68.824" fill="none" />
+                    <circle cy="53.805" id="connector81pin" stroke-width="1.224" gorn="0.1.0.0.0.29" r="2.052" stroke="#9A916C" cx="68.824" fill="none" />
+                    <circle cy="61.005" id="connector82pin" stroke-width="1.224" gorn="0.1.0.0.0.30" r="2.052" stroke="#9A916C" cx="68.824" fill="none" />
+                    <circle cy="68.205" id="connector83pin" stroke-width="1.224" gorn="0.1.0.0.0.31" r="2.052" stroke="#9A916C" cx="68.824" fill="none" />
+                    <circle cy="75.405" id="connector84pin" stroke-width="1.224" gorn="0.1.0.0.0.32" r="2.052" stroke="#9A916C" cx="68.824" fill="none" />
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 46.8, 54)" >
+                    <g >
+                        <g >
+                            <g id="_x31_x06" gorn="0.1.0.0.1.0.0.0" />
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 32.031, 74.8188)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res" gorn="0.1.0.0.2.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="0.405" y="-0.195" width="7.966" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.405" y="-0.195" width="7.966" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.405" y="2.607" width="7.966" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M7.213-0.195L7.213-0.195L7.213-0.195H7.121l0,0C7.041,0.056,6.987,0.601,6.987,0.88c0,0.291,0.047,1.41,0.135,1.673l0,0l0,0h1.225v-2.748H7.213z" fill="#DCDCDC" />
+                                        <path d="M1.65-0.091v-0.104H0.428v2.748h1.223C1.739,2.29,1.844,1.176,1.844,0.881C1.844,0.535,1.769,0.21,1.65-0.091z" fill="#DCDCDC" />
+                                        <path d="M8.351,2.659H7.127L7.121,2.553h1.223L8.351,2.659z" fill="#999999" />
+                                        <path d="M0.434,2.66h1.223L1.65,2.553H0.428L0.434,2.66z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.428" y="-0.195" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="7.121" y="-0.195" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <line x2="1.167" y2="2.639" x1="1.167" fill="none" y1="2.639" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 11.373, 122.783)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_1_" gorn="0.1.0.0.3.0.0.0" >
+                                <g transform="matrix(0, 1, -1, 0, 5.386, -2.552)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 8.4 3.0105)" >
+                                                            <g >
+                                                                <rect x="1.278" y="1.723" width="2.834" height="7.965" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 7.006 1.6164)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="2.672" y="0.329" width="0.046" height="7.965" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 9.8009 4.4114)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="2.679" y="3.124" width="0.032" height="7.965" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M5.521,4.288L5.521,4.288L5.521,4.288H5.427l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0H6.65V4.288H5.521z" fill="#DCDCDC" />
+                                                        <path d="M-0.044,4.392V4.288h-1.225v2.748h1.227C0.046,6.773,0.15,5.658,0.15,5.363C0.15,5.018,0.076,4.693-0.044,4.392z" fill="#DCDCDC" />
+                                                        <path d="M6.658,7.142H5.435L5.427,7.036H6.65L6.658,7.142z" fill="#999999" />
+                                                        <path d="M-1.258,7.143h1.225l-0.01-0.107h-1.223L-1.258,7.143z" fill="#999999" />
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 3.6569 4.9646)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="-0.677" y="3.698" width="0.046" height="1.225" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 10.3522 -1.7288)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="6.018" y="3.7" width="0.046" height="1.223" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="-0.526" y2="7.122" x1="-0.526" fill="none" y1="7.122" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 28.473, 122.783)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_2_" gorn="0.1.0.0.4.0.0.0" >
+                                <g transform="matrix(0, 1, -1, 0, 5.386, -2.552)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 4.7623 -2.7757)" >
+                                                            <g >
+                                                                <rect x="2.352" y="-2.989" width="2.834" height="7.965" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 3.3682 -4.1697)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="3.746" y="-4.383" width="0.046" height="7.965" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 6.1631 -1.3748)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="3.753" y="-1.588" width="0.032" height="7.965" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M6.595-0.424L6.595-0.424L6.595-0.424H6.501l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H6.595z" fill="#DCDCDC" />
+                                                        <path d="M1.031-0.32v-0.104h-1.223v2.748h1.225c0.088-0.263,0.191-1.377,0.191-1.672C1.224,0.306,1.15-0.019,1.031-0.32z" fill="#DCDCDC" />
+                                                        <path d="M7.732,2.43H6.509L6.501,2.324h1.223L7.732,2.43z" fill="#999999" />
+                                                        <path d="M-0.184,2.431h1.223L1.031,2.324h-1.223L-0.184,2.431z" fill="#999999" />
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 0.0186 -0.8221)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="0.397" y="-1.014" width="0.046" height="1.225" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 6.7146 -7.5147)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="7.091" y="-1.011" width="0.046" height="1.223" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="0.548" y2="2.41" x1="0.548" fill="none" y1="2.41" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 59.931, 139.475)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_4_" gorn="0.1.0.0.5.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="0.405" y="-0.196" width="7.966" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.405" y="-0.196" width="7.966" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.405" y="2.607" width="7.966" height="0.031" />
+                                    </g>
+                                    <g >
+                                        <path d="M7.214-0.196L7.214-0.196L7.214-0.196H7.121l0,0C7.042,0.056,6.986,0.601,6.986,0.88c0,0.291,0.048,1.41,0.135,1.672l0,0l0,0h1.224v-2.748H7.214z" fill="#DCDCDC" />
+                                        <path d="M1.65-0.09v-0.105H0.428v2.748h1.223C1.739,2.291,1.844,1.175,1.844,0.88C1.844,0.535,1.768,0.211,1.65-0.09z" fill="#DCDCDC" />
+                                        <path d="M8.35,2.66H7.128L7.121,2.552h1.224L8.35,2.66z" fill="#999999" />
+                                        <path d="M0.434,2.66h1.223L1.65,2.552H0.428L0.434,2.66z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.428" y="-0.196" width="1.223" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="7.122" y="-0.196" width="1.225" height="0.047" fill="#FFFFFF" />
+                                        <line x2="1.167" y2="2.638" x1="1.167" fill="none" y1="2.638" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 59.931, 127.775)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_5_" gorn="0.1.0.0.6.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="0.405" y="-0.195" width="7.966" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.405" y="-0.195" width="7.966" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.405" y="2.608" width="7.966" height="0.031" />
+                                    </g>
+                                    <g >
+                                        <path d="M7.214-0.195L7.214-0.195L7.214-0.195H7.121l0,0c-0.079,0.25-0.135,0.797-0.135,1.074c0,0.291,0.048,1.41,0.135,1.674l0,0l0,0h1.224v-2.748H7.214z" fill="#DCDCDC" />
+                                        <path d="M1.65-0.091v-0.104H0.428v2.748h1.223c0.088-0.264,0.193-1.377,0.193-1.672C1.844,0.536,1.768,0.209,1.65-0.091z" fill="#DCDCDC" />
+                                        <path d="M8.35,2.659H7.128L7.121,2.553h1.224L8.35,2.659z" fill="#999999" />
+                                        <path d="M0.434,2.661h1.223L1.65,2.553H0.428L0.434,2.661z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.428" y="-0.195" width="1.223" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="7.122" y="-0.195" width="1.225" height="0.047" fill="#FFFFFF" />
+                                        <line x2="1.167" y2="2.639" x1="1.167" fill="none" y1="2.639" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 37.431, 116.891)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_7_" gorn="0.1.0.0.7.0.0.0" >
+                                <g transform="matrix(-1, 0, 0, -1, 7.938, 2.834)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <rect x="-0.443" y="0.196" width="7.967" height="2.834" fill="#333333" />
+                                                        <rect opacity="0.2" enable-background="new    " x="-0.443" y="0.196" width="7.967" height="0.045" fill="#FFFFFF" />
+                                                        <rect opacity="0.2" enable-background="new    " x="-0.443" y="2.996" width="7.967" height="0.033" />
+                                                    </g>
+                                                    <g >
+                                                        <path d="M6.366,0.196L6.366,0.196L6.366,0.196H6.273l0,0c-0.08,0.25-0.135,0.795-0.135,1.074c0,0.291,0.047,1.41,0.135,1.674l0,0l0,0h1.223V0.196H6.366z" fill="#DCDCDC" />
+                                                        <path d="M0.803,0.299V0.196H-0.42v2.748h1.223C0.891,2.68,0.996,1.567,0.996,1.272C0.996,0.924,0.922,0.6,0.803,0.299z" fill="#DCDCDC" />
+                                                        <path d="M7.504,3.049H6.28L6.273,2.944h1.223L7.504,3.049z" fill="#999999" />
+                                                        <path d="M-0.414,3.049h1.223L0.803,2.944H-0.42L-0.414,3.049z" fill="#999999" />
+                                                        <rect opacity="0.5" enable-background="new    " x="-0.42" y="0.196" width="1.223" height="0.045" fill="#FFFFFF" />
+                                                        <rect opacity="0.5" enable-background="new    " x="6.273" y="0.196" width="1.225" height="0.045" fill="#FFFFFF" />
+                                                        <line x2="0.319" y2="3.03" x1="0.319" fill="none" y1="3.03" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 46.431, 117.875)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_8_" gorn="0.1.0.0.8.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="-6.04" y="21.352" width="7.967" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="-6.04" y="21.352" width="7.967" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="-6.04" y="24.152" width="7.967" height="0.031" />
+                                    </g>
+                                    <g >
+                                        <path d="M0.768,21.352L0.768,21.352L0.768,21.352H0.674l0,0c-0.08,0.252-0.135,0.797-0.135,1.075c0,0.291,0.049,1.408,0.135,1.673l0,0l0,0h1.225v-2.748H0.768z" fill="#DCDCDC" />
+                                        <path d="M-4.794,21.454V21.35h-1.223v2.748h1.223c0.088-0.264,0.193-1.377,0.193-1.672C-4.601,22.081-4.677,21.757-4.794,21.454z" fill="#DCDCDC" />
+                                        <path d="M1.905,24.204H0.682L0.674,24.1h1.225L1.905,24.204z" fill="#999999" />
+                                        <path d="M-6.011,24.206h1.223L-4.794,24.1h-1.223L-6.011,24.206z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="-6.017" y="21.352" width="1.223" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.676" y="21.352" width="1.225" height="0.047" fill="#FFFFFF" />
+                                        <line x2="-5.279" y2="24.186" x1="-5.279" fill="none" y1="24.186" />
+                                    </g>
+                                </g>
+                                <g id="_x30_603-res_3_" gorn="0.1.0.0.8.0.0.0.1" >
+                                    <g >
+                                        <g >
+                                            <rect x="-6.04" y="25.676" width="7.967" height="2.834" fill="#333333" />
+                                            <rect opacity="0.2" enable-background="new    " x="-6.04" y="25.676" width="7.967" height="0.047" fill="#FFFFFF" />
+                                            <rect opacity="0.2" enable-background="new    " x="-6.04" y="28.479" width="7.967" height="0.031" />
+                                        </g>
+                                        <g >
+                                            <path d="M0.768,25.676L0.768,25.676L0.768,25.676H0.674l0,0c-0.08,0.252-0.135,0.797-0.135,1.076c0,0.291,0.049,1.408,0.135,1.672l0,0l0,0h1.225v-2.748H0.768z" fill="#DCDCDC" />
+                                            <path d="M-4.794,25.779v-0.104h-1.223v2.748h1.223c0.088-0.264,0.193-1.377,0.193-1.672C-4.601,26.406-4.677,26.082-4.794,25.779z" fill="#DCDCDC" />
+                                            <path d="M1.905,28.529H0.682l-0.008-0.105h1.225L1.905,28.529z" fill="#999999" />
+                                            <path d="M-6.011,28.531h1.223l-0.006-0.107h-1.223L-6.011,28.531z" fill="#999999" />
+                                            <rect opacity="0.5" enable-background="new    " x="-6.017" y="25.676" width="1.223" height="0.047" fill="#FFFFFF" />
+                                            <rect opacity="0.5" enable-background="new    " x="0.676" y="25.676" width="1.225" height="0.047" fill="#FFFFFF" />
+                                            <line x2="-5.279" y2="28.51" x1="-5.279" fill="none" y1="28.51" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 47.331, 36.425)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_9_" gorn="0.1.0.0.9.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="1.255" y="-4.668" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="1.255" y="-4.668" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="1.255" y="-1.865" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M8.064-4.668L8.064-4.668L8.064-4.668H7.97l0,0C7.892-4.417,7.835-3.871,7.835-3.592c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.225v-2.748L8.064-4.668L8.064-4.668z" fill="#DCDCDC" />
+                                        <path d="M2.499-4.564v-0.104H1.276v2.748h1.225c0.088-0.263,0.191-1.377,0.191-1.672C2.692-3.938,2.618-4.262,2.499-4.564z" fill="#DCDCDC" />
+                                        <path d="M9.2-1.814H7.978L7.97-1.92h1.225L9.2-1.814z" fill="#999999" />
+                                        <path d="M1.283-1.813h1.224L2.499-1.92H1.276L1.283-1.813z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="1.276" y="-4.668" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="7.972" y="-4.668" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <line x2="2.017" y2="-1.834" x1="2.017" fill="none" y1="-1.834" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 16.239, 74.183)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_11_" gorn="0.1.0.0.10.0.0.0" >
+                                <g transform="matrix(0, 1, -1, 0, 5.386, -2.552)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -6.2015 -1.6029)" >
+                                                            <g >
+                                                                <rect x="-7.416" y="-0.934" width="7.966" height="2.834" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -8.5814 -0.6187)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="-8.402" y="1.445" width="7.966" height="0.046" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -3.8098 -2.5947)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="-6.425" y="-0.524" width="7.966" height="0.032" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M-6.433-0.514L-6.433-0.514L-6.433-0.514l0.066,0.065l0,0c0.234-0.121,0.658-0.467,0.856-0.665c0.206-0.206,0.962-1.031,1.087-1.278l0,0l0,0l-0.864-0.865l-1.943,1.943L-6.433-0.514z" fill="#DCDCDC" />
+                                                        <path d="M-2.425,3.347L-2.499,3.42l0.864,0.864l1.943-1.943l-0.865-0.865C-0.804,1.6-1.666,2.313-1.875,2.522C-2.12,2.767-2.297,3.05-2.425,3.347z" fill="#DCDCDC" />
+                                                        <path d="M-5.219-3.336l0.865,0.865l-0.07,0.08l-0.864-0.865L-5.219-3.336z" fill="#999999" />
+                                                        <path d="M0.38,2.261l-0.865-0.865l-0.071,0.081l0.864,0.864L0.38,2.261z" fill="#999999" />
+                                                        <g transform="matrix(-0.7073 -0.7069 0.7069 -0.7073 -6.2134 5.0987)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="-2.663" y="3.813" width="1.223" height="0.046" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -10.9473 -6.3309)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="-7.397" y="-0.921" width="1.224" height="0.046" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="-0.153" y2="1.758" x1="-0.153" fill="none" y1="1.758" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 46.023, 17.213)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_12_" gorn="0.1.0.0.11.0.0.0" >
+                                <g transform="matrix(0, 1, -1, 0, 5.386, -2.552)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 3.2524 0.7433)" >
+                                                            <g >
+                                                                <rect x="-0.162" y="-1.985" width="2.834" height="7.966" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 1.8581 -0.6514)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="1.232" y="-3.38" width="0.045" height="7.966" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 4.6518 2.1428)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="1.239" y="-0.586" width="0.031" height="7.966" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M4.081,0.58L4.081,0.58L4.081,0.58H3.987l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.048,1.41,0.135,1.673l0,0l0,0H5.21V0.58H4.081z" fill="#DCDCDC" />
+                                                        <path d="M-1.483,0.684V0.58h-1.222v2.748h1.223c0.088-0.263,0.193-1.377,0.193-1.672C-1.289,1.309-1.365,0.985-1.483,0.684z" fill="#DCDCDC" />
+                                                        <path d="M5.217,3.434H3.995L3.987,3.328H5.21L5.217,3.434z" fill="#999999" />
+                                                        <path d="M-2.7,3.434h1.223l-0.007-0.106h-1.222L-2.7,3.434z" fill="#999999" />
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 -1.492 2.6967)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="-2.118" y="-0.009" width="0.047" height="1.223" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 5.2028 -3.9962)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="4.577" y="-0.009" width="0.045" height="1.224" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="-1.967" y2="3.414" x1="-1.967" fill="none" y1="3.414" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_13_" gorn="0.1.0.0.12.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="-8.905" y="-4.409" width="7.966" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="-8.905" y="-4.409" width="7.966" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="-8.905" y="-1.608" width="7.966" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M-2.096-4.409L-2.096-4.409L-2.096-4.409H-2.19l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.048,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H-2.096z" fill="#DCDCDC" />
+                                        <path d="M-7.66-4.305v-0.104h-1.223v2.748h1.224c0.088-0.263,0.192-1.377,0.192-1.672C-7.467-3.68-7.541-4.005-7.66-4.305z" fill="#DCDCDC" />
+                                        <path d="M-0.959-1.555h-1.223L-2.19-1.661h1.223L-0.959-1.555z" fill="#999999" />
+                                        <path d="M-8.876-1.555h1.223L-7.66-1.661h-1.223L-8.876-1.555z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="-8.883" y="-4.409" width="1.224" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="-2.188" y="-4.409" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="-8.143" y2="-1.576" x1="-8.143" fill="none" y1="-1.576" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 19.383, 14.693)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_14_" gorn="0.1.0.0.13.0.0.0" >
+                                <g transform="matrix(0, 1, -1, 0, 5.386, -2.552)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 4.7623 -2.777)" >
+                                                            <g >
+                                                                <rect x="2.353" y="-2.99" width="2.834" height="7.966" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 3.3682 -4.1701)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="3.746" y="-4.384" width="0.046" height="7.966" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 6.1629 -1.3759)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="3.753" y="-1.59" width="0.032" height="7.966" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M6.595-0.424L6.595-0.424L6.595-0.424H6.502l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.048,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H6.595z" fill="#DCDCDC" />
+                                                        <path d="M1.031-0.32v-0.104h-1.222v2.748h1.223C1.12,2.061,1.225,0.947,1.225,0.652C1.225,0.306,1.15-0.019,1.031-0.32z" fill="#DCDCDC" />
+                                                        <path d="M7.732,2.43H6.509L6.502,2.324h1.223L7.732,2.43z" fill="#999999" />
+                                                        <path d="M-0.185,2.431h1.223L1.031,2.324h-1.222L-0.185,2.431z" fill="#999999" />
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 0.0203 -0.8222)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="0.398" y="-1.013" width="0.046" height="1.223" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(2.578893e-006 1 -1 2.578893e-006 6.7142 -7.5161)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="7.092" y="-1.013" width="0.046" height="1.224" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="0.548" y2="2.41" x1="0.548" fill="none" y1="2.41" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 45.489, 66.533)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_15_" gorn="0.1.0.0.14.0.0.0" >
+                                <g transform="matrix(0, -1, 1, 0, 2.552, 5.386)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 2.3179 5.9996)" >
+                                                            <g >
+                                                                <rect x="2.742" y="-2.142" width="2.834" height="7.966" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 3.7125 4.606)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="4.136" y="-3.536" width="0.046" height="7.966" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 0.9176 7.4009)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="4.143" y="-0.741" width="0.032" height="7.966" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M6.985,0.424L6.985,0.424L6.985,0.424H6.892l0,0C6.812,0.675,6.757,1.22,6.757,1.499c0,0.291,0.048,1.409,0.135,1.673l0,0l0,0h1.223V0.424H6.985z" fill="#DCDCDC" />
+                                                        <path d="M1.421,0.527V0.424H0.199v2.748h1.223C1.51,2.908,1.615,1.795,1.615,1.5C1.615,1.154,1.54,0.829,1.421,0.527z" fill="#DCDCDC" />
+                                                        <path d="M8.122,3.277H6.899L6.892,3.172h1.223L8.122,3.277z" fill="#999999" />
+                                                        <path d="M0.205,3.279h1.223L1.421,3.172H0.199L0.205,3.279z" fill="#999999" />
+                                                        <g transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 0.3631 1.2576)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="0.787" y="-0.164" width="0.047" height="1.223" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 7.0584 7.952)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="7.482" y="-0.165" width="0.046" height="1.224" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="0.938" y2="3.258" x1="0.938" fill="none" y1="3.258" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 50.481, 98.9748)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_16_" gorn="0.1.0.0.15.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="0.406" y="-0.195" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.406" y="-0.195" width="7.965" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.406" y="2.607" width="7.965" height="0.031" />
+                                    </g>
+                                    <g >
+                                        <path d="M7.214-0.195L7.214-0.195L7.214-0.195H7.121l0,0C7.04,0.056,6.986,0.601,6.986,0.881c0,0.291,0.049,1.41,0.135,1.672l0,0l0,0h1.225v-2.748H7.214z" fill="#DCDCDC" />
+                                        <path d="M1.65-0.092v-0.104H0.427v2.748h1.224C1.74,2.29,1.843,1.176,1.843,0.881C1.843,0.535,1.769,0.211,1.65-0.092z" fill="#DCDCDC" />
+                                        <path d="M8.351,2.658H7.128L7.121,2.553h1.225L8.351,2.658z" fill="#999999" />
+                                        <path d="M0.434,2.66h1.224L1.65,2.553H0.427L0.434,2.66z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.427" y="-0.195" width="1.224" height="0.047" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="7.122" y="-0.195" width="1.223" height="0.047" fill="#FFFFFF" />
+                                        <line x2="1.167" y2="2.638" x1="1.167" fill="none" y1="2.638" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 12.723, 102.083)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_17_" gorn="0.1.0.0.16.0.0.0" >
+                                <g transform="matrix(0, -1, 1, 0, 2.552, 5.386)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g transform="matrix(-0.0048 -1 1 -0.0048 -18.0196 10.8874)" >
+                                                            <g >
+                                                                <rect x="-7.575" y="12.994" width="7.967" height="2.834" fill="#333333" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-0.0048 -1 1 -0.0048 -19.4274 9.5015)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="-8.969" y="14.396" width="7.967" height="0.045" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-0.0047 -1 1 -0.0047 -16.6039 12.2797)" >
+                                                            <g >
+                                                                <rect opacity="0.2" enable-background="new    " x="-6.174" y="14.388" width="7.967" height="0.03" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g >
+                                                        <path d="M-5.022,11.593L-5.022,11.593L-5.022,11.593l0.001,0.092l0,0c0.251,0.079,0.797,0.133,1.075,0.132c0.291-0.002,1.409-0.056,1.672-0.145l0,0l0,0l-0.005-1.223l-2.748,0.013L-5.022,11.593z" fill="#DCDCDC" />
+                                                        <path d="M-4.892,17.156l-0.104,0.001l0.006,1.221l2.748-0.013l-0.006-1.223c-0.264-0.087-1.378-0.188-1.674-0.186C-4.267,16.958-4.592,17.036-4.892,17.156z" fill="#DCDCDC" />
+                                                        <path d="M-2.174,10.442l0.006,1.223l-0.106,0.007l-0.005-1.223L-2.174,10.442z" fill="#999999" />
+                                                        <path d="M-2.135,18.358l-0.006-1.223l-0.106,0.009l0.006,1.221L-2.135,18.358z" fill="#999999" />
+                                                        <g transform="matrix(-0.0056 -1 1 -0.0056 -22.7618 12.8977)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="-5.579" y="17.743" width="1.223" height="0.047" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <g transform="matrix(-0.0048 -1 1 -0.0048 -16.0974 6.1242)" >
+                                                            <g >
+                                                                <rect opacity="0.5" enable-background="new    " x="-5.614" y="11.049" width="1.225" height="0.046" fill="#FFFFFF" />
+                                                            </g>
+                                                        </g>
+                                                        <line x2="-2.16" y2="17.626" x1="-2.16" fill="none" y1="17.626" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 32.481, 31.121)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_18_" gorn="0.1.0.0.17.0.0.0" >
+                                <g transform="matrix(-1, 0, 0, -1, 7.938, 2.834)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <rect x="13.558" y="7.195" width="7.965" height="2.834" fill="#333333" />
+                                                        <rect opacity="0.2" enable-background="new    " x="13.558" y="7.195" width="7.965" height="0.046" fill="#FFFFFF" />
+                                                        <rect opacity="0.2" enable-background="new    " x="13.558" y="9.997" width="7.965" height="0.032" />
+                                                    </g>
+                                                    <g >
+                                                        <path d="M20.366,7.195L20.366,7.195L20.366,7.195h-0.093l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.048,1.41,0.135,1.673l0,0l0,0h1.223V7.195H20.366z" fill="#DCDCDC" />
+                                                        <path d="M14.802,7.299V7.195H13.58v2.748h1.224c0.088-0.263,0.192-1.377,0.192-1.672C14.996,7.925,14.921,7.6,14.802,7.299z" fill="#DCDCDC" />
+                                                        <path d="M21.503,10.049H20.28l-0.007-0.106h1.223L21.503,10.049z" fill="#999999" />
+                                                        <path d="M13.586,10.05h1.224l-0.008-0.107H13.58L13.586,10.05z" fill="#999999" />
+                                                        <rect opacity="0.5" enable-background="new    " x="13.58" y="7.195" width="1.224" height="0.046" fill="#FFFFFF" />
+                                                        <rect opacity="0.5" enable-background="new    " x="20.274" y="7.195" width="1.224" height="0.046" fill="#FFFFFF" />
+                                                        <line x2="14.319" y2="10.029" x1="14.319" fill="none" y1="10.029" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_19_" gorn="0.1.0.0.18.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="0.078" y="-4.463" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.078" y="-4.463" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.078" y="-1.661" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M6.886-4.463L6.886-4.463L6.886-4.463H6.792l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H6.886z" fill="#DCDCDC" />
+                                        <path d="M1.322-4.359v-0.104H0.099v2.748h1.225c0.088-0.263,0.191-1.377,0.191-1.672C1.515-3.733,1.441-4.058,1.322-4.359z" fill="#DCDCDC" />
+                                        <path d="M8.023-1.609H6.8L6.792-1.715h1.223L8.023-1.609z" fill="#999999" />
+                                        <path d="M0.107-1.608H1.33L1.322-1.715H0.099L0.107-1.608z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.099" y="-4.463" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="6.794" y="-4.463" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="0.839" y2="-1.629" x1="0.839" fill="none" y1="-1.629" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_20_" gorn="0.1.0.0.19.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="8.871" y="-4.409" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="8.871" y="-4.409" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="8.871" y="-1.608" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M15.679-4.409L15.679-4.409L15.679-4.409h-0.094l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H15.679z" fill="#DCDCDC" />
+                                        <path d="M10.115-4.305v-0.104H8.892v2.748h1.225c0.088-0.263,0.191-1.377,0.191-1.672C10.308-3.68,10.234-4.005,10.115-4.305z" fill="#DCDCDC" />
+                                        <path d="M16.816-1.555h-1.223l-0.008-0.106h1.223L16.816-1.555z" fill="#999999" />
+                                        <path d="M8.9-1.555h1.223l-0.008-0.107H8.892L8.9-1.555z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="8.892" y="-4.409" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="15.587" y="-4.409" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="9.632" y2="-1.576" x1="9.632" fill="none" y1="-1.576" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_21_" gorn="0.1.0.0.20.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="-18.22" y="-0.368" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="-18.22" y="-0.368" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="-18.22" y="2.434" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M-11.411-0.368L-11.411-0.368L-11.411-0.368h-0.094l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H-11.411z" fill="#DCDCDC" />
+                                        <path d="M-16.975-0.264v-0.104h-1.223V2.38h1.224c0.088-0.263,0.192-1.377,0.192-1.672C-16.781,0.362-16.856,0.037-16.975-0.264z" fill="#DCDCDC" />
+                                        <path d="M-10.274,2.486h-1.223l-0.008-0.106h1.223L-10.274,2.486z" fill="#999999" />
+                                        <path d="M-18.19,2.487h1.223l-0.007-0.107h-1.223L-18.19,2.487z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="-18.197" y="-0.368" width="1.224" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="-11.503" y="-0.368" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="-17.457" y2="2.466" x1="-17.457" fill="none" y1="2.466" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_22_" gorn="0.1.0.0.21.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="-8.905" y="-0.209" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="-8.905" y="-0.209" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="-8.905" y="2.592" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M-2.096-0.209L-2.096-0.209L-2.096-0.209H-2.19l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H-2.096z" fill="#DCDCDC" />
+                                        <path d="M-7.66-0.105v-0.104h-1.223v2.748h1.224c0.088-0.263,0.192-1.377,0.192-1.672C-7.467,0.521-7.541,0.195-7.66-0.105z" fill="#DCDCDC" />
+                                        <path d="M-0.96,2.645h-1.223L-2.19,2.539h1.223L-0.96,2.645z" fill="#999999" />
+                                        <path d="M-8.876,2.646h1.223L-7.66,2.539h-1.223L-8.876,2.646z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="-8.883" y="-0.209" width="1.224" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="-2.188" y="-0.209" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="-8.143" y2="2.625" x1="-8.143" fill="none" y1="2.625" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_23_" gorn="0.1.0.0.22.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="0.078" y="-0.263" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.078" y="-0.263" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="0.078" y="2.539" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M6.886-0.263L6.886-0.263L6.886-0.263H6.792l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223v-2.748H6.886z" fill="#DCDCDC" />
+                                        <path d="M1.322-0.159v-0.104H0.099v2.748h1.225c0.088-0.263,0.191-1.377,0.191-1.672C1.515,0.467,1.441,0.142,1.322-0.159z" fill="#DCDCDC" />
+                                        <path d="M8.023,2.591H6.8L6.792,2.485h1.223L8.023,2.591z" fill="#999999" />
+                                        <path d="M0.107,2.592H1.33L1.322,2.485H0.099L0.107,2.592z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="0.099" y="-0.263" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="6.794" y="-0.263" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="0.839" y2="2.571" x1="0.839" fill="none" y1="2.571" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_24_" gorn="0.1.0.0.23.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="-4.296" y="3.903" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="-4.296" y="3.903" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="-4.296" y="6.705" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M2.513,3.903L2.513,3.903L2.513,3.903H2.419l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223V3.903H2.513z" fill="#DCDCDC" />
+                                        <path d="M-3.051,4.007V3.903h-1.223v2.748h1.224c0.088-0.263,0.192-1.377,0.192-1.672C-2.857,4.633-2.932,4.308-3.051,4.007z" fill="#DCDCDC" />
+                                        <path d="M3.65,6.757H2.427L2.419,6.651h1.223L3.65,6.757z" fill="#999999" />
+                                        <path d="M-4.267,6.758h1.223l-0.007-0.107h-1.223L-4.267,6.758z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="-4.273" y="3.903" width="1.224" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="2.421" y="3.903" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="-3.533" y2="6.737" x1="-3.533" fill="none" y1="6.737" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, 36.981, 28.325)" >
+                    <g >
+                        <g >
+                            <g id="_x30_603-res_25_" gorn="0.1.0.0.24.0.0.0" >
+                                <g >
+                                    <g >
+                                        <rect x="11.603" y="7.403" width="7.965" height="2.834" fill="#333333" />
+                                        <rect opacity="0.2" enable-background="new    " x="11.603" y="7.403" width="7.965" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.2" enable-background="new    " x="11.603" y="10.205" width="7.965" height="0.032" />
+                                    </g>
+                                    <g >
+                                        <path d="M18.412,7.403L18.412,7.403L18.412,7.403h-0.094l0,0c-0.08,0.251-0.135,0.796-0.135,1.075c0,0.291,0.049,1.41,0.135,1.673l0,0l0,0h1.223V7.403H18.412z" fill="#DCDCDC" />
+                                        <path d="M12.847,7.507V7.403h-1.223v2.748h1.225c0.088-0.263,0.191-1.377,0.191-1.672C13.04,8.133,12.966,7.808,12.847,7.507z" fill="#DCDCDC" />
+                                        <path d="M19.548,10.257h-1.223l-0.01-0.106h1.225L19.548,10.257z" fill="#999999" />
+                                        <path d="M11.632,10.258h1.223l-0.008-0.107h-1.223L11.632,10.258z" fill="#999999" />
+                                        <rect opacity="0.5" enable-background="new    " x="11.624" y="7.403" width="1.225" height="0.046" fill="#FFFFFF" />
+                                        <rect opacity="0.5" enable-background="new    " x="18.32" y="7.403" width="1.223" height="0.046" fill="#FFFFFF" />
+                                        <line x2="12.365" y2="10.237" x1="12.365" fill="none" y1="10.237" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g >
+            <polygon fill="#B3B3B3"  points="29.446,159.145 10.6,159.145 10.6,142.135 29.446,142.135 "/>
+            <rect x="29.649" y="148.748" width="0.996" height="3.041" fill="#666666" />
+            <rect x="9.367" y="148.748" width="1.002" height="3.041" fill="#666666" />
+            <rect x="10.6" y="142.135" width="18.846" height="0.131" fill="#CCCCCC" />
+            <rect x="14.862" y="142.135" width="10.291" height="15.614" fill="#333333" />
+            <polygon fill="#B3B3B3"  points="10.369,158.773 10.369,159.251 9.729,160.333 9.367,160.333 "/>
+            <polygon fill="#CCCCCC"  points="10.369,159.251 10.37,159.251 10.369,159.79 9.729,160.333 "/>
+            <polygon fill="#B3B3B3"  points="30.649,160.333 30.285,160.333 29.645,159.251 29.645,158.773 "/>
+            <polygon fill="#CCCCCC"  points="30.285,160.333 29.645,159.79 29.645,159.251 29.645,159.251 "/>
+            <g >
+                <g >
+                    <rect x="23.942" y="158.123" width="0.477" height="0.648" fill="#F2F2F2" />
+                </g>
+                <g >
+                    <rect x="21.854" y="158.123" width="0.479" height="0.648" fill="#F2F2F2" />
+                </g>
+                <g >
+                    <rect x="19.77" y="158.123" width="0.477" height="0.648" fill="#F2F2F2" />
+                </g>
+                <g >
+                    <rect x="17.684" y="158.123" width="0.476" height="0.648" fill="#F2F2F2" />
+                </g>
+                <g >
+                    <rect x="15.598" y="158.123" width="0.478" height="0.648" fill="#F2F2F2" />
+                </g>
+                <g >
+                    <rect x="15.598" y="158.123" width="0.096" height="0.648" fill="#808080" />
+                </g>
+                <g >
+                    <rect x="17.684" y="158.123" width="0.096" height="0.648" fill="#808080" />
+                </g>
+                <g >
+                    <rect x="19.77" y="158.123" width="0.098" height="0.648" fill="#808080" />
+                </g>
+                <g >
+                    <rect x="21.856" y="158.123" width="0.097" height="0.648" fill="#808080" />
+                </g>
+                <g >
+                    <rect x="23.942" y="158.123" width="0.098" height="0.648" fill="#808080" />
+                </g>
+            </g>
+            <path d="M15.084,158.957H15.6v-0.396h0.476v0.396h1.608v-0.396h0.478v0.396h1.608v-0.396h0.477v0.396h1.607v-0.396h0.479v0.396h1.608v-0.396h0.477v0.396h0.323h0.271c0.078,0,0.145-0.063,0.145-0.146v-1.063c0-0.08-0.063-0.146-0.145-0.146H15.007c-0.078,0-0.146,0.063-0.146,0.146v1.063c0,0.078,0.064,0.146,0.146,0.146H15.084z" fill="#4D4D4D" />
+            <path d="M10.369,142.701l0.229-0.566h2.533c0,0-2.301,0.111-2.383,0.281s0.109,0.285,0.109,0.285H10.369L10.369,142.701z" fill="#CCCCCC" />
+            <path d="M29.645,142.701l-0.229-0.564h-2.534c0,0,2.302,0.111,2.384,0.281s-0.108,0.283-0.108,0.283H29.645L29.645,142.701z" fill="#CCCCCC" />
+            <path d="M26.255,142.135v1.635h-1.604v-1.635H24.19v0.564h-8.364v-0.564h-0.523v1.635h-1.604v-1.635h-3.326v17.008h19.273v-17.008H26.255z M15.299,155.991v0.813h-1.592v-0.882c-0.428-0.276-0.709-0.761-0.709-1.308c0-0.6,0.221-1.104,0.709-1.369l0,0v-4.479h1.592v4.48c0.486,0.266,0.824,0.771,0.824,1.371C16.124,155.218,15.788,155.729,15.299,155.991z M26.19,155.991v0.813h-1.592v-0.882c-0.428-0.276-0.707-0.761-0.707-1.308c0-0.6,0.217-1.104,0.707-1.369l0,0v-4.479h1.592v4.48c0.489,0.266,0.826,0.771,0.826,1.371C27.016,155.218,26.68,155.729,26.19,155.991z" fill="#E6E6E6" />
+            <polygon fill="#F2F2F2"  points="10.776,159.145 10.369,159.145 10.369,142.701 11.901,142.701 "/>
+            <polygon fill="#999999"  points="29.645,159.145 29.076,148.164 28.508,142.701 29.645,142.701 "/>
+            <rect x="13.708" y="148.768" width="1.592" height="0.131" fill="#CCCCCC" />
+            <rect x="24.6" y="148.768" width="1.59" height="0.131" fill="#CCCCCC" />
+            <rect x="11.315" y="158.279" width="17.387" height="0.66" fill="#B3B3B3" />
+            <rect x="11.315" y="158.831" width="17.387" height="0.313" fill="#CCCCCC" />
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 17.648, 78.4886)" >
+            <g >
+                <g >
+                    <g id="tactile_switch_smd_2_" gorn="0.1.2.0.0.0" >
+                        <g transform="matrix(-1, 0, 0, -1, 15.104, 15.102)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g transform="matrix(1, 0, 0, 1, 17.004, 77.8536)" >
+                                            <g >
+                                                <g >
+                                                    <g id="tactile_switch_smd_1_" gorn="0.1.2.0.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g transform="matrix(-1, 0, 0, -1, 16.392, 16.373)" >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g transform="matrix(1, 0, 0, 1, 17.021, 74.628)" >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g id="tactile_switch_smd" gorn="0.1.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                        <g transform="matrix(-1, 0, 0, -1, 16.392, 16.392)" >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <polygon fill="#6D6D6D"  points="-10.154,79.858 -8.061,81.955 0.751,81.955 2.844,79.858 2.844,71.046 0.751,68.955 -8.061,68.955 -10.154,71.046 "/>
+                                                                                                        <rect x="-8.061" y="67.904" width="8.813" height="15.104" fill="#6D6D6D" />
+                                                                                                        <rect x="-11.208" y="71.046" width="15.104" height="8.813" fill="#6D6D6D" />
+                                                                                                        <polygon fill="#7F7F7F"  points="-9.522,79.431 -7.631,81.322 0.322,81.322 2.214,79.431 2.214,71.476 0.322,69.586 -7.631,69.586 -9.522,71.476 "/>
+                                                                                                        <polyline opacity="0.2" enable-background="new    " stroke-miterlimit="10" stroke-width="0.2183" stroke="#FFFFFF" fill="none"  points="-7.422,69.893 -9.213,71.684 -9.213,79.224 -7.422,81.016 0.114,81.016 "/>
+                                                                                                        <polyline opacity="0.2" enable-background="new    " stroke-miterlimit="10" stroke-width="0.2183" stroke="#606060" fill="none"  points="0.116,81.016 1.908,79.225 1.908,71.685 0.116,69.893 -7.422,69.893 "/>
+                                                                                                        <g >
+                                                                                                            <path d="M-3.654,78.89c-1.894,0-3.435-1.541-3.435-3.438c0-1.893,1.541-3.435,3.435-3.435c1.894,0,3.436,1.541,3.436,3.435C-0.223,77.348-1.763,78.89-3.654,78.89z" fill="#BCA16A" />
+                                                                                                            <path d="M-3.654,72.252c1.77,0,3.204,1.438,3.204,3.204c0,1.771-1.438,3.204-3.204,3.204c-1.771,0-3.204-1.435-3.204-3.204C-6.858,73.684-5.422,72.252-3.654,72.252 M-3.654,71.791c-2.021,0-3.665,1.646-3.665,3.664c0,2.021,1.646,3.666,3.665,3.666c2.019,0,3.665-1.645,3.665-3.666C0.008,73.433-1.635,71.791-3.654,71.791L-3.654,71.791z" fill="#606060" />
+                                                                                                        </g>
+                                                                                                        <path opacity="0.2" enable-background="new    " stroke-miterlimit="10" stroke-width="0.4887" stroke="#FFFFFF" d="M-1.634,77.474c-1.114,1.116-2.929,1.116-4.045,0c-1.114-1.117-1.114-2.93,0-4.044" fill="#BCA16A" />
+                                                                                                        <path opacity="0.2" enable-background="new    " stroke-miterlimit="10" stroke-width="0.4887" stroke="#606060" d="M-5.678,73.431c1.116-1.116,2.931-1.116,4.047,0c1.114,1.116,1.114,2.927,0,4.044" fill="#BCA16A" />
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g >
+            <g id="breadboard_1_" gorn="0.1.3.0" >
+                <g id="icon_1_" gorn="0.1.3.0.0" >
+                    <polygon fill="#2B2B2B"  points="59.417,154.486 59.417,154.486 51.143,154.486 51.143,154.486 49.246,154.486 49.246,158.759 61.318,158.759 61.318,154.486 "/>
+                    <polygon fill="#292929"  points="51.417,154.486 51.143,154.486 51.143,154.486 49.677,154.486 49.677,158.759 51.417,158.759 "/>
+                    <polygon fill="#292929"  points="58.844,154.486 59.452,154.486 59.452,154.486 60.923,154.486 60.923,158.759 58.844,158.759 "/>
+                    <rect x="54.244" y="154.486" width="3.208" height="4.25" fill="#333333" />
+                    <rect x="54.766" y="154.486" width="1.764" height="4.25" fill="#383838" />
+                    <rect x="49.242" y="154.486" width="0.436" height="4.271" fill="#212121" />
+                    <rect x="60.922" y="154.486" width="0.396" height="4.271" fill="#212121" />
+                    <rect x="49.248" y="158.741" width="12.068" height="1.883" fill="#A1A1A1" />
+                    <rect x="51.417" y="158.741" width="7.429" height="1.883" fill="#ABABAB" />
+                    <rect x="54.244" y="158.741" width="3.208" height="1.883" fill="#C7C7C7" />
+                    <rect x="54.766" y="158.741" width="1.764" height="1.883" fill="#E6E6E6" />
+                    <rect x="60.922" y="158.741" width="0.396" height="1.883" fill="#737373" />
+                    <rect x="49.264" y="158.741" width="0.396" height="1.883" fill="#737373" />
+                    <g >
+                        <g >
+                            <rect x="44.336" y="114.568" width="21.602" height="40.317" fill="#333333" />
+                        </g>
+                    </g>
+                    <rect x="63.41" y="137.802" width="2.525" height="5.189" />
+                    <rect x="44.408" y="137.802" width="2.527" height="5.189" />
+                    <rect id="connector2pad" x="65.102" y="137.802" gorn="0.1.3.0.0.16" width="0.836" height="5.189" fill="#C7C7C7" />
+                    <rect x="63.41" y="123.4" width="2.525" height="5.19" />
+                    <rect id="connector3pad" x="65.102" y="123.4" gorn="0.1.3.0.0.18" width="0.836" height="5.19" fill="#C7C7C7" />
+                    <rect id="connector1pad" x="44.408" y="137.802" gorn="0.1.3.0.0.19" width="0.836" height="5.189" fill="#C7C7C7" />
+                    <rect x="44.408" y="123.4" width="2.527" height="5.19" />
+                    <rect id="connector4pad" x="44.408" y="123.4" gorn="0.1.3.0.0.21" width="0.836" height="5.19" fill="#C7C7C7" />
+                    <rect id="connector0pad" x="44.408" y="123.4" gorn="0.1.3.0.0.22" width="0.836" height="5.19" fill="#C7C7C7" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: MLX90609
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: MLX90609
+  icon: {fileID: 0}
+  realWorldWidth: 160
+  realWorldHeight: 60.000004
+  pins:
+  - name: CASE
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.28125
+    cy: 0.083333336
+  - name: ERROR
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.6562531
+    cy: 0.9166667
+  - name: FLT
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.59375
+    cy: 0.083333336
+  - name: GND
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.15625
+    cy: 0.9166667
+  - name: HVIN
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.7187531
+    cy: 0.083333336
+  - name: MISO
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.46875
+    cy: 0.9166667
+  - name: MOSI
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.53125
+    cy: 0.9166667
+  - name: OUTAR
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.53125
+    cy: 0.083333336
+  - name: OUTTEMP
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.6562531
+    cy: 0.083333336
+  - name: SCLK
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.34375
+    cy: 0.9166667
+  - name: SELFTEST
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.7187531
+    cy: 0.9166667
+  - name: SS
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.40625
+    cy: 0.9166667
+  - name: TEST
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.59375
+    cy: 0.9166667
+  - name: TESTIN
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.21875
+    cy: 0.083333336
+  - name: TESTOUT
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.15625
+    cy: 0.083333336
+  - name: TOPCAP
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.03125
+    cy: 0.9166667
+  - name: TOPCAP
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.03125
+    cy: 0.083333336
+  - name: VDD
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.21875
+    cy: 0.9166667
+  - name: VDDA
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.34375
+    cy: 0.083333336
+  - name: VREF
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.46875
+    cy: 0.083333336
+  - name: VSSA
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.40625
+    cy: 0.083333336

@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: PICAXE-28
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: PICAXE-28
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: Reset
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0
+    cy: 0
+  - name: In A0
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0
+    cy: 0
+  - name: In A1
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0
+    cy: 0
+  - name: In A2
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0
+    cy: 0
+  - name: In A3
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0
+    cy: 0
+  - name: Serial In
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0
+    cy: 0
+  - name: Serial Out
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0
+    cy: 0
+  - name: 0V
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0
+    cy: 0
+  - name: Resonator
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0
+    cy: 0
+  - name: Resonator
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0
+    cy: 0
+  - name: In 0
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0
+    cy: 0
+  - name: In 1
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0
+    cy: 0
+  - name: In 2
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0
+    cy: 0
+  - name: In 3
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: In 4
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: In 5
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: In 6
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: In 7
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: 0V
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: +V
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: Out 0
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: Out 1
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: Out 2
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: Out 3
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0
+    cy: 0
+  - name: Out 4
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0
+    cy: 0
+  - name: Out 5
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0
+    cy: 0
+  - name: Out 6
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0
+    cy: 0
+  - name: Out 7
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0
+    cy: 0

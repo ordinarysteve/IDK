@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Si4713 Stereo FM Transmitter
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Si4713 Stereo FM Transmitter
+  icon: {fileID: 0}
+  realWorldWidth: 159.84
+  realWorldHeight: 75
+  pins:
+  - name: ANT
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.2189591
+    cy: 0.093333334
+  - name: RIN
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.7819967
+    cy: 0.8866667
+  - name: LIN
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.719437
+    cy: 0.8866667
+  - name: VIN
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.6568772
+    cy: 0.8866667
+  - name: GND
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.5943175
+    cy: 0.8866667
+  - name: +3V3
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.5317578
+    cy: 0.8866667
+  - name: GP2
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.46919805
+    cy: 0.8866667
+  - name: GP1
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.4066383
+    cy: 0.8866667
+  - name: SDA
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.34407854
+    cy: 0.8866667
+  - name: SCL
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.28151885
+    cy: 0.8866667
+  - name: CS
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.2189591
+    cy: 0.8866667
+  - name: RST
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.15639934
+    cy: 0.8866667

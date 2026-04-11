@@ -1,0 +1,334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit CAN Bus FeatherWing
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit CAN Bus FeatherWing
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: USB
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0
+    cy: 0
+  - name: USB
+    svgId: connector117pin
+    pinName: connector117pin
+    cx: 0
+    cy: 0
+  - name: VBAT
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0
+    cy: 0
+  - name: VBAT
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0
+    cy: 0
+  - name: CAN_L
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0
+    cy: 0
+  - name: CAN_H
+    svgId: connector124pin
+    pinName: connector124pin
+    cx: 0
+    cy: 0
+  - name: RESET
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0
+    cy: 0
+  - name: RESET
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0
+    cy: 0
+  - name: AREF
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0
+    cy: 0
+  - name: AREF
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0
+    cy: 0
+  - name: A
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0
+  - name: A
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0
+    cy: 0
+  - name: B
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0
+    cy: 0
+  - name: B
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0
+    cy: 0
+  - name: C
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0
+    cy: 0
+  - name: C
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0
+    cy: 0
+  - name: D
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0
+    cy: 0
+  - name: D
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0
+    cy: 0
+  - name: E
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0
+    cy: 0
+  - name: E
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0
+    cy: 0
+  - name: F
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0
+    cy: 0
+  - name: F
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0
+    cy: 0
+  - name: SCK
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0
+    cy: 0
+  - name: SCK
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0
+    cy: 0
+  - name: MOSI
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0
+    cy: 0
+  - name: MOSI
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0
+    cy: 0
+  - name: MISO
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0
+    cy: 0
+  - name: MISO
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0
+    cy: 0
+  - name: RX
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0
+    cy: 0
+  - name: RX
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0
+    cy: 0
+  - name: TX
+    svgId: connector106pin
+    pinName: connector106pin
+    cx: 0
+    cy: 0
+  - name: TX
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: EN
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0
+    cy: 0
+  - name: EN
+    svgId: connector118pin
+    pinName: connector118pin
+    cx: 0
+    cy: 0
+  - name: N
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0
+    cy: 0
+  - name: N
+    svgId: connector116pin
+    pinName: connector116pin
+    cx: 0
+    cy: 0
+  - name: M
+    svgId: connector115pin
+    pinName: connector115pin
+    cx: 0
+    cy: 0
+  - name: M
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0
+    cy: 0
+  - name: L
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0
+    cy: 0
+  - name: L
+    svgId: connector114pin
+    pinName: connector114pin
+    cx: 0
+    cy: 0
+  - name: K
+    svgId: connector113pin
+    pinName: connector113pin
+    cx: 0
+    cy: 0
+  - name: K
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0
+    cy: 0
+  - name: J
+    svgId: connector112pin
+    pinName: connector112pin
+    cx: 0
+    cy: 0
+  - name: J
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0
+    cy: 0
+  - name: CAN_INT_DEFAULT
+    svgId: connector111pin
+    pinName: connector111pin
+    cx: 0
+    cy: 0
+  - name: CAN_INT_DEFAULT
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0
+    cy: 0
+  - name: CAN_CS_DEFAULT
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0
+    cy: 0
+  - name: CAN_CS_DEFAULT
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: SILENT
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0
+    cy: 0
+  - name: CAN_RESET
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0
+    cy: 0
+  - name: CAN_CS
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0
+    cy: 0
+  - name: '!CAN_INT'
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector123pin
+    pinName: connector123pin
+    cx: 0
+    cy: 0
+  - name: G
+    svgId: connector107pin
+    pinName: connector107pin
+    cx: 0
+    cy: 0
+  - name: G
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0

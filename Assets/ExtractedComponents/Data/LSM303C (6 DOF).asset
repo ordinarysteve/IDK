@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: LSM303C (6 DOF)
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: LSM303C (6 DOF)
+  icon: {fileID: 0}
+  realWorldWidth: 67.68
+  realWorldHeight: 72
+  pins:
+  - name: GND
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.9468085
+    cy: 0.049999997
+  - name: VDD_IO
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.9468085
+    cy: 0.15
+  - name: SDA/SDI/SDO
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.9468085
+    cy: 0.25
+  - name: SCL/SCLK
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.9468085
+    cy: 0.35000002
+  - name: INT_XL
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.9468085
+    cy: 0.45000002
+  - name: DRDY_MAG
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.9468085
+    cy: 0.54999995
+  - name: '!CS_XL'
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.9468085
+    cy: 0.65
+  - name: VCC
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.9468085
+    cy: 0.75
+  - name: '!CS_MAG'
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.9468085
+    cy: 0.85
+  - name: INT_MAG
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.9468085
+    cy: 0.95000005

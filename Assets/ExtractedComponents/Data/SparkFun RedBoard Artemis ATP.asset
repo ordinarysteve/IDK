@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun RedBoard Artemis ATP
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun RedBoard Artemis ATP
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: VDD
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0
+    cy: 0
+  - name: RXI-0
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0
+    cy: 0
+  - name: TXO-0
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0
+    cy: 0
+  - name: ~D39/SCL
+    svgId: connector225pin
+    pinName: connector225pin
+    cx: 0
+    cy: 0
+  - name: D40/SDA
+    svgId: connector226pin
+    pinName: connector226pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector227pin
+    pinName: connector227pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector228pin
+    pinName: connector228pin
+    cx: 0
+    cy: 0
+  - name: ~D5/SCK
+    svgId: connector229pin
+    pinName: connector229pin
+    cx: 0
+    cy: 0
+  - name: ~D6/MISO
+    svgId: connector230pin
+    pinName: connector230pin
+    cx: 0
+    cy: 0
+  - name: ~D7/MOSI
+    svgId: connector231pin
+    pinName: connector231pin
+    cx: 0
+    cy: 0
+  - name: ~AD13
+    svgId: connector232pin
+    pinName: connector232pin
+    cx: 0
+    cy: 0
+  - name: ~AD12
+    svgId: connector233pin
+    pinName: connector233pin
+    cx: 0
+    cy: 0
+  - name: ~AD32
+    svgId: connector234pin
+    pinName: connector234pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector235pin
+    pinName: connector235pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector236pin
+    pinName: connector236pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector237pin
+    pinName: connector237pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector238pin
+    pinName: connector238pin
+    cx: 0
+    cy: 0
+  - name: VDD
+    svgId: connector239pin
+    pinName: connector239pin
+    cx: 0
+    cy: 0
+  - name: '!RESET'
+    svgId: connector240pin
+    pinName: connector240pin
+    cx: 0
+    cy: 0
+  - name: VDD
+    svgId: connector241pin
+    pinName: connector241pin
+    cx: 0
+    cy: 0
+  - name: 8
+    svgId: connector242pin
+    pinName: connector242pin
+    cx: 0
+    cy: 0
+  - name: D3
+    svgId: connector243pin
+    pinName: connector243pin
+    cx: 0
+    cy: 0
+  - name: D36
+    svgId: connector244pin
+    pinName: connector244pin
+    cx: 0
+    cy: 0
+  - name: D38
+    svgId: connector245pin
+    pinName: connector245pin
+    cx: 0
+    cy: 0
+  - name: ~D37
+    svgId: connector246pin
+    pinName: connector246pin
+    cx: 0
+    cy: 0
+  - name: ~D44
+    svgId: connector247pin
+    pinName: connector247pin
+    cx: 0
+    cy: 0
+  - name: ~D25/RXI-1
+    svgId: connector248pin
+    pinName: connector248pin
+    cx: 0
+    cy: 0
+  - name: ~D24/TXO-1
+    svgId: connector249pin
+    pinName: connector249pin
+    cx: 0
+    cy: 0
+  - name: ~AD35
+    svgId: connector250pin
+    pinName: connector250pin
+    cx: 0
+    cy: 0
+  - name: ~D4
+    svgId: connector251pin
+    pinName: connector251pin
+    cx: 0
+    cy: 0
+  - name: ~D22
+    svgId: connector252pin
+    pinName: connector252pin
+    cx: 0
+    cy: 0
+  - name: ~D23
+    svgId: connector253pin
+    pinName: connector253pin
+    cx: 0
+    cy: 0
+  - name: ~D27
+    svgId: connector254pin
+    pinName: connector254pin
+    cx: 0
+    cy: 0
+  - name: ~D28
+    svgId: connector255pin
+    pinName: connector255pin
+    cx: 0
+    cy: 0
+  - name: ~AD29
+    svgId: connector256pin
+    pinName: connector256pin
+    cx: 0
+    cy: 0
+  - name: ~AD11
+    svgId: connector257pin
+    pinName: connector257pin
+    cx: 0
+    cy: 0
+  - name: AD34
+    svgId: connector258pin
+    pinName: connector258pin
+    cx: 0
+    cy: 0
+  - name: ~AD33/SWO
+    svgId: connector259pin
+    pinName: connector259pin
+    cx: 0
+    cy: 0
+  - name: AD16
+    svgId: connector260pin
+    pinName: connector260pin
+    cx: 0
+    cy: 0
+  - name: ~AD31
+    svgId: connector261pin
+    pinName: connector261pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector262pin
+    pinName: connector262pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector263pin
+    pinName: connector263pin
+    cx: 0
+    cy: 0
+  - name: ~D18
+    svgId: connector264pin
+    pinName: connector264pin
+    cx: 0
+    cy: 0
+  - name: ~D19
+    svgId: connector265pin
+    pinName: connector265pin
+    cx: 0
+    cy: 0
+  - name: D15
+    svgId: connector266pin
+    pinName: connector266pin
+    cx: 0
+    cy: 0
+  - name: ~D26
+    svgId: connector267pin
+    pinName: connector267pin
+    cx: 0
+    cy: 0
+  - name: D9
+    svgId: connector268pin
+    pinName: connector268pin
+    cx: 0
+    cy: 0
+  - name: D10
+    svgId: connector269pin
+    pinName: connector269pin
+    cx: 0
+    cy: 0
+  - name: D8
+    svgId: connector270pin
+    pinName: connector270pin
+    cx: 0
+    cy: 0
+  - name: D14
+    svgId: connector271pin
+    pinName: connector271pin
+    cx: 0
+    cy: 0
+  - name: D17
+    svgId: connector272pin
+    pinName: connector272pin
+    cx: 0
+    cy: 0
+  - name: D41
+    svgId: connector273pin
+    pinName: connector273pin
+    cx: 0
+    cy: 0
+  - name: ~D45
+    svgId: connector274pin
+    pinName: connector274pin
+    cx: 0
+    cy: 0
+  - name: D2
+    svgId: connector275pin
+    pinName: connector275pin
+    cx: 0
+    cy: 0
+  - name: D1
+    svgId: connector276pin
+    pinName: connector276pin
+    cx: 0
+    cy: 0
+  - name: D0
+    svgId: connector277pin
+    pinName: connector277pin
+    cx: 0
+    cy: 0
+  - name: ~D43
+    svgId: connector278pin
+    pinName: connector278pin
+    cx: 0
+    cy: 0
+  - name: ~D42
+    svgId: connector279pin
+    pinName: connector279pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector280pin
+    pinName: connector280pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector281pin
+    pinName: connector281pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector282pin
+    pinName: connector282pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector283pin
+    pinName: connector283pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector284pin
+    pinName: connector284pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit Pi Stemma QT Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit Pi Stemma QT Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 58
+  realWorldHeight: 63.850395
+  pins:
+  - name: 3.3V
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.6957376
+    cy: 0.9564962
+  - name: SCL
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.9128832
+    cy: 0.9564962
+  - name: SDA
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.80433434
+    cy: 0.9564962
+  - name: GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.5871169
+    cy: 0.9564962

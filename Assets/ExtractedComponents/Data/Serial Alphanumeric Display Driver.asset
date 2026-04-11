@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Serial Alphanumeric Display Driver
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Serial Alphanumeric Display Driver
+  icon: {fileID: 0}
+  realWorldWidth: 114.298996
+  realWorldHeight: 209.99998
+  pins:
+  - name: SDI
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.6021647
+    cy: 0.738095
+  - name: CLK
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.6021647
+    cy: 0.78571403
+  - name: LE
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.6021647
+    cy: 0.8333331
+  - name: OE
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.6021647
+    cy: 0.88095206
+  - name: VCC
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.6021647
+    cy: 0.9285711
+  - name: GND
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.6021647
+    cy: 0.9761902
+  - name: SDO
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.42194828
+    cy: 0.7380908
+  - name: CLK
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.42194828
+    cy: 0.78570986
+  - name: LE
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.42194828
+    cy: 0.8333289
+  - name: OE
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.42194828
+    cy: 0.88094795
+  - name: VCC
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.42194828
+    cy: 0.928567
+  - name: GND
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.42194828
+    cy: 0.9761861
+  - name: 1
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.8184087
+    cy: 0.14285715
+  - name: A1
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.8184087
+    cy: 0.1904762
+  - name: H
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.8184087
+    cy: 0.23809524
+  - name: F
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.8184087
+    cy: 0.2857143
+  - name: VCC
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.8184087
+    cy: 0.3809524
+  - name: G1
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.8184087
+    cy: 0.42857146
+  - name: E
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.8184087
+    cy: 0.5238095
+  - name: D1
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.8184087
+    cy: 0.5714286
+  - name: N
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.8184087
+    cy: 0.61904764
+  - name: M
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.8184087
+    cy: 0.6666667
+  - name: 13
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.20598017
+    cy: 0.6666667
+  - name: D2
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.20598017
+    cy: 0.61904764
+  - name: L
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.20598017
+    cy: 0.5714286
+  - name: C
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.20598017
+    cy: 0.5238095
+  - name: VCC
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.20598017
+    cy: 0.42857146
+  - name: G2
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.20598017
+    cy: 0.3809524
+  - name: B
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.20598017
+    cy: 0.2857143
+  - name: A2
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.20598017
+    cy: 0.23809524
+  - name: K
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.20598017
+    cy: 0.1904762
+  - name: J
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.20598017
+    cy: 0.14285715

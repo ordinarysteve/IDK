@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit EYESPI Breakout Board with EYESPI Cable
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit EYESPI Breakout Board with EYESPI Cable
+  icon: {fileID: 0}
+  realWorldWidth: 174.14
+  realWorldHeight: 146.75
+  pins:
+  - name: VIN
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.5168289
+    cy: 0.0681431
+  - name: GPIO2
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.05742543
+    cy: 0.4088586
+  - name: GPIO1
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.11485086
+    cy: 0.4088586
+  - name: BUSY
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.17227629
+    cy: 0.4088586
+  - name: INT
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.22970171
+    cy: 0.4088586
+  - name: SDA
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.28712714
+    cy: 0.4088586
+  - name: SCL
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.34455258
+    cy: 0.4088586
+  - name: TSCS
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.40197802
+    cy: 0.4088586
+  - name: MEM_CS
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.45940343
+    cy: 0.4088586
+  - name: CARDCS
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.5168289
+    cy: 0.4088586
+  - name: TFTCS
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.05742543
+    cy: 0.0681431
+  - name: TFTRST
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.11485086
+    cy: 0.0681431
+  - name: TFTDC
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.17227629
+    cy: 0.0681431
+  - name: MISO
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.22970171
+    cy: 0.0681431
+  - name: MOSI
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.28712714
+    cy: 0.0681431
+  - name: SCK
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.34455258
+    cy: 0.0681431
+  - name: LITE
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.45940343
+    cy: 0.0681431
+  - name: GND
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.40197802
+    cy: 0.0681431

@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit RGB LCD Pi Plate
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit RGB LCD Pi Plate
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: 3.3V
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0
+    cy: 0
+  - name: +5V
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0
+    cy: 0
+  - name: +5V
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0
+    cy: 0
+  - name: GPIO4
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0
+    cy: 0
+  - name: TXD
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0
+    cy: 0
+  - name: RXD
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0
+    cy: 0
+  - name: GPIO17
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0
+    cy: 0
+  - name: GPIO18
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0
+    cy: 0
+  - name: GPIO27
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0
+    cy: 0
+  - name: GPIO22
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: GPIO23
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: GPIO24
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0
+  - name: MOSI
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0
+    cy: 0
+  - name: MISO
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0
+    cy: 0
+  - name: GPIO25
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0
+    cy: 0
+  - name: SCK
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0
+    cy: 0
+  - name: SPI_CE0
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: SPI_CE1
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0

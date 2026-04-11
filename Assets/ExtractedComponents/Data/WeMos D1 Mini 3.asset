@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: WeMos D1 Mini 3
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: WeMos D1 Mini
+  icon: {fileID: 0}
+  realWorldWidth: 100.7874
+  realWorldHeight: 134.64568
+  pins:
+  - name: RST
+    svgId: rstpin
+    pinName: rstpin
+    cx: 0
+    cy: 0
+  - name: A0
+    svgId: a0pin
+    pinName: a0pin
+    cx: 0
+    cy: 0
+  - name: D0
+    svgId: d0pin
+    pinName: d0pin
+    cx: 0
+    cy: 0
+  - name: D5
+    svgId: d5pin
+    pinName: d5pin
+    cx: 0
+    cy: 0
+  - name: D6
+    svgId: d6pin
+    pinName: d6pin
+    cx: 0
+    cy: 0
+  - name: D7
+    svgId: d7pin
+    pinName: d7pin
+    cx: 0
+    cy: 0
+  - name: D8
+    svgId: d8pin
+    pinName: d8pin
+    cx: 0
+    cy: 0
+  - name: 3V3
+    svgId: 3v3pin
+    pinName: 3v3pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: 5vpin
+    pinName: 5vpin
+    cx: 0
+    cy: 0
+  - name: G
+    svgId: gpin
+    pinName: gpin
+    cx: 0
+    cy: 0
+  - name: D4
+    svgId: d4pin
+    pinName: d4pin
+    cx: 0
+    cy: 0
+  - name: D3
+    svgId: d3pin
+    pinName: d3pin
+    cx: 0
+    cy: 0
+  - name: D2
+    svgId: d2pin
+    pinName: d2pin
+    cx: 0
+    cy: 0
+  - name: D1
+    svgId: d1pin
+    pinName: d1pin
+    cx: 0
+    cy: 0
+  - name: RX
+    svgId: rxpin
+    pinName: rxpin
+    cx: 0
+    cy: 0
+  - name: TX
+    svgId: txpin
+    pinName: txpin
+    cx: 0
+    cy: 0

@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: MC9S12XS64
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: MC9S12XS64
+  icon: {fileID: 0}
+  realWorldWidth: 320
+  realWorldHeight: 60.000004
+  pins:
+  - name: ECLK_PE4
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.6406266
+    cy: 0.9166667
+  - name: EXTAL
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.85937345
+    cy: 0.9166667
+  - name: IOC0_PT0
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.140625
+    cy: 0.9166667
+  - name: IOC1_PT1
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.171875
+    cy: 0.9166667
+  - name: IOC1_PWM1_KWP1_PP1
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.078125
+    cy: 0.9166667
+  - name: IOC2_PT2
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.203125
+    cy: 0.9166667
+  - name: IOC3_PT3
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.234375
+    cy: 0.9166667
+  - name: IRQ_PE1
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.95312345
+    cy: 0.9166667
+  - name: MODC_BKGD
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.45312655
+    cy: 0.9166667
+  - name: PA0
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.98437345
+    cy: 0.083333336
+  - name: PA1
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.95312345
+    cy: 0.083333336
+  - name: PA2
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.92187345
+    cy: 0.083333336
+  - name: PA3
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.89062345
+    cy: 0.083333336
+  - name: PAD00_AN00
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.79687345
+    cy: 0.083333336
+  - name: PAD01_AN01
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.76562345
+    cy: 0.083333336
+  - name: PAD02_AN02
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.73437345
+    cy: 0.083333336
+  - name: PAD03_AN03
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.70312345
+    cy: 0.083333336
+  - name: PAD04_AN04
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.67187345
+    cy: 0.083333336
+  - name: PAD05_AN05
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.6406266
+    cy: 0.083333336
+  - name: PAD06_AN06
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.60937655
+    cy: 0.083333336
+  - name: PAD07_AN07
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.57812655
+    cy: 0.083333336
+  - name: PB0
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.48437655
+    cy: 0.9166667
+  - name: PB5
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.51562655
+    cy: 0.9166667
+  - name: PB6
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.54687655
+    cy: 0.9166667
+  - name: PB7
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.57812655
+    cy: 0.9166667
+  - name: PM0_RXCAN0_RXD1
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.140625
+    cy: 0.083333336
+  - name: PM1_TXCAN0_TXD1
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.171875
+    cy: 0.083333336
+  - name: PM2_MISO0
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.203125
+    cy: 0.083333336
+  - name: PM3_SS0
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.234375
+    cy: 0.083333336
+  - name: PM4_MOSI0
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.265625
+    cy: 0.083333336
+  - name: PM5_SCK0
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.296875
+    cy: 0.083333336
+  - name: PP5_KPW5_PWM5
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.015625
+    cy: 0.083333336
+  - name: PP7_KWP7_PWM7
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.046875
+    cy: 0.083333336
+  - name: PS0_RXD0
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.45312655
+    cy: 0.083333336
+  - name: PS1_TXD0
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.42187655
+    cy: 0.083333336
+  - name: PS2_RXD1
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.39062655
+    cy: 0.083333336
+  - name: PS3_TXD1
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.35937655
+    cy: 0.083333336
+  - name: PWM3_KWP3_PP3
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.015625
+    cy: 0.9166667
+  - name: PWM4_IOC4_PT4
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.32812655
+    cy: 0.9166667
+  - name: PWM6_IOC6_PT6
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.39062655
+    cy: 0.9166667
+  - name: PWM7_IOC7_PT7
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.42187655
+    cy: 0.9166667
+  - name: RESET
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.73437345
+    cy: 0.9166667
+  - name: RXD1_IOC0_PWM0_KWP0_PP0
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.109375
+    cy: 0.9166667
+  - name: TEST
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.32812655
+    cy: 0.083333336
+  - name: TXD1_IOC2_PWM2_KWP2_PP2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.046875
+    cy: 0.9166667
+  - name: VDD
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.85937345
+    cy: 0.083333336
+  - name: VDDA
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.54687655
+    cy: 0.083333336
+  - name: VDDF
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.265625
+    cy: 0.9166667
+  - name: VDDPLL
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.92187345
+    cy: 0.9166667
+  - name: VDDR
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.76562345
+    cy: 0.9166667
+  - name: VDDX1
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.078125
+    cy: 0.083333336
+  - name: VDDX2
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.70312345
+    cy: 0.9166667
+  - name: VREG_API_PWM5_IOC5_PT
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.35937655
+    cy: 0.9166667
+  - name: VRH
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.51562655
+    cy: 0.083333336
+  - name: VSS1
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.296875
+    cy: 0.9166667
+  - name: VSS2
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.82812345
+    cy: 0.083333336
+  - name: VSS3
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.79687345
+    cy: 0.9166667
+  - name: VSSA_VRL
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.48437655
+    cy: 0.083333336
+  - name: VSSPLL
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.82812345
+    cy: 0.9166667
+  - name: VSSX1
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.109375
+    cy: 0.083333336
+  - name: VSSX2
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.67187345
+    cy: 0.9166667
+  - name: XCLKS_ECLKX2_PE7
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.60937655
+    cy: 0.9166667
+  - name: XIRQ_PE0
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.98437345
+    cy: 0.9166667
+  - name: XTAL
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.89062345
+    cy: 0.9166667

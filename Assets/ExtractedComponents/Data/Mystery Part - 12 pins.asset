@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Mystery Part - 12 pins
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Mystery Part - 12 pins
+  icon: {fileID: 0}
+  realWorldWidth: 122
+  realWorldHeight: 30.000002
+  pins:
+  - name: leg1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.040983606
+    cy: 0.928098
+  - name: leg2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.12295082
+    cy: 0.928098
+  - name: leg3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.20491803
+    cy: 0.928098
+  - name: leg4
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.28688523
+    cy: 0.928098
+  - name: leg5
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.36885247
+    cy: 0.928098
+  - name: leg6
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.45081967
+    cy: 0.928098
+  - name: leg7
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.5327869
+    cy: 0.928098
+  - name: leg8
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.6147541
+    cy: 0.928098
+  - name: leg9
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.6967213
+    cy: 0.928098
+  - name: leg10
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.77868855
+    cy: 0.928098
+  - name: leg11
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.8606557
+    cy: 0.928098
+  - name: leg12
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.94262296
+    cy: 0.928098

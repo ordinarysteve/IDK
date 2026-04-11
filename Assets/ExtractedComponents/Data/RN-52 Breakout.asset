@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: RN-52 Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: RN-52 Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 140
+  realWorldHeight: 215.00002
+  pins:
+  - name: 3.3V
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: -1.210248
+    cy: 1.1550323
+  - name: PWREN
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: -1.210248
+    cy: 1.1085142
+  - name: GPIO6
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: -1.210248
+    cy: 1.0620025
+  - name: GPIO7
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: -1.210248
+    cy: 1.0154909
+  - name: UART_RX
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: -1.210248
+    cy: 0.9689793
+  - name: UART_TX
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: -1.210248
+    cy: 0.9224677
+  - name: UART_CTS
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: -1.210248
+    cy: 0.8759561
+  - name: UART_RTS
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: -1.210248
+    cy: 0.8294444
+  - name: USBD+
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: -1.210248
+    cy: 0.7829328
+  - name: USBD-
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: -1.210248
+    cy: 0.73642117
+  - name: GPIO9
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: -1.210248
+    cy: 0.6899095
+  - name: GPIO10
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: -1.210248
+    cy: 0.6433979
+  - name: GPIO11
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: -1.210248
+    cy: 0.59688634
+  - name: GPIO13
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: -1.210248
+    cy: 0.5503746
+  - name: GPIO12
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: -1.210248
+    cy: 0.50386304
+  - name: GPIO5
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: -1.210248
+    cy: 0.4573514
+  - name: GPIO4
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: -1.210248
+    cy: 0.4108398
+  - name: AIC0
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: -1.210248
+    cy: 0.36432815
+  - name: GPIO2
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: -1.210248
+    cy: 0.31781656
+  - name: GPIO3
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: -1.210248
+    cy: 0.2713049
+  - name: SPKR_L+
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: -0.28166667
+    cy: 0.2713049
+  - name: SPKR_R+
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: -0.28166667
+    cy: 0.31781656
+  - name: SPKR_L-
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: -0.28166667
+    cy: 0.36432815
+  - name: SPKR_R-
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: -0.28166667
+    cy: 0.4108398
+  - name: MIC_R-
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: -0.28166667
+    cy: 0.4573514
+  - name: MIC_L-
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: -0.28166667
+    cy: 0.50386304
+  - name: MIC_R+
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: -0.28166667
+    cy: 0.5503746
+  - name: MIC_L+
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: -0.28166667
+    cy: 0.59688634
+  - name: MIC_BIAS
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: -0.28166667
+    cy: 0.6433979
+  - name: LED0
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: -0.28166667
+    cy: 0.6899095
+  - name: LED1
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: -0.28166667
+    cy: 0.73642117
+  - name: SPI_MOSI
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: -0.28166667
+    cy: 0.7829328
+  - name: SPI_CLK
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: -0.28166667
+    cy: 0.8294444
+  - name: SPI_MISO
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: -0.28166667
+    cy: 0.8759561
+  - name: SPI_SS
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: -0.28166667
+    cy: 0.9224677
+  - name: PCM_CLK
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: -0.28166667
+    cy: 1.1085142
+  - name: PCM_SYNC
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: -0.28166667
+    cy: 1.0620025
+  - name: PCM_OUT
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: -0.28166667
+    cy: 1.0154909
+  - name: PCM_IN
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: -0.28166667
+    cy: 0.9689793
+  - name: GND
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: -0.28166667
+    cy: 1.1550258

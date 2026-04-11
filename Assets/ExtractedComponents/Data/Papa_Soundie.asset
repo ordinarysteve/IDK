@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Papa_Soundie
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Papa_Soundie
+  icon: {fileID: 0}
+  realWorldWidth: 149.999
+  realWorldHeight: 253.85599
+  pins:
+  - name: R_AC
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.96667564
+    cy: 0.72876084
+  - name: L_AC
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.96667564
+    cy: 0.6893684
+  - name: DTR
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.6666728
+    cy: 0.01969624
+  - name: TXO
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.60000557
+    cy: 0.01969624
+  - name: RXI
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.53333825
+    cy: 0.01969624
+  - name: RAW
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.466671
+    cy: 0.01969624
+  - name: GND
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.4000037
+    cy: 0.01969624
+  - name: GND
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.3333364
+    cy: 0.01969624
+  - name: GND
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.96667564
+    cy: 0.492406
+  - name: VCC
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.96667564
+    cy: 0.45301354
+  - name: SCK
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.96667564
+    cy: 0.17726617
+  - name: MISO
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.96667564
+    cy: 0.21665864
+  - name: MOSI
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.96667564
+    cy: 0.25605112
+  - name: D10
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.96667564
+    cy: 0.2954436
+  - name: D9
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.96667564
+    cy: 0.3348361
+  - name: SCL
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.03333364
+    cy: 0.2954436
+  - name: SDA
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.03333364
+    cy: 0.25605112
+  - name: VCC
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.03333364
+    cy: 0.21665864
+  - name: GND
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.03333364
+    cy: 0.17726617
+  - name: A0
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.03333364
+    cy: 0.0984812
+  - name: A1
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.03333364
+    cy: 0.13787368
+  - name: GND
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.96667564
+    cy: 0.13787368
+  - name: RAW
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.96667564
+    cy: 0.0984812
+  - name: USBP
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.96667564
+    cy: 0.57119095
+  - name: USBN
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.96667564
+    cy: 0.5317985
+  - name: VS_TX
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.96667564
+    cy: 0.64997596
+  - name: VS_RX
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.96667564
+    cy: 0.6105834
+  - name: RST
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.03333364
+    cy: 0.3348361

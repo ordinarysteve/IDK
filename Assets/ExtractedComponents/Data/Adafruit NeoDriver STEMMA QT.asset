@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit NeoDriver STEMMA QT
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit NeoDriver STEMMA QT
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: VIN
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: V+
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0
+    cy: 0
+  - name: V+
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0
+    cy: 0
+  - name: V+
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: V+
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0
+  - name: NEOPIX_OUT
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: NEOPIX_OUT
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0
+    cy: 0
+  - name: NEOPIX_OUT
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0
+    cy: 0
+  - name: UPDI
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0

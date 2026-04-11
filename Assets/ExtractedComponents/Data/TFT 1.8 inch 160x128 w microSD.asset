@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: TFT 1.8 inch 160x128 w microSD
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: TFT 1.8 inch 160x128 w microSD
+  icon: {fileID: 0}
+  realWorldWidth: 220
+  realWorldHeight: 135
+  pins:
+  - name: +5V
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.9545455
+    cy: 0.75925934
+  - name: RESET
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.9545455
+    cy: 0.6851852
+  - name: TFTDC
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.9545455
+    cy: 0.61111116
+  - name: CARDCS
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.9545455
+    cy: 0.5370371
+  - name: TFTCS
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.9545455
+    cy: 0.46296299
+  - name: MOSI
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.9545455
+    cy: 0.3888889
+  - name: SCLK
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.9545455
+    cy: 0.31481484
+  - name: MISO
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.9545455
+    cy: 0.24074075
+  - name: LITE
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.9545455
+    cy: 0.16666669
+  - name: GND
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.9545455
+    cy: 0.8333334

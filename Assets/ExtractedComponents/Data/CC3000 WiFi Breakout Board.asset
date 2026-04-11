@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: CC3000 WiFi Breakout Board
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: CC3000 WiFi Breakout Board
+  icon: {fileID: 0}
+  realWorldWidth: 180
+  realWorldHeight: 100
+  pins:
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.03030864
+    cy: 0.10104167
+  - name: VCC
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.03030864
+    cy: 0.20104167
+  - name: 3.3V
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.03030864
+    cy: 0.30104166
+  - name: MOSI
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.03030864
+    cy: 0.40104166
+  - name: MISO
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.03030864
+    cy: 0.50104165
+  - name: CS
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.03030864
+    cy: 0.6010416
+  - name: INT
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.03030864
+    cy: 0.70022225
+  - name: SCK
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.03030864
+    cy: 0.8002222
+  - name: EN
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.03030864
+    cy: 0.90022224
+  - name: GND
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.5287886
+    cy: 0.10047222
+  - name: RX
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.58434415
+    cy: 0.10047222
+  - name: TX
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.63989973
+    cy: 0.10047222

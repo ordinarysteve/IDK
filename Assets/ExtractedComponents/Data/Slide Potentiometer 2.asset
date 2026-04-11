@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Slide Potentiometer 2
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Slide Potentiometer
+  icon: {fileID: 0}
+  realWorldWidth: 328.16998
+  realWorldHeight: 55.36
+  pins:
+  - name: leg1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.16992657
+    cy: 0.9597047
+  - name: wiper
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.109942414
+    cy: 0.9597047
+  - name: leg2
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.83000004
+    cy: 0.9597047
+  - name: wiper-1
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.8899732
+    cy: 0.9596866

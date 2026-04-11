@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit TB6612 DC and Stepper Motor Driver
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit TB6612 DC and Stepper Motor Driver
+  icon: {fileID: 0}
+  realWorldWidth: 75
+  realWorldHeight: 105.17
+  pins:
+  - name: Vmotor
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.29659256
+    cy: 0.24635854
+  - name: GND
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.112870365
+    cy: 0.24635854
+  - name: PWRIN
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.13333333
+    cy: 0.072961375
+  - name: VCC
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.13333333
+    cy: 0.16804227
+  - name: GND
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.13333333
+    cy: 0.26312312
+  - name: PWMB
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.13333333
+    cy: 0.35820404
+  - name: BIN2
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.13333333
+    cy: 0.45328492
+  - name: BIN1
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.13333333
+    cy: 0.54836583
+  - name: STBY
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.13333333
+    cy: 0.6434467
+  - name: AIN1
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.13333333
+    cy: 0.7385276
+  - name: AIN2
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.13333333
+    cy: 0.83360845
+  - name: PWMA
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.13333333
+    cy: 0.9286893
+  - name: MOTORA1
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.93333334
+    cy: 0.7385276
+  - name: MOTORA2
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.93333334
+    cy: 0.6434467
+  - name: GND
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.93333334
+    cy: 0.54836583
+  - name: GND
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.93333334
+    cy: 0.45328492
+  - name: MOTORB2
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.93333334
+    cy: 0.35820404
+  - name: MOTORB1
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.93333334
+    cy: 0.26312312

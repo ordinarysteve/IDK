@@ -1,0 +1,409 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun IoT RedBoard ESP32 Development Board
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun IoT RedBoard ESP32 Development Board
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: 1
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO14_TMS
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO13_TCK
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO15_TDO
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO12_TDI
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0
+  - name: 10
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0
+    cy: 0
+  - name: ESP32_SCL
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0
+    cy: 0
+  - name: ESP32_SDA
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO18_SCK
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO19_POCI
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO23_PICO
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO5_!CS!
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO27
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO26
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0
+    cy: 0
+  - name: ESP32_RXD0
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0
+    cy: 0
+  - name: ESP32_TXD0
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO4
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO13_HDR
+    svgId: connector123pin
+    pinName: connector123pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO14_HDR
+    svgId: connector124pin
+    pinName: connector124pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO16
+    svgId: connector125pin
+    pinName: connector125pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO17
+    svgId: connector126pin
+    pinName: connector126pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO25
+    svgId: connector127pin
+    pinName: connector127pin
+    cx: 0
+    cy: 0
+  - name: LED_DO
+    svgId: connector136pin
+    pinName: connector136pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector137pin
+    pinName: connector137pin
+    cx: 0
+    cy: 0
+  - name: ESP32_EN
+    svgId: connector138pin
+    pinName: connector138pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector139pin
+    pinName: connector139pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC5
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC4
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC7
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC6
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC3
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC0
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0
+    cy: 0
+  - name: V_BATT
+    svgId: connector189pin
+    pinName: connector189pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector190pin
+    pinName: connector190pin
+    cx: 0
+    cy: 0
+  - name: N19
+    svgId: connector191pin
+    pinName: connector191pin
+    cx: 0
+    cy: 0
+  - name: 5V_MEAS
+    svgId: connector192pin
+    pinName: connector192pin
+    cx: 0
+    cy: 0
+  - name: ESP32_SCL
+    svgId: connector193pin
+    pinName: connector193pin
+    cx: 0
+    cy: 0
+  - name: ESP32_SDA
+    svgId: connector194pin
+    pinName: connector194pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector195pin
+    pinName: connector195pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector196pin
+    pinName: connector196pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO18_SCK
+    svgId: connector197pin
+    pinName: connector197pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO19_POCI
+    svgId: connector198pin
+    pinName: connector198pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO23_PICO
+    svgId: connector199pin
+    pinName: connector199pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO5_!CS!
+    svgId: connector200pin
+    pinName: connector200pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO27
+    svgId: connector201pin
+    pinName: connector201pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO26
+    svgId: connector202pin
+    pinName: connector202pin
+    cx: 0
+    cy: 0
+  - name: ESP32_RXD0
+    svgId: connector203pin
+    pinName: connector203pin
+    cx: 0
+    cy: 0
+  - name: ESP32_TXD0
+    svgId: connector204pin
+    pinName: connector204pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO4
+    svgId: connector205pin
+    pinName: connector205pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO13_HDR
+    svgId: connector206pin
+    pinName: connector206pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO14_HDR
+    svgId: connector207pin
+    pinName: connector207pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO16
+    svgId: connector208pin
+    pinName: connector208pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO17
+    svgId: connector209pin
+    pinName: connector209pin
+    cx: 0
+    cy: 0
+  - name: ESP32_GPIO25
+    svgId: connector210pin
+    pinName: connector210pin
+    cx: 0
+    cy: 0
+  - name: LED_DO
+    svgId: connector211pin
+    pinName: connector211pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector212pin
+    pinName: connector212pin
+    cx: 0
+    cy: 0
+  - name: ESP32_EN
+    svgId: connector213pin
+    pinName: connector213pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector214pin
+    pinName: connector214pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector215pin
+    pinName: connector215pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector216pin
+    pinName: connector216pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector217pin
+    pinName: connector217pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector218pin
+    pinName: connector218pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC5
+    svgId: connector219pin
+    pinName: connector219pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC4
+    svgId: connector220pin
+    pinName: connector220pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC7
+    svgId: connector221pin
+    pinName: connector221pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC6
+    svgId: connector222pin
+    pinName: connector222pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC3
+    svgId: connector223pin
+    pinName: connector223pin
+    cx: 0
+    cy: 0
+  - name: ESP32_ADC0
+    svgId: connector224pin
+    pinName: connector224pin
+    cx: 0
+    cy: 0

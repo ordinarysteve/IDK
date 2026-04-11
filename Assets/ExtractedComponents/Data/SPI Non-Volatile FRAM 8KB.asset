@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SPI Non-Volatile FRAM 8KB
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SPI Non-Volatile FRAM 8KB
+  icon: {fileID: 0}
+  realWorldWidth: 80
+  realWorldHeight: 60.000004
+  pins:
+  - name: VCC
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.0625
+    cy: 0.8333333
+  - name: SCK
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.43750003
+    cy: 0.8333333
+  - name: MISO
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.56250006
+    cy: 0.8333333
+  - name: MOSI
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.6875
+    cy: 0.8333333
+  - name: CS
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.8125
+    cy: 0.8333333
+  - name: WP
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.9375
+    cy: 0.8333333
+  - name: HOLD
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.3125
+    cy: 0.8333333
+  - name: GND
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.18750001
+    cy: 0.8333333

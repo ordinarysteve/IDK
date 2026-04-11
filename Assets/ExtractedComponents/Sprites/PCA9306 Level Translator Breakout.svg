@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  width="0.7in" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" version="1.1" y="0px" height="0.4in" viewBox="0 0 50.4 28.8" id="0" enable-background="new 0 0 50.4 28.8">
+ <desc   id="0.0" oldid="0.0">
+  <referenceFile   id="0.0.0" oldid="0.0.0">PCA9306_Breakout-v13_breadboard.svg</referenceFile>
+ </desc>
+ <g   id="_x3C_desc_x3E_"/>
+ <g   id="breadboard">
+  <g   id="icon">
+   <g   id="0.2.0.0" transform="matrix(0.5, 0, 0, 0.5, 12.6, 7.2)">
+    <path  fill="#E72D2F"  id="0.2.0.0.0" d="M74.863,42.709H-25.2V-14.4H74.863V42.709z M-22.104,21.601c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104s-1.837-4.104-4.104-4.104S-22.104,19.334-22.104,21.601z M-22.104,7.201c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104S-15.733,3.097-18,3.097S-22.104,4.934-22.104,7.201z M-22.104-7.199c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104s-1.837-4.104-4.104-4.104S-22.104-9.466-22.104-7.199z M64.296,36.001c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104s-1.837-4.104-4.104-4.104S64.296,33.734,64.296,36.001z M64.296,21.601c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104s-1.837-4.104-4.104-4.104S64.296,19.334,64.296,21.601z M64.296,7.201c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104S70.667,3.097,68.4,3.097S64.296,4.934,64.296,7.201z M64.296-7.199c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104s-1.837-4.104-4.104-4.104S64.296-9.466,64.296-7.199z M-22.104,36.001c0,2.267,1.837,4.104,4.104,4.104s4.104-1.837,4.104-4.104s-1.837-4.104-4.104-4.104S-22.104,33.734-22.104,36.001z"/>
+    <g   id="0.2.0.0.1" transform="matrix(0, 1, -1, 0, 34.2426, 12.6426)">
+     <path  fill="#E72D2F" display="none"  id="0.2.0.0.1.0" d="M30.557-41.357v100.8h-57.6v-100.8H30.557z M-19.843,55.201c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S-21.476,55.201-19.843,55.201z M-5.443,55.201c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S-7.076,55.201-5.443,55.201z M8.957,55.201c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S7.324,55.201,8.957,55.201z M23.357,55.201c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S21.724,55.201,23.357,55.201z M-19.843-31.199c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S-21.476-31.199-19.843-31.199z M-5.443-31.199c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S-7.076-31.199-5.443-31.199z M8.957-31.199c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S7.324-31.199,8.957-31.199z M23.357-31.199c1.634,0,2.958-1.324,2.958-2.958s-1.324-2.958-2.958-2.958s-2.958,1.324-2.958,2.958S21.724-31.199,23.357-31.199z"/>
+     <g   id="silkscreen">
+      <g   id="0.2.0.0.1.1.0">
+       <title   id="0.2.0.0.1.1.0.0" oldid="0.2.0.0.1.1.0.0">element:JP1</title>
+       <g   id="0.2.0.0.1.1.0.1">
+        <title   id="0.2.0.0.1.1.0.1.0" oldid="0.2.0.0.1.1.0.1.0">package:1X04</title>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.1" y1="58.942" x1="-15.936" y2="58.942" stroke-width="1" x2="-23.013"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.2" y1="58.942" x1="-23.013" y2="55.498" stroke-width="1" x2="-26.551"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.3" y1="48.61" x1="-26.551" y2="45.165" stroke-width="1" x2="-23.013"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.4" y1="55.498" x1="1.757" y2="58.942" stroke-width="1" x2="-1.781"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.5" y1="58.942" x1="-1.781" y2="58.942" stroke-width="1" x2="-8.858"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.6" y1="58.942" x1="-8.858" y2="55.498" stroke-width="1" x2="-12.397"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.7" y1="48.61" x1="-12.397" y2="45.166" stroke-width="1" x2="-8.858"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.8" y1="45.166" x1="-8.858" y2="45.166" stroke-width="1" x2="-1.781"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.9" y1="45.166" x1="-1.781" y2="48.61" stroke-width="1" x2="1.757"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.10" y1="58.942" x1="-15.936" y2="55.498" stroke-width="1" x2="-12.397"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.11" y1="48.61" x1="-12.397" y2="45.165" stroke-width="1" x2="-15.936"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.12" y1="45.165" x1="-23.013" y2="45.165" stroke-width="1" x2="-15.936"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.13" y1="58.943" x1="26.528" y2="58.943" stroke-width="1" x2="19.45"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.14" y1="58.943" x1="19.45" y2="55.498" stroke-width="1" x2="15.912"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.15" y1="48.61" x1="15.912" y2="45.166" stroke-width="1" x2="19.451"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.16" y1="55.498" x1="15.912" y2="58.943" stroke-width="1" x2="12.373"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.17" y1="58.943" x1="12.373" y2="58.942" stroke-width="1" x2="5.296"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.18" y1="58.942" x1="5.296" y2="55.498" stroke-width="1" x2="1.757"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.19" y1="48.61" x1="1.757" y2="45.166" stroke-width="1" x2="5.296"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.20" y1="45.166" x1="5.296" y2="45.166" stroke-width="1" x2="12.373"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.21" y1="45.166" x1="12.373" y2="48.61" stroke-width="1" x2="15.912"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.22" y1="55.498" x1="30.066" y2="48.61" stroke-width="1" x2="30.066"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.23" y1="58.943" x1="26.528" y2="55.498" stroke-width="1" x2="30.066"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.24" y1="48.61" x1="30.066" y2="45.166" stroke-width="1" x2="26.528"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.25" y1="45.166" x1="19.451" y2="45.166" stroke-width="1" x2="26.528"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.0.1.26" y1="55.498" x1="-26.551" y2="48.61" stroke-width="1" x2="-26.551"/>
+       </g>
+      </g>
+      <g   id="0.2.0.0.1.1.1">
+       <title   id="0.2.0.0.1.1.1.0" oldid="0.2.0.0.1.1.1.0">element:JP2</title>
+       <g   id="0.2.0.0.1.1.1.1">
+        <title   id="0.2.0.0.1.1.1.1.0" oldid="0.2.0.0.1.1.1.1.0">package:1X04</title>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.1" y1="-27.111" x1="-15.858" y2="-27.111" stroke-width="1" x2="-22.904"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.2" y1="-27.111" x1="-22.904" y2="-30.488" stroke-width="1" x2="-26.427"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.3" y1="-37.243" x1="-26.427" y2="-40.62" stroke-width="1" x2="-22.904"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.4" y1="-30.488" x1="1.758" y2="-27.111" stroke-width="1" x2="-1.765"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.5" y1="-27.111" x1="-1.765" y2="-27.111" stroke-width="1" x2="-8.811"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.6" y1="-27.111" x1="-8.811" y2="-30.488" stroke-width="1" x2="-12.335"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.7" y1="-37.243" x1="-12.334" y2="-40.62" stroke-width="1" x2="-8.811"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.8" y1="-40.62" x1="-8.811" y2="-40.62" stroke-width="1" x2="-1.765"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.9" y1="-40.62" x1="-1.765" y2="-37.243" stroke-width="1" x2="1.758"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.10" y1="-27.111" x1="-15.858" y2="-30.488" stroke-width="1" x2="-12.335"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.11" y1="-37.243" x1="-12.334" y2="-40.62" stroke-width="1" x2="-15.858"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.12" y1="-40.62" x1="-22.904" y2="-40.62" stroke-width="1" x2="-15.858"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.13" y1="-27.111" x1="26.42" y2="-27.111" stroke-width="1" x2="19.374"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.14" y1="-27.111" x1="19.374" y2="-30.488" stroke-width="1" x2="15.851"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.15" y1="-37.242" x1="15.851" y2="-40.62" stroke-width="1" x2="19.374"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.16" y1="-30.488" x1="15.851" y2="-27.111" stroke-width="1" x2="12.328"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.17" y1="-27.111" x1="12.328" y2="-27.111" stroke-width="1" x2="5.281"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.18" y1="-27.111" x1="5.281" y2="-30.488" stroke-width="1" x2="1.758"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.19" y1="-37.243" x1="1.758" y2="-40.62" stroke-width="1" x2="5.281"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.20" y1="-40.62" x1="5.281" y2="-40.62" stroke-width="1" x2="12.328"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.21" y1="-40.62" x1="12.328" y2="-37.242" stroke-width="1" x2="15.851"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.22" y1="-30.488" x1="29.943" y2="-37.242" stroke-width="1" x2="29.944"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.23" y1="-27.111" x1="26.42" y2="-30.488" stroke-width="1" x2="29.943"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.24" y1="-37.242" x1="29.944" y2="-40.62" stroke-width="1" x2="26.42"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.25" y1="-40.62" x1="19.374" y2="-40.62" stroke-width="1" x2="26.42"/>
+        <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1.1.26" y1="-30.488" x1="-26.427" y2="-37.243" stroke-width="1" x2="-26.427"/>
+       </g>
+      </g>
+     </g>
+     <g   id="0.2.0.0.1.2" transform="matrix(0, -1, 1, 0, 8.98582, 33.6473)">
+      <rect  width="2.835" x="15.42" y="-12.076" fill="#8C8B8B"  height="1.417" id="connector20pad"/>
+     </g>
+     <g   id="0.2.0.0.1.3" transform="matrix(0, 1, -1, 0, 48.5574, -23.4426)">
+      <rect  width="5.102" x="8.334" y="41.183" fill="#EE402F"  height="11.286" id="connector19pad"/>
+     </g>
+     <g   id="0.2.0.0.1.4" transform="matrix(2.578893e-006 1 -1 2.578893e-006 -21.5139 -3.5999)">
+      <rect  width="5.102" x="-11.508" y="-14.541" fill="#EE402F"  height="3.969" id="connector15pad"/>
+     </g>
+     <g   id="0.2.0.0.1.5" transform="matrix(0, 1, -1, 0, 37.7574, -27.0426)">
+      <rect  width="5.102" x="19.134" y="44.8" fill="#EE402F"  height="11.27" id="connector1pad"/>
+     </g>
+     <g   id="0.2.0.0.1.6" transform="matrix(0, -1, 1, 0, 13.9465, 44.2772)">
+      <rect  width="2.835" x="41.641" y="-11.367" fill="#8C8B8B"  height="1.417" id="connector25pad"/>
+     </g>
+     <g   id="0.2.0.0.1.7" transform="matrix(0, 1, -1, 0, 48.5574, -30.6426)">
+      <rect  width="5.102" x="8.334" y="48.35" fill="#EE402F"  height="11.32" id="connector17pad"/>
+     </g>
+     <g   id="0.2.0.0.1.8" transform="matrix(0, 1, -1, 0, 52.2426, -26.9574)">
+      <rect  width="5.102" x="4.649" y="52.016" fill="#EE402F"  height="3.969" id="connector16pad"/>
+     </g>
+     <g   id="0.2.0.0.1.9" transform="matrix(0, 1, -1, 0, 52.2426, -19.7574)">
+      <rect  width="5.102" x="4.649" y="44.816" fill="#EE402F"  height="3.969" id="connector18pad"/>
+     </g>
+     <g   id="0.2.0.0.1.10" transform="matrix(0, 1, -1, 0, 30.6426, 1.84252)">
+      <rect  width="5.102" x="26.249" y="23.216" fill="#EE402F"  height="3.969" id="connector10pad"/>
+     </g>
+     <g   id="0.2.0.0.1.11" transform="matrix(0, -1, 1, 0, 6.15118, 36.4819)">
+      <rect  width="2.835" x="18.255" y="-3.572" fill="#8C8B8B"  height="1.417" id="connector22pad"/>
+     </g>
+     <g   id="0.2.0.0.1.12" transform="matrix(0, 1, -1, 0, 26.9574, -1.84252)">
+      <rect  width="5.102" x="29.934" y="19.583" fill="#EE402F"  height="11.286" id="connector11pad"/>
+     </g>
+     <g   id="0.2.0.0.1.13" transform="matrix(0, -1, 1, 0, 7.5685, 35.0646)">
+      <rect  width="2.835" x="16.838" y="-7.824" fill="#8C8B8B"  height="1.417" id="connector21pad"/>
+     </g>
+     <g   id="0.2.0.0.1.14" transform="matrix(0, -1, 1, 0, 12.5292, 45.6945)">
+      <rect  width="2.835" x="43.058" y="-7.115" fill="#8C8B8B"  height="1.417" id="connector24pad"/>
+     </g>
+     <g   id="0.2.0.0.1.15" transform="matrix(0, -1, 1, 0, 16.7811, 41.4426)">
+      <rect  width="2.835" x="38.806" y="-19.871" fill="#8C8B8B"  height="1.417" id="connector27pad"/>
+     </g>
+     <g   id="0.2.0.0.1.16" transform="matrix(0, -1, 1, 0, 4.73386, 37.8992)">
+      <rect  width="2.835" x="19.672" y="0.68" fill="#8C8B8B"  height="1.417" id="connector23pad"/>
+     </g>
+     <g   id="0.2.0.0.1.17" transform="matrix(0, 1, -1, 0, 23.4426, 1.84252)">
+      <rect  width="5.102" x="33.449" y="23.216" fill="#EE402F"  height="3.969" id="connector12pad"/>
+     </g>
+     <g   id="0.2.0.0.1.18" transform="matrix(0, -1, 1, 0, 15.3638, 42.8599)">
+      <rect  width="2.835" x="40.223" y="-15.619" fill="#8C8B8B"  height="1.417" id="connector26pad"/>
+     </g>
+     <g   id="0.2.0.0.1.19" transform="matrix(0, 1, -1, 0, 19.7574, -1.84252)">
+      <rect  width="5.102" x="37.134" y="19.55" fill="#EE402F"  height="11.319" id="connector13pad"/>
+     </g>
+     <g   id="0.2.0.0.1.20" transform="matrix(0, -1, 1, 0, 30.6426, 41.3574)">
+      <rect  width="5.102" x="51.364" y="-48.955" fill="#EE402F"  height="11.353" id="connector14pad"/>
+     </g>
+     <g   id="0.2.0.0.1.21" transform="matrix(0, 1, -1, 0, 41.4426, -23.3574)">
+      <rect  width="5.102" x="15.449" y="48.416" fill="#EE402F"  height="3.969" id="connector0pad"/>
+     </g>
+     <g   id="0.2.0.0.1.22" transform="matrix(2.578893e-006 1 -1 2.578893e-006 10.3416 7.306)">
+      <rect  width="14.138" x="-5.551" y="3.307" fill="#303030"  height="11.034" id="0.2.0.0.1.22.0"/>
+     </g>
+     <path  fill="#FFFFFF"  id="0.2.0.0.1.23" d="M-21.751,4.652c0,0,0.97-0.229,1.105,0.503c0.091,0.51-0.415,1.332-0.919,1.747c-0.622,0.51-1.111,0.446-1.546,0.049c-0.659-0.597-0.405-1.617-0.405-1.617s-1.642,1.869-0.297,3.819c1.195,1.735,2.823,1.237,4.243-0.328c1.285-1.413,2.693-0.286,2.509,1.137c-0.123,0.974-0.906,1.372-1.386,1.139c-0.411-0.203-0.663-0.901-0.663-0.901s-0.327,0.804,0.03,1.749c0.32,0.849,1.023,1.55,2.781,1.494h8.156c0,0-1.083-0.878-2.185-1.909c-1.241-1.157-2.082-1.685-1.983-2.872c0.139-2.246-0.859-3.871-2.46-4.974C-17.85,1.567-21.291,3.228-21.751,4.652z"/>
+     <polygon  fill="#1F1F1F" points="-3.999,15.893 -3.999,1.755 -3.749,2.005 -3.749,15.642 "  id="0.2.0.0.1.24"/>
+     <polygon  fill="#1F1F1F" points="7.035,15.893 7.035,1.755 6.785,2.005 6.785,15.642 "  id="0.2.0.0.1.25"/>
+     <polygon  points="-3.999,15.893 7.035,15.893 6.785,15.642 -3.749,15.642 "  id="0.2.0.0.1.26"/>
+     <polygon  fill="#3D3D3D" points="-3.999,1.755 7.035,1.755 6.785,2.005 -3.749,2.005 "  id="0.2.0.0.1.27"/>
+     <circle  fill="#1F1F1F" cx="-2.433"  cy="14.205" r="0.758" id="0.2.0.0.1.28"/>
+     <path  fill="#998F6C"  id="0.2.0.0.1.29" d="M28.032,47.568v9.35h-9.35v-9.35H28.032z M18.682,52.243c0,2.582,2.093,4.675,4.675,4.675s4.675-2.093,4.675-4.675c0-2.582-2.093-4.675-4.675-4.675S18.682,49.661,18.682,52.243z"/>
+     <path  fill="#998F6C"  id="0.2.0.0.1.30" d="M28.032-38.833v9.35h-9.35v-9.35H28.032z M18.682-34.158c0,2.582,2.093,4.675,4.675,4.675s4.675-2.093,4.675-4.675s-2.093-4.675-4.675-4.675S18.682-36.74,18.682-34.158z"/>
+     <circle  fill="none" cx="8.957"  cy="52.243" stroke="#998F6C" r="4.104" id="connector2pin" stroke-width="1.224"/>
+     <circle  fill="none" cx="-5.443"  cy="52.243" stroke="#998F6C" r="4.104" id="connector1pin" stroke-width="1.224"/>
+     <circle  fill="none" cx="-19.843"  cy="52.243" stroke="#998F6C" r="4.104" id="connector0pin" stroke-width="1.224"/>
+     <circle  fill="none" cx="8.957"  cy="-34.157" stroke="#998F6C" id="connector6pin" r="4.104" stroke-width="1.224"/>
+     <circle  fill="none" cx="-5.443"  cy="-34.157" stroke="#998F6C" id="connector5pin" r="4.104" stroke-width="1.224"/>
+     <circle  fill="none" cx="-19.843"  cy="-34.157" stroke="#998F6C" id="connector4pin" r="4.104" stroke-width="1.224"/>
+     <g   id="0.2.0.0.1.37">
+      <circle  fill="none" cx="23.357"  cy="52.243" stroke="#998F6C" r="4.104" id="0.2.0.0.1.37.0" stroke-width="1.3"/>
+      <g   id="0.2.0.0.1.37.1" transform="matrix(2.578893e-006 1 -1 2.578893e-006 75.5989 28.8851)">
+       <rect  width="8.208" x="19.253" y="48.138" fill="none"  height="8.208" stroke="#998F6C" id="connector3pin" stroke-width="1.224"/>
+      </g>
+     </g>
+     <g   id="0.2.0.0.1.38">
+      <circle  fill="none" cx="23.357"  cy="-34.157" stroke="#998F6C" r="4.104" id="0.2.0.0.1.38.0" stroke-width="1.3"/>
+      <g   id="0.2.0.0.1.38.1" transform="matrix(2.578893e-006 1 -1 2.578893e-006 -10.8009 -57.5145)">
+       <rect  width="8.208" x="19.253" y="-38.262" fill="none"  height="8.208" stroke="#998F6C" id="connector7pin" stroke-width="1.23"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <text  fill="#FFFFFF" font-family="OCRA"  id="0.2.0.1" transform="matrix(1 0 0 1 12.797 21.917)" font-size="5">PCA9306</text>
+   <text  fill="#FFFFFF" font-family="OCRA"  id="0.2.0.2" transform="matrix(1 0 0 1 11.009 27.917)" font-size="5">Breakout</text>
+  </g>
+ </g>
+</svg>

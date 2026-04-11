@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: dquidio_GPRS board
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: dquidio_GPRS board
+  icon: {fileID: 0}
+  realWorldWidth: 226
+  realWorldHeight: 393
+  pins:
+  - name: 12V_Input
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.4048916
+    cy: 0.8631513
+  - name: 5V_Output
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.44631857
+    cy: 0.8631513
+  - name: RS-232 Rx
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.48774558
+    cy: 0.8631513
+  - name: RS-232 Tx
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.5291704
+    cy: 0.8631513
+  - name: GND
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.57059294
+    cy: 0.8631513
+  - name: GND
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.6120111
+    cy: 0.8631513
+  - name: OUT 1
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.65343136
+    cy: 0.8631513
+  - name: OUT 2
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.69486284
+    cy: 0.8631513
+  - name: I2C_SDA
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.7362832
+    cy: 0.8631513
+  - name: I2C_SCL
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.77770793
+    cy: 0.8631513
+  - name: UART Tx
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.40491816
+    cy: 0.8870483
+  - name: UART Rx
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.4463385
+    cy: 0.8870483
+  - name: CAN H
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.48776773
+    cy: 0.8870483
+  - name: CAN L
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.5291836
+    cy: 0.8870483
+  - name: OUT 4
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.57061726
+    cy: 0.8870483
+  - name: IN 1
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.6534513
+    cy: 0.8870483
+  - name: IN 2
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.6948916
+    cy: 0.8870483
+  - name: IN 3
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.7363031
+    cy: 0.8870483
+  - name: IN 4
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.7777323
+    cy: 0.8870483
+  - name: UART Rx
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.09438939
+    cy: 0.33074045
+  - name: UART Tx
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.09438939
+    cy: 0.3543893
+  - name: Digtial 0
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.09438939
+    cy: 0.37803057
+  - name: Digital 1
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.09438939
+    cy: 0.40168446
+  - name: Digital 2
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.09438939
+    cy: 0.42533332
+  - name: Digital 3
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.09438939
+    cy: 0.44897833
+  - name: Not connected
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.09438939
+    cy: 0.47262847
+  - name: Not connected
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.09438939
+    cy: 0.49272263
+  - name: I2C SCL
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.87170136
+    cy: 0.32947204
+  - name: I2C SDA
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.87170136
+    cy: 0.3538766
+  - name: Not connected
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.87170136
+    cy: 0.37827355
+  - name: Not connected
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.87231416
+    cy: 0.40268448
+  - name: Not connected
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.87170136
+    cy: 0.42709035
+  - name: Analog 0
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.87170136
+    cy: 0.45148984
+  - name: Input 12 V
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.87188274
+    cy: 0.49419594
+  - name: GND
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.87188274
+    cy: 0.5182329
+  - name: GND
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.87188274
+    cy: 0.5422761
+  - name: Output 5 V
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.87188274
+    cy: 0.56631935
+  - name: Output 3.3 V
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.871885
+    cy: 0.59054583
+  - name: Not Connected
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.871885
+    cy: 0.61458904
+  - name: 5V
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.871885
+    cy: 0.6345649
+  - name: Not Connected
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.871885
+    cy: 0.65860695

@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: WeMos D1 Mini Dual Base Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: WeMos D1 Mini Dual Base Shield
+  icon: {fileID: 0}
+  realWorldWidth: 212.59843
+  realWorldHeight: 134.64568
+  pins:
+  - name: RST Left
+    svgId: rst-leftpin
+    pinName: rst-leftpin
+    cx: 0
+    cy: 0
+  - name: A0 Left
+    svgId: a0-leftpin
+    pinName: a0-leftpin
+    cx: 0
+    cy: 0
+  - name: D0 Left
+    svgId: d0-leftpin
+    pinName: d0-leftpin
+    cx: 0
+    cy: 0
+  - name: D5 Left
+    svgId: d5-leftpin
+    pinName: d5-leftpin
+    cx: 0
+    cy: 0
+  - name: D6 Left
+    svgId: d6-leftpin
+    pinName: d6-leftpin
+    cx: 0
+    cy: 0
+  - name: D7 Left
+    svgId: d7-leftpin
+    pinName: d7-leftpin
+    cx: 0
+    cy: 0
+  - name: D8 Left
+    svgId: d8-leftpin
+    pinName: d8-leftpin
+    cx: 0
+    cy: 0
+  - name: 3V3 Left
+    svgId: 3v3-leftpin
+    pinName: 3v3-leftpin
+    cx: 0
+    cy: 0
+  - name: 5V Left
+    svgId: 5v-leftpin
+    pinName: 5v-leftpin
+    cx: 0
+    cy: 0
+  - name: G Left
+    svgId: g-leftpin
+    pinName: g-leftpin
+    cx: 0
+    cy: 0
+  - name: D4 Left
+    svgId: d4-leftpin
+    pinName: d4-leftpin
+    cx: 0
+    cy: 0
+  - name: D3 Left
+    svgId: d3-leftpin
+    pinName: d3-leftpin
+    cx: 0
+    cy: 0
+  - name: D2 Left
+    svgId: d2-leftpin
+    pinName: d2-leftpin
+    cx: 0
+    cy: 0
+  - name: D1 Left
+    svgId: d1-leftpin
+    pinName: d1-leftpin
+    cx: 0
+    cy: 0
+  - name: RX Left
+    svgId: rx-leftpin
+    pinName: rx-leftpin
+    cx: 0
+    cy: 0
+  - name: TX Left
+    svgId: tx-leftpin
+    pinName: tx-leftpin
+    cx: 0
+    cy: 0
+  - name: RST Right
+    svgId: rst-rightpin
+    pinName: rst-rightpin
+    cx: 0
+    cy: 0
+  - name: A0 Right
+    svgId: a0-rightpin
+    pinName: a0-rightpin
+    cx: 0
+    cy: 0
+  - name: D0 Right
+    svgId: d0-rightpin
+    pinName: d0-rightpin
+    cx: 0
+    cy: 0
+  - name: D5 Right
+    svgId: d5-rightpin
+    pinName: d5-rightpin
+    cx: 0
+    cy: 0
+  - name: D6 Right
+    svgId: d6-rightpin
+    pinName: d6-rightpin
+    cx: 0
+    cy: 0
+  - name: D7 Right
+    svgId: d7-rightpin
+    pinName: d7-rightpin
+    cx: 0
+    cy: 0
+  - name: D8 Right
+    svgId: d8-rightpin
+    pinName: d8-rightpin
+    cx: 0
+    cy: 0
+  - name: 3V3 Right
+    svgId: 3v3-rightpin
+    pinName: 3v3-rightpin
+    cx: 0
+    cy: 0
+  - name: 5V Right
+    svgId: 5v-rightpin
+    pinName: 5v-rightpin
+    cx: 0
+    cy: 0
+  - name: G Right
+    svgId: g-rightpin
+    pinName: g-rightpin
+    cx: 0
+    cy: 0
+  - name: D4 Right
+    svgId: d4-rightpin
+    pinName: d4-rightpin
+    cx: 0
+    cy: 0
+  - name: D3 Right
+    svgId: d3-rightpin
+    pinName: d3-rightpin
+    cx: 0
+    cy: 0
+  - name: D2 Right
+    svgId: d2-rightpin
+    pinName: d2-rightpin
+    cx: 0
+    cy: 0
+  - name: D1 Right
+    svgId: d1-rightpin
+    pinName: d1-rightpin
+    cx: 0
+    cy: 0
+  - name: RX Right
+    svgId: rx-rightpin
+    pinName: rx-rightpin
+    cx: 0
+    cy: 0
+  - name: TX Right
+    svgId: tx-rightpin
+    pinName: tx-rightpin
+    cx: 0
+    cy: 0

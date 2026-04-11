@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun SAMD51 Thing Plus
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun SAMD51 Thing Plus
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: V_BATT
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0
+    cy: 0
+  - name: EN
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0
+    cy: 0
+  - name: V_USB
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0
+    cy: 0
+  - name: D13
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0
+    cy: 0
+  - name: D12
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0
+    cy: 0
+  - name: D11
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0
+    cy: 0
+  - name: D10
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0
+    cy: 0
+  - name: D9
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0
+    cy: 0
+  - name: D6
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0
+    cy: 0
+  - name: D5
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0
+    cy: 0
+  - name: '!RESET'
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: 3
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0
+  - name: A0
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0
+    cy: 0
+  - name: A1
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0
+    cy: 0
+  - name: A2
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0
+    cy: 0
+  - name: A3
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0
+    cy: 0
+  - name: A4
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0
+    cy: 0
+  - name: A5
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0
+    cy: 0
+  - name: SCK
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0
+  - name: MOSI
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: MISO
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0
+    cy: 0
+  - name: D0
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0
+    cy: 0
+  - name: D1
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0
+    cy: 0
+  - name: D4
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0
+    cy: 0

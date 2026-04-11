@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: HV826MG_BACKLIGHT
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: HV826MG_BACKLIGHT
+  icon: {fileID: 0}
+  realWorldWidth: 40
+  realWorldHeight: 60.000004
+  pins:
+  - name: CS
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.625
+    cy: 0.083333336
+  - name: GND
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.875
+    cy: 0.9166667
+  - name: LX
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.875
+    cy: 0.083333336
+  - name: REL
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.625
+    cy: 0.9166667
+  - name: RSW
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.375
+    cy: 0.9166667
+  - name: VA
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.125
+    cy: 0.083333336
+  - name: VB
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.375
+    cy: 0.083333336
+  - name: VCC
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.125
+    cy: 0.9166667

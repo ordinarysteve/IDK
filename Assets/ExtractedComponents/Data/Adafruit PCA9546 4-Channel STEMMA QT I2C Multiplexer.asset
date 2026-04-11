@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit PCA9546 4-Channel STEMMA QT I2C Multiplexer
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit PCA9546 4-Channel STEMMA QT I2C Multiplexer
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: VCC
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0
+    cy: 0
+  - name: VCCIO
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: VCCIO
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: VCCIO
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0
+    cy: 0
+  - name: VCCIO
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0
+    cy: 0
+  - name: RESET
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: 0SDA
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: 0SCL
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: 1SDA
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: 1SCL
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0
+    cy: 0
+  - name: SCL
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0
+    cy: 0
+  - name: SDA
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0
+    cy: 0
+  - name: 2SDA
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0
+    cy: 0
+  - name: 2SCL
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0
+    cy: 0
+  - name: 3SDA
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0
+    cy: 0
+  - name: 3SCL
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0

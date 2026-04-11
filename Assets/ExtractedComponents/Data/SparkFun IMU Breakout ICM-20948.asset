@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun IMU Breakout ICM-20948
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun IMU Breakout ICM-20948
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: GND
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0
+    cy: 0
+  - name: SDA/SDI_VIN
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0
+    cy: 0
+  - name: SCL/SCLK_VIN
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0
+    cy: 0
+  - name: AD0/SDO_VIN
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0
+    cy: 0
+  - name: '!CS!_VIN'
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0
+    cy: 0
+  - name: INT_VIN
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0
+    cy: 0
+  - name: FSYNC_VIN
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0
+    cy: 0
+  - name: AUX_DA_VIN
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0
+    cy: 0
+  - name: AUX_CL_VIN
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0

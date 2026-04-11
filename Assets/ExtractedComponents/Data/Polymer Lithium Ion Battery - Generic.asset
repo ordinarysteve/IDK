@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Polymer Lithium Ion Battery - Generic
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Polymer Lithium Ion Battery - Generic
+  icon: {fileID: 0}
+  realWorldWidth: 316.728
+  realWorldHeight: 116.043
+  pins:
+  - name: VCC
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.001074354
+    cy: 0.5074326
+  - name: GND
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.001074354
+    cy: 0.41824153

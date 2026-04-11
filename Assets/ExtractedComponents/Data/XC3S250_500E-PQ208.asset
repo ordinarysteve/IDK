@@ -1,0 +1,1059 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: XC3S250_500E-PQ208
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: XC3S250_500E-PQ208
+  icon: {fileID: 0}
+  realWorldWidth: 1040
+  realWorldHeight: 100
+  pins:
+  - name: 10_L08P_2_D7_GCLK12
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.70673025
+    cy: 0.95
+  - name: DONE
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0.99518895
+    cy: 0.95
+  - name: GND
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.09134615
+    cy: 0.95
+  - name: GND
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.9086534
+    cy: 0.95
+  - name: GND
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0.99518895
+    cy: 0.05
+  - name: GND
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0.84134567
+    cy: 0.05
+  - name: GND
+    svgId: connector130pin
+    pinName: connector130pin
+    cx: 0.7451918
+    cy: 0.05
+  - name: GND
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0.64903796
+    cy: 0.05
+  - name: GND
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0.5048072
+    cy: 0.05
+  - name: GND
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0.3413457
+    cy: 0.05
+  - name: GND
+    svgId: connector181pin
+    pinName: connector181pin
+    cx: 0.25480723
+    cy: 0.05
+  - name: GND
+    svgId: connector187pin
+    pinName: connector187pin
+    cx: 0.19711588
+    cy: 0.05
+  - name: GND
+    svgId: connector197pin
+    pinName: connector197pin
+    cx: 0.10096202
+    cy: 0.05
+  - name: GND
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.15865433
+    cy: 0.95
+  - name: GND
+    svgId: connector207pin
+    pinName: connector207pin
+    cx: 0.0048076925
+    cy: 0.05
+  - name: GND
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.25480723
+    cy: 0.95
+  - name: GND
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.35096106
+    cy: 0.95
+  - name: GND
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.49519178
+    cy: 0.95
+  - name: GND
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.5048072
+    cy: 0.95
+  - name: GND
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.66826874
+    cy: 0.95
+  - name: GND
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.7548072
+    cy: 0.95
+  - name: GND
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.8124995
+    cy: 0.95
+  - name: IO
+    svgId: connector186pin
+    pinName: connector186pin
+    cx: 0.2067303
+    cy: 0.05
+  - name: IO_D5
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.725961
+    cy: 0.95
+  - name: IO_L01N_2_INIT_B
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.5336533
+    cy: 0.95
+  - name: IO_M1
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.80288416
+    cy: 0.95
+  - name: IO_VREF_0
+    svgId: connector178pin
+    pinName: connector178pin
+    cx: 0.28365338
+    cy: 0.05
+  - name: IO_VREF_2
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.9374995
+    cy: 0.95
+  - name: IO_VREF_3
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.4278841
+    cy: 0.95
+  - name: IO_16P_1_LDC1
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0.54326874
+    cy: 0.05
+  - name: IO_L01N_0
+    svgId: connector160pin
+    pinName: connector160pin
+    cx: 0.45673025
+    cy: 0.05
+  - name: IO_L01N_1_A15
+    svgId: connector106pin
+    pinName: connector106pin
+    cx: 0.97595817
+    cy: 0.05
+  - name: IO_L01N_3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.024038462
+    cy: 0.95
+  - name: IO_L01P_0
+    svgId: connector159pin
+    pinName: connector159pin
+    cx: 0.46634564
+    cy: 0.05
+  - name: IO_L01P_1_A16
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0.98557353
+    cy: 0.05
+  - name: IO_L01P_2_CSO_B
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.52403796
+    cy: 0.95
+  - name: IO_L01P_3
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.014423077
+    cy: 0.95
+  - name: IO_L02N_0_VREF_0
+    svgId: connector162pin
+    pinName: connector162pin
+    cx: 0.4374995
+    cy: 0.05
+  - name: IO_L02N_1_A13
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0.9567303
+    cy: 0.05
+  - name: IO_L02N_3_VREF_3
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.043269232
+    cy: 0.95
+  - name: IO_L02P_0
+    svgId: connector161pin
+    pinName: connector161pin
+    cx: 0.44711486
+    cy: 0.05
+  - name: IO_L02P_1_A14
+    svgId: connector107pin
+    pinName: connector107pin
+    cx: 0.96634275
+    cy: 0.05
+  - name: IO_L02P_3
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.033653848
+    cy: 0.95
+  - name: IO_L03N_0
+    svgId: connector164pin
+    pinName: connector164pin
+    cx: 0.4182687
+    cy: 0.05
+  - name: IO_L03N_1_VREF_1
+    svgId: connector112pin
+    pinName: connector112pin
+    cx: 0.91826874
+    cy: 0.05
+  - name: IO_L03N_2_MOSI_CSI_B
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.58173025
+    cy: 0.95
+  - name: IO_L03N_3
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.08173077
+    cy: 0.95
+  - name: IO_L03P_0
+    svgId: connector163pin
+    pinName: connector163pin
+    cx: 0.4278841
+    cy: 0.05
+  - name: IO_L03P_1
+    svgId: connector111pin
+    pinName: connector111pin
+    cx: 0.92788416
+    cy: 0.05
+  - name: IO_L03P_2_DOUT_BUSY
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.5721149
+    cy: 0.95
+  - name: IO_L03P_3
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.072115384
+    cy: 0.95
+  - name: IO_L04N_0_VREF_0
+    svgId: connector167pin
+    pinName: connector167pin
+    cx: 0.3894226
+    cy: 0.05
+  - name: IO_L04N_1
+    svgId: connector115pin
+    pinName: connector115pin
+    cx: 0.8894226
+    cy: 0.05
+  - name: IO_L04N_2
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.600961
+    cy: 0.95
+  - name: IO_L04N_3
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.110577404
+    cy: 0.95
+  - name: IO_L04P_0
+    svgId: connector166pin
+    pinName: connector166pin
+    cx: 0.39903796
+    cy: 0.05
+  - name: IO_L04P_1
+    svgId: connector114pin
+    pinName: connector114pin
+    cx: 0.899038
+    cy: 0.05
+  - name: IO_L04P_2
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.5913456
+    cy: 0.95
+  - name: IO_L04P_3
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.10096202
+    cy: 0.95
+  - name: IO_L05N_0
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.35096106
+    cy: 0.05
+  - name: IO_L05N_1_A11
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0.8509611
+    cy: 0.05
+  - name: IO_L05N_2
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.6201918
+    cy: 0.95
+  - name: IO_L05N_3
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.14903894
+    cy: 0.95
+  - name: IO_L05P_0
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.36057645
+    cy: 0.05
+  - name: IO_L05P_1_A12
+    svgId: connector118pin
+    pinName: connector118pin
+    cx: 0.86057645
+    cy: 0.05
+  - name: IO_L05P_2
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.6105764
+    cy: 0.95
+  - name: IO_L05P_3
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.13942356
+    cy: 0.95
+  - name: IO_L06N_1_VREF_1
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0.82211494
+    cy: 0.05
+  - name: IO_L06N_2
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.6586533
+    cy: 0.95
+  - name: IO_L06N_3
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.1778851
+    cy: 0.95
+  - name: IO_L06P_1
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0.8317303
+    cy: 0.05
+  - name: IO_L06P_2
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.64903796
+    cy: 0.95
+  - name: IO_L06P_3
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.16826971
+    cy: 0.95
+  - name: IO_L07N_0_GCLK5
+    svgId: connector177pin
+    pinName: connector177pin
+    cx: 0.29326877
+    cy: 0.05
+  - name: IO_L07N_1_A7_RHCLK1
+    svgId: connector126pin
+    pinName: connector126pin
+    cx: 0.7836533
+    cy: 0.05
+  - name: IO_L07N_3_LHCLK1
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.21634568
+    cy: 0.95
+  - name: IO_L07P_1_A10_RHCLK0
+    svgId: connector125pin
+    pinName: connector125pin
+    cx: 0.79326874
+    cy: 0.05
+  - name: IO_L07P_3_LHCLK0
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.2067303
+    cy: 0.95
+  - name: IO_L08N_0_GCLK7
+    svgId: connector180pin
+    pinName: connector180pin
+    cx: 0.2644226
+    cy: 0.05
+  - name: IO_L08N_1_A7_RHCLK3
+    svgId: connector128pin
+    pinName: connector128pin
+    cx: 0.76442254
+    cy: 0.05
+  - name: IO_L08N_2_D6_GCLK13
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.7163456
+    cy: 0.95
+  - name: IO_L08N_3_LHCLK3
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.23557645
+    cy: 0.95
+  - name: IO_L08P_0_GCLK6
+    svgId: connector179pin
+    pinName: connector179pin
+    cx: 0.274038
+    cy: 0.05
+  - name: IO_L08P_1_A8_RHCLK2
+    svgId: connector127pin
+    pinName: connector127pin
+    cx: 0.77403796
+    cy: 0.05
+  - name: IO_L08P_3_LHCLK2
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.22596107
+    cy: 0.95
+  - name: IO_L09N_1_A5_RHCLK5
+    svgId: connector132pin
+    pinName: connector132pin
+    cx: 0.725961
+    cy: 0.05
+  - name: IO_L09N_2_D3_GCLK15
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.7451918
+    cy: 0.95
+  - name: IO_L09N_3_LHCLK5
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.274038
+    cy: 0.95
+  - name: IO_L09P_1_A6_RHCLK4
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0.7355764
+    cy: 0.05
+  - name: IO_L09P_2_D4_GCLK14
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.7355764
+    cy: 0.95
+  - name: IO_L09P_3_LHCLK4
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.2644226
+    cy: 0.95
+  - name: IO_L10N_0_GCLK11
+    svgId: connector185pin
+    pinName: connector185pin
+    cx: 0.21634568
+    cy: 0.05
+  - name: IO_L10N_1_A3_RHCLK7
+    svgId: connector134pin
+    pinName: connector134pin
+    cx: 0.70673025
+    cy: 0.05
+  - name: IO_L10N_3_LHCLK7
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.29326877
+    cy: 0.95
+  - name: IO_L10P_0_GCLK10
+    svgId: connector184pin
+    pinName: connector184pin
+    cx: 0.22596107
+    cy: 0.05
+  - name: IO_L10P_1_A4_RHCLK6
+    svgId: connector133pin
+    pinName: connector133pin
+    cx: 0.7163456
+    cy: 0.05
+  - name: IO_L10P_3_LHCLK6
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.28365338
+    cy: 0.95
+  - name: IO_L11N_0
+    svgId: connector189pin
+    pinName: connector189pin
+    cx: 0.1778851
+    cy: 0.05
+  - name: IO_L11N_1_A1
+    svgId: connector137pin
+    pinName: connector137pin
+    cx: 0.6778841
+    cy: 0.05
+  - name: IO_L11N_2_D1_GCLK3
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.79326874
+    cy: 0.95
+  - name: IO_L11N_3
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.3221149
+    cy: 0.95
+  - name: IO_L11P_0
+    svgId: connector188pin
+    pinName: connector188pin
+    cx: 0.18750048
+    cy: 0.05
+  - name: IO_L11P_1_A2
+    svgId: connector136pin
+    pinName: connector136pin
+    cx: 0.68749946
+    cy: 0.05
+  - name: IO_L11P_2_D2_GCLK2
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.7836533
+    cy: 0.95
+  - name: IO_L11P_3
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.31249952
+    cy: 0.95
+  - name: IO_L12N_0_VREF_0
+    svgId: connector192pin
+    pinName: connector192pin
+    cx: 0.14903894
+    cy: 0.05
+  - name: IO_L12N_1_A0
+    svgId: connector139pin
+    pinName: connector139pin
+    cx: 0.6586533
+    cy: 0.05
+  - name: IO_L12N_2_DIN_D0
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.8317303
+    cy: 0.95
+  - name: IO_L12N_3
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.3413457
+    cy: 0.95
+  - name: IO_L12P_0
+    svgId: connector191pin
+    pinName: connector191pin
+    cx: 0.15865433
+    cy: 0.05
+  - name: IO_L12P_1
+    svgId: connector138pin
+    pinName: connector138pin
+    cx: 0.66826874
+    cy: 0.05
+  - name: IO_L12P_2_M0
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.82211494
+    cy: 0.95
+  - name: IO_L12P_3
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.3317303
+    cy: 0.95
+  - name: IO_L13N_0
+    svgId: connector196pin
+    pinName: connector196pin
+    cx: 0.110577404
+    cy: 0.05
+  - name: IO_L13N_1
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0.6105764
+    cy: 0.05
+  - name: IO_L13N_2
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.86057645
+    cy: 0.95
+  - name: IO_L13N_3
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.37980723
+    cy: 0.95
+  - name: IO_L13P_0
+    svgId: connector195pin
+    pinName: connector195pin
+    cx: 0.12019279
+    cy: 0.05
+  - name: IO_L13P_1
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0.6201918
+    cy: 0.05
+  - name: IO_L13P_2
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.8509611
+    cy: 0.95
+  - name: IO_L13P_3
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.37019184
+    cy: 0.95
+  - name: IO_L14N_0_VREF_0
+    svgId: connector199pin
+    pinName: connector199pin
+    cx: 0.08173077
+    cy: 0.05
+  - name: IO_L14N_1
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0.5913456
+    cy: 0.05
+  - name: IO_L14N_2_A22
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.899038
+    cy: 0.95
+  - name: IO_L14N_3
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.39903796
+    cy: 0.95
+  - name: IO_L14P_0
+    svgId: connector198pin
+    pinName: connector198pin
+    cx: 0.09134615
+    cy: 0.05
+  - name: IO_L14P_1
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0.600961
+    cy: 0.05
+  - name: IO_L14P_2_A23
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.8894226
+    cy: 0.95
+  - name: IO_L14P_3
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.3894226
+    cy: 0.95
+  - name: IO_L15N_0
+    svgId: connector202pin
+    pinName: connector202pin
+    cx: 0.052884616
+    cy: 0.05
+  - name: IO_L15N_2_A20
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.92788416
+    cy: 0.95
+  - name: IO_L15N_3
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.45673025
+    cy: 0.95
+  - name: IO_L15P_0
+    svgId: connector201pin
+    pinName: connector201pin
+    cx: 0.0625
+    cy: 0.05
+  - name: IO_L15P_1_HDC
+    svgId: connector149pin
+    pinName: connector149pin
+    cx: 0.56249946
+    cy: 0.05
+  - name: IO_L15P_2_A21
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.91826874
+    cy: 0.95
+  - name: IO_L15P_3
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.44711486
+    cy: 0.95
+  - name: IO_L15_1_LDC0
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0.5528841
+    cy: 0.05
+  - name: IO_L16N_0_HSWAP
+    svgId: connector205pin
+    pinName: connector205pin
+    cx: 0.024038462
+    cy: 0.05
+  - name: IO_L16N_1_LDC2
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0.5336533
+    cy: 0.05
+  - name: IO_L16N_2_VS1_A18
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.9567303
+    cy: 0.95
+  - name: IO_L16N_3
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.47596103
+    cy: 0.95
+  - name: IO_L16P_0
+    svgId: connector204pin
+    pinName: connector204pin
+    cx: 0.033653848
+    cy: 0.05
+  - name: IO_L16P_2_VS2_A19
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0.94711494
+    cy: 0.95
+  - name: IO_L16P_3
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.46634564
+    cy: 0.95
+  - name: IO_L17N_2_CCLK
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0.98557353
+    cy: 0.95
+  - name: IO_L17P_2_VS0_A17
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.97595817
+    cy: 0.95
+  - name: IO_LO7P_0_GCLK4
+    svgId: connector176pin
+    pinName: connector176pin
+    cx: 0.30288413
+    cy: 0.05
+  - name: IP
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0.47596103
+    cy: 0.05
+  - name: IP_VREF_1
+    svgId: connector135pin
+    pinName: connector135pin
+    cx: 0.6971149
+    cy: 0.05
+  - name: IP_VREF_3
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.18750048
+    cy: 0.95
+  - name: IP
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0.58173025
+    cy: 0.05
+  - name: IP
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0.52403796
+    cy: 0.05
+  - name: IP
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.51442254
+    cy: 0.95
+  - name: IP
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.8701918
+    cy: 0.95
+  - name: IP
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.96634275
+    cy: 0.95
+  - name: IP
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.052884616
+    cy: 0.95
+  - name: IP
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.12980817
+    cy: 0.95
+  - name: IP
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.24519184
+    cy: 0.95
+  - name: IP
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.30288413
+    cy: 0.95
+  - name: IP
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.40865332
+    cy: 0.95
+  - name: IP
+    svgId: connector168pin
+    pinName: connector168pin
+    cx: 0.37980723
+    cy: 0.05
+  - name: IP
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.48557642
+    cy: 0.95
+  - name: IP
+    svgId: connector193pin
+    pinName: connector193pin
+    cx: 0.13942356
+    cy: 0.05
+  - name: IP
+    svgId: connector203pin
+    pinName: connector203pin
+    cx: 0.043269232
+    cy: 0.05
+  - name: IP
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0.94711494
+    cy: 0.05
+  - name: IP
+    svgId: connector117pin
+    pinName: connector117pin
+    cx: 0.8701918
+    cy: 0.05
+  - name: IP
+    svgId: connector123pin
+    pinName: connector123pin
+    cx: 0.8124995
+    cy: 0.05
+  - name: IP
+    svgId: connector129pin
+    pinName: connector129pin
+    cx: 0.7548072
+    cy: 0.05
+  - name: IP
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0.63942254
+    cy: 0.05
+  - name: IP_L02N_2
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.5528841
+    cy: 0.95
+  - name: IP_L02P_2
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.54326874
+    cy: 0.95
+  - name: IP_L06N_0
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0.3221149
+    cy: 0.05
+  - name: IP_L06P_0
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0.3317303
+    cy: 0.05
+  - name: IP_L07N_2_VREF_2
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.68749946
+    cy: 0.95
+  - name: IP_L07P_2
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.6778841
+    cy: 0.95
+  - name: IP_L09P_0_GCLK8
+    svgId: connector182pin
+    pinName: connector182pin
+    cx: 0.24519184
+    cy: 0.05
+  - name: IP_L10N_2_M2_GCLK1
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.77403796
+    cy: 0.95
+  - name: IP_L10P_2_RDWR_B_GCLK0
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.76442254
+    cy: 0.95
+  - name: IP_LO9N_0_GCLK9
+    svgId: connector183pin
+    pinName: connector183pin
+    cx: 0.23557645
+    cy: 0.05
+  - name: PROG_B
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.0048076925
+    cy: 0.95
+  - name: TCK
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0.48557642
+    cy: 0.05
+  - name: TDI
+    svgId: connector206pin
+    pinName: connector206pin
+    cx: 0.014423077
+    cy: 0.05
+  - name: TDO
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0.49519178
+    cy: 0.05
+  - name: TMS
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0.51442254
+    cy: 0.05
+  - name: VCC0_1
+    svgId: connector113pin
+    pinName: connector113pin
+    cx: 0.9086534
+    cy: 0.05
+  - name: VCC0_1
+    svgId: connector124pin
+    pinName: connector124pin
+    cx: 0.80288416
+    cy: 0.05
+  - name: VCC0_1
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0.6298072
+    cy: 0.05
+  - name: VCCAUX
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.0625
+    cy: 0.95
+  - name: VCCAUX
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.4182687
+    cy: 0.95
+  - name: VCCAUX
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.6298072
+    cy: 0.95
+  - name: VCCAUX
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.87980723
+    cy: 0.95
+  - name: VCCAUX
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0.9374995
+    cy: 0.05
+  - name: VCCAUX
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0.5721149
+    cy: 0.05
+  - name: VCCAUX
+    svgId: connector165pin
+    pinName: connector165pin
+    cx: 0.40865332
+    cy: 0.05
+  - name: VCCAUX
+    svgId: connector194pin
+    pinName: connector194pin
+    cx: 0.12980817
+    cy: 0.05
+  - name: VCCINT
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.12019279
+    cy: 0.95
+  - name: VCCINT
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.63942254
+    cy: 0.95
+  - name: VCCINT
+    svgId: connector116pin
+    pinName: connector116pin
+    cx: 0.87980723
+    cy: 0.05
+  - name: VCCINT
+    svgId: connector169pin
+    pinName: connector169pin
+    cx: 0.37019184
+    cy: 0.05
+  - name: VCCO_0
+    svgId: connector175pin
+    pinName: connector175pin
+    cx: 0.31249952
+    cy: 0.05
+  - name: VCCO_0
+    svgId: connector190pin
+    pinName: connector190pin
+    cx: 0.16826971
+    cy: 0.05
+  - name: VCCO_0
+    svgId: connector200pin
+    pinName: connector200pin
+    cx: 0.072115384
+    cy: 0.05
+  - name: VCCO_2
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.56249946
+    cy: 0.95
+  - name: VCCO_2
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.6971149
+    cy: 0.95
+  - name: VCCO_2
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.84134567
+    cy: 0.95
+  - name: VCCO_3
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.19711588
+    cy: 0.95
+  - name: VCCO_3
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.36057645
+    cy: 0.95
+  - name: VCCO_3
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.4374995
+    cy: 0.95

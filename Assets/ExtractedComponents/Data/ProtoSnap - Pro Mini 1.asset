@@ -1,0 +1,439 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: ProtoSnap - Pro Mini 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: ProtoSnap - Pro Mini
+  icon: {fileID: 0}
+  realWorldWidth: 155
+  realWorldHeight: 254.04698
+  pins:
+  - name: DTR
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.065940864
+    cy: 0.4923461
+  - name: TXO
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.13045698
+    cy: 0.4923461
+  - name: RXI
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.19497313
+    cy: 0.4923461
+  - name: VCC
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.25948924
+    cy: 0.4923461
+  - name: GND
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.3240054
+    cy: 0.4923461
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.38852152
+    cy: 0.4923461
+  - name: A4
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.10787634
+    cy: 0.2778191
+  - name: A5
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.10787634
+    cy: 0.31718183
+  - name: RAW
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.033682797
+    cy: 0.45298338
+  - name: GND
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.033682797
+    cy: 0.4136206
+  - name: RESET
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.033682797
+    cy: 0.37425786
+  - name: VCC
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.033682797
+    cy: 0.33489507
+  - name: A3
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.033682797
+    cy: 0.29553232
+  - name: A2
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.033682797
+    cy: 0.25616956
+  - name: A1
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.033682797
+    cy: 0.21680681
+  - name: A0
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.033682797
+    cy: 0.17744404
+  - name: SCK
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.033682797
+    cy: 0.13808128
+  - name: MISO
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.033682797
+    cy: 0.09871852
+  - name: MOSI
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.033682797
+    cy: 0.059355766
+  - name: D10
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.033682797
+    cy: 0.019993002
+  - name: D9
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.4207796
+    cy: 0.019993002
+  - name: D8
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.4207796
+    cy: 0.059355766
+  - name: D7
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.4207796
+    cy: 0.09871852
+  - name: D6
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.4207796
+    cy: 0.13808128
+  - name: D5
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.4207796
+    cy: 0.17744404
+  - name: D4
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.4207796
+    cy: 0.21680681
+  - name: D3
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.4207796
+    cy: 0.25616956
+  - name: D2
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.4207796
+    cy: 0.29553232
+  - name: GND
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.4207796
+    cy: 0.33489507
+  - name: RESET
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.4207796
+    cy: 0.37425786
+  - name: RXI
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.4207796
+    cy: 0.4136206
+  - name: TXO
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.4207796
+    cy: 0.45298338
+  - name: FTDI DTR
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.033682797
+    cy: 0.6104344
+  - name: FTDI RXI
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.09819892
+    cy: 0.6104344
+  - name: FTDI TXO
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.16271506
+    cy: 0.6104344
+  - name: FTDI VCC
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.22723117
+    cy: 0.6104344
+  - name: FTDI GND
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.35626343
+    cy: 0.6104344
+  - name: BUZZER D2
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.646586
+    cy: 0.6497972
+  - name: BUZZER GND
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.646586
+    cy: 0.6891599
+  - name: RGB LED D5-G
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.646586
+    cy: 0.37425786
+  - name: RGB LED D6-B
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.646586
+    cy: 0.4136206
+  - name: RGB LED D3-R
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.646586
+    cy: 0.45298338
+  - name: RGB LED VCC
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.646586
+    cy: 0.4923461
+  - name: LIGHT SENSOR GND
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.646586
+    cy: 0.19712542
+  - name: LIGHT SENSOR A0
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.646586
+    cy: 0.23648818
+  - name: LIGHT SENSOR VCC
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.646586
+    cy: 0.27585095
+  - name: BUTTON D7
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.646586
+    cy: 0.019993002
+  - name: BUTTON VCC
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.646586
+    cy: 0.059355766
+  - name: PROTOBOARD 5V PIN 1
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.5173925
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 2
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.58190864
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 3
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.646586
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 4
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.7109409
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 5
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.775457
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 6
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.8399731
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 7
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.9044893
+    cy: 0.92533654
+  - name: PROTOBOARD 5V PIN 8
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.96916664
+    cy: 0.92533654
+  - name: PROTOBOARD GND PIN 1
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.5173925
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 2
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.58190864
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 3
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.646586
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 4
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.7109409
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 5
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.775457
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 6
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.8399731
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 7
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.9044893
+    cy: 0.9652569
+  - name: PROTOBOARD GND PIN 8
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.96916664
+    cy: 0.9652569
+  - name: PROTOBOARD PIN 1
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.4535932
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 2
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.5173925
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 3
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.58190864
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 4
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.646586
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 5
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.7109409
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 6
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.775457
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 7
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.8399731
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 8
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.9044893
+    cy: 0.8468351
+  - name: BUTTON GND
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.646586
+    cy: 0.09871852
+  - name: FTDI CTS
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.2917473
+    cy: 0.6104344
+  - name: PROTOBOARD PIN 9
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.96916664
+    cy: 0.8468351
+  - name: PROTOBOARD PIN 10
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.4535932
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 11
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.5173925
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 12
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.58190864
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 13
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.646586
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 14
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.7109409
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 15
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.775457
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 16
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.8399731
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 17
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.9044893
+    cy: 0.8865095
+  - name: PROTOBOARD PIN 18
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.96916664
+    cy: 0.8865095

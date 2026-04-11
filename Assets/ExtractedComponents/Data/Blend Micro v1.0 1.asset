@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Blend Micro v1.0 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Blend Micro v1.0
+  icon: {fileID: 0}
+  realWorldWidth: 72.244095
+  realWorldHeight: 170.27559
+  pins:
+  - name: D8/A8
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.07307669
+    cy: 0.16721044
+  - name: D5/PWM
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.07307669
+    cy: 0.22512215
+  - name: D3/SCL/PWM
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.07307669
+    cy: 0.28384984
+  - name: D2/SDA
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.07307669
+    cy: 0.3425775
+  - name: D1/TX
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.07307669
+    cy: 0.4013049
+  - name: D0/RX
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.07307669
+    cy: 0.46003258
+  - name: RST
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.07307669
+    cy: 0.51876
+  - name: MISO
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.07307669
+    cy: 0.57748765
+  - name: MOSI
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.07307669
+    cy: 0.6362153
+  - name: CLK
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.07307669
+    cy: 0.6949428
+  - name: SS
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.07307669
+    cy: 0.75367045
+  - name: VIN
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.07307669
+    cy: 0.81239784
+  - name: GND
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.07307669
+    cy: 0.8711255
+  - name: D9/PWM/A9
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.90961516
+    cy: 0.16639473
+  - name: D10/PWM/A10
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.90961516
+    cy: 0.22512215
+  - name: D11/PWM
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.90961516
+    cy: 0.28384984
+  - name: D12/A11
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.90961516
+    cy: 0.3425775
+  - name: D13/PWM/LED
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.90961516
+    cy: 0.4013049
+  - name: A0
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.90961516
+    cy: 0.46003258
+  - name: A1
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.90961516
+    cy: 0.51876
+  - name: A2
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.90961516
+    cy: 0.57748765
+  - name: A3
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.90961516
+    cy: 0.6362153
+  - name: A4
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.90961516
+    cy: 0.6949428
+  - name: A5
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.90961516
+    cy: 0.75367045
+  - name: AREF
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.90961516
+    cy: 0.81239784
+  - name: V33
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.90961516
+    cy: 0.8711255
+  - name: GND
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.07307669
+    cy: 0.9298532
+  - name: GND
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.90961516
+    cy: 0.9298532

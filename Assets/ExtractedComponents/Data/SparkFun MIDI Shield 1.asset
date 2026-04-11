@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun MIDI Shield 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun MIDI Shield
+  icon: {fileID: 0}
+  realWorldWidth: 170.266
+  realWorldHeight: 151.2
+  pins:
+  - name: 3.3V
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.44584942
+    cy: 0.95238096
+  - name: VCC
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.48813617
+    cy: 0.95238096
+  - name: A0
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.69957006
+    cy: 0.95238096
+  - name: A1
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.7418569
+    cy: 0.95238096
+  - name: A2
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.78413767
+    cy: 0.95238096
+  - name: A3
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.8264304
+    cy: 0.95238096
+  - name: A4
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.8687113
+    cy: 0.95238096
+  - name: A5
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.91100395
+    cy: 0.95238096
+  - name: AREF
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.25555894
+    cy: 0.04761905
+  - name: D2
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.8264304
+    cy: 0.04761905
+  - name: D3
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.78413767
+    cy: 0.04761905
+  - name: D4
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.7418569
+    cy: 0.04761905
+  - name: D5
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.69957006
+    cy: 0.04761905
+  - name: D6
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.6572774
+    cy: 0.04761905
+  - name: D7
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.6149965
+    cy: 0.04761905
+  - name: SOFT-RX
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.55156636
+    cy: 0.04761905
+  - name: SOFT-TX
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.50927955
+    cy: 0.04761905
+  - name: D10
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.4669928
+    cy: 0.04761905
+  - name: D11
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.42470604
+    cy: 0.04761905
+  - name: D12
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.38241926
+    cy: 0.04761905
+  - name: D13
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.34013247
+    cy: 0.04761905
+  - name: GND
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.530423
+    cy: 0.95238096
+  - name: GND
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.57270974
+    cy: 0.95238096
+  - name: GND
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.29784572
+    cy: 0.04761905
+  - name: IOREF
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.36127588
+    cy: 0.95238096
+  - name: NC
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.31899497
+    cy: 0.95238096
+  - name: RESET
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.40356264
+    cy: 0.95238096
+  - name: RX-I
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.91100395
+    cy: 0.04761905
+  - name: SCL
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.1709854
+    cy: 0.04761905
+  - name: SDA
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.21327804
+    cy: 0.04761905
+  - name: HARD-TX
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.8687113
+    cy: 0.04761905
+  - name: VIN
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.6149965
+    cy: 0.95238096

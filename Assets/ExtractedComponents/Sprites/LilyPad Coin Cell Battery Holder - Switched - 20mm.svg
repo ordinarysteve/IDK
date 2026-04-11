@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" xml:space="preserve" version="1.1" height="1.15417in" width="1.15833in" xmlns:xml="http://www.w3.org/XML/1998/namespace" viewBox="0 0 83.4 83.1"  enable-background="new 0 0 83.4 83.1" x="0px" id="Layer_1" y="0px">
+    <desc >
+        <referenceFile >lilypad_battery-switchfritzing.svg</referenceFile>
+    </desc>
+    <g >
+        <g gorn="0.1.0"  id="breadboardbreadboard">
+            <g gorn="0.1.0.0"  id="icon">
+                <path fill="#672E58" display="none" d="M51.5,82.1c11.6,0.3,22.6-4.6,30.2-13.3c2.2-3,1.5-7.2-1.5-9.3c-0.4-0.3-0.9-0.6-1.3-0.7c-2.1-1-4.1-2.3-5.8-4c-7.2-7.5-7.2-19.5,0-27c1.2-1.2,2.5-2.3,4-3.2c1-0.7,2.1-1.3,3.2-1.8c3-2.2,3.6-6.4,1.3-9.4c-0.3-0.4-0.6-0.7-1-1C73.2,4,62.3-0.5,51.2,0c-22.7,0.1-41,18.6-41,41.2S28.7,82.2,51.5,82.1C51.5,82.1,51.5,82.1,51.5,82.1" />
+                <path fill="#672E58" d="M80.8,23.4c3.1-2.7,3.5-7.3,0.8-10.4c-0.3-0.4-0.7-0.8-1.1-1.1C69.2,3,55-1,40.8,0.7C18.1,0.8-0.2,19.2-0.1,41.9c0.1,22.7,18.5,41,41.2,40.9l0,0c14.5,1.4,29-3,40.3-12.2c2.6-3,2.3-7.6-0.8-10.2c-0.3-0.4-0.8-0.8-1.3-1c-1.6-0.6-3-1.5-4.3-2.6c-0.5-0.7-0.8-1.4-1.2-2.1c-1.2-2.3-2-4.7-2.4-7.3c-0.4-2.1-0.6-4.2-0.6-6.4c0.1-2.3,0.4-4.5,1-6.7c0.4-1.5,0.9-3,1.5-4.5l0.8-1.5c0.4-0.9,0.9-1.7,1.5-2.4C77.2,24.9,79,24,80.8,23.4z M73.2,65.9c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1s-1.3,3.1-3,3.1S73.2,67.6,73.2,65.9z M16.7,69.9c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1S21.5,73,19.8,73S16.7,71.7,16.7,69.9L16.7,69.9z M73.2,16.2c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1S73.2,18,73.2,16.2z M16.7,13c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1C18.1,16.2,16.7,14.8,16.7,13L16.7,13z" />
+                <g >
+                    <title >layer 21</title>
+                    <g >
+                        <title >text:+</title>
+                        <g transform="matrix(1, 0, 0, 1, 29.4123, 69.5271)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g transform="rotate(-90)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g transform="matrix(1 0 0 1 -9.1389 2.6994)" >
+                                                                    <g >
+                                                                        <g >
+                                                                            <text fill="#FFFFFF"  font-size="8.352" font-family="OCRA">+</text>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g >
+                        <title >text:-</title>
+                        <g transform="matrix(1, 0, 0, 1, 61.7403, 75.6468)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g transform="rotate(-90)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g transform="matrix(1 0 0 1 3.126250e-04 10.3018)" >
+                                                                    <g >
+                                                                        <g >
+                                                                            <text fill="#FFFFFF"  font-size="8.352" font-family="OCRA">-</text>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g >
+                        <title >text:+</title>
+                        <g transform="matrix(1, 0, 0, 1, 27.9003, 10.8471)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g transform="rotate(-90)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g transform="matrix(1 0 0 1 4.203125e-04 2.6994)" >
+                                                                    <g >
+                                                                        <g >
+                                                                            <text fill="#FFFFFF"  font-size="8.352" font-family="OCRA">+</text>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g >
+                        <title >text:-</title>
+                        <g transform="matrix(1, 0, 0, 1, 62.8923, 4.72705)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g transform="rotate(-90)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g transform="matrix(1 0 0 1 -7.6733 10.3018)" >
+                                                                    <g >
+                                                                        <g >
+                                                                            <text fill="#FFFFFF"  font-size="8.352" font-family="OCRA">-</text>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g >
+                        <title >element:U$1</title>
+                        <g >
+                            <title >package:PETAL-SMALL-2SIDE</title>
+                        </g>
+                    </g>
+                    <g >
+                        <title >element:U$2</title>
+                        <g >
+                            <title >package:PETAL-SMALL-2SIDE</title>
+                        </g>
+                    </g>
+                    <g >
+                        <title >element:U$3</title>
+                        <g >
+                            <title >package:PETAL-SMALL-2SIDE</title>
+                        </g>
+                    </g>
+                    <g >
+                        <title >element:U$4</title>
+                        <g >
+                            <title >package:PETAL-SMALL-2SIDE</title>
+                        </g>
+                    </g>
+                    <g >
+                        <title >element:U$5</title>
+                        <g >
+                            <title >package:LOGO-LILYPAD</title>
+                        </g>
+                    </g>
+                </g>
+                <circle gorn="0.1.0.0.3" cy="65.9" fill="none" r="3.8" stroke-width="1.44"  id="connector5pin" stroke="#9A916C" cx="76.4"/>
+                <circle gorn="0.1.0.0.4" cy="69.9" fill="none" r="3.8" stroke-width="1.44"  id="connector6pin" stroke="#9A916C" cx="19.8"/>
+                <circle gorn="0.1.0.0.5" cy="16.2" fill="none" r="3.8" stroke-width="1.44"  id="connector7pin" stroke="#9A916C" cx="76.4"/>
+                <circle gorn="0.1.0.0.6" cy="13" fill="none" r="3.8" stroke-width="1.44"  id="connector8pin" stroke="#9A916C" cx="19.8"/>
+            </g>
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <circle cy="41.5" fill="#686868" r="29.6"  cx="48.6"/>
+                        </g>
+                        <g  opacity="0.5">
+                            <path fill="#C6C6C6" d="M77.3,41.5c0,3.4-0.6,6.8-1.7,10c-0.1,0.3-0.4,0.4-0.6,0.3c-0.3-0.1-0.4-0.4-0.3-0.6c1.6-4.6,2.1-9.6,1.3-14.4c0-0.3,0.1-0.5,0.4-0.6c0.3,0,0.5,0.1,0.6,0.4C77.1,38.2,77.3,39.8,77.3,41.5z" />
+                        </g>
+                        <g  opacity="0.43">
+                            <g >
+                                <path fill="#020202" d="M45.1,67.9c-5.5,0-10-4.5-10-10.1c0-3.6,1.9-6.7,4.7-8.5c-3.4,1.6-5.8,5.1-5.8,9.1c0,5.6,4.5,10.1,10.1,10.1c2,0,3.8-0.6,5.4-1.6C48.1,67.6,46.7,67.9,45.1,67.9z" />
+                            </g>
+                        </g>
+                        <g  opacity="0.43">
+                            <g >
+                                <path fill="#020202" d="M45.1,34C39.5,34,35,29.5,35,23.9c0-3.6,1.9-6.7,4.7-8.5c-3.4,1.6-5.8,5.1-5.8,9.1c0,5.6,4.5,10.1,10.1,10.1c2,0,3.8-0.6,5.4-1.6C48.1,33.6,46.7,34,45.1,34z" />
+                            </g>
+                        </g>
+                        <g >
+                            <g >
+                                <path fill="#9B9B9B" d="M41.4,63.1c-2.2,0-4.1-2-4.1-4.5s1.8-4.5,4.1-4.5h4.8v9C46.2,63.1,41.4,63.1,41.4,63.1z" />
+                                <path fill="#9B9B9B" d="M41.4,29.2c-2.2,0-4.1-2-4.1-4.5s1.8-4.5,4.1-4.5h4.8v9H41.4L41.4,29.2z" />
+                            </g>
+                            <rect height="9" width="21.6" fill="#898989"  x="46.3" y="20.2"/>
+                            <rect height="9" width="21.6" fill="#898989"  x="46.2" y="54.1"/>
+                            <g >
+                                <g  opacity="0.5">
+                                    <path fill="#FFFFFF" d="M21.7,41h5.4v-5.2H28V41h5.4v0.9H28v5.2h-0.9v-5.2h-5.4V41z" />
+                                </g>
+                                <path fill="#898989" d="M30.6,20.3v42.2l8.7,10h24.6L74.4,57c0,0-3.4-3.4-3.4-14.6s3.2-16.6,3.2-16.6L64.1,10.5H39.3L30.6,20.3z M52,53.4h15.5v10.4H52c-1.7,2.7-4.7,4.6-8.2,4.6c-5.4,0-9.8-4.4-9.8-9.8s4.4-9.8,9.8-9.8C47.3,48.9,50.3,50.7,52,53.4z M52,19.5h15.5v10.4H52c-1.7,2.7-4.8,4.6-8.2,4.6c-5.4,0-9.8-4.4-9.8-9.8s4.4-9.8,9.8-9.8C47.3,14.9,50.3,16.8,52,19.5z" />
+                            </g>
+                            <path fill="#672E58" display="none" d="M42.8,71.3h-4.1L31,62.7V20.1l7.7-8.6h4.1h18.1h3.8l9.7,14.2c-5.9,9.7-5.9,21.8,0,31.5v-0.1l-9.7,14.2h-3.8H42.8z" />
+                            <rect height="42.2" width="1.4" fill="#FFFFFF" display="none"  enable-background="new    " x="29.2" y="20.2" opacity="0.3"/>
+                            <g >
+                                <path fill="none" d="M34,58.6c0,5.4,4.4,9.8,9.8,9.8c3.5,0,6.5-1.8,8.2-4.6h15.5V53.4H52c-1.7-2.7-4.8-4.6-8.2-4.6C38.4,48.9,34,53.2,34,58.6z" />
+                                <path fill="none" d="M34,24.7c0,5.4,4.4,9.8,9.8,9.8c3.5,0,6.5-1.8,8.2-4.6h15.5V19.5H52c-1.7-2.7-4.8-4.6-8.2-4.6C38.4,14.9,34,19.3,34,24.7z" />
+                                <path fill="#898989" d="M39.3,72.4h20.9l4.3-1.1H38.3L39.3,72.4z" />
+                                <path fill="#FFFFFF" d="M39.3,72.4h24.6l0.6-1.1H38.3L39.3,72.4z"  enable-background="new    " opacity="0.3"/>
+                                <path fill="#898989" d="M39.3,10.5l-1,1.1l26.5,0l-0.7-1.1H39.3z" />
+                                <path fill="#FFFFFF" d="M39.3,10.5l-1,1.1l26.5,0l-0.7-1.1H39.3z"  enable-background="new    " opacity="0.3"/>
+                            </g>
+                        </g>
+                        <g >
+                            <path fill="#828282" d="M46.5,55.4v6.5c0,0.3-0.2,0.5-0.5,0.5s-0.5-0.2-0.5-0.5v-6.5c0-0.3,0.2-0.5,0.5-0.5S46.5,55.1,46.5,55.4z" />
+                        </g>
+                        <g >
+                            <path fill="#828282" d="M46.5,21.4v6.5c0,0.3-0.2,0.5-0.5,0.5s-0.5-0.2-0.5-0.5v-6.5c0-0.3,0.2-0.5,0.5-0.5S46.5,21.2,46.5,21.4z" />
+                        </g>
+                    </g>
+                    <path fill="#FFFFFF" d="M41.1,63.1c-2.1,0-3.8-2-3.8-4.5s1.7-4.5,3.8-4.5c-1.8,0-3.2,2.3-3.2,4.5C37.9,60.8,39.3,63.1,41.1,63.1z"  enable-background="new    " opacity="0.3"/>
+                    <path fill="#FFFFFF" d="M41.1,29.2c-2.1,0-3.8-2-3.8-4.5s1.7-4.5,3.8-4.5c-1.8,0-3.2,2.3-3.2,4.5S39.3,29.2,41.1,29.2z"  enable-background="new    " opacity="0.3"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g >
+        <g transform="translate(97.2905,0)" >
+            <g >
+                <g >
+                    <g >
+                        <g gorn="0.2.0.0.0.0.0"  id="breadboard_1_">
+                            <g gorn="0.2.0.0.0.0.0.0"  id="icon_1_">
+                                <g transform="matrix(1, 0, 0, 1, 7.2, 7.60752)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <path fill="#676767" d="M-89.2,41.9C-89.1,41.9-89.1,41.8-89.2,41.9l0.1-1.5c0-0.1-0.1-0.1-0.1-0.1h-0.1c-0.1,0-0.1,0.1-0.1,0.1v1.4C-89.5,41.8-89.4,41.9-89.2,41.9L-89.2,41.9z" />
+                                                                </g>
+                                                                <g >
+                                                                    <path fill="#676767" d="M-89.2,34.7C-89.1,34.7-89.1,34.6-89.2,34.7l0.1-1.5c0-0.1-0.1-0.1-0.1-0.1h-0.1c-0.1,0-0.1,0.1-0.1,0.1v1.4C-89.5,34.6-89.4,34.7-89.2,34.7L-89.2,34.7z" />
+                                                                </g>
+                                                                <g >
+                                                                    <path fill="#676767" d="M-89.2,27.5c0.1,0,0.1-0.1,0.1-0.1V26c0-0.1-0.1-0.1-0.1-0.1h-0.1c-0.1,0-0.1,0.1-0.1,0.1v1.4C-89.5,27.4-89.4,27.5-89.2,27.5L-89.2,27.5z" />
+                                                                </g>
+                                                            </g>
+                                                            <g >
+                                                                <g >
+                                                                    <path fill="#B6B6B7" d="M-89.3,41.9C-89.2,41.9-89.2,41.8-89.3,41.9l0.1-1.5c0-0.1-0.1-0.1-0.1-0.1h-2.6c-0.1,0-0.1,0.1-0.1,0.1v1.4c0,0.1,0.1,0.1,0.1,0.1H-89.3z" />
+                                                                </g>
+                                                                <g >
+                                                                    <path fill="#B6B6B7" d="M-89.3,34.7C-89.2,34.7-89.2,34.6-89.3,34.7l0.1-1.5c0-0.1-0.1-0.1-0.1-0.1h-2.6c-0.1,0-0.1,0.1-0.1,0.1v1.4c0,0.1,0.1,0.1,0.1,0.1H-89.3z" />
+                                                                </g>
+                                                                <g >
+                                                                    <path fill="#B6B6B7" d="M-89.3,27.5c0.1,0,0.1-0.1,0.1-0.1V26c0-0.1-0.1-0.1-0.1-0.1h-2.6C-92,25.9-92,26-92,26v1.4c0,0.1,0.1,0.1,0.1,0.1H-89.3z" />
+                                                                </g>
+                                                            </g>
+                                                            <g >
+                                                                <g >
+                                                                    <path fill="#B6B6B7" d="M-99.9,41.9C-99.8,41.9-99.8,41.8-99.9,41.9l0.1-1.5c0-0.1-0.1-0.1-0.1-0.1h-2.6c-0.1,0-0.1,0.1-0.1,0.1v1.4c0,0.1,0.1,0.1,0.1,0.1H-99.9z" />
+                                                                </g>
+                                                                <g >
+                                                                    <path fill="#B6B6B7" d="M-99.9,34.7C-99.8,34.7-99.8,34.6-99.9,34.7l0.1-1.5c0-0.1-0.1-0.1-0.1-0.1h-2.6c-0.1,0-0.1,0.1-0.1,0.1v1.4c0,0.1,0.1,0.1,0.1,0.1H-99.9z" />
+                                                                </g>
+                                                                <g >
+                                                                    <path fill="#B6B6B7" d="M-99.9,27.5c0.1,0,0.1-0.1,0.1-0.1V26c0-0.1-0.1-0.1-0.1-0.1h-2.6c-0.1,0-0.1,0.1-0.1,0.1v1.4c0,0.1,0.1,0.1,0.1,0.1H-99.9L-99.9,27.5z" />
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <rect height="20.5" width="9.8" fill="#1E1E1E"  x="-101.1" y="23.5"/>
+                                                    <rect height="10.6" width="2.7" fill="#F2F2F2"  x="-100.3" y="28.5"/>
+                                                    <rect height="10.6" width="0.1" fill="#CCCBCB"  x="-97.7" y="28.5"/>
+                                                    <path fill="#888888" d="M-98.6,25.1c0,0.2-0.2,0.2-0.4,0.2h-2.1v3.6c0,0.2,0.2,0.4,0.4,0.4h3.2c0.2,0,0.4,0.2,0.4,0.4v8.1c0,0.2-0.2,0.4-0.4,0.4h-3.2c-0.2,0-0.4,0.2-0.4,0.4v3.6h2.1c0.2,0,0.4,0,0.4,0.2v1.3c0,0.2,0.2,0.2,0.4,0.2h3.9c0.2,0,0.4,0,0.4-0.2v-1.3c0-0.2,0.2-0.2,0.4-0.2h1.8V25.3h-1.8c-0.2,0-0.4,0-0.4-0.2v-1.3c0-0.2-0.2-0.2-0.4-0.2h-3.9c-0.2,0-0.4,0-0.4,0.2V25.1z" />
+                                                    <g >
+                                                        <path fill="#FFFFFF" d="M-93.8,43.8v-0.2h-4.7v0.2c0,0.2,0.2,0.2,0.4,0.2h3.9C-94,44.1-93.8,44-93.8,43.8z"  enable-background="new    " opacity="0.3"/>
+                                                        <rect height="0.5" width="4.7" fill="#FFFFFF"  enable-background="new    " x="-98.6" y="43.1" opacity="0.1"/>
+                                                    </g>
+                                                    <g >
+                                                        <path fill="#FFFFFF" d="M-93.8,23.8V24h-4.7v-0.2c0-0.2,0.2-0.2,0.4-0.2h3.9C-94,23.5-93.8,23.5-93.8,23.8z"  enable-background="new    " opacity="0.3"/>
+                                                        <rect height="0.5" width="4.7" fill="#FFFFFF"  enable-background="new    " x="-98.6" y="24" opacity="0.1"/>
+                                                    </g>
+                                                    <path fill="#888888" d="M-92.9,27c0.3,0,0.5,0.2,0.5,0.6v12.5c0,0.3-0.2,0.6-0.5,0.6s-0.5-0.2-0.5-0.6V27.5C-93.4,27.2-93.2,27-92.9,27z" />
+                                                    <g >
+                                                        <path fill="#676767" d="M-93.4,27.5V40c0,0.3,0.2,0.6,0.5,0.6v-0.2c-0.2,0-0.3-0.1-0.3-0.3V27.5c0-0.2,0.1-0.3,0.3-0.3V27C-93.2,27-93.4,27.2-93.4,27.5z" />
+                                                        <path fill="#FFFFFF" d="M-92.6,27.5V40c0,0.2-0.1,0.3-0.3,0.3v0.2c0.3,0,0.5-0.2,0.5-0.6V27.5c0-0.3-0.2-0.6-0.5-0.6v0.2C-92.8,27.2-92.6,27.3-92.6,27.5z"  enable-background="new    " opacity="0.3"/>
+                                                    </g>
+                                                    <g >
+                                                        <path fill="#FFFFFF" d="M-101.4,44.1h2.1c0.2,0,0.3,0,0.3-0.2v-0.2h-2.4V44.1z"  enable-background="new    " opacity="0.3"/>
+                                                        <rect height="0.5" width="2.4" fill="#FFFFFF"  enable-background="new    " x="-101.4" y="43.1" opacity="0.1"/>
+                                                    </g>
+                                                    <g >
+                                                        <path fill="#FFFFFF" d="M-91.6,44.1h-1.6c-0.2,0-0.3,0-0.3-0.2v-0.2h1.9V44.1z"  enable-background="new    " opacity="0.3"/>
+                                                        <rect height="0.5" width="1.9" fill="#FFFFFF"  enable-background="new    " x="-93.4" y="43.1" opacity="0.1"/>
+                                                    </g>
+                                                    <g >
+                                                        <path fill="#FFFFFF" d="M-101.4,23.5h2.1c0.2,0,0.3,0,0.3,0.2V24h-2.4V23.5z"  enable-background="new    " opacity="0.3"/>
+                                                        <rect height="0.5" width="2.4" fill="#FFFFFF"  enable-background="new    " x="-101.4" y="24" opacity="0.1"/>
+                                                    </g>
+                                                    <g >
+                                                        <path fill="#FFFFFF" d="M-91.6,23.5h-1.6c-0.2,0-0.3,0-0.3,0.2V24h1.9V23.5z"  enable-background="new    " opacity="0.3"/>
+                                                        <rect height="0.5" width="1.9" fill="#FFFFFF"  enable-background="new    " x="-93.4" y="24" opacity="0.1"/>
+                                                    </g>
+                                                    <rect height="1.7" width="0.5" fill="#CCCBCB"  x="-101.6" y="40.1"/>
+                                                    <rect height="1.7" width="0.5" fill="#CCCBCB"  x="-101.6" y="32.9"/>
+                                                    <rect height="1.7" width="0.5" fill="#CCCBCB"  x="-101.6" y="25.7"/>
+                                                    <g >
+                                                        <path fill="#F2F2F2" d="M-98.5,34c0.2,0,0.3,0.1,0.3,0.3v3.6c0,0.2-0.1,0.3-0.3,0.3h-2.2c-0.2,0-0.3-0.1-0.3-0.3v-3.6c0-0.2,0.1-0.3,0.3-0.3H-98.5z" />
+                                                        <g  opacity="0.59">
+                                                            <path stroke-miterlimit="10" stroke-linecap="round" fill="none" stroke-width="0.1899" d="M-98.4,37.9h-2.2c-0.1,0-0.2-0.1-0.2-0.2v-3.5"  stroke="#FFFFFF"/>
+                                                        </g>
+                                                        <path fill="#CCCBCB" d="M-98.5,34c0.2,0,0.3,0.1,0.3,0.3v3.6c0,0.2-0.1,0.3-0.3,0.3h0.8c0.1,0,0.3-0.1,0.3-0.3v-3.6c0-0.2-0.1-0.3-0.3-0.3H-98.5z" />
+                                                        <g  opacity="0.2">
+                                                            <path stroke-miterlimit="10" stroke-linecap="round" fill="none" stroke-width="0.1899" d="M-100.8,34.2h2.2c0.1,0,0.2,0.1,0.2,0.2v3.5"  stroke="#464646"/>
+                                                        </g>
+                                                        <g  opacity="0.2">
+                                                            <path stroke-miterlimit="10" stroke-linecap="round" fill="none" stroke-width="0.1899" d="M-97.5,34.2v3.6"  stroke="#000000"/>
+                                                        </g>
+                                                        <path stroke-miterlimit="10" stroke-linecap="round" fill="none" stroke-width="0.1899" d="M-99.1,36.6c-0.3,0.3-0.8,0.3-1.1,0c-0.3-0.3-0.3-0.8,0-1.1"  enable-background="new    " opacity="0.85" stroke="#FFFFFF"/>
+                                                        <path stroke-miterlimit="10" stroke-linecap="round" fill="none" stroke-width="0.1899" d="M-100.1,35.5c0.3-0.3,0.8-0.3,1.1,0c0.3,0.3,0.3,0.8,0,1.1"  enable-background="new    " opacity="0.2" stroke="#464646"/>
+                                                    </g>
+                                                    <polygon fill="#333333"  points="-91.6,44.1 -90.6,44.1 -90.6,41.9 -91,41.9 -91,40.1 -90.6,40.1 -90.6,34.7 -91,34.7 -91,32.9 -90.6,32.9 -90.6,27.5 -91,27.5 -91,25.7 -90.6,25.7 -90.6,23.5 -91.6,23.5 "/>
+                                                    <rect height="1.7" width="0.2" fill="#808080"  x="-91" y="40.1"/>
+                                                    <rect height="1.7" width="0.2" fill="#808080"  x="-91" y="32.9"/>
+                                                    <rect height="1.7" width="0.2" fill="#808080"  x="-91" y="25.7"/>
+                                                    <rect height="1.7" width="0.5" fill="#CCCBCB"  x="-90.8" y="40.1"/>
+                                                    <rect height="1.7" width="0.5" fill="#CCCBCB"  x="-90.8" y="32.9"/>
+                                                    <rect height="1.7" width="0.5" fill="#CCCBCB"  x="-90.8" y="25.7"/>
+                                                    <rect height="2.2" width="0.2"  enable-background="new    " x="-90.8" y="41.9" opacity="0.31"/>
+                                                    <rect height="5.5" width="0.2"  enable-background="new    " x="-90.8" y="34.7" opacity="0.31"/>
+                                                    <rect height="5.5" width="0.2"  enable-background="new    " x="-90.8" y="27.5" opacity="0.31"/>
+                                                    <rect height="2.2" width="0.2"  enable-background="new    " x="-90.8" y="23.5" opacity="0.31"/>
+                                                    <rect height="17.1" width="0.2" fill="#676767"  x="-91.7" y="25.3"/>
+                                                    <g >
+                                                        <path fill="#676767" d="M-93.3,42.3c-0.2,0-0.4,0-0.4,0.2v1.3c0,0.2-0.2,0.2-0.4,0.2h-0.1c0.2,0,0.4,0,0.4-0.2v-1.3C-93.8,42.3-93.6,42.3-93.3,42.3L-93.3,42.3L-93.3,42.3z" />
+                                                    </g>
+                                                    <g >
+                                                        <path fill="#676767" d="M-93.4,25.3c-0.2,0-0.4,0-0.4-0.2v-1.3c0-0.2-0.2-0.2-0.4-0.2h0.1c0.2,0,0.4,0,0.4,0.2v1.3C-93.7,25.3-93.5,25.3-93.4,25.3L-93.4,25.3z" />
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g >
+        <title >text:+</title>
+        <g transform="matrix(1, 0, 0, 1, 27.9003, 10.8471)" >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g transform="rotate(-90)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g transform="matrix(0 1 -1 0 -18.9999 -23.1034)" >
+                                                    <g >
+                                                        <g >
+                                                            <text fill="#FFFFFF"  font-size="5" font-family="OCRA">ON</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 27.9003, 10.8471)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g transform="rotate(-90)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g transform="matrix(0 1 -1 0 -45.8546 -24.6439)" >
+                                                <g >
+                                                    <g >
+                                                        <text fill="#FFFFFF"  font-size="5" font-family="OCRA">OFF</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

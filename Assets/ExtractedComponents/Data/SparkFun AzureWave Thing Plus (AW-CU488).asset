@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun AzureWave Thing Plus (AW-CU488)
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: ' SparkFun AzureWave Thing Plus (AW-CU488)'
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: 5/SDA (PA26)
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0
+  - name: 6/SCL (PA25)
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0
+    cy: 0
+  - name: 7 (PA30)
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0
+    cy: 0
+  - name: 8/CS (PA19)
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0
+    cy: 0
+  - name: 9/A6 (PB3)
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0
+    cy: 0
+  - name: 10 (PB23)
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0
+    cy: 0
+  - name: 11 (PB22)
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0
+    cy: 0
+  - name: 12 (PB26)
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0
+    cy: 0
+  - name: 13 (PB29)
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0
+    cy: 0
+  - name: V_USB
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0
+    cy: 0
+  - name: EN
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: V_BATT
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0
+    cy: 0
+  - name: 20 (PB31)
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0
+    cy: 0
+  - name: 4/TX1 (LP_UART_TXD)
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0
+    cy: 0
+  - name: 3/RX1 (LP_UART_RXD)
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: 2/POCI (PA17)
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0
+    cy: 0
+  - name: 1/PICO (PA16)
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0
+  - name: 0/SCK (PA18)
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0
+    cy: 0
+  - name: 19/A5 (PB2)
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0
+    cy: 0
+  - name: 18/A4 (PB1)
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0
+    cy: 0
+  - name: 17/A3 (PB7)
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0
+    cy: 0
+  - name: 16/A2 (PB6)
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0
+    cy: 0
+  - name: 15/A1 (PB5)
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0
+    cy: 0
+  - name: 14/A0 (PB4)
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: N/C
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0
+    cy: 0
+  - name: RESET (CHIP_EN)
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0
+    cy: 0
+  - name: 21 (PA0)
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: 22 (PA4)
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0
+  - name: 23 (PA2)
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0
+    cy: 0
+  - name: 24/TX (PA7/UART-LOG-TXD)
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0
+    cy: 0
+  - name: 25/RX (PA8/UART-LOG-RXD)
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0
+    cy: 0
+  - name: 29 (PA14)
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0
+    cy: 0
+  - name: 28 (PA15)
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0
+    cy: 0
+  - name: 27 (PA27)
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0
+    cy: 0
+  - name: 26 (PA28)
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0
+    cy: 0

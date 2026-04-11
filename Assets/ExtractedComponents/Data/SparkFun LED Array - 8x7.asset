@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun LED Array - 8x7
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun LED Array - 8x7
+  icon: {fileID: 0}
+  realWorldWidth: 110
+  realWorldHeight: 170
+  pins:
+  - name: A
+    svgId: connector114pin
+    pinName: connector114pin
+    cx: 0.8181693
+    cy: 0.97352946
+  - name: B
+    svgId: connector115pin
+    pinName: connector115pin
+    cx: 0.72727275
+    cy: 0.9676471
+  - name: C
+    svgId: connector116pin
+    pinName: connector116pin
+    cx: 0.6363637
+    cy: 0.97352946
+  - name: D
+    svgId: connector117pin
+    pinName: connector117pin
+    cx: 0.54545456
+    cy: 0.9676471
+  - name: E
+    svgId: connector118pin
+    pinName: connector118pin
+    cx: 0.45454547
+    cy: 0.97352946
+  - name: F
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0.36363637
+    cy: 0.9676471
+  - name: G
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0.27272728
+    cy: 0.97352946
+  - name: H
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0.18181819
+    cy: 0.9676471

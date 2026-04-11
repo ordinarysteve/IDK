@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit HUZZAH ESP8266
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit HUZZAH ESP8266
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 150.18
+  pins:
+  - name: TX
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.35000002
+    cy: 0.94673085
+  - name: RX
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.45000002
+    cy: 0.94673085
+  - name: VIN
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.54999995
+    cy: 0.94673085
+  - name: GND
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.75
+    cy: 0.94673085
+  - name: RESET
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.099999994
+    cy: 0.1676778
+  - name: ADC
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.099999994
+    cy: 0.23426431
+  - name: EN
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.099999994
+    cy: 0.3008508
+  - name: GPIO16
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.099999994
+    cy: 0.36743733
+  - name: GPIO14
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.099999994
+    cy: 0.43402386
+  - name: GPIO12
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.099999994
+    cy: 0.5006104
+  - name: GPIO13
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.099999994
+    cy: 0.5671969
+  - name: VIN
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.099999994
+    cy: 0.6337834
+  - name: VBAT
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.099999994
+    cy: 0.7003607
+  - name: GND
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.099999994
+    cy: 0.7669472
+  - name: GND
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.90000004
+    cy: 0.7669472
+  - name: LDO
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.90000004
+    cy: 0.7003607
+  - name: 3.3V
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.90000004
+    cy: 0.6337834
+  - name: GPIO15
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.90000004
+    cy: 0.5671969
+  - name: GPIO2
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.90000004
+    cy: 0.5006104
+  - name: GPIO0
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.90000004
+    cy: 0.43402386
+  - name: GPIO4
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.90000004
+    cy: 0.36743733
+  - name: GPIO5
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.90000004
+    cy: 0.3008508
+  - name: RX
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.90000004
+    cy: 0.23426431
+  - name: TX
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.90000004
+    cy: 0.1676778

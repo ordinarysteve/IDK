@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun Qwiic GPS-RTK2 - ublox ZED-F9P
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun Qwiic GPS-RTK2 - ublox ZED-F9P
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: 1
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0
+    cy: 0
+  - name: TX2
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0
+    cy: 0
+  - name: RX2
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0
+    cy: 0
+  - name: 5
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0
+    cy: 0
+  - name: SDA/!CS
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0
+    cy: 0
+  - name: SCL/SCK
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0
+    cy: 0
+  - name: FENCE_STAT
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0
+    cy: 0
+  - name: RTK_STAT
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0
+    cy: 0
+  - name: PPS
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0
+    cy: 0
+  - name: '!RESET'
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0
+    cy: 0
+  - name: '!SAFE'
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0
+    cy: 0
+  - name: INT
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0
+    cy: 0
+  - name: SCL/SCK
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0
+    cy: 0
+  - name: TXO/MISO
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0
+    cy: 0
+  - name: RXI/MOSI
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0
+    cy: 0
+  - name: SDA/!CS
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0
+    cy: 0
+  - name: RX2
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0
+    cy: 0
+  - name: TX2
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: FadeCandy USB NeoPixel Driver
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: FadeCandy USB NeoPixel Driver
+  icon: {fileID: 0}
+  realWorldWidth: 80
+  realWorldHeight: 150.11
+  pins:
+  - name: D0
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.9375
+    cy: 0.90006477
+  - name: D1
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.8125
+    cy: 0.90006477
+  - name: D2
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.6875
+    cy: 0.90006477
+  - name: D3
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.56250006
+    cy: 0.90006477
+  - name: D4
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.43750003
+    cy: 0.90006477
+  - name: D5
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.3125
+    cy: 0.90006477
+  - name: D6
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.18750001
+    cy: 0.90006477
+  - name: D7
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.0625
+    cy: 0.90006477
+  - name: GND
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.0625
+    cy: 0.9666914
+  - name: GND
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.18750001
+    cy: 0.9666914
+  - name: GND
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.3125
+    cy: 0.9666914
+  - name: GND
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.43750003
+    cy: 0.9666914
+  - name: GND
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.56250006
+    cy: 0.9666914
+  - name: GND
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.6875
+    cy: 0.9666914
+  - name: GND
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.8125
+    cy: 0.9666914
+  - name: GND
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.9375
+    cy: 0.9666914
+  - name: GND
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.0625
+    cy: 0.034039598
+  - name: GND
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.9375
+    cy: 0.034039598

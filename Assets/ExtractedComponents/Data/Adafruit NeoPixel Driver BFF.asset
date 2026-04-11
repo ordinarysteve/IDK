@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit NeoPixel Driver BFF
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit NeoPixel Driver BFF
+  icon: {fileID: 0}
+  realWorldWidth: 70
+  realWorldHeight: 94.207
+  pins:
+  - name: 3V
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.07142857
+    cy: 0.46129236
+  - name: +5V
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.07142857
+    cy: 0.24899378
+  - name: +5V
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.50597817
+    cy: 0.046245705
+  - name: MOSI
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.07142857
+    cy: 0.5674416
+  - name: MOSI
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0
+    cy: 0
+  - name: MISO
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.07142857
+    cy: 0.6735909
+  - name: SCK
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.07142857
+    cy: 0.7797402
+  - name: SCK
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0
+    cy: 0
+  - name: RX
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.07142857
+    cy: 0.8858895
+  - name: RX
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0
+  - name: NEOPIXEL
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.5
+    cy: 0.7877014
+  - name: NEOPIXEL
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.9529564
+    cy: 0.58382106
+  - name: NEOPIXEL
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0
+    cy: 0
+  - name: NEOPIXEL
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0
+    cy: 0
+  - name: NEOPIXEL
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0
+    cy: 0
+  - name: NEOPIXEL
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0
+  - name: NEOPIXEL
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: NEOPIX_OUT
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.6236369
+    cy: 0.046245705
+  - name: A0
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.9285714
+    cy: 0.24899378
+  - name: A1
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.9285714
+    cy: 0.35514307
+  - name: A2
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.9285714
+    cy: 0.46129236
+  - name: A3
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.9285714
+    cy: 0.5674416
+  - name: A3
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.9529564
+    cy: 0.52013147
+  - name: SDA
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.9285714
+    cy: 0.6735909
+  - name: SCL
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.9285714
+    cy: 0.7797402
+  - name: SCL
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0
+    cy: 0
+  - name: TX
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.9285714
+    cy: 0.8858895
+  - name: TX
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.07142857
+    cy: 0.35514307
+  - name: GND
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.3903234
+    cy: 0.046245705

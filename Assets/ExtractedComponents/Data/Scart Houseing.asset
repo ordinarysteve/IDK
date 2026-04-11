@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Scart Houseing
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Scart Houseing
+  icon: {fileID: 0}
+  realWorldWidth: 187.933
+  realWorldHeight: 81.296
+  pins:
+  - name: pin1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.116900705
+    cy: 0.048667833
+  - name: pin2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.1552069
+    cy: 0.048667833
+  - name: pin3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.19352378
+    cy: 0.048667833
+  - name: pin4
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.23183528
+    cy: 0.048667833
+  - name: pin5
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.27013618
+    cy: 0.048667833
+  - name: pin6
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.30845302
+    cy: 0.048667833
+  - name: pin7
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.3467592
+    cy: 0.048667833
+  - name: pin8
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.38506544
+    cy: 0.048667833
+  - name: pin9
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.42337695
+    cy: 0.048667833
+  - name: pin10
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.46169376
+    cy: 0.048667833
+  - name: pin11
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.50004256
+    cy: 0.048667833
+  - name: pin12
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.5383488
+    cy: 0.048667833
+  - name: pin13
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.5766231
+    cy: 0.048667833
+  - name: pin14
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.61493456
+    cy: 0.048667833
+  - name: pin15
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.6532514
+    cy: 0.048667833
+  - name: pin16
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.69156295
+    cy: 0.048667833
+  - name: pin17
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.72989047
+    cy: 0.048667833
+  - name: pin18
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.76820195
+    cy: 0.048667833
+  - name: pin19
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.80651885
+    cy: 0.048667833
+  - name: pin20
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.84483033
+    cy: 0.048667833
+  - name: pin21
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.8831047
+    cy: 0.048667833

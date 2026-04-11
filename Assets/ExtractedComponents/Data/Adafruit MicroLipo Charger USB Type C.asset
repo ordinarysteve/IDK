@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit MicroLipo Charger USB Type C
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit MicroLipo Charger USB Type C
+  icon: {fileID: 0}
+  realWorldWidth: 94.5
+  realWorldHeight: 75.003
+  pins:
+  - name: 5V
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.3121693
+    cy: 0.1333284
+  - name: VBAT
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.73544973
+    cy: 0.1333284
+  - name: VBAT
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.6976999
+    cy: 0.5524675
+  - name: D+
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.5238095
+    cy: 0.1333284
+  - name: D-
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.41798943
+    cy: 0.1333284
+  - name: GND
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.6296296
+    cy: 0.1333284
+  - name: GND
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.6976999
+    cy: 0.44748992

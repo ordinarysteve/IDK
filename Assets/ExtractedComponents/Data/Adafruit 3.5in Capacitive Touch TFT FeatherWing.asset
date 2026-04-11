@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit 3.5in Capacitive Touch TFT FeatherWing
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit 3.5in Capacitive Touch TFT FeatherWing
+  icon: {fileID: 0}
+  realWorldWidth: 355.1
+  realWorldHeight: 260
+  pins:
+  - name: 3.3V
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.5410435
+    cy: 0.66457266
+  - name: SDA
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.5410435
+    cy: 0.64
+  - name: SCL
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.5410435
+    cy: 0.61596155
+  - name: GND
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.5410435
+    cy: 0.68861115

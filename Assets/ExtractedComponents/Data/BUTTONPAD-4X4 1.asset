@@ -1,0 +1,499 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: BUTTONPAD-4X4 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: BUTTONPAD-4X4
+  icon: {fileID: 0}
+  realWorldWidth: 480.00003
+  realWorldHeight: 460
+  pins:
+  - name: G$0 BLU
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.072916664
+    cy: 0.98913044
+  - name: G$0 GND
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.09375
+    cy: 0.98913044
+  - name: G$0 GRN
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.010416667
+    cy: 0.98913044
+  - name: G$0 RED
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.03125
+    cy: 0.98913044
+  - name: G$0 SIG1
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.052083332
+    cy: 0.98913044
+  - name: G$0 SIG2
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.13541667
+    cy: 0.98913044
+  - name: G$1 BLU
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.19791667
+    cy: 0.98913044
+  - name: G$1 GND
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.17708333
+    cy: 0.98913044
+  - name: G$1 GRN
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.15625
+    cy: 0.98913044
+  - name: G$1 RED
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.114583336
+    cy: 0.98913044
+  - name: G$1 SIG1
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.28125104
+    cy: 0.98913044
+  - name: G$1 SIG2
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.3854177
+    cy: 0.98913044
+  - name: G$10 BLU
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.92708224
+    cy: 0.010869565
+  - name: G$10 GND
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.86458224
+    cy: 0.010869565
+  - name: G$10 GRN
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.94791555
+    cy: 0.010869565
+  - name: G$10 RED
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.90624887
+    cy: 0.010869565
+  - name: G$10 SIG1
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.23958437
+    cy: 0.010869565
+  - name: G$10 SIG2
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.21875104
+    cy: 0.010869565
+  - name: G$11 BLU
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.8229157
+    cy: 0.010869565
+  - name: G$11 GND
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.781249
+    cy: 0.010869565
+  - name: G$11 GRN
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.8020823
+    cy: 0.010869565
+  - name: G$11 RED
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.7604157
+    cy: 0.010869565
+  - name: G$11 SIG1
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.19791667
+    cy: 0.010869565
+  - name: G$11 SIG2
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.17708333
+    cy: 0.010869565
+  - name: G$12 BLU
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.6979157
+    cy: 0.010869565
+  - name: G$12 GND
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.718749
+    cy: 0.010869565
+  - name: G$12 GRN
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.7395823
+    cy: 0.010869565
+  - name: G$12 RED
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.6770823
+    cy: 0.010869565
+  - name: G$12 SIG1
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.15625
+    cy: 0.010869565
+  - name: G$12 SIG2
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.13541667
+    cy: 0.010869565
+  - name: G$13 BLU
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.6145823
+    cy: 0.010869565
+  - name: G$13 GND
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.593749
+    cy: 0.010869565
+  - name: G$13 GRN
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.6354157
+    cy: 0.010869565
+  - name: G$13 RED
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.5729157
+    cy: 0.010869565
+  - name: G$13 SIG1
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.114583336
+    cy: 0.010869565
+  - name: G$13 SIG2
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.09375
+    cy: 0.010869565
+  - name: G$14 BLU
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.531249
+    cy: 0.010869565
+  - name: G$14 GND
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.44791564
+    cy: 0.010869565
+  - name: G$14 GRN
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.5104157
+    cy: 0.010869565
+  - name: G$14 RED
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.48958233
+    cy: 0.010869565
+  - name: G$14 SIG1
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.072916664
+    cy: 0.010869565
+  - name: G$14 SIG2
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.052083332
+    cy: 0.010869565
+  - name: G$15 BLU
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.3645844
+    cy: 0.010869565
+  - name: G$15 GND
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.40625104
+    cy: 0.010869565
+  - name: G$15 GRN
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.34375104
+    cy: 0.010869565
+  - name: G$15 RED
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.3854177
+    cy: 0.010869565
+  - name: G$15 SIG1
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.03125
+    cy: 0.010869565
+  - name: G$15 SIG2
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.010416667
+    cy: 0.010869565
+  - name: G$2 BLU
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.23958437
+    cy: 0.98913044
+  - name: G$2 GND
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.3020844
+    cy: 0.98913044
+  - name: G$2 GRN
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.21875104
+    cy: 0.98913044
+  - name: G$2 RED
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.2604177
+    cy: 0.98913044
+  - name: G$2 SIG1
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.5104157
+    cy: 0.98913044
+  - name: G$2 SIG2
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.5520823
+    cy: 0.98913044
+  - name: G$3 BLU
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.34375104
+    cy: 0.98913044
+  - name: G$3 GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.40625104
+    cy: 0.98913044
+  - name: G$3 GRN
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.3229177
+    cy: 0.98913044
+  - name: G$3 RED
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.3645844
+    cy: 0.98913044
+  - name: G$3 SIG1
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.6979157
+    cy: 0.98913044
+  - name: G$3 SIG2
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.8020823
+    cy: 0.98913044
+  - name: G$4 BLU
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.44791564
+    cy: 0.98913044
+  - name: G$4 GND
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.468749
+    cy: 0.98913044
+  - name: G$4 GRN
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.42708442
+    cy: 0.98913044
+  - name: G$4 RED
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.48958233
+    cy: 0.98913044
+  - name: G$4 SIG1
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.843749
+    cy: 0.98913044
+  - name: G$4 SIG2
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.98958224
+    cy: 0.010869565
+  - name: G$5 BLU
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.593749
+    cy: 0.98913044
+  - name: G$5 GND
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.6145823
+    cy: 0.98913044
+  - name: G$5 GRN
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.6354157
+    cy: 0.98913044
+  - name: G$5 RED
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.5729157
+    cy: 0.98913044
+  - name: G$5 SIG1
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.88541555
+    cy: 0.010869565
+  - name: G$5 SIG2
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.843749
+    cy: 0.010869565
+  - name: G$6 BLU
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.718749
+    cy: 0.98913044
+  - name: G$6 GND
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.6770823
+    cy: 0.98913044
+  - name: G$6 GRN
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.531249
+    cy: 0.98913044
+  - name: G$6 RED
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.656249
+    cy: 0.98913044
+  - name: G$6 SIG1
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.656249
+    cy: 0.010869565
+  - name: G$6 SIG2
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.5520823
+    cy: 0.010869565
+  - name: G$7 BLU
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.781249
+    cy: 0.98913044
+  - name: G$7 GND
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.7604157
+    cy: 0.98913044
+  - name: G$7 GRN
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.8229157
+    cy: 0.98913044
+  - name: G$7 RED
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.7395823
+    cy: 0.98913044
+  - name: G$7 SIG1
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.468749
+    cy: 0.010869565
+  - name: G$7 SIG2
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.42708442
+    cy: 0.010869565
+  - name: G$8 BLU
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.90624887
+    cy: 0.98913044
+  - name: G$8 GND
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.86458224
+    cy: 0.98913044
+  - name: G$8 GRN
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.88541555
+    cy: 0.98913044
+  - name: G$8 RED
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.92708224
+    cy: 0.98913044
+  - name: G$8 SIG1
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.3229177
+    cy: 0.010869565
+  - name: G$8 SIG2
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.3020844
+    cy: 0.010869565
+  - name: G$9 BLU
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.94791555
+    cy: 0.98913044
+  - name: G$9 GND
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.96874887
+    cy: 0.98913044
+  - name: G$9 GRN
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.96874887
+    cy: 0.010869565
+  - name: G$9 RED
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.98958224
+    cy: 0.98913044
+  - name: G$9 SIG1
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.28125104
+    cy: 0.010869565
+  - name: G$9 SIG2
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.2604177
+    cy: 0.010869565

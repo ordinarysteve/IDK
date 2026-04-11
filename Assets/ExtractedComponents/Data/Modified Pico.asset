@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Modified Pico
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Modified Pico
+  icon: {fileID: 0}
+  realWorldWidth: 70
+  realWorldHeight: 165
+  pins:
+  - name: D1TX
+    svgId: connector112pin
+    pinName: connector112pin
+    cx: 0.072222225
+    cy: 0.6974705
+  - name: D0RX
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0.071795635
+    cy: 0.636915
+  - name: +5v
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0.071795635
+    cy: 0.57591754
+  - name: Gnd
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0.07163691
+    cy: 0.5153535
+  - name: RST
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0.07193453
+    cy: 0.45468855
+  - name: Aref
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0.07202381
+    cy: 0.3940488
+  - name: A5
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.071964286
+    cy: 0.3332744
+  - name: A4
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.07198413
+    cy: 0.2725505
+  - name: A3
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.07204365
+    cy: 0.21193601
+  - name: A2
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.07178571
+    cy: 0.15127946
+  - name: A1
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.071964286
+    cy: 0.09071969
+  - name: A0
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.07204365
+    cy: 0.030252524
+  - name: D2
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.9228869
+    cy: 0.6974537
+  - name: D3
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.92309517
+    cy: 0.6367676
+  - name: D4
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.9229067
+    cy: 0.5759975
+  - name: D5
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.9230456
+    cy: 0.51535773
+  - name: D6
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.92310506
+    cy: 0.45460436
+  - name: D7
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.92287695
+    cy: 0.3940825
+  - name: D8
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.9229861
+    cy: 0.33339646
+  - name: D9
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.9232044
+    cy: 0.27260524
+  - name: D10
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.9228472
+    cy: 0.21203704
+  - name: D11
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.92286706
+    cy: 0.15130469
+  - name: D12
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.9227679
+    cy: 0.090635516
+  - name: D13
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.92310506
+    cy: 0.03004209

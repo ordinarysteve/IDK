@@ -1,0 +1,379 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: RedBot MainBoard
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: RedBot MainBoard
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: MISO
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0
+    cy: 0
+  - name: SCK
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0
+  - name: SERVO_4/MOSI
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0
+    cy: 0
+  - name: RESET
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0
+    cy: 0
+  - name: R02
+    svgId: connector113pin
+    pinName: connector113pin
+    cx: 0
+    cy: 0
+  - name: R01
+    svgId: connector114pin
+    pinName: connector114pin
+    cx: 0
+    cy: 0
+  - name: L02
+    svgId: connector115pin
+    pinName: connector115pin
+    cx: 0
+    cy: 0
+  - name: L01
+    svgId: connector116pin
+    pinName: connector116pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector117pin
+    pinName: connector117pin
+    cx: 0
+    cy: 0
+  - name: V_BATT
+    svgId: connector118pin
+    pinName: connector118pin
+    cx: 0
+    cy: 0
+  - name: RR
+    svgId: connector119pin
+    pinName: connector119pin
+    cx: 0
+    cy: 0
+  - name: RB
+    svgId: connector120pin
+    pinName: connector120pin
+    cx: 0
+    cy: 0
+  - name: LR
+    svgId: connector121pin
+    pinName: connector121pin
+    cx: 0
+    cy: 0
+  - name: A0
+    svgId: connector122pin
+    pinName: connector122pin
+    cx: 0
+    cy: 0
+  - name: A1
+    svgId: connector123pin
+    pinName: connector123pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector124pin
+    pinName: connector124pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector125pin
+    pinName: connector125pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector126pin
+    pinName: connector126pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector127pin
+    pinName: connector127pin
+    cx: 0
+    cy: 0
+  - name: D3
+    svgId: connector128pin
+    pinName: connector128pin
+    cx: 0
+    cy: 0
+  - name: D9
+    svgId: connector129pin
+    pinName: connector129pin
+    cx: 0
+    cy: 0
+  - name: POW
+    svgId: connector130pin
+    pinName: connector130pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector131pin
+    pinName: connector131pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector132pin
+    pinName: connector132pin
+    cx: 0
+    cy: 0
+  - name: A2
+    svgId: connector133pin
+    pinName: connector133pin
+    cx: 0
+    cy: 0
+  - name: A3
+    svgId: connector134pin
+    pinName: connector134pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector135pin
+    pinName: connector135pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector136pin
+    pinName: connector136pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector137pin
+    pinName: connector137pin
+    cx: 0
+    cy: 0
+  - name: D10
+    svgId: connector138pin
+    pinName: connector138pin
+    cx: 0
+    cy: 0
+  - name: D11
+    svgId: connector139pin
+    pinName: connector139pin
+    cx: 0
+    cy: 0
+  - name: POW
+    svgId: connector140pin
+    pinName: connector140pin
+    cx: 0
+    cy: 0
+  - name: POW
+    svgId: connector141pin
+    pinName: connector141pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector142pin
+    pinName: connector142pin
+    cx: 0
+    cy: 0
+  - name: A4
+    svgId: connector143pin
+    pinName: connector143pin
+    cx: 0
+    cy: 0
+  - name: A5
+    svgId: connector144pin
+    pinName: connector144pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector145pin
+    pinName: connector145pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector146pin
+    pinName: connector146pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector147pin
+    pinName: connector147pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector148pin
+    pinName: connector148pin
+    cx: 0
+    cy: 0
+  - name: A6
+    svgId: connector149pin
+    pinName: connector149pin
+    cx: 0
+    cy: 0
+  - name: A7
+    svgId: connector150pin
+    pinName: connector150pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector151pin
+    pinName: connector151pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector152pin
+    pinName: connector152pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector153pin
+    pinName: connector153pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector154pin
+    pinName: connector154pin
+    cx: 0
+    cy: 0
+  - name: POW
+    svgId: connector155pin
+    pinName: connector155pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector156pin
+    pinName: connector156pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector157pin
+    pinName: connector157pin
+    cx: 0
+    cy: 0
+  - name: LB
+    svgId: connector158pin
+    pinName: connector158pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino Can-Bus Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino Can-Bus Shield
+  icon: {fileID: 0}
+  realWorldWidth: 209.99998
+  realWorldHeight: 278.728
+  pins:
+  - name: VCC
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.61904764
+    cy: 0.8852076
+  - name: GND
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.6666667
+    cy: 0.8887953
+  - name: LCD
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.71428573
+    cy: 0.8852076
+  - name: VCC
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.6666667
+    cy: 0.3667806
+  - name: GND
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.71428573
+    cy: 0.3667806
+  - name: CANH
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.7619048
+    cy: 0.3667806
+  - name: CANL
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.8095238
+    cy: 0.3667806
+  - name: 3.3V
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.95238096
+    cy: 0.56410575
+  - name: VCC
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.95238096
+    cy: 0.52822846
+  - name: A0
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.95238096
+    cy: 0.34884346
+  - name: JOY-UP
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.95238096
+    cy: 0.31296614
+  - name: JOY-LEFT
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.95238096
+    cy: 0.27708885
+  - name: JOY-DOWN
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.95238096
+    cy: 0.24121155
+  - name: JOY-CLICK
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.95238096
+    cy: 0.20533425
+  - name: JOY-RIGHT
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.95238096
+    cy: 0.16945696
+  - name: AREF
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.04761905
+    cy: 0.7255536
+  - name: CAN_INT
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.04761905
+    cy: 0.24121155
+  - name: D3
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.04761905
+    cy: 0.27708885
+  - name: D4
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.04761905
+    cy: 0.31296614
+  - name: D5
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.04761905
+    cy: 0.34884346
+  - name: LCD
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.04761905
+    cy: 0.38471925
+  - name: LED2
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.04761905
+    cy: 0.42059654
+  - name: LED1
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.04761905
+    cy: 0.4744125
+  - name: SD_CS
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.04761905
+    cy: 0.5102898
+  - name: CAN_CS
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.04761905
+    cy: 0.5461671
+  - name: MOSI
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.04761905
+    cy: 0.58204436
+  - name: MISO
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.04761905
+    cy: 0.6179217
+  - name: SCK
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.04761905
+    cy: 0.653799
+  - name: GND
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.95238096
+    cy: 0.49235114
+  - name: GND
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.95238096
+    cy: 0.45647386
+  - name: GND
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0.04761905
+    cy: 0.6896763
+  - name: RS
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.95238096
+    cy: 0.59998304
+  - name: RX
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.04761905
+    cy: 0.16945696
+  - name: TX
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.04761905
+    cy: 0.20533425
+  - name: +12V
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0.95238096
+    cy: 0.42059654

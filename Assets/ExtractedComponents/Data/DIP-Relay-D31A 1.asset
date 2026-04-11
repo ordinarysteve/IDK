@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: DIP-Relay-D31A 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: DIP-Relay-D31A
+  icon: {fileID: 0}
+  realWorldWidth: 63
+  realWorldHeight: 29.7
+  pins:
+  - name: Coil2 -
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.78577775
+    cy: 0.9344277
+  - name: B1 Switch Terminal B
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.9286151
+    cy: 0.9344277
+  - name: B2 Switch Terminal B
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.9286151
+    cy: 0.065759726
+  - name: Coil Sheeld
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.78577775
+    cy: 0.065759726
+  - name: A1 Switch Terminal A
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.07149365
+    cy: 0.9344277
+  - name: n.c.
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.21432938
+    cy: 0.065759726
+  - name: COIL1 +
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.21432938
+    cy: 0.9344277
+  - name: A2 Switch Terminal A
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.07149365
+    cy: 0.065759726

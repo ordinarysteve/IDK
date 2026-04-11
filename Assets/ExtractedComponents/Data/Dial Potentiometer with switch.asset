@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Dial Potentiometer with switch
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Dial Potentiometer with switch
+  icon: {fileID: 0}
+  realWorldWidth: 96.1097
+  realWorldHeight: 28.5
+  pins:
+  - name: switch leg1
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.18800129
+    cy: 0.986574
+  - name: switch leg2
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.81258404
+    cy: 0.986574
+  - name: leg1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.39620516
+    cy: 0.986574
+  - name: wiper
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.5002674
+    cy: 0.986574
+  - name: leg2
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.6043874
+    cy: 0.986574

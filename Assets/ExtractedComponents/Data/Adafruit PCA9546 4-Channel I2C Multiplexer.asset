@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit PCA9546 4-Channel I2C Multiplexer
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit PCA9546 4-Channel I2C Multiplexer
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: VCC
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0
+    cy: 0
+  - name: 3SDA
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: 3SCL
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: 2SDA
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: 2SCL
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: 1SDA
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: 1SCL
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: 0SDA
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0
+    cy: 0
+  - name: 0SCL
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0
+    cy: 0
+  - name: INPUTSDA
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0
+    cy: 0
+  - name: INPUTSCL
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0
+    cy: 0
+  - name: RESET
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: A0
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: A1
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: A2
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Graphical LCD 128x64
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Graphical LCD 128x64
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: A
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: CS1
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0
+    cy: 0
+  - name: CS2
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0
+    cy: 0
+  - name: D_I
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: DB0
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0
+    cy: 0
+  - name: DB1
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0
+    cy: 0
+  - name: DB2
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0
+    cy: 0
+  - name: DB3
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0
+    cy: 0
+  - name: DB4
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0
+    cy: 0
+  - name: DB5
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0
+    cy: 0
+  - name: DB6
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0
+    cy: 0
+  - name: DB7
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0
+    cy: 0
+  - name: E
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: K
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: R_W
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: RST
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: VDD
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0
+    cy: 0
+  - name: VEE
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: VO
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0
+    cy: 0
+  - name: VSS
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0
+    cy: 0

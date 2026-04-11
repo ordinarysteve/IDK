@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun Noisy Cricket Stereo Amplifier - 1.5W
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun Noisy Cricket Stereo Amplifier - 1.5W
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: MONO_OUT
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: LOUT
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: ROUT
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: RIN
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: LIN
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0
+    cy: 0
+  - name: 5V
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0
+    cy: 0
+  - name: VIN
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0
+    cy: 0
+  - name: P$1
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0
+    cy: 0
+  - name: P$2
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0
+    cy: 0
+  - name: P$1
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0
+    cy: 0
+  - name: P$2
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0
+    cy: 0

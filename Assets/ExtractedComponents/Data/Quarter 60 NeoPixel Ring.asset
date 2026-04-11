@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Quarter 60 NeoPixel Ring
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Quarter 60 NeoPixel Ring
+  icon: {fileID: 0}
+  realWorldWidth: 313.38998
+  realWorldHeight: 313.38998
+  pins:
+  - name: VDD
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: -0.04397048
+    cy: 0.06577956
+  - name: VDD
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.9085468
+    cy: 1.0000776
+  - name: DATAIN
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: -0.04397048
+    cy: 0.040655468
+  - name: DATAOUT
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.93363094
+    cy: 1.0000776
+  - name: GND
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: -0.04397048
+    cy: 0.015529161
+  - name: GND
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.95880383
+    cy: 1.0000776

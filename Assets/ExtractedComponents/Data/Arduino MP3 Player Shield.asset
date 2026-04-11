@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino MP3 Player Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino MP3 Player Shield
+  icon: {fileID: 0}
+  realWorldWidth: 209.99998
+  realWorldHeight: 246.496
+  pins:
+  - name: GBUF
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.6666667
+    cy: 0.93307865
+  - name: RIGHT
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.71428573
+    cy: 0.93307865
+  - name: LEFT
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.7619048
+    cy: 0.93307865
+  - name: 3.3
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.95238096
+    cy: 0.52739227
+  - name: VCC
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.95238096
+    cy: 0.48682365
+  - name: A0
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.95238096
+    cy: 0.28398046
+  - name: A1
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.95238096
+    cy: 0.24341182
+  - name: A2
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.95238096
+    cy: 0.20284317
+  - name: A3
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.95238096
+    cy: 0.16227454
+  - name: A4
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.95238096
+    cy: 0.12170591
+  - name: A5
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.95238096
+    cy: 0.08113727
+  - name: AREF
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.04761905
+    cy: 0.7099511
+  - name: MP3-DREQ
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.04761905
+    cy: 0.16227454
+  - name: 5V-MIDI-RX
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.04761905
+    cy: 0.20284317
+  - name: 5V-GPIO1
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.04761905
+    cy: 0.24341182
+  - name: D5
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0.04761905
+    cy: 0.28398046
+  - name: 5V-MP3-CS
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.04761905
+    cy: 0.32454908
+  - name: 5V-MP3-DCS
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.04761905
+    cy: 0.36511773
+  - name: 5V-MP3-RST
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.04761905
+    cy: 0.42597067
+  - name: 5V-SD-CS
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0.04761905
+    cy: 0.46653932
+  - name: D10
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0.04761905
+    cy: 0.507108
+  - name: 5V-MOSI
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0.04761905
+    cy: 0.54767656
+  - name: MISO
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0.04761905
+    cy: 0.5882452
+  - name: 5V-SCK
+    svgId: connector106pin
+    pinName: connector106pin
+    cx: 0.04761905
+    cy: 0.62881386
+  - name: GND
+    svgId: connector107pin
+    pinName: connector107pin
+    cx: 0.95238096
+    cy: 0.44625497
+  - name: GND
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0.95238096
+    cy: 0.40568635
+  - name: GND
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0.04761905
+    cy: 0.6693825
+  - name: ARST
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0.95238096
+    cy: 0.5679609
+  - name: RX
+    svgId: connector111pin
+    pinName: connector111pin
+    cx: 0.04761905
+    cy: 0.08113727
+  - name: TX
+    svgId: connector112pin
+    pinName: connector112pin
+    cx: 0.04761905
+    cy: 0.12170591
+  - name: VIN
+    svgId: connector113pin
+    pinName: connector113pin
+    cx: 0.95238096
+    cy: 0.36511773

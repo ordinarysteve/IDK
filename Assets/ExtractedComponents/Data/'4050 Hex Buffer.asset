@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: '''4050 Hex Buffer'
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: '''4050 Hex Buffer'
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: L
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: A
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0
+    cy: 0
+  - name: NC
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: H
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0
+    cy: 0
+  - name: B
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0
+    cy: 0
+  - name: I
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0
+    cy: 0
+  - name: C
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0
+    cy: 0
+  - name: VSS
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0
+    cy: 0
+  - name: D
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0
+    cy: 0
+  - name: J
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0
+    cy: 0
+  - name: E
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0
+    cy: 0
+  - name: K
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0
+    cy: 0
+  - name: VCC
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0
+    cy: 0
+  - name: NC
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: F
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: G
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0
+    cy: 0

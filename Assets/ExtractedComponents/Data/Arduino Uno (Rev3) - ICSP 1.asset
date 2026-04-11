@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino Uno (Rev3) - ICSP 1
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino Uno (Rev3) - ICSP
+  icon: {fileID: 0}
+  realWorldWidth: 212.372
+  realWorldHeight: 151.2
+  pins:
+  - name: A0
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.7626806
+    cy: 0.95238096
+  - name: A1
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.79658335
+    cy: 0.95238096
+  - name: A2
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.8304861
+    cy: 0.95238096
+  - name: A3
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.86439365
+    cy: 0.95238096
+  - name: A4/SDA
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.8982917
+    cy: 0.95238096
+  - name: A5/SCL
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.9321945
+    cy: 0.95238096
+  - name: ICSP MISO
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.9338943
+    cy: 0.42857146
+  - name: 5V
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.9677924
+    cy: 0.42857146
+  - name: ICSP SCK
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.9338943
+    cy: 0.47619048
+  - name: ICSP MOSI
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.9677924
+    cy: 0.47619048
+  - name: RESET
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.9338943
+    cy: 0.5238095
+  - name: GND
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.9677924
+    cy: 0.5238095
+  - name: D8
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.6406259
+    cy: 0.04761905
+  - name: D9 PWM
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.60672784
+    cy: 0.04761905
+  - name: D10 PWM/SS
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.5728251
+    cy: 0.04761905
+  - name: D11 PWM/MOSI
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.5389223
+    cy: 0.04761905
+  - name: D12/MISO
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.5050195
+    cy: 0.04761905
+  - name: D13/SCK
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.47111675
+    cy: 0.04761905
+  - name: GND
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.43721396
+    cy: 0.04761905
+  - name: AREF
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.4033112
+    cy: 0.04761905
+  - name: A4/SDA
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.36940843
+    cy: 0.04761905
+  - name: A5/SCL
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.33550093
+    cy: 0.04761905
+  - name: D0/RX
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.9321945
+    cy: 0.04761905
+  - name: D1/TX
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.8982917
+    cy: 0.04761905
+  - name: D2
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.86439365
+    cy: 0.04761905
+  - name: D3 PWM
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.8304861
+    cy: 0.04761905
+  - name: D4
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.79658335
+    cy: 0.04761905
+  - name: D5 PWM
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.7626806
+    cy: 0.04761905
+  - name: D6 PWM
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.7287778
+    cy: 0.04761905
+  - name: D7
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.6948798
+    cy: 0.04761905
+  - name: IOREF
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.49145842
+    cy: 0.95238096
+  - name: RESET
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.5253659
+    cy: 0.95238096
+  - name: 3V3
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.55926394
+    cy: 0.95238096
+  - name: 5V
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.5931667
+    cy: 0.95238096
+  - name: GND
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.6270695
+    cy: 0.95238096
+  - name: GND
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.66097224
+    cy: 0.95238096
+  - name: VIN
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.6948798
+    cy: 0.95238096
+  - name: N/C
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.45755562
+    cy: 0.95238096

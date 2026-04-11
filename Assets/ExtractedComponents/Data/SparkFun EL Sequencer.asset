@@ -1,0 +1,389 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun EL Sequencer
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun EL Sequencer
+  icon: {fileID: 0}
+  realWorldWidth: 225
+  realWorldHeight: 329.028
+  pins:
+  - name: AC IN +
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.19938271
+    cy: 0.106374
+  - name: AC IN -
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.19938271
+    cy: 0.13676658
+  - name: DC OUT +
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.19938271
+    cy: 0.212748
+  - name: DC OUT -
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.19938271
+    cy: 0.24314056
+  - name: BATT IN +
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.19938271
+    cy: 0.319122
+  - name: BATT IN -
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.19938271
+    cy: 0.34951457
+  - name: ICSP MISO
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.13271604
+    cy: 0.51667374
+  - name: ICSP SCK
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.13271604
+    cy: 0.54706633
+  - name: ICSP RESET
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.13271604
+    cy: 0.57745886
+  - name: ICSP VCC
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.1771605
+    cy: 0.51667374
+  - name: ICSP MOSI
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.1771605
+    cy: 0.54706633
+  - name: ICSP GND
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.1771605
+    cy: 0.57745886
+  - name: XBEE PIN 20
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.03888889
+    cy: 0.64373153
+  - name: XBEE PIN 19
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.074074075
+    cy: 0.64373153
+  - name: XBEE PIN 18
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.10925926
+    cy: 0.64373153
+  - name: XBEE PIN 17
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.14444444
+    cy: 0.64373153
+  - name: XBEE PIN 16
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.17901234
+    cy: 0.64373153
+  - name: XBEE PIN 15
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.21419753
+    cy: 0.64373153
+  - name: XBEE PIN 14
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.24938272
+    cy: 0.64373153
+  - name: XBEE PIN 13
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.28395063
+    cy: 0.64373153
+  - name: XBEE PIN 12
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.31913581
+    cy: 0.64373153
+  - name: XBEE PIN 11
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.354321
+    cy: 0.64373153
+  - name: XBEE PIN 1
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.03888889
+    cy: 0.90671176
+  - name: XBEE PIN 2
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.074074075
+    cy: 0.90671176
+  - name: XBEE PIN 3
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.10925926
+    cy: 0.90671176
+  - name: XBEE PIN 4
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.14444444
+    cy: 0.90671176
+  - name: XBEE PIN 5
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.17901234
+    cy: 0.90671176
+  - name: XBEE PIN 6
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.21419753
+    cy: 0.90671176
+  - name: XBEE PIN 7
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.24938272
+    cy: 0.90671176
+  - name: XBEE PIN 8
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.28395063
+    cy: 0.90671176
+  - name: XBEE PIN 9
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.31913581
+    cy: 0.90671176
+  - name: XBEE PIN 10
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.354321
+    cy: 0.90671176
+  - name: A2
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.021604938
+    cy: 0.66863656
+  - name: A3
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.021604938
+    cy: 0.69902915
+  - name: A4
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.021604938
+    cy: 0.72942173
+  - name: A5
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.021604938
+    cy: 0.75981426
+  - name: A6
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.021604938
+    cy: 0.79020685
+  - name: A7
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.021604938
+    cy: 0.8205994
+  - name: VCC
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.021604938
+    cy: 0.850992
+  - name: GND
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.021604938
+    cy: 0.8813846
+  - name: nRF GND
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.121296294
+    cy: 0.97235125
+  - name: nRF IRQ
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.16604938
+    cy: 0.97256225
+  - name: nRF MISO
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.21049382
+    cy: 0.97256225
+  - name: nRF MOSI
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.25493827
+    cy: 0.97256225
+  - name: nRF SCK
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.29938272
+    cy: 0.97256225
+  - name: nRF CSN
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.34382716
+    cy: 0.97256225
+  - name: nRF CE/SLEEP
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.3882716
+    cy: 0.97256225
+  - name: nRF VCC
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.43271604
+    cy: 0.97256225
+  - name: FTDI DTR
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.6549383
+    cy: 0.97256225
+  - name: FTDI RXI
+    svgId: connector49pin
+    pinName: connector49pin
+    cx: 0.6993827
+    cy: 0.97256225
+  - name: FTDI TXO
+    svgId: connector50pin
+    pinName: connector50pin
+    cx: 0.74382716
+    cy: 0.97256225
+  - name: FTDI VCC
+    svgId: connector51pin
+    pinName: connector51pin
+    cx: 0.7882716
+    cy: 0.97256225
+  - name: FTDI CTS
+    svgId: connector52pin
+    pinName: connector52pin
+    cx: 0.832716
+    cy: 0.97256225
+  - name: FTDI GND
+    svgId: connector53pin
+    pinName: connector53pin
+    cx: 0.87716055
+    cy: 0.97256225
+  - name: A +
+    svgId: connector54pin
+    pinName: connector54pin
+    cx: 0.7993827
+    cy: 0.8813846
+  - name: A -
+    svgId: connector55pin
+    pinName: connector55pin
+    cx: 0.7993827
+    cy: 0.850992
+  - name: B +
+    svgId: connector56pin
+    pinName: connector56pin
+    cx: 0.7993827
+    cy: 0.7750106
+  - name: B -
+    svgId: connector57pin
+    pinName: connector57pin
+    cx: 0.7993827
+    cy: 0.744618
+  - name: C +
+    svgId: connector58pin
+    pinName: connector58pin
+    cx: 0.7993827
+    cy: 0.66863656
+  - name: C -
+    svgId: connector59pin
+    pinName: connector59pin
+    cx: 0.7993827
+    cy: 0.638244
+  - name: D +
+    svgId: connector60pin
+    pinName: connector60pin
+    cx: 0.7993827
+    cy: 0.56226254
+  - name: D -
+    svgId: connector61pin
+    pinName: connector61pin
+    cx: 0.7993827
+    cy: 0.53187
+  - name: E +
+    svgId: connector62pin
+    pinName: connector62pin
+    cx: 0.7993827
+    cy: 0.45588857
+  - name: E -
+    svgId: connector63pin
+    pinName: connector63pin
+    cx: 0.7993827
+    cy: 0.425496
+  - name: F +
+    svgId: connector64pin
+    pinName: connector64pin
+    cx: 0.7993827
+    cy: 0.34951457
+  - name: F -
+    svgId: connector65pin
+    pinName: connector65pin
+    cx: 0.7993827
+    cy: 0.319122
+  - name: G +
+    svgId: connector66pin
+    pinName: connector66pin
+    cx: 0.7993827
+    cy: 0.24314056
+  - name: G -
+    svgId: connector67pin
+    pinName: connector67pin
+    cx: 0.7993827
+    cy: 0.212748
+  - name: H +
+    svgId: connector68pin
+    pinName: connector68pin
+    cx: 0.7993827
+    cy: 0.13676658
+  - name: H -
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0.7993827
+    cy: 0.106374
+  - name: A PIN 1
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0.32530865
+    cy: 0.23174337
+  - name: A PIN 2
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0.32530865
+    cy: 0.34360492
+  - name: B PIN 1
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0.2777778
+    cy: 0.23174337
+  - name: B PIN 2
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0.2777778
+    cy: 0.34360492

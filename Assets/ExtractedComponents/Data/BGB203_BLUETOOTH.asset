@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: BGB203_BLUETOOTH
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: BGB203_BLUETOOTH
+  icon: {fileID: 0}
+  realWorldWidth: 250
+  realWorldHeight: 60.000004
+  pins:
+  - name: ANT
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.06
+    cy: 0.9166667
+  - name: 'BTACT_GPIO[17]'
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.540002
+    cy: 0.9166667
+  - name: 'CTS_GPIO[2]'
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.34
+    cy: 0.083333336
+  - name: DN_USB
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.540002
+    cy: 0.083333336
+  - name: DP_USB
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.500002
+    cy: 0.083333336
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.02
+    cy: 0.9166667
+  - name: GND
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.38
+    cy: 0.9166667
+  - name: GND
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.1
+    cy: 0.9166667
+  - name: GND
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.14
+    cy: 0.9166667
+  - name: GND
+    svgId: connector48pin
+    pinName: connector48pin
+    cx: 0.06
+    cy: 0.083333336
+  - name: GND
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.18
+    cy: 0.9166667
+  - name: GND
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.22
+    cy: 0.9166667
+  - name: GND
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.26
+    cy: 0.9166667
+  - name: GND
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.3
+    cy: 0.9166667
+  - name: GND
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.34
+    cy: 0.9166667
+  - name: 'GPIO[10]'
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.89999807
+    cy: 0.9166667
+  - name: 'GPIO[11]'
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.85999805
+    cy: 0.9166667
+  - name: 'GPIO[12]'
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.460002
+    cy: 0.9166667
+  - name: 'GPIO[13]'
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.8200021
+    cy: 0.9166667
+  - name: 'GPIO[14]'
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.420002
+    cy: 0.9166667
+  - name: 'GPIO[15]'
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.8200021
+    cy: 0.083333336
+  - name: 'GPIO[16]'
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.97999805
+    cy: 0.9166667
+  - name: 'GPIO[6]'
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.700002
+    cy: 0.083333336
+  - name: 'GPIO[7]'
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.780002
+    cy: 0.083333336
+  - name: 'GPIO[8]'
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.660002
+    cy: 0.083333336
+  - name: 'GPIO[9]'
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.740002
+    cy: 0.083333336
+  - name: 'I2C_SCL_GPIO[0]'
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.660002
+    cy: 0.9166667
+  - name: 'I2C_SDA_GPIO[1]'
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.62000203
+    cy: 0.9166667
+  - name: RESET_N
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.3
+    cy: 0.083333336
+  - name: 'RTS_GPIO[3]'
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.460002
+    cy: 0.083333336
+  - name: 'RX_GPIO[5]'
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.420002
+    cy: 0.083333336
+  - name: TCK_JTAG
+    svgId: connector47pin
+    pinName: connector47pin
+    cx: 0.1
+    cy: 0.083333336
+  - name: TDI_JTAG
+    svgId: connector46pin
+    pinName: connector46pin
+    cx: 0.14
+    cy: 0.083333336
+  - name: TDO_JTAG
+    svgId: connector45pin
+    pinName: connector45pin
+    cx: 0.18
+    cy: 0.083333336
+  - name: TMS_JTAG
+    svgId: connector44pin
+    pinName: connector44pin
+    cx: 0.22
+    cy: 0.083333336
+  - name: 'TX_GPIO[4]'
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.38
+    cy: 0.083333336
+  - name: VANLO
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.580002
+    cy: 0.9166667
+  - name: VBUS_USB
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.85999805
+    cy: 0.083333336
+  - name: VDDA_VDDO
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.700002
+    cy: 0.9166667
+  - name: VDDC
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.62000203
+    cy: 0.083333336
+  - name: VDDC_VDDIO1
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.93999803
+    cy: 0.9166667
+  - name: VDDIO1
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.97999805
+    cy: 0.083333336
+  - name: VDDIO2
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.580002
+    cy: 0.083333336
+  - name: VDDIORF
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.26
+    cy: 0.083333336
+  - name: VDDRF
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.500002
+    cy: 0.9166667
+  - name: XTAL1_LP
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.93999803
+    cy: 0.083333336
+  - name: XTAL1_SYS
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.780002
+    cy: 0.9166667
+  - name: XTAL2_LP
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.89999807
+    cy: 0.083333336
+  - name: XTAL2_SYS
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.740002
+    cy: 0.9166667

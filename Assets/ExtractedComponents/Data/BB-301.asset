@@ -1,0 +1,1369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: BB-301
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: BB-301
+  icon: {fileID: 0}
+  realWorldWidth: 234
+  realWorldHeight: 126
+  pins:
+  - name: A1
+    svgId: A1pin
+    pinName: A1pin
+    cx: 0
+    cy: 0
+  - name: B1
+    svgId: B1pin
+    pinName: B1pin
+    cx: 0
+    cy: 0
+  - name: C1
+    svgId: C1pin
+    pinName: C1pin
+    cx: 0
+    cy: 0
+  - name: D1
+    svgId: D1pin
+    pinName: D1pin
+    cx: 0
+    cy: 0
+  - name: E1
+    svgId: E1pin
+    pinName: E1pin
+    cx: 0
+    cy: 0
+  - name: A2
+    svgId: A2pin
+    pinName: A2pin
+    cx: 0
+    cy: 0
+  - name: B2
+    svgId: B2pin
+    pinName: B2pin
+    cx: 0
+    cy: 0
+  - name: C2
+    svgId: C2pin
+    pinName: C2pin
+    cx: 0
+    cy: 0
+  - name: D2
+    svgId: D2pin
+    pinName: D2pin
+    cx: 0
+    cy: 0
+  - name: E2
+    svgId: E2pin
+    pinName: E2pin
+    cx: 0
+    cy: 0
+  - name: A3
+    svgId: A3pin
+    pinName: A3pin
+    cx: 0
+    cy: 0
+  - name: B3
+    svgId: B3pin
+    pinName: B3pin
+    cx: 0
+    cy: 0
+  - name: C3
+    svgId: C3pin
+    pinName: C3pin
+    cx: 0
+    cy: 0
+  - name: D3
+    svgId: D3pin
+    pinName: D3pin
+    cx: 0
+    cy: 0
+  - name: E3
+    svgId: E3pin
+    pinName: E3pin
+    cx: 0
+    cy: 0
+  - name: A4
+    svgId: A4pin
+    pinName: A4pin
+    cx: 0
+    cy: 0
+  - name: B4
+    svgId: B4pin
+    pinName: B4pin
+    cx: 0
+    cy: 0
+  - name: C4
+    svgId: C4pin
+    pinName: C4pin
+    cx: 0
+    cy: 0
+  - name: D4
+    svgId: D4pin
+    pinName: D4pin
+    cx: 0
+    cy: 0
+  - name: E4
+    svgId: E4pin
+    pinName: E4pin
+    cx: 0
+    cy: 0
+  - name: A5
+    svgId: A5pin
+    pinName: A5pin
+    cx: 0
+    cy: 0
+  - name: B5
+    svgId: B5pin
+    pinName: B5pin
+    cx: 0
+    cy: 0
+  - name: C5
+    svgId: C5pin
+    pinName: C5pin
+    cx: 0
+    cy: 0
+  - name: D5
+    svgId: D5pin
+    pinName: D5pin
+    cx: 0
+    cy: 0
+  - name: E5
+    svgId: E5pin
+    pinName: E5pin
+    cx: 0
+    cy: 0
+  - name: A6
+    svgId: A6pin
+    pinName: A6pin
+    cx: 0
+    cy: 0
+  - name: B6
+    svgId: B6pin
+    pinName: B6pin
+    cx: 0
+    cy: 0
+  - name: C6
+    svgId: C6pin
+    pinName: C6pin
+    cx: 0
+    cy: 0
+  - name: D6
+    svgId: D6pin
+    pinName: D6pin
+    cx: 0
+    cy: 0
+  - name: E6
+    svgId: E6pin
+    pinName: E6pin
+    cx: 0
+    cy: 0
+  - name: A7
+    svgId: A7pin
+    pinName: A7pin
+    cx: 0
+    cy: 0
+  - name: B7
+    svgId: B7pin
+    pinName: B7pin
+    cx: 0
+    cy: 0
+  - name: C7
+    svgId: C7pin
+    pinName: C7pin
+    cx: 0
+    cy: 0
+  - name: D7
+    svgId: D7pin
+    pinName: D7pin
+    cx: 0
+    cy: 0
+  - name: E7
+    svgId: E7pin
+    pinName: E7pin
+    cx: 0
+    cy: 0
+  - name: A8
+    svgId: A8pin
+    pinName: A8pin
+    cx: 0
+    cy: 0
+  - name: B8
+    svgId: B8pin
+    pinName: B8pin
+    cx: 0
+    cy: 0
+  - name: C8
+    svgId: C8pin
+    pinName: C8pin
+    cx: 0
+    cy: 0
+  - name: D8
+    svgId: D8pin
+    pinName: D8pin
+    cx: 0
+    cy: 0
+  - name: E8
+    svgId: E8pin
+    pinName: E8pin
+    cx: 0
+    cy: 0
+  - name: A9
+    svgId: A9pin
+    pinName: A9pin
+    cx: 0
+    cy: 0
+  - name: B9
+    svgId: B9pin
+    pinName: B9pin
+    cx: 0
+    cy: 0
+  - name: C9
+    svgId: C9pin
+    pinName: C9pin
+    cx: 0
+    cy: 0
+  - name: D9
+    svgId: D9pin
+    pinName: D9pin
+    cx: 0
+    cy: 0
+  - name: E9
+    svgId: E9pin
+    pinName: E9pin
+    cx: 0
+    cy: 0
+  - name: A10
+    svgId: A10pin
+    pinName: A10pin
+    cx: 0
+    cy: 0
+  - name: B10
+    svgId: B10pin
+    pinName: B10pin
+    cx: 0
+    cy: 0
+  - name: C10
+    svgId: C10pin
+    pinName: C10pin
+    cx: 0
+    cy: 0
+  - name: D10
+    svgId: D10pin
+    pinName: D10pin
+    cx: 0
+    cy: 0
+  - name: E10
+    svgId: E10pin
+    pinName: E10pin
+    cx: 0
+    cy: 0
+  - name: A11
+    svgId: A11pin
+    pinName: A11pin
+    cx: 0
+    cy: 0
+  - name: B11
+    svgId: B11pin
+    pinName: B11pin
+    cx: 0
+    cy: 0
+  - name: C11
+    svgId: C11pin
+    pinName: C11pin
+    cx: 0
+    cy: 0
+  - name: D11
+    svgId: D11pin
+    pinName: D11pin
+    cx: 0
+    cy: 0
+  - name: E11
+    svgId: E11pin
+    pinName: E11pin
+    cx: 0
+    cy: 0
+  - name: A12
+    svgId: A12pin
+    pinName: A12pin
+    cx: 0
+    cy: 0
+  - name: B12
+    svgId: B12pin
+    pinName: B12pin
+    cx: 0
+    cy: 0
+  - name: C12
+    svgId: C12pin
+    pinName: C12pin
+    cx: 0
+    cy: 0
+  - name: D12
+    svgId: D12pin
+    pinName: D12pin
+    cx: 0
+    cy: 0
+  - name: E12
+    svgId: E12pin
+    pinName: E12pin
+    cx: 0
+    cy: 0
+  - name: A13
+    svgId: A13pin
+    pinName: A13pin
+    cx: 0
+    cy: 0
+  - name: B13
+    svgId: B13pin
+    pinName: B13pin
+    cx: 0
+    cy: 0
+  - name: C13
+    svgId: C13pin
+    pinName: C13pin
+    cx: 0
+    cy: 0
+  - name: D13
+    svgId: D13pin
+    pinName: D13pin
+    cx: 0
+    cy: 0
+  - name: E13
+    svgId: E13pin
+    pinName: E13pin
+    cx: 0
+    cy: 0
+  - name: A14
+    svgId: A14pin
+    pinName: A14pin
+    cx: 0
+    cy: 0
+  - name: B14
+    svgId: B14pin
+    pinName: B14pin
+    cx: 0
+    cy: 0
+  - name: C14
+    svgId: C14pin
+    pinName: C14pin
+    cx: 0
+    cy: 0
+  - name: D14
+    svgId: D14pin
+    pinName: D14pin
+    cx: 0
+    cy: 0
+  - name: E14
+    svgId: E14pin
+    pinName: E14pin
+    cx: 0
+    cy: 0
+  - name: A15
+    svgId: A15pin
+    pinName: A15pin
+    cx: 0
+    cy: 0
+  - name: B15
+    svgId: B15pin
+    pinName: B15pin
+    cx: 0
+    cy: 0
+  - name: C15
+    svgId: C15pin
+    pinName: C15pin
+    cx: 0
+    cy: 0
+  - name: D15
+    svgId: D15pin
+    pinName: D15pin
+    cx: 0
+    cy: 0
+  - name: E15
+    svgId: E15pin
+    pinName: E15pin
+    cx: 0
+    cy: 0
+  - name: A16
+    svgId: A16pin
+    pinName: A16pin
+    cx: 0
+    cy: 0
+  - name: B16
+    svgId: B16pin
+    pinName: B16pin
+    cx: 0
+    cy: 0
+  - name: C16
+    svgId: C16pin
+    pinName: C16pin
+    cx: 0
+    cy: 0
+  - name: D16
+    svgId: D16pin
+    pinName: D16pin
+    cx: 0
+    cy: 0
+  - name: E16
+    svgId: E16pin
+    pinName: E16pin
+    cx: 0
+    cy: 0
+  - name: A17
+    svgId: A17pin
+    pinName: A17pin
+    cx: 0
+    cy: 0
+  - name: B17
+    svgId: B17pin
+    pinName: B17pin
+    cx: 0
+    cy: 0
+  - name: C17
+    svgId: C17pin
+    pinName: C17pin
+    cx: 0
+    cy: 0
+  - name: D17
+    svgId: D17pin
+    pinName: D17pin
+    cx: 0
+    cy: 0
+  - name: E17
+    svgId: E17pin
+    pinName: E17pin
+    cx: 0
+    cy: 0
+  - name: A18
+    svgId: A18pin
+    pinName: A18pin
+    cx: 0
+    cy: 0
+  - name: B18
+    svgId: B18pin
+    pinName: B18pin
+    cx: 0
+    cy: 0
+  - name: C18
+    svgId: C18pin
+    pinName: C18pin
+    cx: 0
+    cy: 0
+  - name: D18
+    svgId: D18pin
+    pinName: D18pin
+    cx: 0
+    cy: 0
+  - name: E18
+    svgId: E18pin
+    pinName: E18pin
+    cx: 0
+    cy: 0
+  - name: A19
+    svgId: A19pin
+    pinName: A19pin
+    cx: 0
+    cy: 0
+  - name: B19
+    svgId: B19pin
+    pinName: B19pin
+    cx: 0
+    cy: 0
+  - name: C19
+    svgId: C19pin
+    pinName: C19pin
+    cx: 0
+    cy: 0
+  - name: D19
+    svgId: D19pin
+    pinName: D19pin
+    cx: 0
+    cy: 0
+  - name: E19
+    svgId: E19pin
+    pinName: E19pin
+    cx: 0
+    cy: 0
+  - name: A20
+    svgId: A20pin
+    pinName: A20pin
+    cx: 0
+    cy: 0
+  - name: B20
+    svgId: B20pin
+    pinName: B20pin
+    cx: 0
+    cy: 0
+  - name: C20
+    svgId: C20pin
+    pinName: C20pin
+    cx: 0
+    cy: 0
+  - name: D20
+    svgId: D20pin
+    pinName: D20pin
+    cx: 0
+    cy: 0
+  - name: E20
+    svgId: E20pin
+    pinName: E20pin
+    cx: 0
+    cy: 0
+  - name: A21
+    svgId: A21pin
+    pinName: A21pin
+    cx: 0
+    cy: 0
+  - name: B21
+    svgId: B21pin
+    pinName: B21pin
+    cx: 0
+    cy: 0
+  - name: C21
+    svgId: C21pin
+    pinName: C21pin
+    cx: 0
+    cy: 0
+  - name: D21
+    svgId: D21pin
+    pinName: D21pin
+    cx: 0
+    cy: 0
+  - name: E21
+    svgId: E21pin
+    pinName: E21pin
+    cx: 0
+    cy: 0
+  - name: A22
+    svgId: A22pin
+    pinName: A22pin
+    cx: 0
+    cy: 0
+  - name: B22
+    svgId: B22pin
+    pinName: B22pin
+    cx: 0
+    cy: 0
+  - name: C22
+    svgId: C22pin
+    pinName: C22pin
+    cx: 0
+    cy: 0
+  - name: D22
+    svgId: D22pin
+    pinName: D22pin
+    cx: 0
+    cy: 0
+  - name: E22
+    svgId: E22pin
+    pinName: E22pin
+    cx: 0
+    cy: 0
+  - name: A23
+    svgId: A23pin
+    pinName: A23pin
+    cx: 0
+    cy: 0
+  - name: B23
+    svgId: B23pin
+    pinName: B23pin
+    cx: 0
+    cy: 0
+  - name: C23
+    svgId: C23pin
+    pinName: C23pin
+    cx: 0
+    cy: 0
+  - name: D23
+    svgId: D23pin
+    pinName: D23pin
+    cx: 0
+    cy: 0
+  - name: E23
+    svgId: E23pin
+    pinName: E23pin
+    cx: 0
+    cy: 0
+  - name: F1
+    svgId: F1pin
+    pinName: F1pin
+    cx: 0
+    cy: 0
+  - name: G1
+    svgId: G1pin
+    pinName: G1pin
+    cx: 0
+    cy: 0
+  - name: H1
+    svgId: H1pin
+    pinName: H1pin
+    cx: 0
+    cy: 0
+  - name: I1
+    svgId: I1pin
+    pinName: I1pin
+    cx: 0
+    cy: 0
+  - name: J1
+    svgId: J1pin
+    pinName: J1pin
+    cx: 0
+    cy: 0
+  - name: F2
+    svgId: F2pin
+    pinName: F2pin
+    cx: 0
+    cy: 0
+  - name: G2
+    svgId: G2pin
+    pinName: G2pin
+    cx: 0
+    cy: 0
+  - name: H2
+    svgId: H2pin
+    pinName: H2pin
+    cx: 0
+    cy: 0
+  - name: I2
+    svgId: I2pin
+    pinName: I2pin
+    cx: 0
+    cy: 0
+  - name: J2
+    svgId: J2pin
+    pinName: J2pin
+    cx: 0
+    cy: 0
+  - name: F3
+    svgId: F3pin
+    pinName: F3pin
+    cx: 0
+    cy: 0
+  - name: G3
+    svgId: G3pin
+    pinName: G3pin
+    cx: 0
+    cy: 0
+  - name: H3
+    svgId: H3pin
+    pinName: H3pin
+    cx: 0
+    cy: 0
+  - name: I3
+    svgId: I3pin
+    pinName: I3pin
+    cx: 0
+    cy: 0
+  - name: J3
+    svgId: J3pin
+    pinName: J3pin
+    cx: 0
+    cy: 0
+  - name: F4
+    svgId: F4pin
+    pinName: F4pin
+    cx: 0
+    cy: 0
+  - name: G4
+    svgId: G4pin
+    pinName: G4pin
+    cx: 0
+    cy: 0
+  - name: H4
+    svgId: H4pin
+    pinName: H4pin
+    cx: 0
+    cy: 0
+  - name: I4
+    svgId: I4pin
+    pinName: I4pin
+    cx: 0
+    cy: 0
+  - name: J4
+    svgId: J4pin
+    pinName: J4pin
+    cx: 0
+    cy: 0
+  - name: F5
+    svgId: F5pin
+    pinName: F5pin
+    cx: 0
+    cy: 0
+  - name: G5
+    svgId: G5pin
+    pinName: G5pin
+    cx: 0
+    cy: 0
+  - name: H5
+    svgId: H5pin
+    pinName: H5pin
+    cx: 0
+    cy: 0
+  - name: I5
+    svgId: I5pin
+    pinName: I5pin
+    cx: 0
+    cy: 0
+  - name: J5
+    svgId: J5pin
+    pinName: J5pin
+    cx: 0
+    cy: 0
+  - name: F6
+    svgId: F6pin
+    pinName: F6pin
+    cx: 0
+    cy: 0
+  - name: G6
+    svgId: G6pin
+    pinName: G6pin
+    cx: 0
+    cy: 0
+  - name: H6
+    svgId: H6pin
+    pinName: H6pin
+    cx: 0
+    cy: 0
+  - name: I6
+    svgId: I6pin
+    pinName: I6pin
+    cx: 0
+    cy: 0
+  - name: J6
+    svgId: J6pin
+    pinName: J6pin
+    cx: 0
+    cy: 0
+  - name: F7
+    svgId: F7pin
+    pinName: F7pin
+    cx: 0
+    cy: 0
+  - name: G7
+    svgId: G7pin
+    pinName: G7pin
+    cx: 0
+    cy: 0
+  - name: H7
+    svgId: H7pin
+    pinName: H7pin
+    cx: 0
+    cy: 0
+  - name: I7
+    svgId: I7pin
+    pinName: I7pin
+    cx: 0
+    cy: 0
+  - name: J7
+    svgId: J7pin
+    pinName: J7pin
+    cx: 0
+    cy: 0
+  - name: F8
+    svgId: F8pin
+    pinName: F8pin
+    cx: 0
+    cy: 0
+  - name: G8
+    svgId: G8pin
+    pinName: G8pin
+    cx: 0
+    cy: 0
+  - name: H8
+    svgId: H8pin
+    pinName: H8pin
+    cx: 0
+    cy: 0
+  - name: I8
+    svgId: I8pin
+    pinName: I8pin
+    cx: 0
+    cy: 0
+  - name: J8
+    svgId: J8pin
+    pinName: J8pin
+    cx: 0
+    cy: 0
+  - name: F9
+    svgId: F9pin
+    pinName: F9pin
+    cx: 0
+    cy: 0
+  - name: G9
+    svgId: G9pin
+    pinName: G9pin
+    cx: 0
+    cy: 0
+  - name: H9
+    svgId: H9pin
+    pinName: H9pin
+    cx: 0
+    cy: 0
+  - name: I9
+    svgId: I9pin
+    pinName: I9pin
+    cx: 0
+    cy: 0
+  - name: J9
+    svgId: J9pin
+    pinName: J9pin
+    cx: 0
+    cy: 0
+  - name: F10
+    svgId: F10pin
+    pinName: F10pin
+    cx: 0
+    cy: 0
+  - name: G10
+    svgId: G10pin
+    pinName: G10pin
+    cx: 0
+    cy: 0
+  - name: H10
+    svgId: H10pin
+    pinName: H10pin
+    cx: 0
+    cy: 0
+  - name: I10
+    svgId: I10pin
+    pinName: I10pin
+    cx: 0
+    cy: 0
+  - name: J10
+    svgId: J10pin
+    pinName: J10pin
+    cx: 0
+    cy: 0
+  - name: F11
+    svgId: F11pin
+    pinName: F11pin
+    cx: 0
+    cy: 0
+  - name: G11
+    svgId: G11pin
+    pinName: G11pin
+    cx: 0
+    cy: 0
+  - name: H11
+    svgId: H11pin
+    pinName: H11pin
+    cx: 0
+    cy: 0
+  - name: I11
+    svgId: I11pin
+    pinName: I11pin
+    cx: 0
+    cy: 0
+  - name: J11
+    svgId: J11pin
+    pinName: J11pin
+    cx: 0
+    cy: 0
+  - name: F12
+    svgId: F12pin
+    pinName: F12pin
+    cx: 0
+    cy: 0
+  - name: G12
+    svgId: G12pin
+    pinName: G12pin
+    cx: 0
+    cy: 0
+  - name: H12
+    svgId: H12pin
+    pinName: H12pin
+    cx: 0
+    cy: 0
+  - name: I12
+    svgId: I12pin
+    pinName: I12pin
+    cx: 0
+    cy: 0
+  - name: J12
+    svgId: J12pin
+    pinName: J12pin
+    cx: 0
+    cy: 0
+  - name: F13
+    svgId: F13pin
+    pinName: F13pin
+    cx: 0
+    cy: 0
+  - name: G13
+    svgId: G13pin
+    pinName: G13pin
+    cx: 0
+    cy: 0
+  - name: H13
+    svgId: H13pin
+    pinName: H13pin
+    cx: 0
+    cy: 0
+  - name: I13
+    svgId: I13pin
+    pinName: I13pin
+    cx: 0
+    cy: 0
+  - name: J13
+    svgId: J13pin
+    pinName: J13pin
+    cx: 0
+    cy: 0
+  - name: F14
+    svgId: F14pin
+    pinName: F14pin
+    cx: 0
+    cy: 0
+  - name: G14
+    svgId: G14pin
+    pinName: G14pin
+    cx: 0
+    cy: 0
+  - name: H14
+    svgId: H14pin
+    pinName: H14pin
+    cx: 0
+    cy: 0
+  - name: I14
+    svgId: I14pin
+    pinName: I14pin
+    cx: 0
+    cy: 0
+  - name: J14
+    svgId: J14pin
+    pinName: J14pin
+    cx: 0
+    cy: 0
+  - name: F15
+    svgId: F15pin
+    pinName: F15pin
+    cx: 0
+    cy: 0
+  - name: G15
+    svgId: G15pin
+    pinName: G15pin
+    cx: 0
+    cy: 0
+  - name: H15
+    svgId: H15pin
+    pinName: H15pin
+    cx: 0
+    cy: 0
+  - name: I15
+    svgId: I15pin
+    pinName: I15pin
+    cx: 0
+    cy: 0
+  - name: J15
+    svgId: J15pin
+    pinName: J15pin
+    cx: 0
+    cy: 0
+  - name: F16
+    svgId: F16pin
+    pinName: F16pin
+    cx: 0
+    cy: 0
+  - name: G16
+    svgId: G16pin
+    pinName: G16pin
+    cx: 0
+    cy: 0
+  - name: H16
+    svgId: H16pin
+    pinName: H16pin
+    cx: 0
+    cy: 0
+  - name: I16
+    svgId: I16pin
+    pinName: I16pin
+    cx: 0
+    cy: 0
+  - name: J16
+    svgId: J16pin
+    pinName: J16pin
+    cx: 0
+    cy: 0
+  - name: F17
+    svgId: F17pin
+    pinName: F17pin
+    cx: 0
+    cy: 0
+  - name: G17
+    svgId: G17pin
+    pinName: G17pin
+    cx: 0
+    cy: 0
+  - name: H17
+    svgId: H17pin
+    pinName: H17pin
+    cx: 0
+    cy: 0
+  - name: I17
+    svgId: I17pin
+    pinName: I17pin
+    cx: 0
+    cy: 0
+  - name: J17
+    svgId: J17pin
+    pinName: J17pin
+    cx: 0
+    cy: 0
+  - name: F18
+    svgId: F18pin
+    pinName: F18pin
+    cx: 0
+    cy: 0
+  - name: G18
+    svgId: G18pin
+    pinName: G18pin
+    cx: 0
+    cy: 0
+  - name: H18
+    svgId: H18pin
+    pinName: H18pin
+    cx: 0
+    cy: 0
+  - name: I18
+    svgId: I18pin
+    pinName: I18pin
+    cx: 0
+    cy: 0
+  - name: J18
+    svgId: J18pin
+    pinName: J18pin
+    cx: 0
+    cy: 0
+  - name: F19
+    svgId: F19pin
+    pinName: F19pin
+    cx: 0
+    cy: 0
+  - name: G19
+    svgId: G19pin
+    pinName: G19pin
+    cx: 0
+    cy: 0
+  - name: H19
+    svgId: H19pin
+    pinName: H19pin
+    cx: 0
+    cy: 0
+  - name: I19
+    svgId: I19pin
+    pinName: I19pin
+    cx: 0
+    cy: 0
+  - name: J19
+    svgId: J19pin
+    pinName: J19pin
+    cx: 0
+    cy: 0
+  - name: F20
+    svgId: F20pin
+    pinName: F20pin
+    cx: 0
+    cy: 0
+  - name: G20
+    svgId: G20pin
+    pinName: G20pin
+    cx: 0
+    cy: 0
+  - name: H20
+    svgId: H20pin
+    pinName: H20pin
+    cx: 0
+    cy: 0
+  - name: I20
+    svgId: I20pin
+    pinName: I20pin
+    cx: 0
+    cy: 0
+  - name: J20
+    svgId: J20pin
+    pinName: J20pin
+    cx: 0
+    cy: 0
+  - name: F21
+    svgId: F21pin
+    pinName: F21pin
+    cx: 0
+    cy: 0
+  - name: G21
+    svgId: G21pin
+    pinName: G21pin
+    cx: 0
+    cy: 0
+  - name: H21
+    svgId: H21pin
+    pinName: H21pin
+    cx: 0
+    cy: 0
+  - name: I21
+    svgId: I21pin
+    pinName: I21pin
+    cx: 0
+    cy: 0
+  - name: J21
+    svgId: J21pin
+    pinName: J21pin
+    cx: 0
+    cy: 0
+  - name: F22
+    svgId: F22pin
+    pinName: F22pin
+    cx: 0
+    cy: 0
+  - name: G22
+    svgId: G22pin
+    pinName: G22pin
+    cx: 0
+    cy: 0
+  - name: H22
+    svgId: H22pin
+    pinName: H22pin
+    cx: 0
+    cy: 0
+  - name: I22
+    svgId: I22pin
+    pinName: I22pin
+    cx: 0
+    cy: 0
+  - name: J22
+    svgId: J22pin
+    pinName: J22pin
+    cx: 0
+    cy: 0
+  - name: F23
+    svgId: F23pin
+    pinName: F23pin
+    cx: 0
+    cy: 0
+  - name: G23
+    svgId: G23pin
+    pinName: G23pin
+    cx: 0
+    cy: 0
+  - name: H23
+    svgId: H23pin
+    pinName: H23pin
+    cx: 0
+    cy: 0
+  - name: I23
+    svgId: I23pin
+    pinName: I23pin
+    cx: 0
+    cy: 0
+  - name: J23
+    svgId: J23pin
+    pinName: J23pin
+    cx: 0
+    cy: 0
+  - name: X1
+    svgId: X1pin
+    pinName: X1pin
+    cx: 0
+    cy: 0
+  - name: X2
+    svgId: X2pin
+    pinName: X2pin
+    cx: 0
+    cy: 0
+  - name: X3
+    svgId: X3pin
+    pinName: X3pin
+    cx: 0
+    cy: 0
+  - name: X4
+    svgId: X4pin
+    pinName: X4pin
+    cx: 0
+    cy: 0
+  - name: X5
+    svgId: X5pin
+    pinName: X5pin
+    cx: 0
+    cy: 0
+  - name: X7
+    svgId: X7pin
+    pinName: X7pin
+    cx: 0
+    cy: 0
+  - name: X8
+    svgId: X8pin
+    pinName: X8pin
+    cx: 0
+    cy: 0
+  - name: X9
+    svgId: X9pin
+    pinName: X9pin
+    cx: 0
+    cy: 0
+  - name: X10
+    svgId: X10pin
+    pinName: X10pin
+    cx: 0
+    cy: 0
+  - name: X11
+    svgId: X11pin
+    pinName: X11pin
+    cx: 0
+    cy: 0
+  - name: X13
+    svgId: X13pin
+    pinName: X13pin
+    cx: 0
+    cy: 0
+  - name: X14
+    svgId: X14pin
+    pinName: X14pin
+    cx: 0
+    cy: 0
+  - name: X15
+    svgId: X15pin
+    pinName: X15pin
+    cx: 0
+    cy: 0
+  - name: X16
+    svgId: X16pin
+    pinName: X16pin
+    cx: 0
+    cy: 0
+  - name: X17
+    svgId: X17pin
+    pinName: X17pin
+    cx: 0
+    cy: 0
+  - name: X19
+    svgId: X19pin
+    pinName: X19pin
+    cx: 0
+    cy: 0
+  - name: X20
+    svgId: X20pin
+    pinName: X20pin
+    cx: 0
+    cy: 0
+  - name: X21
+    svgId: X21pin
+    pinName: X21pin
+    cx: 0
+    cy: 0
+  - name: X22
+    svgId: X22pin
+    pinName: X22pin
+    cx: 0
+    cy: 0
+  - name: X23
+    svgId: X23pin
+    pinName: X23pin
+    cx: 0
+    cy: 0
+  - name: Y1
+    svgId: Y1pin
+    pinName: Y1pin
+    cx: 0
+    cy: 0
+  - name: Y2
+    svgId: Y2pin
+    pinName: Y2pin
+    cx: 0
+    cy: 0
+  - name: Y3
+    svgId: Y3pin
+    pinName: Y3pin
+    cx: 0
+    cy: 0
+  - name: Y4
+    svgId: Y4pin
+    pinName: Y4pin
+    cx: 0
+    cy: 0
+  - name: Y5
+    svgId: Y5pin
+    pinName: Y5pin
+    cx: 0
+    cy: 0
+  - name: Y7
+    svgId: Y7pin
+    pinName: Y7pin
+    cx: 0
+    cy: 0
+  - name: Y8
+    svgId: Y8pin
+    pinName: Y8pin
+    cx: 0
+    cy: 0
+  - name: Y9
+    svgId: Y9pin
+    pinName: Y9pin
+    cx: 0
+    cy: 0
+  - name: Y10
+    svgId: Y10pin
+    pinName: Y10pin
+    cx: 0
+    cy: 0
+  - name: Y11
+    svgId: Y11pin
+    pinName: Y11pin
+    cx: 0
+    cy: 0
+  - name: Y13
+    svgId: Y13pin
+    pinName: Y13pin
+    cx: 0
+    cy: 0
+  - name: Y14
+    svgId: Y14pin
+    pinName: Y14pin
+    cx: 0
+    cy: 0
+  - name: Y15
+    svgId: Y15pin
+    pinName: Y15pin
+    cx: 0
+    cy: 0
+  - name: Y16
+    svgId: Y16pin
+    pinName: Y16pin
+    cx: 0
+    cy: 0
+  - name: Y17
+    svgId: Y17pin
+    pinName: Y17pin
+    cx: 0
+    cy: 0
+  - name: Y19
+    svgId: Y19pin
+    pinName: Y19pin
+    cx: 0
+    cy: 0
+  - name: Y20
+    svgId: Y20pin
+    pinName: Y20pin
+    cx: 0
+    cy: 0
+  - name: Y21
+    svgId: Y21pin
+    pinName: Y21pin
+    cx: 0
+    cy: 0
+  - name: Y22
+    svgId: Y22pin
+    pinName: Y22pin
+    cx: 0
+    cy: 0
+  - name: Y23
+    svgId: Y23pin
+    pinName: Y23pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: HMC5883L Triple-axis Magnetometer
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: HMC5883L Triple-axis Magnetometer
+  icon: {fileID: 0}
+  realWorldWidth: 70
+  realWorldHeight: 75
+  pins:
+  - name: VIN
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.85714287
+    cy: 0.87333333
+  - name: 3.3V
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.57142854
+    cy: 0.87333333
+  - name: RDY
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.14285713
+    cy: 0.87333333
+  - name: SCL
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.28571427
+    cy: 0.87333333
+  - name: SDA
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.42857143
+    cy: 0.87333333
+  - name: GND
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.7142857
+    cy: 0.87333333

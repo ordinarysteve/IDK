@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: JUMPER-3-OLD
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: JUMPER-3-OLD
+  icon: {fileID: 0}
+  realWorldWidth: 26.300001
+  realWorldHeight: 40
+  pins:
+  - name: 1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.30988592
+    cy: 0.875
+  - name: 2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.6901141
+    cy: 0.875
+  - name: 3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.6901141
+    cy: 0.125

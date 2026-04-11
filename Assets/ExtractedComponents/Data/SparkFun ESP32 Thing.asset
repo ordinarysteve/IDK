@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SparkFun ESP32 Thing
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SparkFun ESP32 Thing
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: GND
+    svgId: connector69pin
+    pinName: connector69pin
+    cx: 0
+    cy: 0
+  - name: VUSB-RAW
+    svgId: connector70pin
+    pinName: connector70pin
+    cx: 0
+    cy: 0
+  - name: V_BATT
+    svgId: connector71pin
+    pinName: connector71pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector72pin
+    pinName: connector72pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector73pin
+    pinName: connector73pin
+    cx: 0
+    cy: 0
+  - name: CHIP_PU
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0
+    cy: 0
+  - name: 13
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0
+    cy: 0
+  - name: 12
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0
+    cy: 0
+  - name: 14
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0
+    cy: 0
+  - name: 27
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0
+    cy: 0
+  - name: 26
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0
+    cy: 0
+  - name: 25
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0
+    cy: 0
+  - name: 35
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0
+    cy: 0
+  - name: 34
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0
+    cy: 0
+  - name: 32K_XN
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0
+    cy: 0
+  - name: 32K_XP
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0
+    cy: 0
+  - name: 39
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0
+    cy: 0
+  - name: 38
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0
+    cy: 0
+  - name: 37
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0
+    cy: 0
+  - name: 36
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0
+    cy: 0
+  - name: VUSB-RAW
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0
+    cy: 0
+  - name: V_BATT
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0
+    cy: 0
+  - name: 16
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0
+    cy: 0
+  - name: 17
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0
+    cy: 0
+  - name: 4
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0
+    cy: 0
+  - name: 0
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0
+    cy: 0
+  - name: 2
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0
+    cy: 0
+  - name: 15
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0
+    cy: 0
+  - name: 5
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0
+    cy: 0
+  - name: 18
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0
+    cy: 0
+  - name: 23
+    svgId: connector102pin
+    pinName: connector102pin
+    cx: 0
+    cy: 0
+  - name: 19
+    svgId: connector103pin
+    pinName: connector103pin
+    cx: 0
+    cy: 0
+  - name: 22
+    svgId: connector104pin
+    pinName: connector104pin
+    cx: 0
+    cy: 0
+  - name: U0RXD
+    svgId: connector105pin
+    pinName: connector105pin
+    cx: 0
+    cy: 0
+  - name: U0TXD
+    svgId: connector106pin
+    pinName: connector106pin
+    cx: 0
+    cy: 0
+  - name: 21
+    svgId: connector107pin
+    pinName: connector107pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector108pin
+    pinName: connector108pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector109pin
+    pinName: connector109pin
+    cx: 0
+    cy: 0
+  - name: V_BATT
+    svgId: connector110pin
+    pinName: connector110pin
+    cx: 0
+    cy: 0

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit WINC1500 (uFL Antenna) Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit WINC1500 (uFL Antenna) Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 130
+  realWorldHeight: 110
+  pins:
+  - name: +5V
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.03846154
+    cy: 0.90909094
+  - name: GND
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.115384616
+    cy: 0.90909094
+  - name: SCK
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.1923077
+    cy: 0.90909094
+  - name: MISO
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.26923078
+    cy: 0.90909094
+  - name: MOSI
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.34615386
+    cy: 0.90909094
+  - name: CS
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.42307693
+    cy: 0.90909094
+  - name: EN
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.5
+    cy: 0.90909094
+  - name: IRQ
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.5769231
+    cy: 0.90909094
+  - name: RST
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.65384614
+    cy: 0.90909094
+  - name: WAKE
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.7307693
+    cy: 0.90909094
+  - name: CFG
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.8076923
+    cy: 0.90909094
+  - name: RXD
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.8846154
+    cy: 0.90909094
+  - name: TXD
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.9615385
+    cy: 0.90909094

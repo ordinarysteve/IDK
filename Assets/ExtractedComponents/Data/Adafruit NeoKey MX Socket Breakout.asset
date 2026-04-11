@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit NeoKey MX Socket Breakout
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit NeoKey MX Socket Breakout
+  icon: {fileID: 0}
+  realWorldWidth: 75
+  realWorldHeight: 85
+  pins:
+  - name: VDD
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.23333333
+    cy: 0.0882353
+  - name: VDD
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.23333333
+    cy: 0.9117647
+  - name: NEO_IN
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.5
+    cy: 0.9117647
+  - name: NEO_IN
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.06666666
+    cy: 0.61764705
+  - name: NEO_OUT
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.93333334
+    cy: 0.61764705
+  - name: NEO_OUT
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.5
+    cy: 0.0882353
+  - name: SWITCHA
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.6333333
+    cy: 0.9117647
+  - name: SWITCHA
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.6333333
+    cy: 0.0882353
+  - name: SWITCHC
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.93333334
+    cy: 0.5
+  - name: SWITCHC
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.06666666
+    cy: 0.5
+  - name: SWITCHC
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.7666667
+    cy: 0.9117647
+  - name: SWITCHC
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.7666667
+    cy: 0.0882353
+  - name: GND
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.36666664
+    cy: 0.0882353
+  - name: GND
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.36666664
+    cy: 0.9117647

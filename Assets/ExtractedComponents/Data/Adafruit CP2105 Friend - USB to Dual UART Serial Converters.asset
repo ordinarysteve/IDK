@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Adafruit CP2105 Friend - USB to Dual UART Serial Converters
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Adafruit CP2105 Friend - USB to Dual UART Serial Converters
+  icon: {fileID: 0}
+  realWorldWidth: 100
+  realWorldHeight: 100
+  pins:
+  - name: VBUS
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: VBUS
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0
+    cy: 0
+  - name: 3.3V
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0
+    cy: 0
+  - name: DSR1
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0
+    cy: 0
+  - name: CTS1
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0
+    cy: 0
+  - name: RTS1
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0
+    cy: 0
+  - name: RX1
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: RX1
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0
+    cy: 0
+  - name: TX1
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0
+    cy: 0
+  - name: TX1
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: DTR1
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0
+    cy: 0
+  - name: RI1
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0
+    cy: 0
+  - name: RI2
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0
+    cy: 0
+  - name: DTR2
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0
+    cy: 0
+  - name: TX2
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: TX2
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0
+    cy: 0
+  - name: RX2
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0
+    cy: 0
+  - name: RX2
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: RTS2
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0
+    cy: 0
+  - name: CTS2
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: GND
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0
+    cy: 0

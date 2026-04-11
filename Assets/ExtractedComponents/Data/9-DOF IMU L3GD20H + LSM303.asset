@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: 9-DOF IMU L3GD20H + LSM303
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: 9-DOF IMU L3GD20H + LSM303
+  icon: {fileID: 0}
+  realWorldWidth: 150
+  realWorldHeight: 90
+  pins:
+  - name: VIN
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.2
+    cy: 0.88888884
+  - name: 3.3V
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.26666665
+    cy: 0.88888884
+  - name: SCL
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.4
+    cy: 0.88888884
+  - name: SDA
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.46666667
+    cy: 0.88888884
+  - name: GYR_INT
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.5333333
+    cy: 0.88888884
+  - name: GYR_RDY
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.6
+    cy: 0.88888884
+  - name: LSM_INT1
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.6666667
+    cy: 0.88888884
+  - name: LSM_INT2
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.7333333
+    cy: 0.88888884
+  - name: LSM_DRDY
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.8
+    cy: 0.88888884
+  - name: GND
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.33333334
+    cy: 0.88888884

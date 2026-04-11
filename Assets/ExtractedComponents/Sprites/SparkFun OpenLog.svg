@@ -1,0 +1,1117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" height="0.75in" x="0in" version="1.2" id="svg447" gorn="0" viewBox="0 0 43.199657 54.000006"  width="0.59999591in">
+    <desc >
+        <referenceFile >openlogv2_breadboard.svg</referenceFile>
+    </desc>
+    <metadata id="metadata453" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs451" />
+    <g transform="translate(-0.57571114,-14.397794)" >
+        <g >
+            <g partID="854907240" id="g445" gorn="0.3.0.0" >
+                <g id="breadboard" stroke-width="0" gorn="0.3.0.0.0" >
+                    <g id="icon" style="display:inline;" stroke-width="0" gorn="0.3.0.0.0.0" >
+                        <g transform="matrix(0.75000006,0,0,0.75000006,7.6770898e-7,14.10629)" >
+                            <g >
+                                <path stroke="none" fill="#c62717" id="path5840" style="stroke-linecap:butt;stroke-linejoin:miter;" d="M 0.76757812,0.38867188 V 72.388672 H 58.367188 V 0.38867188 Z M 24.767578,3.6972656 A 1.4897027,1.4897027 0 0 1 26.257812,5.1875 1.4897027,1.4897027 0 0 1 24.767578,6.6777344 1.4897027,1.4897027 0 0 1 23.277344,5.1875 1.4897027,1.4897027 0 0 1 24.767578,3.6972656 Z m 9.59961,0 A 1.4897027,1.4897027 0 0 1 35.857422,5.1875 1.4897027,1.4897027 0 0 1 34.367188,6.6777344 1.4897027,1.4897027 0 0 1 32.876953,5.1875 1.4897027,1.4897027 0 0 1 34.367188,3.6972656 Z m 9.611328,0 A 1.4897027,1.4897027 0 0 1 45.46875,5.1875 1.4897027,1.4897027 0 0 1 43.978516,6.6777344 1.4897027,1.4897027 0 0 1 42.490234,5.1875 1.4897027,1.4897027 0 0 1 43.978516,3.6972656 Z m -28.810547,0.00195 A 1.4895838,1.4895838 0 0 1 16.65625,5.1875 1.4895838,1.4895838 0 0 1 15.167969,6.6777344 1.4895838,1.4895838 0 0 1 13.677734,5.1875 1.4895838,1.4895838 0 0 1 15.167969,3.6992188 Z M 5.5664062,64.851562 a 2.7359998,2.7359998 0 0 1 2.7363282,2.736329 2.7359998,2.7359998 0 0 1 -2.7363282,2.736328 2.7359998,2.7359998 0 0 1 -2.734375,-2.736328 2.7359998,2.7359998 0 0 1 2.734375,-2.736329 z m 9.6015628,0 a 2.7359998,2.7359998 0 0 1 2.734375,2.736329 2.7359998,2.7359998 0 0 1 -2.734375,2.736328 2.7359998,2.7359998 0 0 1 -2.736328,-2.736328 2.7359998,2.7359998 0 0 1 2.736328,-2.736329 z m 9.599609,0 a 2.7359998,2.7359998 0 0 1 2.736328,2.736329 2.7359998,2.7359998 0 0 1 -2.736328,2.736328 2.7359998,2.7359998 0 0 1 -2.736328,-2.736328 2.7359998,2.7359998 0 0 1 2.736328,-2.736329 z m 9.59961,0 a 2.7359998,2.7359998 0 0 1 2.736328,2.736329 2.7359998,2.7359998 0 0 1 -2.736328,2.736328 2.7359998,2.7359998 0 0 1 -2.736329,-2.736328 2.7359998,2.7359998 0 0 1 2.736329,-2.736329 z m 9.599609,0 a 2.7359998,2.7359998 0 0 1 2.736328,2.736329 2.7359998,2.7359998 0 0 1 -2.736328,2.736328 2.7359998,2.7359998 0 0 1 -2.736328,-2.736328 2.7359998,2.7359998 0 0 1 2.736328,-2.736329 z m 9.599609,0 a 2.7359998,2.7359998 0 0 1 2.736328,2.736329 2.7359998,2.7359998 0 0 1 -2.736328,2.736328 2.7359998,2.7359998 0 0 1 -2.734375,-2.736328 2.7359998,2.7359998 0 0 1 2.734375,-2.736329 z" stroke-opacity="1" stroke-width="0.799999" fill-opacity="1" gorn="0.3.0.0.0.0.0.0.0" />
+                            </g>
+                        </g>
+                        <path stroke="none" fill="#c62717" id="path2" d="m 43.7754,68.3972 v -54 H 0.575434 v 54 H 43.7754 m -41.03997,-3.6 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.2,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.19997,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.2,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.2,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.2,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m -28.79997,-46.8 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.19997,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.2,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z m 7.2,0 a 1.44,1.44 0 1 1 2.88,0 1.44,1.44 0 1 1 -2.88,0 z" style="display:none;" stroke-width="0" gorn="0.3.0.0.0.0.1" />
+                        <g id="g390" stroke-width="0" gorn="0.3.0.0.0.0.2" >
+                            <title id="title4" >layer 21</title>
+                            <g transform="rotate(90,17.814214,58.633718)" >
+                                <g >
+                                    <g id="g18" stroke-width="0" gorn="0.3.0.0.0.0.2.1.0.0" >
+                                        <title id="title6" >text:TXO</title>
+                                        <g transform="translate(19.6554,60.4772)" >
+                                            <g >
+                                                <g id="g16" gorn="0.3.0.0.0.0.2.1.0.0.1.0.0" >
+                                                    <g id="g14" stroke-width="0" gorn="0.3.0.0.0.0.2.1.0.0.1.0.0.0" >
+                                                        <g transform="rotate(-90)" >
+                                                            <g >
+                                                                <g id="g12" gorn="0.3.0.0.0.0.2.1.0.0.1.0.0.0.0.0.0" >
+                                                                    <g id="g10" stroke-width="0" gorn="0.3.0.0.0.0.2.1.0.0.1.0.0.0.0.0.0.0" >
+                                                                        <text stroke="none" y="0" x="0" fill="#ffffff" font-size="2.13811" id="text8" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.1.0.0.1.0.0.0.0.0.0.0.0" >TXO</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(0,1.51542)" >
+                                <g >
+                                    <g id="g32" stroke-width="0" gorn="0.3.0.0.0.0.2.2.0.0" >
+                                        <title id="title20" >text:RXI</title>
+                                        <g transform="translate(12.4554,60.4772)" >
+                                            <g >
+                                                <g id="g30" gorn="0.3.0.0.0.0.2.2.0.0.1.0.0" >
+                                                    <g id="g28" stroke-width="0" gorn="0.3.0.0.0.0.2.2.0.0.1.0.0.0" >
+                                                        <g transform="rotate(-90)" >
+                                                            <g >
+                                                                <g id="g26" gorn="0.3.0.0.0.0.2.2.0.0.1.0.0.0.0.0.0" >
+                                                                    <g id="g24" stroke-width="0" gorn="0.3.0.0.0.0.2.2.0.0.1.0.0.0.0.0.0.0" >
+                                                                        <g transform="rotate(90)" >
+                                                                            <g >
+                                                                                <text stroke="none" y="-1.4772601" x="-3.4204051" fill="#ffffff" font-size="2.13811" id="text22" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.2.0.0.1.0.0.0.0.0.0.0.0.0.0" >RXI</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="rotate(90,24.995291,58.620016)" >
+                                <g >
+                                    <g id="g46" stroke-width="0" gorn="0.3.0.0.0.0.2.3.0.0" >
+                                        <title id="title34" >text:VCC</title>
+                                        <g transform="translate(26.8554,60.4772)" >
+                                            <g >
+                                                <g id="g44" gorn="0.3.0.0.0.0.2.3.0.0.1.0.0" >
+                                                    <g id="g42" stroke-width="0" gorn="0.3.0.0.0.0.2.3.0.0.1.0.0.0" >
+                                                        <g transform="rotate(-90)" >
+                                                            <g >
+                                                                <g id="g40" gorn="0.3.0.0.0.0.2.3.0.0.1.0.0.0.0.0.0" >
+                                                                    <g id="g38" stroke-width="0" gorn="0.3.0.0.0.0.2.3.0.0.1.0.0.0.0.0.0.0" >
+                                                                        <text stroke="none" y="0" x="0" fill="#ffffff" font-size="2.13811" id="text36" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.3.0.0.1.0.0.0.0.0.0.0.0" >VCC</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="g52" stroke-width="0" gorn="0.3.0.0.0.0.2.4" >
+                                <title id="title48" >text:GND</title>
+                                <text stroke="none" y="60.4772" x="29.735399" fill="#ffffff" font-size="2.13811" id="text50" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.4.1" >GND</text>
+                            </g>
+                            <g id="g58" stroke-width="0" gorn="0.3.0.0.0.0.2.5" >
+                                <title id="title54" >text:BLK</title>
+                                <text stroke="none" y="60.4772" x="37.295399" fill="#ffffff" font-size="2.13811" id="text56" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.5.1" >BLK</text>
+                            </g>
+                            <g id="g64" stroke-width="0" gorn="0.3.0.0.0.0.2.6" >
+                                <title id="title60" >text:GRN</title>
+                                <text stroke="none" y="60.4772" x="1.2954299" fill="#ffffff" font-size="2.13811" id="text62" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.6.1" >GRN</text>
+                            </g>
+                            <g id="g70" stroke-width="0" gorn="0.3.0.0.0.0.2.7" >
+                                <title id="title66" >text:OpenLog</title>
+                                <text stroke="none" y="23.637026" x="15.125591" fill="#ffffff" font-size="2.67264" id="text68" style="font-family:OCRA;text-anchor:start;" stroke-width="0" gorn="0.3.0.0.0.0.2.7.1" >OpenLog</text>
+                            </g>
+                            <g id="g74" stroke-width="0" gorn="0.3.0.0.0.0.2.8" >
+                                <title id="title72" >text:N. Seidle</title>
+                            </g>
+                            <g id="g130" stroke-width="0" gorn="0.3.0.0.0.0.2.9" >
+                                <title id="title116" >element:D1</title>
+                                <g id="g128" stroke-width="0" gorn="0.3.0.0.0.0.2.9.1" >
+                                    <title id="title118" >package:LED-0603</title>
+                                    <line stroke="#ffffff" id="line120" style="stroke-linecap:round" x2="36.093498" y1="23.8932" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.9.1.1" y2="25.197201"  x1="36.093498"/>
+                                    <line stroke="#ffffff" id="line122" style="stroke-linecap:round" x2="36.093498" y1="26.501101" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.9.1.2" y2="25.197201"  x1="36.093498"/>
+                                    <line stroke="#ffffff" id="line124" style="stroke-linecap:round" x2="36.972301" y1="25.197201" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.9.1.3" y2="24.534401"  x1="36.093498"/>
+                                    <line stroke="#ffffff" id="line126" style="stroke-linecap:round" x2="36.972301" y1="25.269199" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.9.1.4" y2="25.8162"  x1="36.137199"/>
+                                </g>
+                            </g>
+                            <g id="g146" stroke-width="0" gorn="0.3.0.0.0.0.2.10" >
+                                <title id="title132" >element:D3</title>
+                                <g id="g144" stroke-width="0" gorn="0.3.0.0.0.0.2.10.1" >
+                                    <title id="title134" >package:LED-0603</title>
+                                    <line stroke="#ffffff" id="line136" style="stroke-linecap:round" x2="8.2573299" y1="26.501101" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.10.1.1" y2="25.197201"  x1="8.2573299"/>
+                                    <line stroke="#ffffff" id="line138" style="stroke-linecap:round" x2="8.2573299" y1="23.8932" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.10.1.2" y2="25.197201"  x1="8.2573299"/>
+                                    <line stroke="#ffffff" id="line140" style="stroke-linecap:round" x2="7.3785701" y1="25.197201" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.10.1.3" y2="25.8599"  x1="8.2573299"/>
+                                    <line stroke="#ffffff" id="line142" style="stroke-linecap:round" x2="7.3785701" y1="25.1252" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.10.1.4" y2="24.5781"  x1="8.2137003"/>
+                                </g>
+                            </g>
+                            <g id="g290" stroke-width="0" gorn="0.3.0.0.0.0.2.11" >
+                                <title id="title232" >element:JP2</title>
+                                <g id="g288" stroke-width="0" gorn="0.3.0.0.0.0.2.11.1" >
+                                    <title id="title234" >package:1X04</title>
+                                </g>
+                            </g>
+                            <g id="g302" stroke-width="0" gorn="0.3.0.0.0.0.2.12" >
+                                <title id="title292" >element:Q1</title>
+                                <g id="g300" stroke-width="0" gorn="0.3.0.0.0.0.2.12.1" >
+                                    <title id="title294" >package:RESONATOR-SMD</title>
+                                    <line stroke="#ffffff" id="line296" style="stroke-linecap:round" x2="38.692902" y1="41.099499" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.12.1.1" y2="41.099499"  x1="42.377998"/>
+                                    <line stroke="#ffffff" id="line298" style="stroke-linecap:round" x2="42.377998" y1="30.8948" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.12.1.2" y2="30.8948"  x1="38.692902"/>
+                                </g>
+                            </g>
+                            <g id="g366" stroke-width="0" gorn="0.3.0.0.0.0.2.13" >
+                                <title id="title348" >element:U1</title>
+                                <g id="g364" stroke-width="0" gorn="0.3.0.0.0.0.2.13.1" >
+                                    <title id="title350" >package:TQFP32-08</title>
+                                    <line stroke="#ffffff" id="line352" style="stroke-linecap:round" x2="12.24" y1="49.5326" stroke-width="0.43200001" gorn="0.3.0.0.0.0.2.13.1.1" y2="29.6618"  x1="12.24"/>
+                                    <line stroke="#ffffff" id="line354" style="stroke-linecap:round" x2="32.110802" y1="29.6618" stroke-width="0.43200001" gorn="0.3.0.0.0.0.2.13.1.2" y2="29.6618"  x1="12.24"/>
+                                    <line stroke="#ffffff" id="line356" style="stroke-linecap:round" x2="32.110802" y1="29.6618" stroke-width="0.43200001" gorn="0.3.0.0.0.0.2.13.1.3" y2="48.526299"  x1="32.110802"/>
+                                    <line stroke="#ffffff" id="line358" style="stroke-linecap:round" x2="12.24" y1="49.5326" stroke-width="0.43200001" gorn="0.3.0.0.0.0.2.13.1.4" y2="49.5326"  x1="31.104601"/>
+                                    <line stroke="#ffffff" id="line360" style="stroke-linecap:round" x2="32.110802" y1="49.5326" stroke-width="0.43200001" gorn="0.3.0.0.0.0.2.13.1.5" y2="48.526299"  x1="31.104601"/>
+                                    <circle stroke="#ffffff" fill="none" id="circle362" stroke-width="0.43200001" gorn="0.3.0.0.0.0.2.13.1.6" cx="29.951401"  cy="47.373199" r="1.0182"/>
+                                </g>
+                            </g>
+                            <g id="g380" stroke-width="0" gorn="0.3.0.0.0.0.2.14" >
+                                <title id="title368" >element:U2</title>
+                                <g id="g378" stroke-width="0" gorn="0.3.0.0.0.0.2.14.1" >
+                                    <title id="title370" >package:SOT23-5</title>
+                                    <line stroke="#ffffff" id="line372" style="stroke-linecap:round" x2="36.0783" y1="57.669201" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.14.1.1" y2="57.669201"  x1="38.512699"/>
+                                    <line stroke="#ffffff" id="line374" style="stroke-linecap:round" x2="38.512699" y1="49.605202" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.14.1.2" y2="49.605202"  x1="36.0783"/>
+                                    <line stroke="#ffffff" id="line376" style="stroke-linecap:round" x2="39.592701" y1="52.8764" stroke-width="0.57600099" gorn="0.3.0.0.0.0.2.14.1.3" y2="54.397999"  x1="39.592701"/>
+                                </g>
+                            </g>
+                            <g id="g388" stroke-width="0" gorn="0.3.0.0.0.0.2.15" >
+                                <title id="title382" >element:U3</title>
+                                <g id="g386" stroke-width="0" gorn="0.3.0.0.0.0.2.15.1" >
+                                    <title id="title384" >package:MICRO-SD-SOCKET-PP</title>
+                                </g>
+                            </g>
+                        </g>
+                        <rect stroke="none" y="23.8932" height="2.6078801" x="36.093498" fill="#ffffff" id="rect398" stroke-width="0" fill-opacity="0.15" gorn="0.3.0.0.0.0.3"  width="0.878739"/>
+                        <rect stroke="none" y="23.8932" height="2.6078801" x="7.3785701" fill="#ffffff" id="rect400" stroke-width="0" fill-opacity="0.15" gorn="0.3.0.0.0.0.4"  width="0.878739"/>
+                        <rect stroke="none" y="30.8948" height="10.2047" x="38.692902" fill="#ffffff" id="rect402" stroke-width="0" fill-opacity="0.15" gorn="0.3.0.0.0.0.5"  width="3.68504"/>
+                        <rect stroke="none" y="27.7892" height="2.016" x="35.999401" fill="#ffffff" id="rect404" stroke-width="0" fill-opacity="0.15" gorn="0.3.0.0.0.0.6"  width="1.152"/>
+                        <g transform="matrix(0.99999818,0,0,0.99999818,-409.54817,-17.398538)" >
+                            <g >
+                                <g id="g3963" style="display:inline" gorn="0.3.0.0.0.0.7.0.0" >
+                                    <g transform="rotate(135,22.208262,25.383598)" >
+                                        <g >
+                                            <g id="g3577" gorn="0.3.0.0.0.0.7.0.0.0.0.0" >
+                                                <g id="g3575" gorn="0.3.0.0.0.0.7.0.0.0.0.0.0" >
+                                                    <g id="g3573" gorn="0.3.0.0.0.0.7.0.0.0.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-263.2955,91.1954)" >
+                                                            <g >
+                                                                <g id="g3571" gorn="0.3.0.0.0.0.7.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <g id="g3569" gorn="0.3.0.0.0.0.7.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-243.5" id="connector129pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.0.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,28.1918,53.816439)" >
+                                        <g >
+                                            <g id="g3588" gorn="0.3.0.0.0.0.7.0.0.1.0.0" >
+                                                <g id="g3586" gorn="0.3.0.0.0.0.7.0.0.1.0.0.0" >
+                                                    <g id="g3584" gorn="0.3.0.0.0.0.7.0.0.1.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-250.7367,109.5479)" >
+                                                            <g >
+                                                                <g id="g3582" gorn="0.3.0.0.0.0.7.0.0.1.0.0.0.0.0.0.0" >
+                                                                    <g id="g3580" gorn="0.3.0.0.0.0.7.0.0.1.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-259.39999" id="connector113pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.1.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,39.416316,36.608223)" >
+                                        <g >
+                                            <g id="g3599" gorn="0.3.0.0.0.0.7.0.0.2.0.0" >
+                                                <g id="g3597" gorn="0.3.0.0.0.0.7.0.0.2.0.0.0" >
+                                                    <g id="g3595" gorn="0.3.0.0.0.0.7.0.0.2.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-247.8399,94.0922)" >
+                                                            <g >
+                                                                <g id="g3593" gorn="0.3.0.0.0.0.7.0.0.2.0.0.0.0.0.0.0" >
+                                                                    <g id="g3591" gorn="0.3.0.0.0.0.7.0.0.2.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-253.89999" height="3.5999999" x="-238.3" id="connector121pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.2.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,10.983596,42.591752)" >
+                                        <g >
+                                            <g id="g3610" gorn="0.3.0.0.0.0.7.0.0.3.0.0" >
+                                                <g id="g3608" gorn="0.3.0.0.0.0.7.0.0.3.0.0.0" >
+                                                    <g id="g3606" gorn="0.3.0.0.0.0.7.0.0.3.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-266.1924,106.651)" >
+                                                            <g >
+                                                                <g id="g3604" gorn="0.3.0.0.0.0.7.0.0.3.0.0.0.0.0.0.0" >
+                                                                    <g id="g3602" gorn="0.3.0.0.0.0.7.0.0.3.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-269.79999" height="3.5999999" x="-262.60001" id="connector137pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.3.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,34.605748,47.402282)" >
+                                        <g >
+                                            <g id="g3621" gorn="0.3.0.0.0.0.7.0.0.4.0.0" >
+                                                <g id="g3619" gorn="0.3.0.0.0.0.7.0.0.4.0.0.0" >
+                                                    <g id="g3617" gorn="0.3.0.0.0.0.7.0.0.4.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-248.08,103.1336)" >
+                                                            <g >
+                                                                <g id="g3615" gorn="0.3.0.0.0.0.7.0.0.4.0.0.0.0.0.0.0" >
+                                                                    <g id="g3613" gorn="0.3.0.0.0.0.7.0.0.4.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-250.3" id="connector117pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.4.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,33.002171,30.194104)" >
+                                        <g >
+                                            <g id="g3632" gorn="0.3.0.0.0.0.7.0.0.5.0.0" >
+                                                <g id="g3630" gorn="0.3.0.0.0.0.7.0.0.5.0.0.0" >
+                                                    <g id="g3628" gorn="0.3.0.0.0.0.7.0.0.5.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-254.2541,91.4354)" >
+                                                            <g >
+                                                                <g id="g3626" gorn="0.3.0.0.0.0.7.0.0.5.0.0.0.0.0.0.0" >
+                                                                    <g id="g3624" gorn="0.3.0.0.0.0.7.0.0.5.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-263" height="3.5999999" x="-238.3" id="connector125pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.5.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,15.794114,31.797672)" >
+                                        <g >
+                                            <g id="g3643" gorn="0.3.0.0.0.0.7.0.0.6.0.0" >
+                                                <g id="g3641" gorn="0.3.0.0.0.0.7.0.0.6.0.0.0" >
+                                                    <g id="g3639" gorn="0.3.0.0.0.0.7.0.0.6.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-265.9523,97.6095)" >
+                                                            <g >
+                                                                <g id="g3637" gorn="0.3.0.0.0.0.7.0.0.6.0.0.0.0.0.0.0" >
+                                                                    <g id="g3635" gorn="0.3.0.0.0.0.7.0.0.6.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-252.60001" id="connector133pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.6.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,17.397691,49.00585)" >
+                                        <g >
+                                            <g id="g3654" gorn="0.3.0.0.0.0.7.0.0.7.0.0" >
+                                                <g id="g3652" gorn="0.3.0.0.0.0.7.0.0.7.0.0.0" >
+                                                    <g id="g3650" gorn="0.3.0.0.0.0.7.0.0.7.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-259.7782,109.3078)" >
+                                                            <g >
+                                                                <g id="g3648" gorn="0.3.0.0.0.0.7.0.0.7.0.0.0.0.0.0.0" >
+                                                                    <g id="g3646" gorn="0.3.0.0.0.0.7.0.0.7.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-260.70001" height="3.5999999" x="-262.60001" id="connector141pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.7.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,31.398774,50.60936)" >
+                                        <g >
+                                            <g id="g3665" gorn="0.3.0.0.0.0.7.0.0.8.0.0" >
+                                                <g id="g3663" gorn="0.3.0.0.0.0.7.0.0.8.0.0.0" >
+                                                    <g id="g3661" gorn="0.3.0.0.0.0.7.0.0.8.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-249.4084,106.3408)" >
+                                                            <g >
+                                                                <g id="g3659" gorn="0.3.0.0.0.0.7.0.0.8.0.0.0.0.0.0.0" >
+                                                                    <g id="g3657" gorn="0.3.0.0.0.0.7.0.0.8.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-254.89999" id="connector115pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.8.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,37.812651,44.195232)" >
+                                        <g >
+                                            <g id="g3676" gorn="0.3.0.0.0.0.7.0.0.9.0.0" >
+                                                <g id="g3674" gorn="0.3.0.0.0.0.7.0.0.9.0.0.0" >
+                                                    <g id="g3672" gorn="0.3.0.0.0.0.7.0.0.9.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-246.7518,99.9266)" >
+                                                            <g >
+                                                                <g id="g3670" gorn="0.3.0.0.0.0.7.0.0.9.0.0.0.0.0.0.0" >
+                                                                    <g id="g3668" gorn="0.3.0.0.0.0.7.0.0.9.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-245.8" id="connector119pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.9.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,36.209429,33.401211)" >
+                                        <g >
+                                            <g id="g3687" gorn="0.3.0.0.0.0.7.0.0.10.0.0" >
+                                                <g id="g3685" gorn="0.3.0.0.0.0.7.0.0.10.0.0.0" >
+                                                    <g id="g3683" gorn="0.3.0.0.0.0.7.0.0.10.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-251.0469,92.7639)" >
+                                                            <g >
+                                                                <g id="g3681" gorn="0.3.0.0.0.0.7.0.0.10.0.0.0.0.0.0.0" >
+                                                                    <g id="g3679" gorn="0.3.0.0.0.0.7.0.0.10.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-258.5" height="3.5999999" x="-238.3" id="connector123pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.10.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,29.795263,26.987142)" >
+                                        <g >
+                                            <g id="g3698" gorn="0.3.0.0.0.0.7.0.0.11.0.0" >
+                                                <g id="g3696" gorn="0.3.0.0.0.0.7.0.0.11.0.0.0" >
+                                                    <g id="g3694" gorn="0.3.0.0.0.0.7.0.0.11.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-257.461,90.1071)" >
+                                                            <g >
+                                                                <g id="g3692" gorn="0.3.0.0.0.0.7.0.0.11.0.0.0.0.0.0.0" >
+                                                                    <g id="g3690" gorn="0.3.0.0.0.0.7.0.0.11.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-267.5" height="3.5999999" x="-238.3" id="connector127pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.11.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,19.001188,28.590635)" >
+                                        <g >
+                                            <g id="g3709" gorn="0.3.0.0.0.0.7.0.0.12.0.0" >
+                                                <g id="g3707" gorn="0.3.0.0.0.0.7.0.0.12.0.0.0" >
+                                                    <g id="g3705" gorn="0.3.0.0.0.0.7.0.0.12.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-264.6239,94.4024)" >
+                                                            <g >
+                                                                <g id="g3703" gorn="0.3.0.0.0.0.7.0.0.12.0.0.0.0.0.0.0" >
+                                                                    <g id="g3701" gorn="0.3.0.0.0.0.7.0.0.12.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-248.10001" id="connector131pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.12.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,12.587111,35.00468)" >
+                                        <g >
+                                            <g id="g3720" gorn="0.3.0.0.0.0.7.0.0.13.0.0" >
+                                                <g id="g3718" gorn="0.3.0.0.0.0.7.0.0.13.0.0.0" >
+                                                    <g id="g3716" gorn="0.3.0.0.0.0.7.0.0.13.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-267.2807,100.8165)" >
+                                                            <g >
+                                                                <g id="g3714" gorn="0.3.0.0.0.0.7.0.0.13.0.0.0.0.0.0.0" >
+                                                                    <g id="g3712" gorn="0.3.0.0.0.0.7.0.0.13.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-257.10001" id="connector135pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.13.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,14.190633,45.798826)" >
+                                        <g >
+                                            <g id="g3731" gorn="0.3.0.0.0.0.7.0.0.14.0.0" >
+                                                <g id="g3729" gorn="0.3.0.0.0.0.7.0.0.14.0.0.0" >
+                                                    <g id="g3727" gorn="0.3.0.0.0.0.7.0.0.14.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-262.9853,107.9794)" >
+                                                            <g >
+                                                                <g id="g3725" gorn="0.3.0.0.0.0.7.0.0.14.0.0.0.0.0.0.0" >
+                                                                    <g id="g3723" gorn="0.3.0.0.0.0.7.0.0.14.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-265.29999" height="3.5999999" x="-262.60001" id="connector139pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.14.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,20.604599,52.212812)" >
+                                        <g >
+                                            <g id="g3742" gorn="0.3.0.0.0.0.7.0.0.15.0.0" >
+                                                <g id="g3740" gorn="0.3.0.0.0.0.7.0.0.15.0.0.0" >
+                                                    <g id="g3738" gorn="0.3.0.0.0.0.7.0.0.15.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-256.5713,110.636)" >
+                                                            <g >
+                                                                <g id="g3736" gorn="0.3.0.0.0.0.7.0.0.15.0.0.0.0.0.0.0" >
+                                                                    <g id="g3734" gorn="0.3.0.0.0.0.7.0.0.15.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-256.20001" height="3.5999999" x="-262.60001" id="connector143pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.15.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,29.795273,52.212864)" >
+                                        <g >
+                                            <g id="g3753" gorn="0.3.0.0.0.0.7.0.0.16.0.0" >
+                                                <g id="g3751" gorn="0.3.0.0.0.0.7.0.0.16.0.0.0" >
+                                                    <g id="g3749" gorn="0.3.0.0.0.0.7.0.0.16.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-250.0725,107.9443)" >
+                                                            <g >
+                                                                <g id="g3747" gorn="0.3.0.0.0.0.7.0.0.16.0.0.0.0.0.0.0" >
+                                                                    <g id="g3745" gorn="0.3.0.0.0.0.7.0.0.16.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-257.10001" id="connector114pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.16.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,33.002246,49.005786)" >
+                                        <g >
+                                            <g id="g3764" gorn="0.3.0.0.0.0.7.0.0.17.0.0" >
+                                                <g id="g3762" gorn="0.3.0.0.0.0.7.0.0.17.0.0.0" >
+                                                    <g id="g3760" gorn="0.3.0.0.0.0.7.0.0.17.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-248.7442,104.7372)" >
+                                                            <g >
+                                                                <g id="g3758" gorn="0.3.0.0.0.0.7.0.0.17.0.0.0.0.0.0.0" >
+                                                                    <g id="g3756" gorn="0.3.0.0.0.0.7.0.0.17.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-252.60001" id="connector116pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.17.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,36.2092,45.798757)" >
+                                        <g >
+                                            <g id="g3775" gorn="0.3.0.0.0.0.7.0.0.18.0.0" >
+                                                <g id="g3773" gorn="0.3.0.0.0.0.7.0.0.18.0.0.0" >
+                                                    <g id="g3771" gorn="0.3.0.0.0.0.7.0.0.18.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-247.4159,101.5301)" >
+                                                            <g >
+                                                                <g id="g3769" gorn="0.3.0.0.0.0.7.0.0.18.0.0.0.0.0.0.0" >
+                                                                    <g id="g3767" gorn="0.3.0.0.0.0.7.0.0.18.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-248.10001" id="connector118pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.18.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,39.416524,42.591823)" >
+                                        <g >
+                                            <g id="g3786" gorn="0.3.0.0.0.0.7.0.0.19.0.0" >
+                                                <g id="g3784" gorn="0.3.0.0.0.0.7.0.0.19.0.0.0" >
+                                                    <g id="g3782" gorn="0.3.0.0.0.0.7.0.0.19.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-246.0873,98.3233)" >
+                                                            <g >
+                                                                <g id="g3780" gorn="0.3.0.0.0.0.7.0.0.19.0.0.0.0.0.0.0" >
+                                                                    <g id="g3778" gorn="0.3.0.0.0.0.7.0.0.19.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-248.7" height="1.6" x="-243.5" id="connector120pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.19.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,37.812662,35.004659)" >
+                                        <g >
+                                            <g id="g3797" gorn="0.3.0.0.0.0.7.0.0.20.0.0" >
+                                                <g id="g3795" gorn="0.3.0.0.0.0.7.0.0.20.0.0.0" >
+                                                    <g id="g3793" gorn="0.3.0.0.0.0.7.0.0.20.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-249.4436,93.4279)" >
+                                                            <g >
+                                                                <g id="g3791" gorn="0.3.0.0.0.0.7.0.0.20.0.0.0.0.0.0.0" >
+                                                                    <g id="g3789" gorn="0.3.0.0.0.0.7.0.0.20.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-256.20001" height="3.5999999" x="-238.3" id="connector122pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.20.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,34.605825,31.797668)" >
+                                        <g >
+                                            <g id="g3808" gorn="0.3.0.0.0.0.7.0.0.21.0.0" >
+                                                <g id="g3806" gorn="0.3.0.0.0.0.7.0.0.21.0.0.0" >
+                                                    <g id="g3804" gorn="0.3.0.0.0.0.7.0.0.21.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-252.6505,92.0996)" >
+                                                            <g >
+                                                                <g id="g3802" gorn="0.3.0.0.0.0.7.0.0.21.0.0.0.0.0.0.0" >
+                                                                    <g id="g3800" gorn="0.3.0.0.0.0.7.0.0.21.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-260.70001" height="3.5999999" x="-238.3" id="connector124pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.21.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,31.398917,28.590706)" >
+                                        <g >
+                                            <g id="g3819" gorn="0.3.0.0.0.0.7.0.0.22.0.0" >
+                                                <g id="g3817" gorn="0.3.0.0.0.0.7.0.0.22.0.0.0" >
+                                                    <g id="g3815" gorn="0.3.0.0.0.0.7.0.0.22.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-255.8574,90.7714)" >
+                                                            <g >
+                                                                <g id="g3813" gorn="0.3.0.0.0.0.7.0.0.22.0.0.0.0.0.0.0" >
+                                                                    <g id="g3811" gorn="0.3.0.0.0.0.7.0.0.22.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-265.29999" height="3.5999999" x="-238.3" id="connector126pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.22.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,28.19176,25.383641)" >
+                                        <g >
+                                            <g id="g3830" gorn="0.3.0.0.0.0.7.0.0.23.0.0" >
+                                                <g id="g3828" gorn="0.3.0.0.0.0.7.0.0.23.0.0.0" >
+                                                    <g id="g3826" gorn="0.3.0.0.0.0.7.0.0.23.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-259.0645,89.443)" >
+                                                            <g >
+                                                                <g id="g3824" gorn="0.3.0.0.0.0.7.0.0.23.0.0.0.0.0.0.0" >
+                                                                    <g id="g3822" gorn="0.3.0.0.0.0.7.0.0.23.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-269.79999" height="3.5999999" x="-238.3" id="connector128pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.23.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,20.60474,26.987152)" >
+                                        <g >
+                                            <g id="g3841" gorn="0.3.0.0.0.0.7.0.0.24.0.0" >
+                                                <g id="g3839" gorn="0.3.0.0.0.0.7.0.0.24.0.0.0" >
+                                                    <g id="g3837" gorn="0.3.0.0.0.0.7.0.0.24.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-263.9597,92.799)" >
+                                                            <g >
+                                                                <g id="g3835" gorn="0.3.0.0.0.0.7.0.0.24.0.0.0.0.0.0.0" >
+                                                                    <g id="g3833" gorn="0.3.0.0.0.0.7.0.0.24.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-245.8" id="connector130pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.24.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,17.397666,30.194189)" >
+                                        <g >
+                                            <g id="g3852" gorn="0.3.0.0.0.0.7.0.0.25.0.0" >
+                                                <g id="g3850" gorn="0.3.0.0.0.0.7.0.0.25.0.0.0" >
+                                                    <g id="g3848" gorn="0.3.0.0.0.0.7.0.0.25.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-265.2881,96.006)" >
+                                                            <g >
+                                                                <g id="g3846" gorn="0.3.0.0.0.0.7.0.0.25.0.0.0.0.0.0.0" >
+                                                                    <g id="g3844" gorn="0.3.0.0.0.0.7.0.0.25.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-250.3" id="connector132pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.25.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,14.190613,33.401176)" >
+                                        <g >
+                                            <g id="g3863" gorn="0.3.0.0.0.0.7.0.0.26.0.0" >
+                                                <g id="g3861" gorn="0.3.0.0.0.0.7.0.0.26.0.0.0" >
+                                                    <g id="g3859" gorn="0.3.0.0.0.0.7.0.0.26.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-266.6165,99.213)" >
+                                                            <g >
+                                                                <g id="g3857" gorn="0.3.0.0.0.0.7.0.0.26.0.0.0.0.0.0.0" >
+                                                                    <g id="g3855" gorn="0.3.0.0.0.0.7.0.0.26.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-254.89999" id="connector134pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.26.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,10.983589,36.608234)" >
+                                        <g >
+                                            <g id="g3874" gorn="0.3.0.0.0.0.7.0.0.27.0.0" >
+                                                <g id="g3872" gorn="0.3.0.0.0.0.7.0.0.27.0.0.0" >
+                                                    <g id="g3870" gorn="0.3.0.0.0.0.7.0.0.27.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-267.9448,102.42)" >
+                                                            <g >
+                                                                <g id="g3868" gorn="0.3.0.0.0.0.7.0.0.27.0.0.0.0.0.0.0" >
+                                                                    <g id="g3866" gorn="0.3.0.0.0.0.7.0.0.27.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-273" height="1.6" x="-259.39999" id="connector136pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.27.0.0.0.0.0.0.0.0.0"  width="3.5999999"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,12.5871,44.195254)" >
+                                        <g >
+                                            <g id="g3885" gorn="0.3.0.0.0.0.7.0.0.28.0.0" >
+                                                <g id="g3883" gorn="0.3.0.0.0.0.7.0.0.28.0.0.0" >
+                                                    <g id="g3881" gorn="0.3.0.0.0.0.7.0.0.28.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-264.5888,107.3152)" >
+                                                            <g >
+                                                                <g id="g3879" gorn="0.3.0.0.0.0.7.0.0.28.0.0.0.0.0.0.0" >
+                                                                    <g id="g3877" gorn="0.3.0.0.0.0.7.0.0.28.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-267.5" height="3.5999999" x="-262.60001" id="connector138pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.28.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,15.794137,47.402327)" >
+                                        <g >
+                                            <g id="g3896" gorn="0.3.0.0.0.0.7.0.0.29.0.0" >
+                                                <g id="g3894" gorn="0.3.0.0.0.0.7.0.0.29.0.0.0" >
+                                                    <g id="g3892" gorn="0.3.0.0.0.0.7.0.0.29.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-261.3817,108.6436)" >
+                                                            <g >
+                                                                <g id="g3890" gorn="0.3.0.0.0.0.7.0.0.29.0.0.0.0.0.0.0" >
+                                                                    <g id="g3888" gorn="0.3.0.0.0.0.7.0.0.29.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-263" height="3.5999999" x="-262.60001" id="connector140pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.29.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,19.001174,50.609401)" >
+                                        <g >
+                                            <g id="g3907" gorn="0.3.0.0.0.0.7.0.0.30.0.0" >
+                                                <g id="g3905" gorn="0.3.0.0.0.0.7.0.0.30.0.0.0" >
+                                                    <g id="g3903" gorn="0.3.0.0.0.0.7.0.0.30.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-258.1747,109.972)" >
+                                                            <g >
+                                                                <g id="g3901" gorn="0.3.0.0.0.0.7.0.0.30.0.0.0.0.0.0.0" >
+                                                                    <g id="g3899" gorn="0.3.0.0.0.0.7.0.0.30.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-258.5" height="3.5999999" x="-262.60001" id="connector142pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.30.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="rotate(135,22.208274,53.816325)" >
+                                        <g >
+                                            <g id="g3918" gorn="0.3.0.0.0.0.7.0.0.31.0.0" >
+                                                <g id="g3916" gorn="0.3.0.0.0.0.7.0.0.31.0.0.0" >
+                                                    <g id="g3914" gorn="0.3.0.0.0.0.7.0.0.31.0.0.0.0" >
+                                                        <g transform="matrix(0.7071,0.7071,-0.7071,0.7071,-254.9677,111.3002)" >
+                                                            <g >
+                                                                <g id="g3912" gorn="0.3.0.0.0.0.7.0.0.31.0.0.0.0.0.0.0" >
+                                                                    <g id="g3910" gorn="0.3.0.0.0.0.7.0.0.31.0.0.0.0.0.0.0.0" >
+                                                                        <rect y="-253.89999" height="3.5999999" x="-262.60001" id="connector144pad_1_" style="fill:#8c8b8b" gorn="0.3.0.0.0.0.7.0.0.31.0.0.0.0.0.0.0.0.0"  width="1.6"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="g3961" gorn="0.3.0.0.0.0.7.0.0.32" >
+                                        <g id="g3957" style="display:inline" gorn="0.3.0.0.0.0.7.0.0.32.0" >
+                                            <g id="g3955" gorn="0.3.0.0.0.0.7.0.0.32.0.0" >
+                                                <g transform="matrix(0.7071,-0.7071,0.7071,0.7071,6.6859,44.9441)" >
+                                                    <g >
+                                                        <g id="g3929" gorn="0.3.0.0.0.0.7.0.0.32.0.0.0.0.0" >
+                                                            <g id="g3927" gorn="0.3.0.0.0.0.7.0.0.32.0.0.0.0.0.0" >
+                                                                <g id="g3925" gorn="0.3.0.0.0.0.7.0.0.32.0.0.0.0.0.0.0" >
+                                                                    <g transform="matrix(-0.7071,-0.7071,0.7071,-0.7071,279.98,734.3409)" >
+                                                                        <g >
+                                                                            <g id="g3923" gorn="0.3.0.0.0.0.7.0.0.32.0.0.0.0.0.0.0.0.0.0" >
+                                                                                <g id="g3921" gorn="0.3.0.0.0.0.7.0.0.32.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                    <rect y="298.60001" height="21.200001" x="281.5" id="middle_3_" style="fill:#30302f" gorn="0.3.0.0.0.0.7.0.0.32.0.0.0.0.0.0.0.0.0.0.0.0"  width="21.200001"/>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g transform="matrix(0.7071,-0.7071,0.7071,0.7071,5.2793,48.3383)" >
+                                                    <g >
+                                                        <g id="g3940" gorn="0.3.0.0.0.0.7.0.0.32.0.0.1.0.0" >
+                                                            <g id="g3938" gorn="0.3.0.0.0.0.7.0.0.32.0.0.1.0.0.0" >
+                                                                <g id="g3936" gorn="0.3.0.0.0.0.7.0.0.32.0.0.1.0.0.0.0" >
+                                                                    <g transform="matrix(-0.7071,-0.7071,0.7071,-0.7071,304.1458,727.1473)" >
+                                                                        <g >
+                                                                            <g id="g3934" gorn="0.3.0.0.0.0.7.0.0.32.0.0.1.0.0.0.0.0.0.0" >
+                                                                                <g id="g3932" gorn="0.3.0.0.0.0.7.0.0.32.0.0.1.0.0.0.0.0.0.0.0" >
+                                                                                    <rect y="300.20001" height="0.80000001" x="292.10001" id="top_3_" style="fill:#3d3d3d" gorn="0.3.0.0.0.0.7.0.0.32.0.0.1.0.0.0.0.0.0.0.0.0"  width="21.200001"/>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g transform="matrix(0.7073,-0.7069,0.7069,0.7073,8.0849,41.538)" >
+                                                    <g >
+                                                        <g id="g3951" gorn="0.3.0.0.0.0.7.0.0.32.0.0.2.0.0" >
+                                                            <g id="g3949" gorn="0.3.0.0.0.0.7.0.0.32.0.0.2.0.0.0" >
+                                                                <g id="g3947" gorn="0.3.0.0.0.0.7.0.0.32.0.0.2.0.0.0.0" >
+                                                                    <g transform="matrix(-0.7071,-0.7071,0.7071,-0.7071,256.0177,741.4887)" >
+                                                                        <g >
+                                                                            <g id="g3945" gorn="0.3.0.0.0.0.7.0.0.32.0.0.2.0.0.0.0.0.0.0" >
+                                                                                <g id="g3943" gorn="0.3.0.0.0.0.7.0.0.32.0.0.2.0.0.0.0.0.0.0.0" >
+                                                                                    <rect y="317.29999" height="0.80000001" x="271" id="bottom_3_" gorn="0.3.0.0.0.0.7.0.0.32.0.0.2.0.0.0.0.0.0.0.0.0"  width="21.200001"/>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <polygon id="left_6_" style="fill:#1f1f1f" points="422.1,66.8 421.2,67.6 421.2,46.4 422.1,47.3 " gorn="0.3.0.0.0.0.7.0.0.32.0.0.3" />
+                                                <polygon id="left_5_" style="fill:#1f1f1f" points="441.6,47.3 442.4,46.4 442.4,67.6 441.6,66.8 " gorn="0.3.0.0.0.0.7.0.0.32.0.0.4" />
+                                            </g>
+                                        </g>
+                                        <circle id="circle3959" style="fill:#1f1f1f" gorn="0.3.0.0.0.0.7.0.0.32.1" cx="439.70001"  cy="64.900002" r="0.80000001"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="g5750" gorn="0.3.0.0.0.0.8" >
+                            <rect stroke="none" height="1.8475939" y="52.669167" x="34.578991" fill="#8c8b8b" id="rect5752" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1" stroke-width="0.25225529" fill-opacity="1" gorn="0.3.0.0.0.0.8.0"  width="3.2785687"/>
+                            <rect stroke="none" y="55.144264" height="1.8475939" x="34.578991" fill="#8c8b8b" id="rect5803" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1" stroke-width="0.35402268" fill-opacity="1" gorn="0.3.0.0.0.0.8.1"  width="6.4575219"/>
+                            <rect stroke="none" height="1.8475939" y="50.194065" x="34.578991" fill="#8c8b8b" id="rect5805" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1" stroke-width="0.35402268" fill-opacity="1" gorn="0.3.0.0.0.0.8.2"  width="6.4575219"/>
+                            <rect stroke="none" height="8.0640001" y="49.605202" x="36.0783" fill="#333333" id="rect412" stroke-width="0" fill-opacity="1" gorn="0.3.0.0.0.0.8.3"  width="3.51439"/>
+                        </g>
+                        <circle stroke="#9a916c" connectorname="DTR" fill="none" id="connector12pin" stroke-width="1.22399998" gorn="0.3.0.0.0.0.9" cx="4.1754298"  cy="64.797203" r="2.052"/>
+                        <circle stroke="#9a916c" connectorname="RXI" fill="none" id="connector13pin" stroke-width="1.22399998" gorn="0.3.0.0.0.0.10" cx="11.3754"  cy="64.797203" r="2.052"/>
+                        <circle stroke="#9a916c" connectorname="TXO" fill="none" id="connector14pin" stroke-width="1.22399998" gorn="0.3.0.0.0.0.11" cx="18.575399"  cy="64.797203" r="2.052"/>
+                        <circle stroke="#9a916c" connectorname="RAW" fill="none" id="connector15pin" stroke-width="1.22399998" gorn="0.3.0.0.0.0.12" cx="25.7754"  cy="64.797203" r="2.052"/>
+                        <circle stroke="#9a916c" connectorname="GND" fill="none" id="connector16pin" stroke-width="1.22399998" gorn="0.3.0.0.0.0.13" cx="32.975399"  cy="64.797203" r="2.052"/>
+                        <circle stroke="#9a916c" connectorname="GND" fill="none" id="connector17pin" stroke-width="1.22399998" gorn="0.3.0.0.0.0.14" cx="40.1754"  cy="64.797203" r="2.052"/>
+                        <circle stroke="#9a916c" connectorname="RST" fill="none" id="connector18pin" style="display:inline;" stroke-width="0.66639274" gorn="0.3.0.0.0.0.15" cx="11.375398"  cy="17.997223" r="1.117188"/>
+                        <circle stroke="#9a916c" connectorname="SCK" fill="none" id="connector19pin" style="display:inline;" stroke-width="0.66644597" gorn="0.3.0.0.0.0.16" cx="18.575516"  cy="17.997086" r="1.1172771"/>
+                        <circle stroke="#9a916c" connectorname="MOSI" fill="none" id="connector20pin" style="display:inline;" stroke-width="0.66644597" gorn="0.3.0.0.0.0.17" cx="25.775517"  cy="17.996992" r="1.1172771"/>
+                        <circle stroke="#9a916c" connectorname="MISO" fill="none" id="connector21pin" style="display:inline;" stroke-width="0.66644597" gorn="0.3.0.0.0.0.18" cx="32.984253"  cy="17.997107" r="1.1172771"/>
+                        <g transform="rotate(90,37.994121,53.952321)" >
+                            <g >
+                                <g id="g5094" gorn="0.3.0.0.0.0.19.0.0" >
+                                    <rect y="84.207001" height="5.6700001" x="11.83" id="rect396-7" style="fill:#333333" gorn="0.3.0.0.0.0.19.0.0.0"  width="2.5599999"/>
+                                    <rect y="84.205002" height="5.6700001" x="11.833" id="rect398-9" style="opacity:0.2" gorn="0.3.0.0.0.0.19.0.0.1"  enable-background="new    " width="0.021"/>
+                                    <path id="path400" style="fill:#cccccc" d="m 14.389,89.054 v 0 0 -0.065 0 c -0.174,-0.061 -0.813,-0.102 -1.002,-0.102 -0.199,0 -1.383,0.033 -1.56,0.102 v 0.888 h 2.562 z" gorn="0.3.0.0.0.0.19.0.0.2" />
+                                    <path id="path402" style="fill:#cccccc" d="m 14.318,85.092 h 0.071 v -0.888 h -2.561 v 0.888 c 0.184,0.063 1.078,0.116 1.279,0.116 0.239,0.001 1.006,-0.032 1.211,-0.116 z" gorn="0.3.0.0.0.0.19.0.0.3" />
+                                    <rect y="84.204002" height="0.88800001" x="11.832" id="rect404-7" style="opacity:0.15" gorn="0.3.0.0.0.0.19.0.0.4"  enable-background="new    " width="0.028999999"/>
+                                    <rect y="84.204002" height="0.88800001" x="14.358" id="rect406-4" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.19.0.0.5"  enable-background="new    " width="0.029999999"/>
+                                    <rect y="88.987999" height="0.88800001" x="11.832" id="rect408-5" style="opacity:0.15" gorn="0.3.0.0.0.0.19.0.0.6"  enable-background="new    " width="0.029999999"/>
+                                    <rect y="88.988998" height="0.88800001" x="14.359" id="rect410" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.19.0.0.7"  enable-background="new    " width="0.029999999"/>
+                                    <line id="line412" style="fill:none" x2="11.831" y1="84.747002" gorn="0.3.0.0.0.0.19.0.0.8" y2="84.747002"  x1="11.831"/>
+                                    <rect y="89.771004" height="0.116" x="11.846" id="rect414" style="opacity:0.1" gorn="0.3.0.0.0.0.19.0.0.9"  enable-background="new    " width="2.5420001"/>
+                                    <rect y="84.205002" height="0.116" x="11.846" id="rect416" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.19.0.0.10"  enable-background="new    " width="2.5420001"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="rotate(90,69.340018,56.074218)" >
+                            <g >
+                                <g id="g5145" gorn="0.3.0.0.0.0.20.0.0" >
+                                    <rect y="82.791" height="6.4219999" x="37.122002" id="rect280" style="fill:#dcdcdc" gorn="0.3.0.0.0.0.20.0.0.0"  width="1.398"/>
+                                    <line id="line282-1" style="fill:none" x2="37.159" y1="82.792" gorn="0.3.0.0.0.0.20.0.0.1" y2="89.213997"  x1="37.159"/>
+                                    <rect y="83.749001" height="4.5050001" x="37.155998" id="rect284" style="fill:#f2f2f2" gorn="0.3.0.0.0.0.20.0.0.2"  width="2.477"/>
+                                    <path id="path286" style="fill:#22b573;fill-opacity:0.7" d="m 37.157,87.541 c 0,0 0.467,-0.168 0.426,0.052 -0.041,0.218 0.148,0.54 0,0.676 l -0.424,-0.015 z" gorn="0.3.0.0.0.0.20.0.0.3" />
+                                    <rect y="85.573997" height="0.85399997" x="37.979" id="rect288" style="fill:#ffffff" gorn="0.3.0.0.0.0.20.0.0.4"  width="0.96100003"/>
+                                    <rect y="85.574997" height="0.85399997" x="37.952" id="rect290" style="fill:#b3b3b3" gorn="0.3.0.0.0.0.20.0.0.5"  width="0.050999999"/>
+                                    <polygon id="polygon292" style="fill:#d1c690" points="38.104,87.305 37.581,87.305 37.477,88.268 38.208,88.268 " gorn="0.3.0.0.0.0.20.0.0.6" />
+                                    <path id="path294" style="fill:#d1c690" d="m 37.78,87.593 c 0,-0.002 0,-0.005 0,-0.007 0.035,-0.269 0.105,-0.449 0.162,-0.598 0.08,-0.209 0.141,-0.361 0.055,-0.636 -0.012,-0.024 0.012,-0.059 0.043,-0.063 0.035,-0.008 0.068,0.009 0.078,0.039 0.094,0.303 0.025,0.478 -0.059,0.694 -0.062,0.148 -0.123,0.318 -0.156,0.572 -0.004,0.03 -0.033,0.054 -0.068,0.049 -0.031,0.001 -0.055,-0.023 -0.055,-0.05 z" gorn="0.3.0.0.0.0.20.0.0.7" />
+                                    <polygon id="polygon296" style="fill:#d1c690" points="38.587,84.7 39.11,84.7 39.214,83.736 38.483,83.736 " gorn="0.3.0.0.0.0.20.0.0.8" />
+                                    <path id="path298" style="fill:#d1c690" d="m 38.306,85.96 c 0,-0.025 0.02,-0.049 0.047,-0.055 0.291,-0.063 0.42,-0.949 0.436,-1.492 0,-0.033 0.027,-0.06 0.063,-0.06 0.035,0.002 0.063,0.025 0.063,0.06 v 0.002 c -0.004,0.149 -0.053,1.498 -0.526,1.6 -0.035,0.007 -0.068,-0.012 -0.078,-0.042 -0.005,-0.004 -0.005,-0.008 -0.005,-0.013 z" gorn="0.3.0.0.0.0.20.0.0.9" />
+                                    <path id="path300" style="fill:#d1c690" d="m 38.29,86.43 c 0,0 0.002,-0.354 -0.311,-0.382 0,0.071 0,0.382 0,0.382 z" gorn="0.3.0.0.0.0.20.0.0.10" />
+                                    <path id="path302" style="fill:#d1c690" d="m 38.608,85.996 c 0,0 -0.305,0.158 -0.351,0.052 -0.049,-0.107 -0.053,-0.178 0.027,-0.24 0.086,-0.061 0.324,0.188 0.324,0.188 z" gorn="0.3.0.0.0.0.20.0.0.11" />
+                                    <path id="path304" style="fill:#9d956c" d="m 37.94,86.355 c 0.084,0.271 0.022,0.426 -0.055,0.635 -0.062,0.146 -0.128,0.329 -0.162,0.598 l 0.057,0.001 c 0.035,-0.269 0.105,-0.449 0.162,-0.598 0.08,-0.209 0.141,-0.361 0.055,-0.636 z" gorn="0.3.0.0.0.0.20.0.0.12" />
+                                    <polygon id="polygon306" style="fill:#9d956c" points="38.587,84.7 38.532,84.7 38.429,83.736 38.483,83.736 " gorn="0.3.0.0.0.0.20.0.0.13" />
+                                    <path id="path308" style="fill:#9d956c" d="m 38.296,85.904 c 0.291,-0.063 0.422,-0.947 0.437,-1.492 h 0.059 c -0.016,0.545 -0.145,1.434 -0.436,1.494 z" gorn="0.3.0.0.0.0.20.0.0.14" />
+                                    <path id="path310" style="fill:#9d956c" d="m 37.922,86.047 c 0,0.071 0,0.382 0,0.382 h 0.06 c 0,0 0,-0.311 0,-0.382 z" gorn="0.3.0.0.0.0.20.0.0.15" />
+                                    <path id="path312" style="fill:#9d956c" d="m 38.233,85.807 c -0.08,0.063 -0.076,0.131 -0.031,0.239 l 0.062,10e-4 C 38.212,85.94 38.21,85.869 38.29,85.807 Z" gorn="0.3.0.0.0.0.20.0.0.16" />
+                                    <rect y="84.271004" height="3.4619999" x="39.580002" id="rect314" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.20.0.0.17"  enable-background="new    " width="0.052999999"/>
+                                    <path id="path316" style="fill:#ffffff" d="m 38.885,85.462 c 0.049,0 0.088,0.035 0.088,0.076 v 0.326 c 0,0.043 0.039,0.075 0.086,0.075 h 0.032 c -0.051,0 -0.09,-0.032 -0.09,-0.075 v -0.326 c 0,-0.043 -0.039,-0.078 -0.086,-0.078 z" gorn="0.3.0.0.0.0.20.0.0.18" />
+                                    <path id="path318" style="fill:#ffffff" d="m 39.212,87.452 c 0.052,0 0.09,-0.036 0.09,-0.077 v -1.356 c 0,-0.043 -0.038,-0.075 -0.09,-0.075 h 0.033 c 0.049,0 0.088,0.031 0.088,0.075 v 1.356 c 0,0.041 -0.039,0.077 -0.088,0.077 z" gorn="0.3.0.0.0.0.20.0.0.19" />
+                                    <path id="path320" style="fill:#ffffff" d="m 37.739,87.733 v -0.206 c 0,-0.041 0.039,-0.073 0.088,-0.073 h 0.031 c -0.047,0 -0.086,0.032 -0.086,0.073 v 0.205 z" gorn="0.3.0.0.0.0.20.0.0.20" />
+                                    <path id="path322" style="fill:#ffffff" d="m 39.301,84.27 v 1.029 c 0,0.041 -0.039,0.078 -0.091,0.078 h 0.033 c 0.049,0 0.088,-0.035 0.088,-0.078 V 84.27 Z" gorn="0.3.0.0.0.0.20.0.0.21" />
+                                    <path id="path324" style="opacity:0.5;fill:#f2f2f2" d="m 39.633,83.751 h -2.477 v 4.505 h 2.477 z" gorn="0.3.0.0.0.0.20.0.0.22"  enable-background="new    "/>
+                                    <path id="path326" style="opacity:0.55;fill:#ffffff" d="m 38.979,83.802 h 0.27 c 0.152,0.017 0.271,-0.012 0.271,0.096 0,0.613 0,3.944 0,4.099 0,0.167 -0.066,0.175 -0.066,-0.015 0,-0.131 0,-3.133 0,-3.586 0,-0.457 -0.104,-0.518 -0.195,-0.518 l -0.272,0.002 c -0.181,0 -0.181,-0.078 -0.008,-0.078 z" gorn="0.3.0.0.0.0.20.0.0.23"  enable-background="new    "/>
+                                    <path id="path328" style="opacity:0.02999998" d="m 37.378,88.206 c -0.065,0 -0.137,0.012 -0.137,-0.1 0,-0.609 0,-3.941 0,-4.095 0,-0.168 0.066,-0.176 0.066,0.008 0,0.138 0.002,3.14 0.002,3.594 0,0.593 0.069,0.593 0.069,0.593 z" gorn="0.3.0.0.0.0.20.0.0.24"  enable-background="new    "/>
+                                    <path id="path330" style="fill:#d1c690" d="m 37.157,82.794 v 0.77 h 0.521 c 0.125,0 0.213,0.082 0.268,0.188 h 1.688 v -1.009 h -2.428 -0.049" gorn="0.3.0.0.0.0.20.0.0.25" />
+                                    <rect y="82.742996" height="1.006" x="39.582001" id="rect332" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.20.0.0.26"  enable-background="new    " width="0.050999999"/>
+                                    <path id="path334" style="fill:#d1c690" d="m 37.157,89.263 h 0.049 2.428 V 88.254 H 37.53 c -0.055,0.104 -0.146,0.188 -0.271,0.188 h -0.1 v 0.771" gorn="0.3.0.0.0.0.20.0.0.27" />
+                                    <rect y="88.252998" height="1.01" x="39.580002" id="rect336" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.20.0.0.28"  enable-background="new    " width="0.052999999"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="rotate(-90,-8.674115,72.201315)" >
+                            <g >
+                                <g id="g5145-5" gorn="0.3.0.0.0.0.21.0.0" >
+                                    <rect y="82.791" height="6.4219999" x="37.122002" id="rect280-1" style="fill:#dcdcdc" gorn="0.3.0.0.0.0.21.0.0.0"  width="1.398"/>
+                                    <line id="line282-8" style="fill:none" x2="37.159" y1="82.792" gorn="0.3.0.0.0.0.21.0.0.1" y2="89.213997"  x1="37.159"/>
+                                    <rect y="83.749001" height="4.5050001" x="37.155998" id="rect284-6" style="fill:#f2f2f2" gorn="0.3.0.0.0.0.21.0.0.2"  width="2.477"/>
+                                    <path id="path286-8" style="fill:#22b573;fill-opacity:0.7" d="m 37.157,87.541 c 0,0 0.467,-0.168 0.426,0.052 -0.041,0.218 0.148,0.54 0,0.676 l -0.424,-0.015 z" gorn="0.3.0.0.0.0.21.0.0.3" />
+                                    <rect y="85.573997" height="0.85399997" x="37.979" id="rect288-5" style="fill:#ffffff" gorn="0.3.0.0.0.0.21.0.0.4"  width="0.96100003"/>
+                                    <rect y="85.574997" height="0.85399997" x="37.952" id="rect290-0" style="fill:#b3b3b3" gorn="0.3.0.0.0.0.21.0.0.5"  width="0.050999999"/>
+                                    <polygon id="polygon292-1" style="fill:#d1c690" points="38.208,88.268 38.104,87.305 37.581,87.305 37.477,88.268 " gorn="0.3.0.0.0.0.21.0.0.6" />
+                                    <path id="path294-1" style="fill:#d1c690" d="m 37.78,87.593 c 0,-0.002 0,-0.005 0,-0.007 0.035,-0.269 0.105,-0.449 0.162,-0.598 0.08,-0.209 0.141,-0.361 0.055,-0.636 -0.012,-0.024 0.012,-0.059 0.043,-0.063 0.035,-0.008 0.068,0.009 0.078,0.039 0.094,0.303 0.025,0.478 -0.059,0.694 -0.062,0.148 -0.123,0.318 -0.156,0.572 -0.004,0.03 -0.033,0.054 -0.068,0.049 -0.031,0.001 -0.055,-0.023 -0.055,-0.05 z" gorn="0.3.0.0.0.0.21.0.0.7" />
+                                    <polygon id="polygon296-6" style="fill:#d1c690" points="38.483,83.736 38.587,84.7 39.11,84.7 39.214,83.736 " gorn="0.3.0.0.0.0.21.0.0.8" />
+                                    <path id="path298-2" style="fill:#d1c690" d="m 38.306,85.96 c 0,-0.025 0.02,-0.049 0.047,-0.055 0.291,-0.063 0.42,-0.949 0.436,-1.492 0,-0.033 0.027,-0.06 0.063,-0.06 0.035,0.002 0.063,0.025 0.063,0.06 v 0.002 c -0.004,0.149 -0.053,1.498 -0.526,1.6 -0.035,0.007 -0.068,-0.012 -0.078,-0.042 -0.005,-0.004 -0.005,-0.008 -0.005,-0.013 z" gorn="0.3.0.0.0.0.21.0.0.9" />
+                                    <path id="path300-7" style="fill:#d1c690" d="m 38.29,86.43 c 0,0 0.002,-0.354 -0.311,-0.382 0,0.071 0,0.382 0,0.382 z" gorn="0.3.0.0.0.0.21.0.0.10" />
+                                    <path id="path302-0" style="fill:#d1c690" d="m 38.608,85.996 c 0,0 -0.305,0.158 -0.351,0.052 -0.049,-0.107 -0.053,-0.178 0.027,-0.24 0.086,-0.061 0.324,0.188 0.324,0.188 z" gorn="0.3.0.0.0.0.21.0.0.11" />
+                                    <path id="path304-1" style="fill:#9d956c" d="m 37.94,86.355 c 0.084,0.271 0.022,0.426 -0.055,0.635 -0.062,0.146 -0.128,0.329 -0.162,0.598 l 0.057,0.001 c 0.035,-0.269 0.105,-0.449 0.162,-0.598 0.08,-0.209 0.141,-0.361 0.055,-0.636 z" gorn="0.3.0.0.0.0.21.0.0.12" />
+                                    <polygon id="polygon306-4" style="fill:#9d956c" points="38.483,83.736 38.587,84.7 38.532,84.7 38.429,83.736 " gorn="0.3.0.0.0.0.21.0.0.13" />
+                                    <path id="path308-5" style="fill:#9d956c" d="m 38.296,85.904 c 0.291,-0.063 0.422,-0.947 0.437,-1.492 h 0.059 c -0.016,0.545 -0.145,1.434 -0.436,1.494 z" gorn="0.3.0.0.0.0.21.0.0.14" />
+                                    <path id="path310-7" style="fill:#9d956c" d="m 37.922,86.047 c 0,0.071 0,0.382 0,0.382 h 0.06 c 0,0 0,-0.311 0,-0.382 z" gorn="0.3.0.0.0.0.21.0.0.15" />
+                                    <path id="path312-2" style="fill:#9d956c" d="m 38.233,85.807 c -0.08,0.063 -0.076,0.131 -0.031,0.239 l 0.062,10e-4 C 38.212,85.94 38.21,85.869 38.29,85.807 Z" gorn="0.3.0.0.0.0.21.0.0.16" />
+                                    <rect y="84.271004" height="3.4619999" x="39.580002" id="rect314-4" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.21.0.0.17"  enable-background="new    " width="0.052999999"/>
+                                    <path id="path316-4" style="fill:#ffffff" d="m 38.885,85.462 c 0.049,0 0.088,0.035 0.088,0.076 v 0.326 c 0,0.043 0.039,0.075 0.086,0.075 h 0.032 c -0.051,0 -0.09,-0.032 -0.09,-0.075 v -0.326 c 0,-0.043 -0.039,-0.078 -0.086,-0.078 z" gorn="0.3.0.0.0.0.21.0.0.18" />
+                                    <path id="path318-1" style="fill:#ffffff" d="m 39.212,87.452 c 0.052,0 0.09,-0.036 0.09,-0.077 v -1.356 c 0,-0.043 -0.038,-0.075 -0.09,-0.075 h 0.033 c 0.049,0 0.088,0.031 0.088,0.075 v 1.356 c 0,0.041 -0.039,0.077 -0.088,0.077 z" gorn="0.3.0.0.0.0.21.0.0.19" />
+                                    <path id="path320-3" style="fill:#ffffff" d="m 37.739,87.733 v -0.206 c 0,-0.041 0.039,-0.073 0.088,-0.073 h 0.031 c -0.047,0 -0.086,0.032 -0.086,0.073 v 0.205 z" gorn="0.3.0.0.0.0.21.0.0.20" />
+                                    <path id="path322-1" style="fill:#ffffff" d="m 39.301,84.27 v 1.029 c 0,0.041 -0.039,0.078 -0.091,0.078 h 0.033 c 0.049,0 0.088,-0.035 0.088,-0.078 V 84.27 Z" gorn="0.3.0.0.0.0.21.0.0.21" />
+                                    <path id="path324-2" style="opacity:0.5;fill:#f2f2f2" d="m 39.633,83.751 h -2.477 v 4.505 h 2.477 z" gorn="0.3.0.0.0.0.21.0.0.22"  enable-background="new    "/>
+                                    <path id="path326-0" style="opacity:0.55;fill:#ffffff" d="m 38.979,83.802 h 0.27 c 0.152,0.017 0.271,-0.012 0.271,0.096 0,0.613 0,3.944 0,4.099 0,0.167 -0.066,0.175 -0.066,-0.015 0,-0.131 0,-3.133 0,-3.586 0,-0.457 -0.104,-0.518 -0.195,-0.518 l -0.272,0.002 c -0.181,0 -0.181,-0.078 -0.008,-0.078 z" gorn="0.3.0.0.0.0.21.0.0.23"  enable-background="new    "/>
+                                    <path id="path328-1" style="opacity:0.02999998" d="m 37.378,88.206 c -0.065,0 -0.137,0.012 -0.137,-0.1 0,-0.609 0,-3.941 0,-4.095 0,-0.168 0.066,-0.176 0.066,0.008 0,0.138 0.002,3.14 0.002,3.594 0,0.593 0.069,0.593 0.069,0.593 z" gorn="0.3.0.0.0.0.21.0.0.24"  enable-background="new    "/>
+                                    <path id="path330-2" style="fill:#d1c690" d="m 37.157,82.794 v 0.77 h 0.521 c 0.125,0 0.213,0.082 0.268,0.188 h 1.688 v -1.009 h -2.428 -0.049" gorn="0.3.0.0.0.0.21.0.0.25" />
+                                    <rect y="82.742996" height="1.006" x="39.582001" id="rect332-4" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.21.0.0.26"  enable-background="new    " width="0.050999999"/>
+                                    <path id="path334-5" style="fill:#d1c690" d="m 37.157,89.263 h 0.049 2.428 V 88.254 H 37.53 c -0.055,0.104 -0.146,0.188 -0.271,0.188 h -0.1 v 0.771" gorn="0.3.0.0.0.0.21.0.0.27" />
+                                    <rect y="88.252998" height="1.01" x="39.580002" id="rect336-2" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.21.0.0.28"  enable-background="new    " width="0.052999999"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(27.362214,-6.6623919)" >
+                            <g >
+                                <g id="g16-0" gorn="0.3.0.0.0.0.22.0.0" >
+                                    <path id="path4" d="m 15.075,46.233 c 0,0.312 -0.255,0.567 -0.567,0.567 h -2.792 c -0.312,0 -0.567,-0.255 -0.567,-0.567 v -7.241 c 0,-0.312 0.255,-0.567 0.567,-0.567 h 2.792 c 0.312,0 0.567,0.255 0.567,0.567 z" style="fill:#bfbfbf" gorn="0.3.0.0.0.0.22.0.0.0" />
+                                    <path id="path6" d="m 14.731,45.386 c 0,0.374 -0.306,0.68 -0.68,0.68 h -1.878 c -0.374,0 -0.68,-0.306 -0.68,-0.68 v -5.548 c 0,-0.374 0.306,-0.68 0.68,-0.68 h 1.878 c 0.374,0 0.68,0.306 0.68,0.68 z" style="fill:#d6d6d6" gorn="0.3.0.0.0.0.22.0.0.1" />
+                                    <path id="path8" d="m 11.149,39.138 c 0,-0.312 0.255,-0.567 0.567,-0.567 h 2.792 c 0.312,0 0.567,0.255 0.567,0.567 v -0.146 c 0,-0.312 -0.255,-0.567 -0.567,-0.567 h -2.792 c -0.312,0 -0.567,0.255 -0.567,0.567 z" style="fill:#cbcbcb" gorn="0.3.0.0.0.0.22.0.0.2" />
+                                    <path id="path10" d="m 11.149,46.124 c 0,0.312 0.255,0.567 0.567,0.567 h 2.792 c 0.312,0 0.567,-0.255 0.567,-0.567 v 0.109 c 0,0.312 -0.255,0.567 -0.567,0.567 h -2.792 c -0.312,0 -0.567,-0.255 -0.567,-0.567 z" style="fill:#acacac" gorn="0.3.0.0.0.0.22.0.0.3" />
+                                    <path id="path12" d="m 11.493,39.839 c 0,-0.374 0.306,-0.68 0.68,-0.68 h 1.878 c 0.374,0 0.68,0.306 0.68,0.68 v 0.146 c 0,-0.374 -0.306,-0.68 -0.68,-0.68 h -1.878 c -0.374,0 -0.68,0.306 -0.68,0.68 z" style="fill:#dddddd" gorn="0.3.0.0.0.0.22.0.0.4" />
+                                    <path id="path14" d="m 14.731,45.277 c 0,0.374 -0.306,0.68 -0.68,0.68 h -1.878 c -0.374,0 -0.68,-0.306 -0.68,-0.68 v 0.109 c 0,0.374 0.306,0.68 0.68,0.68 h 1.878 c 0.374,0 0.68,-0.306 0.68,-0.68 z" style="fill:#cccccc" gorn="0.3.0.0.0.0.22.0.0.5" />
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="rotate(90,55.1061,71.0333)" >
+                            <g >
+                                <g id="g1912" gorn="0.3.0.0.0.0.23.0.0" >
+                                    <rect height="5.6700001" y="84.207001" x="11.83" id="rect1890" style="fill:#333333" gorn="0.3.0.0.0.0.23.0.0.0"  width="2.5599999"/>
+                                    <rect height="5.6700001" y="84.205002" x="11.833" id="rect1892" style="opacity:0.2" gorn="0.3.0.0.0.0.23.0.0.1"  enable-background="new    " width="0.021"/>
+                                    <path id="path1894" d="m 14.389,89.054 v 0 0 -0.065 0 c -0.174,-0.061 -0.813,-0.102 -1.002,-0.102 -0.199,0 -1.383,0.033 -1.56,0.102 v 0.888 h 2.562 z" style="fill:#cccccc" gorn="0.3.0.0.0.0.23.0.0.2" />
+                                    <path id="path1896" d="m 14.318,85.092 h 0.071 v -0.888 h -2.561 v 0.888 c 0.184,0.063 1.078,0.116 1.279,0.116 0.239,0.001 1.006,-0.032 1.211,-0.116 z" style="fill:#cccccc" gorn="0.3.0.0.0.0.23.0.0.3" />
+                                    <rect height="0.88800001" y="84.204002" x="11.832" id="rect1898" style="opacity:0.15" gorn="0.3.0.0.0.0.23.0.0.4"  enable-background="new    " width="0.028999999"/>
+                                    <rect height="0.88800001" y="84.204002" x="14.358" id="rect1900" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.23.0.0.5"  enable-background="new    " width="0.029999999"/>
+                                    <rect height="0.88800001" y="88.987999" x="11.832" id="rect1902" style="opacity:0.15" gorn="0.3.0.0.0.0.23.0.0.6"  enable-background="new    " width="0.029999999"/>
+                                    <rect height="0.88800001" y="88.988998" x="14.359" id="rect1904" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.23.0.0.7"  enable-background="new    " width="0.029999999"/>
+                                    <line id="line1906" style="fill:none" x2="11.831" y1="84.747002" gorn="0.3.0.0.0.0.23.0.0.8" y2="84.747002"  x1="11.831"/>
+                                    <rect height="0.116" y="89.771004" x="11.846" id="rect1908" style="opacity:0.1" gorn="0.3.0.0.0.0.23.0.0.9"  enable-background="new    " width="2.5420001"/>
+                                    <rect height="0.116" y="84.205002" x="11.846" id="rect1910" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.23.0.0.10"  enable-background="new    " width="2.5420001"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(-8.4807804,-42.580864)" >
+                            <g >
+                                <g id="g5081" gorn="0.3.0.0.0.0.24.0.0" >
+                                    <rect y="76.366997" height="5.6700001" x="11.863" id="rect202" style="fill:#917c6f" gorn="0.3.0.0.0.0.24.0.0.0"  width="2.559"/>
+                                    <rect y="76.369003" height="5.6700001" x="14.399" id="rect204" style="opacity:0.2" gorn="0.3.0.0.0.0.24.0.0.1"  enable-background="new    " width="0.021"/>
+                                    <rect y="76.367996" height="5.671" x="11.862" id="rect206" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.24.0.0.2"  enable-background="new    " width="0.030999999"/>
+                                    <path id="path208" style="fill:#dcdcdc" d="m 11.862,77.189 v 0 0 0.065 0 c 0.171,0.06 0.813,0.1 1.002,0.1 0.199,0 1.379,-0.035 1.56,-0.1 v -0.891 h -2.562 z" gorn="0.3.0.0.0.0.24.0.0.3" />
+                                    <path id="path210" style="fill:#dcdcdc" d="m 11.933,81.151 h -0.071 v 0.887 h 2.561 v -0.887 c -0.184,-0.063 -1.354,-0.139 -1.559,-0.139 -0.234,0.001 -0.726,0.055 -0.931,0.139 z" gorn="0.3.0.0.0.0.24.0.0.4" />
+                                    <rect y="81.151001" height="0.88700002" x="14.39" id="rect212" style="opacity:0.15" gorn="0.3.0.0.0.0.24.0.0.5"  enable-background="new    " width="0.028999999"/>
+                                    <rect y="81.151001" height="0.88700002" x="11.863" id="rect214" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.24.0.0.6"  enable-background="new    " width="0.030999999"/>
+                                    <path id="path216" style="fill:#d1c690" d="m 14.422,76.366 v 0.891" gorn="0.3.0.0.0.0.24.0.0.7" />
+                                    <rect y="76.366997" height="0.88800001" x="14.39" id="rect218" style="opacity:0.15" gorn="0.3.0.0.0.0.24.0.0.8"  enable-background="new    " width="0.028999999"/>
+                                    <rect y="76.365997" height="0.88999999" x="11.863" id="rect220" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.24.0.0.9"  enable-background="new    " width="0.029999999"/>
+                                    <line id="line222-1" style="fill:none" x2="14.421" y1="81.495003" gorn="0.3.0.0.0.0.24.0.0.10" y2="81.495003"  x1="14.421"/>
+                                    <rect y="76.355003" height="0.116" x="11.871" id="rect224" style="opacity:0.1" gorn="0.3.0.0.0.0.24.0.0.11"  enable-background="new    " width="2.5420001"/>
+                                    <rect y="81.920998" height="0.116" x="11.871" id="rect226" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.24.0.0.12"  enable-background="new    " width="2.5420001"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(-8.4947804,-25.963644)" >
+                            <g >
+                                <g id="g1972" gorn="0.3.0.0.0.0.25.0.0" >
+                                    <rect height="5.6700001" y="76.366997" x="11.863" id="rect1946" style="fill:#917c6f" gorn="0.3.0.0.0.0.25.0.0.0"  width="2.559"/>
+                                    <rect height="5.6700001" y="76.369003" x="14.399" id="rect1948" style="opacity:0.2" gorn="0.3.0.0.0.0.25.0.0.1"  enable-background="new    " width="0.021"/>
+                                    <rect height="5.671" y="76.367996" x="11.862" id="rect1950" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.25.0.0.2"  enable-background="new    " width="0.030999999"/>
+                                    <path id="path1952" d="m 11.862,77.189 v 0 0 0.065 0 c 0.171,0.06 0.813,0.1 1.002,0.1 0.199,0 1.379,-0.035 1.56,-0.1 v -0.891 h -2.562 z" style="fill:#dcdcdc" gorn="0.3.0.0.0.0.25.0.0.3" />
+                                    <path id="path1954" d="m 11.933,81.151 h -0.071 v 0.887 h 2.561 v -0.887 c -0.184,-0.063 -1.354,-0.139 -1.559,-0.139 -0.234,0.001 -0.726,0.055 -0.931,0.139 z" style="fill:#dcdcdc" gorn="0.3.0.0.0.0.25.0.0.4" />
+                                    <rect height="0.88700002" y="81.151001" x="14.39" id="rect1956" style="opacity:0.15" gorn="0.3.0.0.0.0.25.0.0.5"  enable-background="new    " width="0.028999999"/>
+                                    <rect height="0.88700002" y="81.151001" x="11.863" id="rect1958" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.25.0.0.6"  enable-background="new    " width="0.030999999"/>
+                                    <path id="path1960" d="m 14.422,76.366 v 0.891" style="fill:#d1c690" gorn="0.3.0.0.0.0.25.0.0.7" />
+                                    <rect height="0.88800001" y="76.366997" x="14.39" id="rect1962" style="opacity:0.15" gorn="0.3.0.0.0.0.25.0.0.8"  enable-background="new    " width="0.028999999"/>
+                                    <rect height="0.88999999" y="76.365997" x="11.863" id="rect1964" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.25.0.0.9"  enable-background="new    " width="0.029999999"/>
+                                    <line id="line1966" style="fill:none" x2="14.421" y1="81.495003" gorn="0.3.0.0.0.0.25.0.0.10" y2="81.495003"  x1="14.421"/>
+                                    <rect height="0.116" y="76.355003" x="11.871" id="rect1968" style="opacity:0.1" gorn="0.3.0.0.0.0.25.0.0.11"  enable-background="new    " width="2.5420001"/>
+                                    <rect height="0.116" y="81.920998" x="11.871" id="rect1970" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.25.0.0.12"  enable-background="new    " width="2.5420001"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(28.56081,-33.871223)" >
+                            <g >
+                                <g id="g5081-2" gorn="0.3.0.0.0.0.26.0.0" >
+                                    <rect y="76.366997" height="5.6700001" x="11.863" id="rect202-5" style="fill:#917c6f" gorn="0.3.0.0.0.0.26.0.0.0"  width="2.559"/>
+                                    <rect y="76.369003" height="5.6700001" x="14.399" id="rect204-1" style="opacity:0.2" gorn="0.3.0.0.0.0.26.0.0.1"  enable-background="new    " width="0.021"/>
+                                    <rect y="76.367996" height="5.671" x="11.862" id="rect206-4" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.26.0.0.2"  enable-background="new    " width="0.030999999"/>
+                                    <path id="path208-8" style="fill:#dcdcdc" d="m 11.862,77.189 v 0 0 0.065 0 c 0.171,0.06 0.813,0.1 1.002,0.1 0.199,0 1.379,-0.035 1.56,-0.1 v -0.891 h -2.562 z" gorn="0.3.0.0.0.0.26.0.0.3" />
+                                    <path id="path210-3" style="fill:#dcdcdc" d="m 11.933,81.151 h -0.071 v 0.887 h 2.561 v -0.887 c -0.184,-0.063 -1.354,-0.139 -1.559,-0.139 -0.234,0.001 -0.726,0.055 -0.931,0.139 z" gorn="0.3.0.0.0.0.26.0.0.4" />
+                                    <rect y="81.151001" height="0.88700002" x="14.39" id="rect212-0" style="opacity:0.15" gorn="0.3.0.0.0.0.26.0.0.5"  enable-background="new    " width="0.028999999"/>
+                                    <rect y="81.151001" height="0.88700002" x="11.863" id="rect214-4" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.26.0.0.6"  enable-background="new    " width="0.030999999"/>
+                                    <path id="path216-9" style="fill:#d1c690" d="m 14.422,76.366 v 0.891" gorn="0.3.0.0.0.0.26.0.0.7" />
+                                    <rect y="76.366997" height="0.88800001" x="14.39" id="rect218-2" style="opacity:0.15" gorn="0.3.0.0.0.0.26.0.0.8"  enable-background="new    " width="0.028999999"/>
+                                    <rect y="76.365997" height="0.88999999" x="11.863" id="rect220-8" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.26.0.0.9"  enable-background="new    " width="0.029999999"/>
+                                    <line id="line222-6" style="fill:none" x2="14.421" y1="81.495003" gorn="0.3.0.0.0.0.26.0.0.10" y2="81.495003"  x1="14.421"/>
+                                    <rect y="76.355003" height="0.116" x="11.871" id="rect224-5" style="opacity:0.1" gorn="0.3.0.0.0.0.26.0.0.11"  enable-background="new    " width="2.5420001"/>
+                                    <rect y="81.920998" height="0.116" x="11.871" id="rect226-5" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.26.0.0.12"  enable-background="new    " width="2.5420001"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(-8.4697798,-42.045895)" >
+                            <g >
+                                <g id="g2056" gorn="0.3.0.0.0.0.27.0.0" >
+                                    <rect height="5.6700001" y="84.207001" x="11.83" id="rect2034" style="fill:#333333" gorn="0.3.0.0.0.0.27.0.0.0"  width="2.5599999"/>
+                                    <rect height="5.6700001" y="84.205002" x="11.833" id="rect2036" style="opacity:0.2" gorn="0.3.0.0.0.0.27.0.0.1"  enable-background="new    " width="0.021"/>
+                                    <path id="path2038" d="m 14.389,89.054 v 0 0 -0.065 0 c -0.174,-0.061 -0.813,-0.102 -1.002,-0.102 -0.199,0 -1.383,0.033 -1.56,0.102 v 0.888 h 2.562 z" style="fill:#cccccc" gorn="0.3.0.0.0.0.27.0.0.2" />
+                                    <path id="path2040" d="m 14.318,85.092 h 0.071 v -0.888 h -2.561 v 0.888 c 0.184,0.063 1.078,0.116 1.279,0.116 0.239,0.001 1.006,-0.032 1.211,-0.116 z" style="fill:#cccccc" gorn="0.3.0.0.0.0.27.0.0.3" />
+                                    <rect height="0.88800001" y="84.204002" x="11.832" id="rect2042" style="opacity:0.15" gorn="0.3.0.0.0.0.27.0.0.4"  enable-background="new    " width="0.028999999"/>
+                                    <rect height="0.88800001" y="84.204002" x="14.358" id="rect2044" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.27.0.0.5"  enable-background="new    " width="0.029999999"/>
+                                    <rect height="0.88800001" y="88.987999" x="11.832" id="rect2046" style="opacity:0.15" gorn="0.3.0.0.0.0.27.0.0.6"  enable-background="new    " width="0.029999999"/>
+                                    <rect height="0.88800001" y="88.988998" x="14.359" id="rect2048" style="opacity:0.5;fill:#ffffff" gorn="0.3.0.0.0.0.27.0.0.7"  enable-background="new    " width="0.029999999"/>
+                                    <line id="line2050" style="fill:none" x2="11.831" y1="84.747002" gorn="0.3.0.0.0.0.27.0.0.8" y2="84.747002"  x1="11.831"/>
+                                    <rect height="0.116" y="89.771004" x="11.846" id="rect2052" style="opacity:0.1" gorn="0.3.0.0.0.0.27.0.0.9"  enable-background="new    " width="2.5420001"/>
+                                    <rect height="0.116" y="84.205002" x="11.846" id="rect2054" style="opacity:0.2;fill:#ffffff" gorn="0.3.0.0.0.0.27.0.0.10"  enable-background="new    " width="2.5420001"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.0595768,49.26)" >
+                        <g >
+                            <g id="g442" gorn="0.3.0.0.0.1.0.0" >
+                                <g id="sfe-logo-flame" stroke-width="0" gorn="0.3.0.0.0.1.0.0.0" >
+                                    <g id="g435" stroke-width="0" gorn="0.3.0.0.0.1.0.0.0.0" >
+                                        <title id="title427" >element:JP2</title>
+                                        <g id="g433" stroke-width="0" gorn="0.3.0.0.0.1.0.0.0.0.1" >
+                                            <title id="title429" >package:SFE-LOGO-FLAME</title>
+                                            <title id="title431" >polygon</title>
+                                        </g>
+                                    </g>
+                                    <g id="g439" stroke-width="0" gorn="0.3.0.0.0.1.0.0.0.1" >
+                                        <path fill="#ffffff" id="path437" d="m 4.378,1.29 c 0,0 0.113,0.482 -0.251,0.55 C 3.873,1.885 3.464,1.634 3.258,1.383 3.003,1.073 3.035,0.829 3.234,0.612002 c 0.297,-0.327 0.805004,-0.2 0.805004,-0.2 C 4.039004,0.412002 3.107,-0.406 2.136,0.263 1.273,0.858002 1.521,1.669 2.299,2.376 3.002001,3.016 2.443,3.717 1.734999,3.625 1.248998,3.563 1.049998,3.175 1.166998,2.935 c 0.102,-0.205 0.449,-0.33 0.449,-0.33 0,0 -0.4,-0.163 -0.870999,0.016 C 0.322,2.779 -0.027,3.129 0.001,4.004 v 4.06 c 0,0 0.438,-0.54 0.949998,-1.088 C 1.528,6.358 1.79,5.94 2.381,5.99 3.5,6.058 4.308,5.561 4.85701,4.764 5.91301,3.232 5.08701,1.519 4.378,1.29 Z" stroke-width="0" gorn="0.3.0.0.0.1.0.0.0.1.0" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(0.51216146,14.346023)" >
+                        <g >
+                            <g id="g1304" gorn="0.3.0.0.0.2.0.0" >
+                                <g transform="rotate(90)" >
+                                    <g >
+                                        <rect stroke="none" y="-38.965271" height="2.7044947" x="28.196449" fill="#333333" id="rect1309" stroke-width="0" fill-opacity="1" gorn="0.3.0.0.0.2.0.0.0.0.0"  width="5.6343517"/>
+                                    </g>
+                                </g>
+                                <g transform="rotate(90)" >
+                                    <g >
+                                        <rect stroke="none" height="2.7044947" y="-38.965271" x="28.196449" fill="#4d4d4d" id="rect316" stroke-width="0" fill-opacity="1" gorn="0.3.0.0.0.2.0.0.1.0.0"  width="2.496696"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path stroke="none" fill="#ffffff" id="path6428" style="display:inline;fill-rule:nonzero;" d="M 9.144919,18.334137 8.151244,18.14957 C 8.127006,18.14487 8.099978,18.1216 8.092518,18.0983 L 7.7877038,17.388004 c -0.011186,-0.02237 -0.00932,-0.05686 0.00468,-0.07737 l 0.5788729,-0.843597 c 0.013982,-0.0205 0.011186,-0.05127 -0.0065,-0.06898 L 7.6413596,15.674705 c -0.016779,-0.01678 -0.04754,-0.0205 -0.068045,-0.0065 l -0.859445,0.59003 c -0.019575,0.01398 -0.054999,0.01585 -0.076436,0.0056 L 5.9476579,15.981383 c -0.023301,-0.0075 -0.045673,-0.03356 -0.050336,-0.0578 L 5.7062307,14.895426 c -0.00468,-0.02424 -0.028894,-0.04381 -0.053133,-0.04381 H 4.6295939 c -0.024238,0 -0.04847,0.01957 -0.053133,0.04381 l -0.191091,1.028164 c -0.00468,0.02424 -0.027035,0.05034 -0.050336,0.0578 l -0.689793,0.282441 c -0.021442,0.01026 -0.056859,0.0084 -0.076436,-0.0056 L 2.7093603,15.668182 c -0.020505,-0.01398 -0.051266,-0.01026 -0.068045,0.0065 l -0.7243081,0.723353 c -0.016779,0.01771 -0.019575,0.04847 -0.00559,0.06898 l 0.5788638,0.843597 c 0.013982,0.0205 0.015849,0.055 0.00468,0.07737 l -0.3048126,0.710303 c -0.00746,0.0233 -0.034487,0.04661 -0.058726,0.05127 l -0.9936746,0.184566 c -0.024238,0.0047 -0.043814,0.02797 -0.043814,0.05313 v 1.022571 c 0,0.02517 0.019575,0.04941 0.043814,0.05313 l 0.9694388,0.180838 c 0.024238,0.0047 0.050336,0.02704 0.057796,0.05127 l 0.3020173,0.755975 c 0.011186,0.02237 0.00839,0.05686 -0.00559,0.07737 l -0.5499702,0.801652 c -0.013982,0.0205 -0.011186,0.0522 0.00559,0.06898 l 0.7233512,0.72335 c 0.017709,0.01771 0.04847,0.0205 0.068982,0.0065 l 0.788601,-0.540648 c 0.020505,-0.01398 0.054063,-0.01585 0.075504,-0.0028 l 0.3476927,0.185498 c 0.021442,0.01119 0.04754,0.0019 0.056859,-0.02144 l 0.716825,-1.731913 c 0.00932,-0.02237 0,-0.05127 -0.020505,-0.06432 l -0.087622,-0.05313 c -0.015849,-0.01026 -0.037284,-0.02704 -0.055,-0.04288 C 4.2185147,19.656843 4.009713,19.305421 4.009713,18.904596 c 0,-0.624543 0.5070907,-1.131634 1.1316333,-1.131634 0.6245419,0 1.1307007,0.507091 1.1307007,1.131634 0,0.400825 -0.2078698,0.752247 -0.5220049,0.952659 -0.016779,0.01585 -0.038221,0.03263 -0.054999,0.04288 l -0.08669,0.05313 c -0.020505,0.01305 -0.030761,0.04195 -0.020505,0.06432 l 0.716825,1.73194 c 0.00932,0.0233 0.034487,0.03263 0.056859,0.02144 l 0.3476934,-0.185499 c 0.021442,-0.01211 0.054999,-0.01118 0.075504,0.0028 l 0.788601,0.540648 c 0.019575,0.01398 0.051266,0.01119 0.068045,-0.0065 l 0.7233513,-0.723377 c 0.017709,-0.01678 0.020505,-0.04847 0.0065,-0.06804 L 7.8203259,20.528402 c -0.013982,-0.0205 -0.015849,-0.055 -0.00559,-0.07737 l 0.302971,-0.755977 c 0.00746,-0.02424 0.033557,-0.04661 0.057796,-0.05127 l 0.9694336,-0.18083 c 0.024238,-0.0037 0.043814,-0.02797 0.043814,-0.05313 V 18.38727 c 0,-0.02517 -0.019575,-0.04847 -0.043814,-0.05313" stroke-width="0.93215263" gorn="0.3.0.0.0.3" fill-opacity="1" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

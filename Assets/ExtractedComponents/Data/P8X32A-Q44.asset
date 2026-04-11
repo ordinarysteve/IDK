@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: P8X32A-Q44
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: P8X32A-Q44
+  icon: {fileID: 0}
+  realWorldWidth: 220
+  realWorldHeight: 60.000004
+  pins:
+  - name: P VDD
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.3409091
+    cy: 0.9166667
+  - name: P VDD
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.7954568
+    cy: 0.9166667
+  - name: P VDD
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.6590932
+    cy: 0.083333336
+  - name: P VDD
+    svgId: connector39pin
+    pinName: connector39pin
+    cx: 0.20454545
+    cy: 0.083333336
+  - name: P VSS
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.20454545
+    cy: 0.9166667
+  - name: P VSS
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.75000226
+    cy: 0.9166667
+  - name: P VSS
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.7954568
+    cy: 0.083333336
+  - name: P VSS
+    svgId: connector38pin
+    pinName: connector38pin
+    cx: 0.25
+    cy: 0.083333336
+  - name: P8X32A-Q44 BOE_
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.25
+    cy: 0.9166667
+  - name: P8X32A-Q44 P0
+    svgId: connector40pin
+    pinName: connector40pin
+    cx: 0.1590909
+    cy: 0.083333336
+  - name: P8X32A-Q44 P1
+    svgId: connector41pin
+    pinName: connector41pin
+    cx: 0.11363637
+    cy: 0.083333336
+  - name: P8X32A-Q44 P10
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.477275
+    cy: 0.9166667
+  - name: P8X32A-Q44 P11
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.5227296
+    cy: 0.9166667
+  - name: P8X32A-Q44 P12
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.5681841
+    cy: 0.9166667
+  - name: P8X32A-Q44 P13
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.61363864
+    cy: 0.9166667
+  - name: P8X32A-Q44 P14
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.6590932
+    cy: 0.9166667
+  - name: P8X32A-Q44 P15
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.7045477
+    cy: 0.9166667
+  - name: P8X32A-Q44 P16
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.8409114
+    cy: 0.9166667
+  - name: P8X32A-Q44 P17
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.8863659
+    cy: 0.9166667
+  - name: P8X32A-Q44 P18
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.9318205
+    cy: 0.9166667
+  - name: P8X32A-Q44 P19
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.9772705
+    cy: 0.9166667
+  - name: P8X32A-Q44 P2
+    svgId: connector42pin
+    pinName: connector42pin
+    cx: 0.06818182
+    cy: 0.083333336
+  - name: P8X32A-Q44 P20
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.9772705
+    cy: 0.083333336
+  - name: P8X32A-Q44 P21
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.9318205
+    cy: 0.083333336
+  - name: P8X32A-Q44 P22
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.8863659
+    cy: 0.083333336
+  - name: P8X32A-Q44 P23
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.8409114
+    cy: 0.083333336
+  - name: P8X32A-Q44 P24
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.61363864
+    cy: 0.083333336
+  - name: P8X32A-Q44 P25
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.5681841
+    cy: 0.083333336
+  - name: P8X32A-Q44 P26
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.5227296
+    cy: 0.083333336
+  - name: P8X32A-Q44 P27
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.477275
+    cy: 0.083333336
+  - name: P8X32A-Q44 P28
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.4318182
+    cy: 0.083333336
+  - name: P8X32A-Q44 P29
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.38636363
+    cy: 0.083333336
+  - name: P8X32A-Q44 P3
+    svgId: connector43pin
+    pinName: connector43pin
+    cx: 0.022727273
+    cy: 0.083333336
+  - name: P8X32A-Q44 P30
+    svgId: connector36pin
+    pinName: connector36pin
+    cx: 0.3409091
+    cy: 0.083333336
+  - name: P8X32A-Q44 P31
+    svgId: connector37pin
+    pinName: connector37pin
+    cx: 0.29545453
+    cy: 0.083333336
+  - name: P8X32A-Q44 P4
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.022727273
+    cy: 0.9166667
+  - name: P8X32A-Q44 P5
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.06818182
+    cy: 0.9166667
+  - name: P8X32A-Q44 P6
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.11363637
+    cy: 0.9166667
+  - name: P8X32A-Q44 P7
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.1590909
+    cy: 0.9166667
+  - name: P8X32A-Q44 P8
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.38636363
+    cy: 0.9166667
+  - name: P8X32A-Q44 P9
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.4318182
+    cy: 0.9166667
+  - name: P8X32A-Q44 RES_
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.29545453
+    cy: 0.9166667
+  - name: P8X32A-Q44 XI
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.75000226
+    cy: 0.083333336
+  - name: P8X32A-Q44 XO
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.7045477
+    cy: 0.083333336

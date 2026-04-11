@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: MIDI_CONN_FEMALE
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: MIDI_CONN_FEMALE
+  icon: {fileID: 0}
+  realWorldWidth: 60.523
+  realWorldHeight: 65.25
+  pins:
+  - name: MIDI_IN
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.2684434
+    cy: 0.15538697
+  - name: MIDI_OUT
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.7367943
+    cy: 0.15538697
+  - name: NC1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.5021562
+    cy: 0.15538697
+  - name: NC2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.14948036
+    cy: 0.15538697
+  - name: NC3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.8524859
+    cy: 0.15538697

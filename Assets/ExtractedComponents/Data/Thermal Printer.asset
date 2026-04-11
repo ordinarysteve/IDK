@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Thermal Printer
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Thermal Printer
+  icon: {fileID: 0}
+  realWorldWidth: 240.461
+  realWorldHeight: 146.197
+  pins:
+  - name: RXD
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0.5149775
+    cy: 0.042008385
+  - name: TXD
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0.54491377
+    cy: 0.042008385
+  - name: GND
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0.8000736
+    cy: 0.042008385
+  - name: VH
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0.8297645
+    cy: 0.042008385
+  - name: GND
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0.48478132
+    cy: 0.042008385

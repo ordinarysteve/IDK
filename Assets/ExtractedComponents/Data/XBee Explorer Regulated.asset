@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: XBee Explorer Regulated
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: XBee Explorer Regulated
+  icon: {fileID: 0}
+  realWorldWidth: 139.606
+  realWorldHeight: 110
+  pins:
+  - name: GND
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.14044033
+    cy: 0.22727273
+  - name: DTR
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.21207072
+    cy: 0.22727273
+  - name: RES1
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.28370112
+    cy: 0.22727273
+  - name: DIO11
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.35533148
+    cy: 0.22727273
+  - name: RSSI
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.42696187
+    cy: 0.22727273
+  - name: RESET
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.4985923
+    cy: 0.22727273
+  - name: DIO12
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.5702227
+    cy: 0.22727273
+  - name: DIN
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.6418531
+    cy: 0.22727273
+  - name: DOUT
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.71348345
+    cy: 0.22727273
+  - name: 3.3V
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.7851118
+    cy: 0.22727273
+  - name: GND
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.85674226
+    cy: 0.22727273
+  - name: DIO0
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.85674226
+    cy: 0.7727273
+  - name: DIO1
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.7851118
+    cy: 0.7727273
+  - name: DIO2
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.71348345
+    cy: 0.7727273
+  - name: DIO3
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.6418531
+    cy: 0.7727273
+  - name: RTS
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0.5702227
+    cy: 0.7727273
+  - name: DIO5
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: 0.4985923
+    cy: 0.7727273
+  - name: RES2
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: 0.42696187
+    cy: 0.7727273
+  - name: DIO9
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: 0.35533148
+    cy: 0.7727273
+  - name: CTS
+    svgId: connector27pin
+    pinName: connector27pin
+    cx: 0.28370112
+    cy: 0.7727273
+  - name: DIO4
+    svgId: connector28pin
+    pinName: connector28pin
+    cx: 0.21207072
+    cy: 0.7727273
+  - name: 5V
+    svgId: connector29pin
+    pinName: connector29pin
+    cx: 0.14044033
+    cy: 0.7727273
+  - name: DIO3
+    svgId: connector30pin
+    pinName: connector30pin
+    cx: 0.068810344
+    cy: 0.72727275
+  - name: DIN
+    svgId: connector31pin
+    pinName: connector31pin
+    cx: 0.068810344
+    cy: 0.6363637
+  - name: DOUT
+    svgId: connector32pin
+    pinName: connector32pin
+    cx: 0.068810344
+    cy: 0.54545456
+  - name: 5V
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.068810344
+    cy: 0.45454547
+  - name: GND
+    svgId: connector34pin
+    pinName: connector34pin
+    cx: 0.068810344
+    cy: 0.36363637
+  - name: GND
+    svgId: connector35pin
+    pinName: connector35pin
+    cx: 0.068810344
+    cy: 0.27272728

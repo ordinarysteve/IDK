@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: SO-24W
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: SO-24W
+  icon: {fileID: 0}
+  realWorldWidth: 120.00001
+  realWorldHeight: 60.000004
+  pins:
+  - name: 1
+    svgId: connector0pin
+    pinName: connector0pin
+    cx: 0
+    cy: 0
+  - name: 2
+    svgId: connector1pin
+    pinName: connector1pin
+    cx: 0
+    cy: 0
+  - name: 3
+    svgId: connector2pin
+    pinName: connector2pin
+    cx: 0
+    cy: 0
+  - name: 4
+    svgId: connector3pin
+    pinName: connector3pin
+    cx: 0
+    cy: 0
+  - name: 5
+    svgId: connector4pin
+    pinName: connector4pin
+    cx: 0
+    cy: 0
+  - name: 6
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0
+    cy: 0
+  - name: 7
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0
+    cy: 0
+  - name: 8
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0
+    cy: 0
+  - name: 9
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0
+    cy: 0
+  - name: 10
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0
+    cy: 0
+  - name: 11
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0
+    cy: 0
+  - name: 12
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0
+    cy: 0
+  - name: 13
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0
+    cy: 0
+  - name: 14
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0
+    cy: 0
+  - name: 15
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0
+    cy: 0
+  - name: 16
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0
+    cy: 0
+  - name: 17
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0
+    cy: 0
+  - name: 18
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0
+    cy: 0
+  - name: 19
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0
+    cy: 0
+  - name: 20
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0
+    cy: 0
+  - name: 21
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0
+    cy: 0
+  - name: 22
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0
+    cy: 0
+  - name: 23
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0
+    cy: 0
+  - name: 24
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: 0
+    cy: 0

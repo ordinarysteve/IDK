@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino BT
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino BT
+  icon: {fileID: 0}
+  realWorldWidth: 230.057
+  realWorldHeight: 151.2
+  pins:
+  - name: MISO
+    svgId: connector170pin
+    pinName: connector170pin
+    cx: 0.93897164
+    cy: 0.42857146
+  - name: 5V
+    svgId: connector171pin
+    pinName: connector171pin
+    cx: 0.9702682
+    cy: 0.42857146
+  - name: SCK/IO13
+    svgId: connector172pin
+    pinName: connector172pin
+    cx: 0.93897164
+    cy: 0.47619048
+  - name: MOSI
+    svgId: connector173pin
+    pinName: connector173pin
+    cx: 0.9702682
+    cy: 0.47619048
+  - name: RESET
+    svgId: connector174pin
+    pinName: connector174pin
+    cx: 0.93897164
+    cy: 0.5238095
+  - name: GND
+    svgId: connector175pin
+    pinName: connector175pin
+    cx: 0.9702682
+    cy: 0.5238095
+  - name: D8
+    svgId: connector176pin
+    pinName: connector176pin
+    cx: 0.66826046
+    cy: 0.04761905
+  - name: PWM D9
+    svgId: connector177pin
+    pinName: connector177pin
+    cx: 0.63695955
+    cy: 0.04761905
+  - name: SS/PWM D10
+    svgId: connector178pin
+    pinName: connector178pin
+    cx: 0.60566294
+    cy: 0.04761905
+  - name: MOSI/PWM D11
+    svgId: connector179pin
+    pinName: connector179pin
+    cx: 0.57436633
+    cy: 0.04761905
+  - name: MISO/D12
+    svgId: connector180pin
+    pinName: connector180pin
+    cx: 0.5430697
+    cy: 0.04761905
+  - name: SCK/D13
+    svgId: connector181pin
+    pinName: connector181pin
+    cx: 0.5117775
+    cy: 0.04761905
+  - name: GND
+    svgId: connector182pin
+    pinName: connector182pin
+    cx: 0.4804766
+    cy: 0.04761905
+  - name: AREF
+    svgId: connector183pin
+    pinName: connector183pin
+    cx: 0.44917998
+    cy: 0.04761905
+  - name: A4/SDA
+    svgId: connector184pin
+    pinName: connector184pin
+    cx: 0.4178834
+    cy: 0.04761905
+  - name: A5/SCL
+    svgId: connector185pin
+    pinName: connector185pin
+    cx: 0.38659117
+    cy: 0.04761905
+  - name: A0
+    svgId: connector186pin
+    pinName: connector186pin
+    cx: 0.78092384
+    cy: 0.95238096
+  - name: A1
+    svgId: connector187pin
+    pinName: connector187pin
+    cx: 0.8122204
+    cy: 0.95238096
+  - name: A2
+    svgId: connector188pin
+    pinName: connector188pin
+    cx: 0.84351707
+    cy: 0.95238096
+  - name: A3
+    svgId: connector189pin
+    pinName: connector189pin
+    cx: 0.8748136
+    cy: 0.95238096
+  - name: A4
+    svgId: connector190pin
+    pinName: connector190pin
+    cx: 0.9061102
+    cy: 0.95238096
+  - name: A5
+    svgId: connector191pin
+    pinName: connector191pin
+    cx: 0.9374068
+    cy: 0.95238096
+  - name: RX/D0
+    svgId: connector192pin
+    pinName: connector192pin
+    cx: 0.9374068
+    cy: 0.04761905
+  - name: TX/D1
+    svgId: connector193pin
+    pinName: connector193pin
+    cx: 0.9061102
+    cy: 0.04761905
+  - name: D2
+    svgId: connector194pin
+    pinName: connector194pin
+    cx: 0.8748136
+    cy: 0.04761905
+  - name: PWM D3
+    svgId: connector195pin
+    pinName: connector195pin
+    cx: 0.84351707
+    cy: 0.04761905
+  - name: D4
+    svgId: connector196pin
+    pinName: connector196pin
+    cx: 0.8122204
+    cy: 0.04761905
+  - name: PWM D5
+    svgId: connector197pin
+    pinName: connector197pin
+    cx: 0.78092384
+    cy: 0.04761905
+  - name: PWM D6
+    svgId: connector198pin
+    pinName: connector198pin
+    cx: 0.74962723
+    cy: 0.04761905
+  - name: RESET WT11/D7
+    svgId: connector199pin
+    pinName: connector199pin
+    cx: 0.7183307
+    cy: 0.04761905
+  - name: JP1_1
+    svgId: connector200pin
+    pinName: connector200pin
+    cx: 0.81378525
+    cy: 0.7619048
+  - name: JP1_2
+    svgId: connector201pin
+    pinName: connector201pin
+    cx: 0.78248864
+    cy: 0.7619048
+  - name: VIN
+    svgId: connector216pin
+    pinName: connector216pin
+    cx: 0.7183307
+    cy: 0.95238096
+  - name: GND
+    svgId: connector217pin
+    pinName: connector217pin
+    cx: 0.6870341
+    cy: 0.95238096
+  - name: GND
+    svgId: connector218pin
+    pinName: connector218pin
+    cx: 0.65573746
+    cy: 0.95238096
+  - name: 5V
+    svgId: connector219pin
+    pinName: connector219pin
+    cx: 0.62444085
+    cy: 0.95238096
+  - name: 3V3
+    svgId: connector220pin
+    pinName: connector220pin
+    cx: 0.5931443
+    cy: 0.95238096
+  - name: RESET
+    svgId: connector221pin
+    pinName: connector221pin
+    cx: 0.5618477
+    cy: 0.95238096
+  - name: 5V
+    svgId: connector222pin
+    pinName: connector222pin
+    cx: 0.5305511
+    cy: 0.95238096
+  - name: N/C
+    svgId: connector223pin
+    pinName: connector223pin
+    cx: 0.49925452
+    cy: 0.95238096

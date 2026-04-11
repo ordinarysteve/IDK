@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: OLED Color 1.5 inch 128x128 w microSD
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: OLED Color 1.5 inch 128x128 w microSD
+  icon: {fileID: 0}
+  realWorldWidth: 170
+  realWorldHeight: 165
+  pins:
+  - name: VIN
+    svgId: connector14pin
+    pinName: connector14pin
+    cx: 0.7352941
+    cy: 0.036363635
+  - name: 3.3V
+    svgId: connector13pin
+    pinName: connector13pin
+    cx: 0.6764706
+    cy: 0.036363635
+  - name: MOSI
+    svgId: connector5pin
+    pinName: connector5pin
+    cx: 0.20588236
+    cy: 0.036363635
+  - name: SCK
+    svgId: connector6pin
+    pinName: connector6pin
+    cx: 0.2647059
+    cy: 0.036363635
+  - name: DC
+    svgId: connector7pin
+    pinName: connector7pin
+    cx: 0.3235294
+    cy: 0.036363635
+  - name: RESET
+    svgId: connector8pin
+    pinName: connector8pin
+    cx: 0.38235292
+    cy: 0.036363635
+  - name: OLED_CS
+    svgId: connector9pin
+    pinName: connector9pin
+    cx: 0.44117647
+    cy: 0.036363635
+  - name: SD_CS
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.5
+    cy: 0.036363635
+  - name: SD_MISO
+    svgId: connector11pin
+    pinName: connector11pin
+    cx: 0.5588235
+    cy: 0.036363635
+  - name: SD_CD
+    svgId: connector12pin
+    pinName: connector12pin
+    cx: 0.61764705
+    cy: 0.036363635
+  - name: GND
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.7941176
+    cy: 0.036363635

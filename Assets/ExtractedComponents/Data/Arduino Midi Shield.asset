@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Arduino Midi Shield
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Arduino Midi Shield
+  icon: {fileID: 0}
+  realWorldWidth: 237.047
+  realWorldHeight: 209.99998
+  pins:
+  - name: 3.3V
+    svgId: connector74pin
+    pinName: connector74pin
+    cx: 0.4429497
+    cy: 0.95238096
+  - name: VCC
+    svgId: connector75pin
+    pinName: connector75pin
+    cx: 0.48513544
+    cy: 0.95238096
+  - name: A0
+    svgId: connector76pin
+    pinName: connector76pin
+    cx: 0.6960639
+    cy: 0.95238096
+  - name: A1
+    svgId: connector77pin
+    pinName: connector77pin
+    cx: 0.73824954
+    cy: 0.95238096
+  - name: A2
+    svgId: connector78pin
+    pinName: connector78pin
+    cx: 0.7804352
+    cy: 0.95238096
+  - name: A3
+    svgId: connector79pin
+    pinName: connector79pin
+    cx: 0.82262087
+    cy: 0.95238096
+  - name: A4
+    svgId: connector80pin
+    pinName: connector80pin
+    cx: 0.86480665
+    cy: 0.95238096
+  - name: A5
+    svgId: connector81pin
+    pinName: connector81pin
+    cx: 0.9069923
+    cy: 0.95238096
+  - name: AREF
+    svgId: connector82pin
+    pinName: connector82pin
+    cx: 0.25311413
+    cy: 0.04761905
+  - name: D2
+    svgId: connector83pin
+    pinName: connector83pin
+    cx: 0.82262087
+    cy: 0.04761905
+  - name: D3
+    svgId: connector84pin
+    pinName: connector84pin
+    cx: 0.7804352
+    cy: 0.04761905
+  - name: D4
+    svgId: connector85pin
+    pinName: connector85pin
+    cx: 0.73824954
+    cy: 0.04761905
+  - name: D5
+    svgId: connector86pin
+    pinName: connector86pin
+    cx: 0.6960639
+    cy: 0.04761905
+  - name: D6
+    svgId: connector87pin
+    pinName: connector87pin
+    cx: 0.65387815
+    cy: 0.04761905
+  - name: D7
+    svgId: connector88pin
+    pinName: connector88pin
+    cx: 0.6116925
+    cy: 0.04761905
+  - name: D8
+    svgId: connector89pin
+    pinName: connector89pin
+    cx: 0.54841393
+    cy: 0.04761905
+  - name: D9
+    svgId: connector90pin
+    pinName: connector90pin
+    cx: 0.50622827
+    cy: 0.04761905
+  - name: D10
+    svgId: connector91pin
+    pinName: connector91pin
+    cx: 0.46404254
+    cy: 0.04761905
+  - name: D11
+    svgId: connector92pin
+    pinName: connector92pin
+    cx: 0.42185688
+    cy: 0.04761905
+  - name: D12
+    svgId: connector93pin
+    pinName: connector93pin
+    cx: 0.37967122
+    cy: 0.04761905
+  - name: D13
+    svgId: connector94pin
+    pinName: connector94pin
+    cx: 0.3374855
+    cy: 0.04761905
+  - name: GND
+    svgId: connector95pin
+    pinName: connector95pin
+    cx: 0.5273211
+    cy: 0.95238096
+  - name: GND
+    svgId: connector96pin
+    pinName: connector96pin
+    cx: 0.56950676
+    cy: 0.95238096
+  - name: GND
+    svgId: connector97pin
+    pinName: connector97pin
+    cx: 0.29529983
+    cy: 0.04761905
+  - name: RESET
+    svgId: connector98pin
+    pinName: connector98pin
+    cx: 0.40076405
+    cy: 0.95238096
+  - name: RX-I
+    svgId: connector99pin
+    pinName: connector99pin
+    cx: 0.9069923
+    cy: 0.04761905
+  - name: TX
+    svgId: connector100pin
+    pinName: connector100pin
+    cx: 0.86480665
+    cy: 0.04761905
+  - name: VIN
+    svgId: connector101pin
+    pinName: connector101pin
+    cx: 0.6116925
+    cy: 0.95238096

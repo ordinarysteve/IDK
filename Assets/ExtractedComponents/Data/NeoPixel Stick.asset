@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: NeoPixel Stick
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: NeoPixel Stick
+  icon: {fileID: 0}
+  realWorldWidth: 207.37
+  realWorldHeight: 40
+  pins:
+  - name: +5V
+    svgId: connector21pin
+    pinName: connector21pin
+    cx: 0.9861195
+    cy: 0.6086111
+  - name: +5V
+    svgId: connector24pin
+    pinName: connector24pin
+    cx: -0.02169647
+    cy: 0.7867014
+  - name: DATAIN
+    svgId: connector25pin
+    pinName: connector25pin
+    cx: -0.02169647
+    cy: 0.5367014
+  - name: DATAOUT
+    svgId: connector20pin
+    pinName: connector20pin
+    cx: 0.9861195
+    cy: 0.35861114
+  - name: GND
+    svgId: connector19pin
+    pinName: connector19pin
+    cx: 0.9861195
+    cy: 0.10861111
+  - name: GND
+    svgId: connector22pin
+    pinName: connector22pin
+    cx: 0.9861195
+    cy: 0.8586111
+  - name: GND
+    svgId: connector23pin
+    pinName: connector23pin
+    cx: -0.02169647
+    cy: 1.0367013
+  - name: GND
+    svgId: connector26pin
+    pinName: connector26pin
+    cx: -0.02169647
+    cy: 0.28670138

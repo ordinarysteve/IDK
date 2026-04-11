@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab762eaafd71401cb4d2c215eb8d9d8, type: 3}
+  m_Name: Flora LSM303 Compass+Accel
+  m_EditorClassIdentifier: Assembly-CSharp::FritzingComponentAsset
+  Name: Flora LSM303 Compass+Accel
+  icon: {fileID: 0}
+  realWorldWidth: 65
+  realWorldHeight: 65.367004
+  pins:
+  - name: GND
+    svgId: connector10pin
+    pinName: connector10pin
+    cx: 0.5
+    cy: 0.07164712
+  - name: SCL
+    svgId: connector15pin
+    pinName: connector15pin
+    cx: 0.8692308
+    cy: 0.28582355
+  - name: SCL
+    svgId: connector16pin
+    pinName: connector16pin
+    cx: 0.13076924
+    cy: 0.28582355
+  - name: SDA
+    svgId: connector17pin
+    pinName: connector17pin
+    cx: 0.8692308
+    cy: 0.7141764
+  - name: SDA
+    svgId: connector18pin
+    pinName: connector18pin
+    cx: 0.13076924
+    cy: 0.7141764
+  - name: 3.3V
+    svgId: connector33pin
+    pinName: connector33pin
+    cx: 0.5
+    cy: 0.92835295
